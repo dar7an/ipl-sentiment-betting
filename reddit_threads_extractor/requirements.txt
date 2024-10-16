@@ -1,0 +1,3 @@
+pandas
+praw
+python-dotenv
