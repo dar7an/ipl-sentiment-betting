@@ -1,0 +1,1679 @@
+[
+  {
+    "timestamp": "2024-04-11T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T13:55:39Z",
+      "previous_timestamp": "2024-04-11T13:50:39Z",
+      "next_timestamp": "2024-04-11T14:00:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T13:55:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T13:55:07Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.38
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T14:00:39Z",
+      "previous_timestamp": "2024-04-11T13:55:39Z",
+      "next_timestamp": "2024-04-11T14:05:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T14:00:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T14:00:01Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T14:05:39Z",
+      "previous_timestamp": "2024-04-11T14:00:39Z",
+      "next_timestamp": "2024-04-11T14:10:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T14:05:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T14:05:12Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T14:10:39Z",
+      "previous_timestamp": "2024-04-11T14:05:39Z",
+      "next_timestamp": "2024-04-11T14:15:40Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T14:08:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T14:08:00Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T14:15:40Z",
+      "previous_timestamp": "2024-04-11T14:10:39Z",
+      "next_timestamp": "2024-04-11T14:20:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T14:14:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T14:14:52Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T14:20:39Z",
+      "previous_timestamp": "2024-04-11T14:15:40Z",
+      "next_timestamp": "2024-04-11T14:25:41Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T14:20:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T14:20:05Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.32
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T14:25:41Z",
+      "previous_timestamp": "2024-04-11T14:20:39Z",
+      "next_timestamp": "2024-04-11T14:30:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T14:25:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T14:25:18Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.36
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T14:30:39Z",
+      "previous_timestamp": "2024-04-11T14:25:41Z",
+      "next_timestamp": "2024-04-11T14:35:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T14:30:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T14:30:27Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.36
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T14:35:39Z",
+      "previous_timestamp": "2024-04-11T14:30:39Z",
+      "next_timestamp": "2024-04-11T14:40:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T14:35:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T14:35:30Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T14:40:39Z",
+      "previous_timestamp": "2024-04-11T14:35:39Z",
+      "next_timestamp": "2024-04-11T14:45:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T14:40:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T14:40:33Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T14:45:39Z",
+      "previous_timestamp": "2024-04-11T14:40:39Z",
+      "next_timestamp": "2024-04-11T14:50:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T14:44:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T14:44:59Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T14:50:39Z",
+      "previous_timestamp": "2024-04-11T14:45:39Z",
+      "next_timestamp": "2024-04-11T14:55:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T14:49:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T14:49:25Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.55
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T14:55:39Z",
+      "previous_timestamp": "2024-04-11T14:50:39Z",
+      "next_timestamp": "2024-04-11T15:00:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T14:54:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T14:54:36Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T15:00:39Z",
+      "previous_timestamp": "2024-04-11T14:55:39Z",
+      "next_timestamp": "2024-04-11T15:05:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T15:00:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T15:00:20Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T15:05:39Z",
+      "previous_timestamp": "2024-04-11T15:00:39Z",
+      "next_timestamp": "2024-04-11T15:10:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T15:04:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T15:04:36Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T15:10:39Z",
+      "previous_timestamp": "2024-04-11T15:05:39Z",
+      "next_timestamp": "2024-04-11T15:15:38Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T15:09:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T15:09:41Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T15:15:38Z",
+      "previous_timestamp": "2024-04-11T15:10:39Z",
+      "next_timestamp": "2024-04-11T15:20:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T15:15:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T15:15:33Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T15:20:39Z",
+      "previous_timestamp": "2024-04-11T15:15:38Z",
+      "next_timestamp": "2024-04-11T15:25:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T15:19:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T15:19:54Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T15:25:39Z",
+      "previous_timestamp": "2024-04-11T15:20:39Z",
+      "next_timestamp": "2024-04-11T15:30:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T15:25:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T15:25:05Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T15:30:39Z",
+      "previous_timestamp": "2024-04-11T15:25:39Z",
+      "next_timestamp": "2024-04-11T15:35:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T15:29:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T15:29:26Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T15:35:39Z",
+      "previous_timestamp": "2024-04-11T15:30:39Z",
+      "next_timestamp": "2024-04-11T15:40:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T15:35:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T15:35:09Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T15:40:39Z",
+      "previous_timestamp": "2024-04-11T15:35:39Z",
+      "next_timestamp": "2024-04-11T15:45:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T15:40:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T15:40:24Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T15:45:39Z",
+      "previous_timestamp": "2024-04-11T15:40:39Z",
+      "next_timestamp": "2024-04-11T15:50:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T15:44:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T15:44:50Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.42
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.85
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T15:50:39Z",
+      "previous_timestamp": "2024-04-11T15:45:39Z",
+      "next_timestamp": "2024-04-11T15:55:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T15:49:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T15:49:20Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T15:55:39Z",
+      "previous_timestamp": "2024-04-11T15:50:39Z",
+      "next_timestamp": "2024-04-11T16:00:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T15:55:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T15:55:10Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T16:00:39Z",
+      "previous_timestamp": "2024-04-11T15:55:39Z",
+      "next_timestamp": "2024-04-11T16:05:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:00:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:00:33Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T16:05:39Z",
+      "previous_timestamp": "2024-04-11T16:00:39Z",
+      "next_timestamp": "2024-04-11T16:10:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:05:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:05:05Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T16:10:39Z",
+      "previous_timestamp": "2024-04-11T16:05:39Z",
+      "next_timestamp": "2024-04-11T16:15:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:10:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:10:32Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T16:15:39Z",
+      "previous_timestamp": "2024-04-11T16:10:39Z",
+      "next_timestamp": "2024-04-11T16:20:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:15:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:15:16Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T16:20:39Z",
+      "previous_timestamp": "2024-04-11T16:15:39Z",
+      "next_timestamp": "2024-04-11T16:25:40Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:18:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:18:19Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T16:25:40Z",
+      "previous_timestamp": "2024-04-11T16:20:39Z",
+      "next_timestamp": "2024-04-11T16:30:40Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:23:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:23:30Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T16:30:40Z",
+      "previous_timestamp": "2024-04-11T16:25:40Z",
+      "next_timestamp": "2024-04-11T16:35:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:30:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:30:02Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T16:35:39Z",
+      "previous_timestamp": "2024-04-11T16:30:40Z",
+      "next_timestamp": "2024-04-11T16:40:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:35:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:35:21Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T16:40:39Z",
+      "previous_timestamp": "2024-04-11T16:35:39Z",
+      "next_timestamp": "2024-04-11T16:45:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:39:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:39:49Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.32
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T16:45:39Z",
+      "previous_timestamp": "2024-04-11T16:40:39Z",
+      "next_timestamp": "2024-04-11T16:50:40Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:45:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:45:19Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T16:50:40Z",
+      "previous_timestamp": "2024-04-11T16:45:39Z",
+      "next_timestamp": "2024-04-11T16:55:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:49:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:49:47Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 7.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T16:55:39Z",
+      "previous_timestamp": "2024-04-11T16:50:40Z",
+      "next_timestamp": "2024-04-11T17:00:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:55:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:55:01Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T17:00:39Z",
+      "previous_timestamp": "2024-04-11T16:55:39Z",
+      "next_timestamp": "2024-04-11T17:05:40Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T16:58:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T16:58:42Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 10.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T17:05:40Z",
+      "previous_timestamp": "2024-04-11T17:00:39Z",
+      "next_timestamp": "2024-04-11T17:10:40Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T17:05:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T17:05:25Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T17:10:40Z",
+      "previous_timestamp": "2024-04-11T17:05:40Z",
+      "next_timestamp": "2024-04-11T17:15:40Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T17:10:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T17:10:34Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 8.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T17:15:40Z",
+      "previous_timestamp": "2024-04-11T17:10:40Z",
+      "next_timestamp": "2024-04-11T17:20:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T17:15:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T17:15:04Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 14.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T17:20:39Z",
+      "previous_timestamp": "2024-04-11T17:15:40Z",
+      "next_timestamp": "2024-04-11T17:25:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T17:16:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T17:16:39Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-11T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-11T17:25:39Z",
+      "previous_timestamp": "2024-04-11T17:20:39Z",
+      "next_timestamp": "2024-04-11T17:30:39Z",
+      "data": {
+        "id": "66047568a62b41acfa815fffee69b1b8",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-11T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-11T17:16:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-11T17:16:39Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

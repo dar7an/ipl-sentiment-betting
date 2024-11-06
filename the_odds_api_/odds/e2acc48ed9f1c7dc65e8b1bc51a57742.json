@@ -1,0 +1,1757 @@
+[
+  {
+    "timestamp": "2024-04-19T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T13:55:39Z",
+      "previous_timestamp": "2024-04-19T13:50:39Z",
+      "next_timestamp": "2024-04-19T14:00:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T13:55:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T13:55:32Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.98
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T14:00:39Z",
+      "previous_timestamp": "2024-04-19T13:55:39Z",
+      "next_timestamp": "2024-04-19T14:05:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T14:00:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T14:00:10Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T14:05:39Z",
+      "previous_timestamp": "2024-04-19T14:00:39Z",
+      "next_timestamp": "2024-04-19T14:10:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T14:03:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T14:03:24Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.91
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.91
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T14:10:39Z",
+      "previous_timestamp": "2024-04-19T14:05:39Z",
+      "next_timestamp": "2024-04-19T14:15:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T14:10:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T14:10:14Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T14:15:40Z",
+      "previous_timestamp": "2024-04-19T14:10:39Z",
+      "next_timestamp": "2024-04-19T14:20:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T14:14:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T14:14:38Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T14:20:39Z",
+      "previous_timestamp": "2024-04-19T14:15:40Z",
+      "next_timestamp": "2024-04-19T14:25:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T14:20:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T14:20:00Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T14:25:39Z",
+      "previous_timestamp": "2024-04-19T14:20:39Z",
+      "next_timestamp": "2024-04-19T14:30:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T14:24:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T14:24:36Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T14:30:39Z",
+      "previous_timestamp": "2024-04-19T14:25:39Z",
+      "next_timestamp": "2024-04-19T14:35:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T14:29:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T14:29:13Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T14:35:39Z",
+      "previous_timestamp": "2024-04-19T14:30:39Z",
+      "next_timestamp": "2024-04-19T14:40:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T14:35:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T14:35:09Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T14:40:40Z",
+      "previous_timestamp": "2024-04-19T14:35:39Z",
+      "next_timestamp": "2024-04-19T14:45:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T14:39:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T14:39:48Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T14:45:39Z",
+      "previous_timestamp": "2024-04-19T14:40:40Z",
+      "next_timestamp": "2024-04-19T14:50:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T14:45:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T14:45:22Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T14:50:40Z",
+      "previous_timestamp": "2024-04-19T14:45:39Z",
+      "next_timestamp": "2024-04-19T14:55:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T14:50:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T14:50:01Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T14:55:39Z",
+      "previous_timestamp": "2024-04-19T14:50:40Z",
+      "next_timestamp": "2024-04-19T15:00:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T14:54:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T14:54:34Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T15:00:39Z",
+      "previous_timestamp": "2024-04-19T14:55:39Z",
+      "next_timestamp": "2024-04-19T15:05:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T15:00:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T15:00:29Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T15:05:39Z",
+      "previous_timestamp": "2024-04-19T15:00:39Z",
+      "next_timestamp": "2024-04-19T15:10:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T15:04:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T15:04:37Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.7
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.48
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T15:10:40Z",
+      "previous_timestamp": "2024-04-19T15:05:39Z",
+      "next_timestamp": "2024-04-19T15:15:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T15:10:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T15:10:09Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T15:15:39Z",
+      "previous_timestamp": "2024-04-19T15:10:40Z",
+      "next_timestamp": "2024-04-19T15:20:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T15:14:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T15:14:45Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T15:20:40Z",
+      "previous_timestamp": "2024-04-19T15:15:39Z",
+      "next_timestamp": "2024-04-19T15:25:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T15:19:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T15:19:40Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T15:25:39Z",
+      "previous_timestamp": "2024-04-19T15:20:40Z",
+      "next_timestamp": "2024-04-19T15:30:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T15:23:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T15:23:19Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.75
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.45
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T15:30:40Z",
+      "previous_timestamp": "2024-04-19T15:25:39Z",
+      "next_timestamp": "2024-04-19T15:35:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T15:29:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T15:29:42Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.57
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T15:35:40Z",
+      "previous_timestamp": "2024-04-19T15:30:40Z",
+      "next_timestamp": "2024-04-19T15:40:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T15:34:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T15:34:50Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T15:40:40Z",
+      "previous_timestamp": "2024-04-19T15:35:40Z",
+      "next_timestamp": "2024-04-19T15:45:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T15:39:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T15:39:57Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T15:45:40Z",
+      "previous_timestamp": "2024-04-19T15:40:40Z",
+      "next_timestamp": "2024-04-19T15:50:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T15:44:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T15:44:57Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T15:50:39Z",
+      "previous_timestamp": "2024-04-19T15:45:40Z",
+      "next_timestamp": "2024-04-19T15:55:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T15:50:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T15:50:04Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T15:55:39Z",
+      "previous_timestamp": "2024-04-19T15:50:39Z",
+      "next_timestamp": "2024-04-19T16:00:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T15:55:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T15:55:11Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.91
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.91
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T16:00:40Z",
+      "previous_timestamp": "2024-04-19T15:55:39Z",
+      "next_timestamp": "2024-04-19T16:05:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:00:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:00:19Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T16:05:40Z",
+      "previous_timestamp": "2024-04-19T16:00:40Z",
+      "next_timestamp": "2024-04-19T16:10:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:03:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:03:11Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T16:10:39Z",
+      "previous_timestamp": "2024-04-19T16:05:40Z",
+      "next_timestamp": "2024-04-19T16:15:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:08:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:08:26Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T16:15:40Z",
+      "previous_timestamp": "2024-04-19T16:10:39Z",
+      "next_timestamp": "2024-04-19T16:20:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:15:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:15:30Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T16:20:40Z",
+      "previous_timestamp": "2024-04-19T16:15:40Z",
+      "next_timestamp": "2024-04-19T16:25:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:19:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:19:38Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T16:25:40Z",
+      "previous_timestamp": "2024-04-19T16:20:40Z",
+      "next_timestamp": "2024-04-19T16:30:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:22:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:22:33Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.57
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T16:30:40Z",
+      "previous_timestamp": "2024-04-19T16:25:40Z",
+      "next_timestamp": "2024-04-19T16:35:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:29:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:29:40Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.75
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.45
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T16:35:40Z",
+      "previous_timestamp": "2024-04-19T16:30:40Z",
+      "next_timestamp": "2024-04-19T16:40:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:35:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:35:23Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T16:40:39Z",
+      "previous_timestamp": "2024-04-19T16:35:40Z",
+      "next_timestamp": "2024-04-19T16:45:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:39:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:39:40Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 3.9
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T16:45:39Z",
+      "previous_timestamp": "2024-04-19T16:40:39Z",
+      "next_timestamp": "2024-04-19T16:50:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:45:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:45:22Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 4.4
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T16:50:39Z",
+      "previous_timestamp": "2024-04-19T16:45:39Z",
+      "next_timestamp": "2024-04-19T16:55:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:49:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:49:48Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 4.4
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.21
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T16:55:40Z",
+      "previous_timestamp": "2024-04-19T16:50:39Z",
+      "next_timestamp": "2024-04-19T17:00:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:55:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:55:27Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T17:00:39Z",
+      "previous_timestamp": "2024-04-19T16:55:40Z",
+      "next_timestamp": "2024-04-19T17:05:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T16:59:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T16:59:32Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T17:05:39Z",
+      "previous_timestamp": "2024-04-19T17:00:39Z",
+      "next_timestamp": "2024-04-19T17:10:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T17:05:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T17:05:20Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 4.9
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T17:10:39Z",
+      "previous_timestamp": "2024-04-19T17:05:39Z",
+      "next_timestamp": "2024-04-19T17:15:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T17:09:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T17:09:42Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 4.9
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T17:15:40Z",
+      "previous_timestamp": "2024-04-19T17:10:39Z",
+      "next_timestamp": "2024-04-19T17:20:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T17:12:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T17:12:59Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T17:20:39Z",
+      "previous_timestamp": "2024-04-19T17:15:40Z",
+      "next_timestamp": "2024-04-19T17:25:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T17:18:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T17:18:53Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T17:25:39Z",
+      "previous_timestamp": "2024-04-19T17:20:39Z",
+      "next_timestamp": "2024-04-19T17:30:39Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T17:24:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T17:24:34Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 14.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.02
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T17:30:39Z",
+      "previous_timestamp": "2024-04-19T17:25:39Z",
+      "next_timestamp": "2024-04-19T17:35:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T17:24:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T17:24:34Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 14.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.02
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-19T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-19T17:35:40Z",
+      "previous_timestamp": "2024-04-19T17:30:39Z",
+      "next_timestamp": "2024-04-19T17:40:40Z",
+      "data": {
+        "id": "e2acc48ed9f1c7dc65e8b1bc51a57742",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-19T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-19T17:24:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-19T17:24:34Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 14.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.02
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,1601 @@
+[
+  {
+    "timestamp": "2024-03-31T10:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T09:55:38Z",
+      "previous_timestamp": "2024-03-31T09:50:38Z",
+      "next_timestamp": "2024-03-31T10:00:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T09:54:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T09:54:17Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.04
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.78
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T10:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T10:00:38Z",
+      "previous_timestamp": "2024-03-31T09:55:38Z",
+      "next_timestamp": "2024-03-31T10:05:39Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T09:58:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T09:58:17Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T10:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T10:05:39Z",
+      "previous_timestamp": "2024-03-31T10:00:38Z",
+      "next_timestamp": "2024-03-31T10:10:39Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T10:03:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T10:03:33Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.69
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T10:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T10:10:39Z",
+      "previous_timestamp": "2024-03-31T10:05:39Z",
+      "next_timestamp": "2024-03-31T10:15:39Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T10:08:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T10:08:50Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T10:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T10:15:39Z",
+      "previous_timestamp": "2024-03-31T10:10:39Z",
+      "next_timestamp": "2024-03-31T10:20:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T10:14:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T10:14:14Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T10:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T10:20:38Z",
+      "previous_timestamp": "2024-03-31T10:15:39Z",
+      "next_timestamp": "2024-03-31T10:25:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T10:19:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T10:19:51Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T10:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T10:25:38Z",
+      "previous_timestamp": "2024-03-31T10:20:38Z",
+      "next_timestamp": "2024-03-31T10:30:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T10:25:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T10:25:34Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.69
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T10:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T10:30:38Z",
+      "previous_timestamp": "2024-03-31T10:25:38Z",
+      "next_timestamp": "2024-03-31T10:35:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T10:29:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T10:29:27Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T10:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T10:35:38Z",
+      "previous_timestamp": "2024-03-31T10:30:38Z",
+      "next_timestamp": "2024-03-31T10:40:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T10:35:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T10:35:15Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T10:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T10:40:38Z",
+      "previous_timestamp": "2024-03-31T10:35:38Z",
+      "next_timestamp": "2024-03-31T10:45:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T10:38:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T10:38:04Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T10:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T10:45:38Z",
+      "previous_timestamp": "2024-03-31T10:40:38Z",
+      "next_timestamp": "2024-03-31T10:50:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T10:43:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T10:43:53Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T10:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T10:50:38Z",
+      "previous_timestamp": "2024-03-31T10:45:38Z",
+      "next_timestamp": "2024-03-31T10:55:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T10:49:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T10:49:40Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T11:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T10:55:38Z",
+      "previous_timestamp": "2024-03-31T10:50:38Z",
+      "next_timestamp": "2024-03-31T11:00:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T10:55:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T10:55:30Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T11:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T11:00:38Z",
+      "previous_timestamp": "2024-03-31T10:55:38Z",
+      "next_timestamp": "2024-03-31T11:05:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:00:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:00:34Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T11:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T11:05:38Z",
+      "previous_timestamp": "2024-03-31T11:00:38Z",
+      "next_timestamp": "2024-03-31T11:10:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:04:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:04:35Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T11:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T11:10:38Z",
+      "previous_timestamp": "2024-03-31T11:05:38Z",
+      "next_timestamp": "2024-03-31T11:15:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:10:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:10:31Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.33
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T11:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T11:15:38Z",
+      "previous_timestamp": "2024-03-31T11:10:38Z",
+      "next_timestamp": "2024-03-31T11:20:39Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:15:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:15:17Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T11:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T11:20:39Z",
+      "previous_timestamp": "2024-03-31T11:15:38Z",
+      "next_timestamp": "2024-03-31T11:25:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:19:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:19:17Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T11:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T11:25:38Z",
+      "previous_timestamp": "2024-03-31T11:20:39Z",
+      "next_timestamp": "2024-03-31T11:30:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:25:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:25:10Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T11:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T11:30:38Z",
+      "previous_timestamp": "2024-03-31T11:25:38Z",
+      "next_timestamp": "2024-03-31T11:35:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:30:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:30:05Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T11:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T11:35:38Z",
+      "previous_timestamp": "2024-03-31T11:30:38Z",
+      "next_timestamp": "2024-03-31T11:40:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:33:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:33:01Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T11:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T11:40:38Z",
+      "previous_timestamp": "2024-03-31T11:35:38Z",
+      "next_timestamp": "2024-03-31T11:45:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:40:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:40:08Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T11:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T11:45:38Z",
+      "previous_timestamp": "2024-03-31T11:40:38Z",
+      "next_timestamp": "2024-03-31T11:50:39Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:44:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:44:53Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T11:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T11:50:39Z",
+      "previous_timestamp": "2024-03-31T11:45:38Z",
+      "next_timestamp": "2024-03-31T11:55:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:49:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:49:09Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T12:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T11:55:38Z",
+      "previous_timestamp": "2024-03-31T11:50:39Z",
+      "next_timestamp": "2024-03-31T12:00:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:55:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:55:05Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T12:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T12:00:38Z",
+      "previous_timestamp": "2024-03-31T11:55:38Z",
+      "next_timestamp": "2024-03-31T12:05:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T11:59:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T11:59:58Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.24
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T12:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T12:05:38Z",
+      "previous_timestamp": "2024-03-31T12:00:38Z",
+      "next_timestamp": "2024-03-31T12:10:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T12:04:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T12:04:15Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.22
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T12:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T12:10:38Z",
+      "previous_timestamp": "2024-03-31T12:05:38Z",
+      "next_timestamp": "2024-03-31T12:15:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T12:09:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T12:09:03Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T12:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T12:15:38Z",
+      "previous_timestamp": "2024-03-31T12:10:38Z",
+      "next_timestamp": "2024-03-31T12:20:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T12:15:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T12:15:03Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.21
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T12:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T12:20:38Z",
+      "previous_timestamp": "2024-03-31T12:15:38Z",
+      "next_timestamp": "2024-03-31T12:25:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T12:19:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T12:19:05Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.18
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T12:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T12:25:38Z",
+      "previous_timestamp": "2024-03-31T12:20:38Z",
+      "next_timestamp": "2024-03-31T12:30:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T12:24:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T12:24:21Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.15
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 5.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T12:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T12:30:38Z",
+      "previous_timestamp": "2024-03-31T12:25:38Z",
+      "next_timestamp": "2024-03-31T12:35:39Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T12:30:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T12:30:28Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 6.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T12:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T12:35:39Z",
+      "previous_timestamp": "2024-03-31T12:30:38Z",
+      "next_timestamp": "2024-03-31T12:40:39Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T12:33:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T12:33:26Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 6.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T12:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T12:40:39Z",
+      "previous_timestamp": "2024-03-31T12:35:39Z",
+      "next_timestamp": "2024-03-31T12:45:39Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T12:39:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T12:39:25Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.33
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T12:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T12:45:39Z",
+      "previous_timestamp": "2024-03-31T12:40:39Z",
+      "next_timestamp": "2024-03-31T12:50:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T12:45:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T12:45:32Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T12:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T12:50:38Z",
+      "previous_timestamp": "2024-03-31T12:45:39Z",
+      "next_timestamp": "2024-03-31T12:55:39Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T12:49:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T12:49:56Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T13:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T12:55:39Z",
+      "previous_timestamp": "2024-03-31T12:50:38Z",
+      "next_timestamp": "2024-03-31T13:00:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T12:54:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T12:54:42Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T13:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T13:00:38Z",
+      "previous_timestamp": "2024-03-31T12:55:39Z",
+      "next_timestamp": "2024-03-31T13:05:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T12:59:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T12:59:09Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.22
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T13:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T13:05:38Z",
+      "previous_timestamp": "2024-03-31T13:00:38Z",
+      "next_timestamp": "2024-03-31T13:10:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T13:05:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T13:05:21Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 10.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T13:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T13:10:38Z",
+      "previous_timestamp": "2024-03-31T13:05:38Z",
+      "next_timestamp": "2024-03-31T13:15:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T13:10:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T13:10:03Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-31T13:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-31T13:15:38Z",
+      "previous_timestamp": "2024-03-31T13:10:38Z",
+      "next_timestamp": "2024-03-31T13:20:38Z",
+      "data": {
+        "id": "018ff754b6dd6ce468c2bc92c7352d18",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-31T10:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-31T13:10:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-31T13:10:03Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

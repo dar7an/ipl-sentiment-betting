@@ -1,0 +1,1757 @@
+[
+  {
+    "timestamp": "2024-04-07T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T13:55:38Z",
+      "previous_timestamp": "2024-04-07T13:50:38Z",
+      "next_timestamp": "2024-04-07T14:00:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T13:54:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T13:54:46Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T14:00:38Z",
+      "previous_timestamp": "2024-04-07T13:55:38Z",
+      "next_timestamp": "2024-04-07T14:05:39Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T13:59:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T13:59:36Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T14:05:39Z",
+      "previous_timestamp": "2024-04-07T14:00:38Z",
+      "next_timestamp": "2024-04-07T14:10:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T14:04:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T14:04:28Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T14:10:38Z",
+      "previous_timestamp": "2024-04-07T14:05:39Z",
+      "next_timestamp": "2024-04-07T14:15:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T14:10:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T14:10:35Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T14:15:38Z",
+      "previous_timestamp": "2024-04-07T14:10:38Z",
+      "next_timestamp": "2024-04-07T14:20:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T14:10:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T14:10:35Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T14:20:38Z",
+      "previous_timestamp": "2024-04-07T14:15:38Z",
+      "next_timestamp": "2024-04-07T14:25:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T14:18:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T14:18:59Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T14:25:38Z",
+      "previous_timestamp": "2024-04-07T14:20:38Z",
+      "next_timestamp": "2024-04-07T14:30:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T14:23:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T14:23:51Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T14:30:38Z",
+      "previous_timestamp": "2024-04-07T14:25:38Z",
+      "next_timestamp": "2024-04-07T14:35:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T14:29:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T14:29:46Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T14:35:38Z",
+      "previous_timestamp": "2024-04-07T14:30:38Z",
+      "next_timestamp": "2024-04-07T14:40:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T14:34:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T14:34:37Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T14:40:38Z",
+      "previous_timestamp": "2024-04-07T14:35:38Z",
+      "next_timestamp": "2024-04-07T14:45:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T14:39:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T14:39:26Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T14:45:38Z",
+      "previous_timestamp": "2024-04-07T14:40:38Z",
+      "next_timestamp": "2024-04-07T14:50:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T14:44:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T14:44:15Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T14:50:38Z",
+      "previous_timestamp": "2024-04-07T14:45:38Z",
+      "next_timestamp": "2024-04-07T14:55:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T14:50:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T14:50:28Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T14:55:38Z",
+      "previous_timestamp": "2024-04-07T14:50:38Z",
+      "next_timestamp": "2024-04-07T15:00:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T14:55:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T14:55:12Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.69
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T15:00:38Z",
+      "previous_timestamp": "2024-04-07T14:55:38Z",
+      "next_timestamp": "2024-04-07T15:05:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:00:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:00:07Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T15:05:38Z",
+      "previous_timestamp": "2024-04-07T15:00:38Z",
+      "next_timestamp": "2024-04-07T15:10:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:02:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:02:30Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T15:10:38Z",
+      "previous_timestamp": "2024-04-07T15:05:38Z",
+      "next_timestamp": "2024-04-07T15:15:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:09:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:09:07Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T15:15:38Z",
+      "previous_timestamp": "2024-04-07T15:10:38Z",
+      "next_timestamp": "2024-04-07T15:20:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:09:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:09:07Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T15:20:38Z",
+      "previous_timestamp": "2024-04-07T15:15:38Z",
+      "next_timestamp": "2024-04-07T15:25:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:18:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:18:49Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T15:25:38Z",
+      "previous_timestamp": "2024-04-07T15:20:38Z",
+      "next_timestamp": "2024-04-07T15:30:39Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:24:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:24:49Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T15:30:39Z",
+      "previous_timestamp": "2024-04-07T15:25:38Z",
+      "next_timestamp": "2024-04-07T15:35:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:27:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:27:41Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T15:35:38Z",
+      "previous_timestamp": "2024-04-07T15:30:39Z",
+      "next_timestamp": "2024-04-07T15:40:39Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:35:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:35:35Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T15:40:39Z",
+      "previous_timestamp": "2024-04-07T15:35:38Z",
+      "next_timestamp": "2024-04-07T15:45:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:40:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:40:27Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T15:45:38Z",
+      "previous_timestamp": "2024-04-07T15:40:39Z",
+      "next_timestamp": "2024-04-07T15:50:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:45:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:45:21Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T15:50:38Z",
+      "previous_timestamp": "2024-04-07T15:45:38Z",
+      "next_timestamp": "2024-04-07T15:55:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:50:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:50:10Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T15:55:38Z",
+      "previous_timestamp": "2024-04-07T15:50:38Z",
+      "next_timestamp": "2024-04-07T16:00:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:54:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:54:52Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T16:00:38Z",
+      "previous_timestamp": "2024-04-07T15:55:38Z",
+      "next_timestamp": "2024-04-07T16:05:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T15:59:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T15:59:40Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T16:05:38Z",
+      "previous_timestamp": "2024-04-07T16:00:38Z",
+      "next_timestamp": "2024-04-07T16:10:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T16:04:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T16:04:24Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T16:10:38Z",
+      "previous_timestamp": "2024-04-07T16:05:38Z",
+      "next_timestamp": "2024-04-07T16:15:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T16:09:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T16:09:42Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.55
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T16:15:38Z",
+      "previous_timestamp": "2024-04-07T16:10:38Z",
+      "next_timestamp": "2024-04-07T16:20:39Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T16:13:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T16:13:38Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T16:20:39Z",
+      "previous_timestamp": "2024-04-07T16:15:38Z",
+      "next_timestamp": "2024-04-07T16:25:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T16:20:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T16:20:01Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.28
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T16:25:38Z",
+      "previous_timestamp": "2024-04-07T16:20:39Z",
+      "next_timestamp": "2024-04-07T16:30:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T16:25:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T16:25:07Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.24
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T16:30:38Z",
+      "previous_timestamp": "2024-04-07T16:25:38Z",
+      "next_timestamp": "2024-04-07T16:35:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T16:30:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T16:30:17Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.42
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T16:35:38Z",
+      "previous_timestamp": "2024-04-07T16:30:38Z",
+      "next_timestamp": "2024-04-07T16:40:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T16:35:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T16:35:20Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T16:40:38Z",
+      "previous_timestamp": "2024-04-07T16:35:38Z",
+      "next_timestamp": "2024-04-07T16:45:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T16:40:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T16:40:29Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T16:45:38Z",
+      "previous_timestamp": "2024-04-07T16:40:38Z",
+      "next_timestamp": "2024-04-07T16:50:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T16:44:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T16:44:14Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T16:50:38Z",
+      "previous_timestamp": "2024-04-07T16:45:38Z",
+      "next_timestamp": "2024-04-07T16:55:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T16:50:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T16:50:16Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 5.3
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.17
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T16:55:38Z",
+      "previous_timestamp": "2024-04-07T16:50:38Z",
+      "next_timestamp": "2024-04-07T17:00:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T16:54:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T16:54:54Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 5.3
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.17
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T17:00:38Z",
+      "previous_timestamp": "2024-04-07T16:55:38Z",
+      "next_timestamp": "2024-04-07T17:05:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T16:59:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T16:59:32Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T17:05:38Z",
+      "previous_timestamp": "2024-04-07T17:00:38Z",
+      "next_timestamp": "2024-04-07T17:10:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T17:05:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T17:05:33Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 6.5
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.11
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T17:10:38Z",
+      "previous_timestamp": "2024-04-07T17:05:38Z",
+      "next_timestamp": "2024-04-07T17:15:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T17:10:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T17:10:17Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.6
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T17:15:38Z",
+      "previous_timestamp": "2024-04-07T17:10:38Z",
+      "next_timestamp": "2024-04-07T17:20:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T17:14:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T17:14:57Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 8.5
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T17:20:38Z",
+      "previous_timestamp": "2024-04-07T17:15:38Z",
+      "next_timestamp": "2024-04-07T17:25:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T17:19:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T17:19:43Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 31.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.01
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T17:25:38Z",
+      "previous_timestamp": "2024-04-07T17:20:38Z",
+      "next_timestamp": "2024-04-07T17:30:39Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T17:25:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T17:25:23Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 31.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.01
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T17:30:39Z",
+      "previous_timestamp": "2024-04-07T17:25:38Z",
+      "next_timestamp": "2024-04-07T17:35:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T17:30:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T17:30:08Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 13.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.03
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-07T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-07T17:35:38Z",
+      "previous_timestamp": "2024-04-07T17:30:39Z",
+      "next_timestamp": "2024-04-07T17:40:38Z",
+      "data": {
+        "id": "75e3c8a86dff576fce65c520ff25798c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-07T17:33:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-07T17:33:50Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 31.0
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.01
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,1640 @@
+[
+  {
+    "timestamp": "2024-04-14T10:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T09:55:38Z",
+      "previous_timestamp": "2024-04-14T09:50:38Z",
+      "next_timestamp": "2024-04-14T10:00:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T09:54:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T09:54:40Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T10:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T10:00:38Z",
+      "previous_timestamp": "2024-04-14T09:55:38Z",
+      "next_timestamp": "2024-04-14T10:05:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T09:59:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T09:59:43Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.69
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T10:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T10:05:38Z",
+      "previous_timestamp": "2024-04-14T10:00:38Z",
+      "next_timestamp": "2024-04-14T10:10:39Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T10:04:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T10:04:47Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T10:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T10:10:39Z",
+      "previous_timestamp": "2024-04-14T10:05:38Z",
+      "next_timestamp": "2024-04-14T10:15:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T10:10:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T10:10:25Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T10:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T10:15:38Z",
+      "previous_timestamp": "2024-04-14T10:10:39Z",
+      "next_timestamp": "2024-04-14T10:20:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T10:14:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T10:14:59Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T10:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T10:20:38Z",
+      "previous_timestamp": "2024-04-14T10:15:38Z",
+      "next_timestamp": "2024-04-14T10:25:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T10:19:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T10:19:36Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T10:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T10:25:38Z",
+      "previous_timestamp": "2024-04-14T10:20:38Z",
+      "next_timestamp": "2024-04-14T10:30:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T10:24:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T10:24:10Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T10:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T10:30:38Z",
+      "previous_timestamp": "2024-04-14T10:25:38Z",
+      "next_timestamp": "2024-04-14T10:35:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T10:30:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T10:30:28Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T10:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T10:35:38Z",
+      "previous_timestamp": "2024-04-14T10:30:38Z",
+      "next_timestamp": "2024-04-14T10:40:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T10:35:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T10:35:00Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T10:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T10:40:38Z",
+      "previous_timestamp": "2024-04-14T10:35:38Z",
+      "next_timestamp": "2024-04-14T10:45:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T10:40:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T10:40:07Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T10:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T10:45:38Z",
+      "previous_timestamp": "2024-04-14T10:40:38Z",
+      "next_timestamp": "2024-04-14T10:50:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T10:45:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T10:45:16Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T10:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T10:50:38Z",
+      "previous_timestamp": "2024-04-14T10:45:38Z",
+      "next_timestamp": "2024-04-14T10:55:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T10:49:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T10:49:54Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T11:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T10:55:38Z",
+      "previous_timestamp": "2024-04-14T10:50:38Z",
+      "next_timestamp": "2024-04-14T11:00:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T10:55:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T10:55:14Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T11:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T11:00:38Z",
+      "previous_timestamp": "2024-04-14T10:55:38Z",
+      "next_timestamp": "2024-04-14T11:05:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T10:59:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T10:59:57Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T11:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T11:05:38Z",
+      "previous_timestamp": "2024-04-14T11:00:38Z",
+      "next_timestamp": "2024-04-14T11:10:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T11:03:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T11:03:26Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T11:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T11:10:38Z",
+      "previous_timestamp": "2024-04-14T11:05:38Z",
+      "next_timestamp": "2024-04-14T11:15:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T11:10:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T11:10:17Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T11:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T11:15:38Z",
+      "previous_timestamp": "2024-04-14T11:10:38Z",
+      "next_timestamp": "2024-04-14T11:20:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T11:11:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T11:11:14Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T11:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T11:20:38Z",
+      "previous_timestamp": "2024-04-14T11:15:38Z",
+      "next_timestamp": "2024-04-14T11:25:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T11:20:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T11:20:29Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T11:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T11:25:38Z",
+      "previous_timestamp": "2024-04-14T11:20:38Z",
+      "next_timestamp": "2024-04-14T11:30:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T11:24:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T11:24:16Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T11:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T11:30:38Z",
+      "previous_timestamp": "2024-04-14T11:25:38Z",
+      "next_timestamp": "2024-04-14T11:35:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T11:29:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T11:29:45Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T11:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T11:35:38Z",
+      "previous_timestamp": "2024-04-14T11:30:38Z",
+      "next_timestamp": "2024-04-14T11:40:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T11:33:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T11:33:33Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T11:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T11:40:38Z",
+      "previous_timestamp": "2024-04-14T11:35:38Z",
+      "next_timestamp": "2024-04-14T11:45:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T11:38:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T11:38:15Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T11:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T11:45:38Z",
+      "previous_timestamp": "2024-04-14T11:40:38Z",
+      "next_timestamp": "2024-04-14T11:50:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T11:45:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T11:45:28Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T11:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T11:50:38Z",
+      "previous_timestamp": "2024-04-14T11:45:38Z",
+      "next_timestamp": "2024-04-14T11:55:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T11:50:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T11:50:17Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T12:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T11:55:38Z",
+      "previous_timestamp": "2024-04-14T11:50:38Z",
+      "next_timestamp": "2024-04-14T12:00:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T11:53:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T11:53:41Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T12:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T12:00:38Z",
+      "previous_timestamp": "2024-04-14T11:55:38Z",
+      "next_timestamp": "2024-04-14T12:05:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T11:59:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T11:59:58Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T12:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T12:05:38Z",
+      "previous_timestamp": "2024-04-14T12:00:38Z",
+      "next_timestamp": "2024-04-14T12:10:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T12:04:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T12:04:48Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.32
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 3.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T12:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T12:10:38Z",
+      "previous_timestamp": "2024-04-14T12:05:38Z",
+      "next_timestamp": "2024-04-14T12:15:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T12:09:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T12:09:38Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T12:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T12:15:38Z",
+      "previous_timestamp": "2024-04-14T12:10:38Z",
+      "next_timestamp": "2024-04-14T12:20:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T12:15:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T12:15:36Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 3.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T12:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T12:20:38Z",
+      "previous_timestamp": "2024-04-14T12:15:38Z",
+      "next_timestamp": "2024-04-14T12:25:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T12:20:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T12:20:32Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 6.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T12:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T12:25:38Z",
+      "previous_timestamp": "2024-04-14T12:20:38Z",
+      "next_timestamp": "2024-04-14T12:30:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T12:25:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T12:25:26Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.24
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 4.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T12:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T12:30:38Z",
+      "previous_timestamp": "2024-04-14T12:25:38Z",
+      "next_timestamp": "2024-04-14T12:35:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T12:30:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T12:30:16Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.27
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T12:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T12:35:38Z",
+      "previous_timestamp": "2024-04-14T12:30:38Z",
+      "next_timestamp": "2024-04-14T12:40:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T12:35:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T12:35:14Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.21
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T12:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T12:40:38Z",
+      "previous_timestamp": "2024-04-14T12:35:38Z",
+      "next_timestamp": "2024-04-14T12:45:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T12:39:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T12:39:05Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.27
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T12:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T12:45:38Z",
+      "previous_timestamp": "2024-04-14T12:40:38Z",
+      "next_timestamp": "2024-04-14T12:50:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T12:45:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T12:45:07Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.2
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T12:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T12:50:38Z",
+      "previous_timestamp": "2024-04-14T12:45:38Z",
+      "next_timestamp": "2024-04-14T12:55:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T12:49:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T12:49:01Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 5.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T13:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T12:55:38Z",
+      "previous_timestamp": "2024-04-14T12:50:38Z",
+      "next_timestamp": "2024-04-14T13:00:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T12:54:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T12:54:59Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T13:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T13:00:38Z",
+      "previous_timestamp": "2024-04-14T12:55:38Z",
+      "next_timestamp": "2024-04-14T13:05:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T12:59:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T12:59:52Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T13:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T13:05:38Z",
+      "previous_timestamp": "2024-04-14T13:00:38Z",
+      "next_timestamp": "2024-04-14T13:10:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T13:04:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T13:04:43Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 8.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T13:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T13:10:38Z",
+      "previous_timestamp": "2024-04-14T13:05:38Z",
+      "next_timestamp": "2024-04-14T13:15:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T13:09:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T13:09:42Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.03
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 13.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T13:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T13:15:38Z",
+      "previous_timestamp": "2024-04-14T13:10:38Z",
+      "next_timestamp": "2024-04-14T13:20:38Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T13:14:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T13:14:41Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T13:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T13:20:38Z",
+      "previous_timestamp": "2024-04-14T13:15:38Z",
+      "next_timestamp": "2024-04-14T13:25:39Z",
+      "data": {
+        "id": "e9f21d9566080b24403ea40082a7e98f",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T10:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T13:14:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T13:14:41Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

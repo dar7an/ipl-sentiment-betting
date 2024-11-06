@@ -1,0 +1,1718 @@
+[
+  {
+    "timestamp": "2024-03-26T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T13:55:41Z",
+      "previous_timestamp": "2024-03-26T13:50:39Z",
+      "next_timestamp": "2024-03-26T14:00:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T13:55:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T13:55:00Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T14:00:39Z",
+      "previous_timestamp": "2024-03-26T13:55:41Z",
+      "next_timestamp": "2024-03-26T14:05:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T13:59:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T13:59:31Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T14:05:39Z",
+      "previous_timestamp": "2024-03-26T14:00:39Z",
+      "next_timestamp": "2024-03-26T14:10:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T14:05:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T14:05:34Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.91
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.91
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T14:10:39Z",
+      "previous_timestamp": "2024-03-26T14:05:39Z",
+      "next_timestamp": "2024-03-26T14:15:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T14:10:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T14:10:16Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T14:15:39Z",
+      "previous_timestamp": "2024-03-26T14:10:39Z",
+      "next_timestamp": "2024-03-26T14:20:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T14:15:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T14:15:05Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T14:20:39Z",
+      "previous_timestamp": "2024-03-26T14:15:39Z",
+      "next_timestamp": "2024-03-26T14:25:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T14:19:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T14:19:49Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T14:25:39Z",
+      "previous_timestamp": "2024-03-26T14:20:39Z",
+      "next_timestamp": "2024-03-26T14:30:38Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T14:25:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T14:25:20Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T14:30:38Z",
+      "previous_timestamp": "2024-03-26T14:25:39Z",
+      "next_timestamp": "2024-03-26T14:35:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T14:27:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T14:27:31Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.53
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.55
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T14:35:39Z",
+      "previous_timestamp": "2024-03-26T14:30:38Z",
+      "next_timestamp": "2024-03-26T14:40:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T14:34:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T14:34:23Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T14:40:39Z",
+      "previous_timestamp": "2024-03-26T14:35:39Z",
+      "next_timestamp": "2024-03-26T14:45:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T14:40:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T14:40:28Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T14:45:39Z",
+      "previous_timestamp": "2024-03-26T14:40:39Z",
+      "next_timestamp": "2024-03-26T14:50:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T14:45:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T14:45:08Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T14:50:39Z",
+      "previous_timestamp": "2024-03-26T14:45:39Z",
+      "next_timestamp": "2024-03-26T14:55:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T14:49:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T14:49:57Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T14:55:39Z",
+      "previous_timestamp": "2024-03-26T14:50:39Z",
+      "next_timestamp": "2024-03-26T15:00:38Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T14:54:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T14:54:43Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T15:00:38Z",
+      "previous_timestamp": "2024-03-26T14:55:39Z",
+      "next_timestamp": "2024-03-26T15:05:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T14:59:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T14:59:26Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T15:05:39Z",
+      "previous_timestamp": "2024-03-26T15:00:38Z",
+      "next_timestamp": "2024-03-26T15:10:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T15:04:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T15:04:15Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T15:10:39Z",
+      "previous_timestamp": "2024-03-26T15:05:39Z",
+      "next_timestamp": "2024-03-26T15:15:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T15:10:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T15:10:26Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.53
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.55
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T15:15:39Z",
+      "previous_timestamp": "2024-03-26T15:10:39Z",
+      "next_timestamp": "2024-03-26T15:20:38Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T15:15:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T15:15:16Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T15:20:38Z",
+      "previous_timestamp": "2024-03-26T15:15:39Z",
+      "next_timestamp": "2024-03-26T15:25:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T15:19:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T15:19:56Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.36
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T15:25:39Z",
+      "previous_timestamp": "2024-03-26T15:20:38Z",
+      "next_timestamp": "2024-03-26T15:30:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T15:25:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T15:25:26Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.33
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T15:30:39Z",
+      "previous_timestamp": "2024-03-26T15:25:39Z",
+      "next_timestamp": "2024-03-26T15:35:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T15:30:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T15:30:16Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T15:35:39Z",
+      "previous_timestamp": "2024-03-26T15:30:39Z",
+      "next_timestamp": "2024-03-26T15:40:38Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T15:34:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T15:34:52Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.33
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T15:40:38Z",
+      "previous_timestamp": "2024-03-26T15:35:39Z",
+      "next_timestamp": "2024-03-26T15:45:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T15:39:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T15:39:26Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.36
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T15:45:39Z",
+      "previous_timestamp": "2024-03-26T15:40:38Z",
+      "next_timestamp": "2024-03-26T15:50:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T15:43:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T15:43:17Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.32
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T15:50:39Z",
+      "previous_timestamp": "2024-03-26T15:45:39Z",
+      "next_timestamp": "2024-03-26T15:55:40Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T15:50:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T15:50:24Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T15:55:40Z",
+      "previous_timestamp": "2024-03-26T15:50:39Z",
+      "next_timestamp": "2024-03-26T16:00:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T15:55:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T15:55:03Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T16:00:39Z",
+      "previous_timestamp": "2024-03-26T15:55:40Z",
+      "next_timestamp": "2024-03-26T16:05:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:00:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:00:35Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T16:05:39Z",
+      "previous_timestamp": "2024-03-26T16:00:39Z",
+      "next_timestamp": "2024-03-26T16:10:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:04:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:04:51Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T16:10:39Z",
+      "previous_timestamp": "2024-03-26T16:05:39Z",
+      "next_timestamp": "2024-03-26T16:15:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:10:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:10:20Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T16:15:39Z",
+      "previous_timestamp": "2024-03-26T16:10:39Z",
+      "next_timestamp": "2024-03-26T16:20:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:11:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:11:57Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T16:20:39Z",
+      "previous_timestamp": "2024-03-26T16:15:39Z",
+      "next_timestamp": "2024-03-26T16:25:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:20:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:20:10Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T16:25:39Z",
+      "previous_timestamp": "2024-03-26T16:20:39Z",
+      "next_timestamp": "2024-03-26T16:30:38Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:25:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:25:01Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.22
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T16:30:38Z",
+      "previous_timestamp": "2024-03-26T16:25:39Z",
+      "next_timestamp": "2024-03-26T16:35:38Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:29:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:29:52Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 5.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T16:35:38Z",
+      "previous_timestamp": "2024-03-26T16:30:38Z",
+      "next_timestamp": "2024-03-26T16:40:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:35:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:35:02Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.08
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T16:40:39Z",
+      "previous_timestamp": "2024-03-26T16:35:38Z",
+      "next_timestamp": "2024-03-26T16:45:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:39:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:39:19Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.08
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T16:45:39Z",
+      "previous_timestamp": "2024-03-26T16:40:39Z",
+      "next_timestamp": "2024-03-26T16:50:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:44:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:44:52Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T16:50:39Z",
+      "previous_timestamp": "2024-03-26T16:45:39Z",
+      "next_timestamp": "2024-03-26T16:55:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:49:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:49:53Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.03
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 13.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T16:55:39Z",
+      "previous_timestamp": "2024-03-26T16:50:39Z",
+      "next_timestamp": "2024-03-26T17:00:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:55:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:55:33Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.03
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 13.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T17:00:39Z",
+      "previous_timestamp": "2024-03-26T16:55:39Z",
+      "next_timestamp": "2024-03-26T17:05:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T16:59:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T16:59:55Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 10.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T17:05:39Z",
+      "previous_timestamp": "2024-03-26T17:00:39Z",
+      "next_timestamp": "2024-03-26T17:10:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T17:04:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T17:04:56Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.09
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T17:10:39Z",
+      "previous_timestamp": "2024-03-26T17:05:39Z",
+      "next_timestamp": "2024-03-26T17:15:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T17:09:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T17:09:59Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.09
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T17:15:39Z",
+      "previous_timestamp": "2024-03-26T17:10:39Z",
+      "next_timestamp": "2024-03-26T17:20:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T17:15:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T17:15:01Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.03
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 13.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T17:20:39Z",
+      "previous_timestamp": "2024-03-26T17:15:39Z",
+      "next_timestamp": "2024-03-26T17:25:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T17:20:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T17:20:12Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 14.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T17:25:39Z",
+      "previous_timestamp": "2024-03-26T17:20:39Z",
+      "next_timestamp": "2024-03-26T17:30:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T17:25:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T17:25:06Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 14.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-26T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-26T17:30:39Z",
+      "previous_timestamp": "2024-03-26T17:25:39Z",
+      "next_timestamp": "2024-03-26T17:35:39Z",
+      "data": {
+        "id": "fab1a85d378b7726d718c07b464a3f8e",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-26T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-26T17:30:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-26T17:30:14Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

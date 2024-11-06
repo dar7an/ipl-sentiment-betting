@@ -1,0 +1,2030 @@
+[
+  {
+    "timestamp": "2024-04-10T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T13:55:40Z",
+      "previous_timestamp": "2024-04-10T13:50:39Z",
+      "next_timestamp": "2024-04-10T14:00:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T13:55:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T13:55:23Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.22
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.68
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T14:00:40Z",
+      "previous_timestamp": "2024-04-10T13:55:40Z",
+      "next_timestamp": "2024-04-10T14:05:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T14:00:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T14:00:08Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.16
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T14:05:40Z",
+      "previous_timestamp": "2024-04-10T14:00:40Z",
+      "next_timestamp": "2024-04-10T14:10:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T14:05:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T14:05:05Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.16
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T14:10:40Z",
+      "previous_timestamp": "2024-04-10T14:05:40Z",
+      "next_timestamp": "2024-04-10T14:15:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T14:10:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T14:10:33Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T14:15:39Z",
+      "previous_timestamp": "2024-04-10T14:10:40Z",
+      "next_timestamp": "2024-04-10T14:20:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T14:15:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T14:15:08Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T14:20:40Z",
+      "previous_timestamp": "2024-04-10T14:15:39Z",
+      "next_timestamp": "2024-04-10T14:25:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T14:19:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T14:19:57Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T14:25:40Z",
+      "previous_timestamp": "2024-04-10T14:20:40Z",
+      "next_timestamp": "2024-04-10T14:30:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T14:25:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T14:25:34Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T14:30:40Z",
+      "previous_timestamp": "2024-04-10T14:25:40Z",
+      "next_timestamp": "2024-04-10T14:35:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T14:28:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T14:28:42Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T14:35:40Z",
+      "previous_timestamp": "2024-04-10T14:30:40Z",
+      "next_timestamp": "2024-04-10T14:40:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T14:34:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T14:34:55Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T14:40:40Z",
+      "previous_timestamp": "2024-04-10T14:35:40Z",
+      "next_timestamp": "2024-04-10T14:45:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T14:40:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T14:40:24Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T14:45:39Z",
+      "previous_timestamp": "2024-04-10T14:40:40Z",
+      "next_timestamp": "2024-04-10T14:50:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T14:45:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T14:45:11Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T14:50:40Z",
+      "previous_timestamp": "2024-04-10T14:45:39Z",
+      "next_timestamp": "2024-04-10T14:55:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T14:50:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T14:50:25Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T14:55:39Z",
+      "previous_timestamp": "2024-04-10T14:50:40Z",
+      "next_timestamp": "2024-04-10T15:00:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T14:55:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T14:55:22Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T15:00:40Z",
+      "previous_timestamp": "2024-04-10T14:55:39Z",
+      "next_timestamp": "2024-04-10T15:05:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T15:00:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T15:00:14Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T15:05:40Z",
+      "previous_timestamp": "2024-04-10T15:00:40Z",
+      "next_timestamp": "2024-04-10T15:10:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T15:04:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T15:04:25Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T15:10:40Z",
+      "previous_timestamp": "2024-04-10T15:05:40Z",
+      "next_timestamp": "2024-04-10T15:15:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T15:09:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T15:09:54Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.57
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T15:15:40Z",
+      "previous_timestamp": "2024-04-10T15:10:40Z",
+      "next_timestamp": "2024-04-10T15:20:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T15:15:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T15:15:28Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.7
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.48
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T15:20:40Z",
+      "previous_timestamp": "2024-04-10T15:15:40Z",
+      "next_timestamp": "2024-04-10T15:25:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T15:20:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T15:20:31Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.34
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T15:25:39Z",
+      "previous_timestamp": "2024-04-10T15:20:40Z",
+      "next_timestamp": "2024-04-10T15:30:38Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T15:25:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T15:25:27Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.34
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T15:30:38Z",
+      "previous_timestamp": "2024-04-10T15:25:39Z",
+      "next_timestamp": "2024-04-10T15:35:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T15:28:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T15:28:31Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T15:35:39Z",
+      "previous_timestamp": "2024-04-10T15:30:38Z",
+      "next_timestamp": "2024-04-10T15:40:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T15:35:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T15:35:08Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.33
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T15:40:39Z",
+      "previous_timestamp": "2024-04-10T15:35:39Z",
+      "next_timestamp": "2024-04-10T15:45:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T15:39:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T15:39:59Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.33
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T15:45:39Z",
+      "previous_timestamp": "2024-04-10T15:40:39Z",
+      "next_timestamp": "2024-04-10T15:50:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T15:44:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T15:44:53Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.33
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T15:50:39Z",
+      "previous_timestamp": "2024-04-10T15:45:39Z",
+      "next_timestamp": "2024-04-10T15:55:38Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T15:50:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T15:50:07Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T15:55:38Z",
+      "previous_timestamp": "2024-04-10T15:50:39Z",
+      "next_timestamp": "2024-04-10T16:00:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T15:54:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T15:54:51Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T16:00:39Z",
+      "previous_timestamp": "2024-04-10T15:55:38Z",
+      "next_timestamp": "2024-04-10T16:05:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T16:00:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T16:00:04Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T16:05:39Z",
+      "previous_timestamp": "2024-04-10T16:00:39Z",
+      "next_timestamp": "2024-04-10T16:10:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T16:05:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T16:05:35Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T16:10:39Z",
+      "previous_timestamp": "2024-04-10T16:05:39Z",
+      "next_timestamp": "2024-04-10T16:15:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T16:10:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T16:10:24Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T16:15:39Z",
+      "previous_timestamp": "2024-04-10T16:10:39Z",
+      "next_timestamp": "2024-04-10T16:20:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T16:15:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T16:15:33Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T16:20:39Z",
+      "previous_timestamp": "2024-04-10T16:15:39Z",
+      "next_timestamp": "2024-04-10T16:25:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T16:19:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T16:19:54Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.34
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T16:25:39Z",
+      "previous_timestamp": "2024-04-10T16:20:39Z",
+      "next_timestamp": "2024-04-10T16:30:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T16:25:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T16:25:24Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.27
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T16:30:39Z",
+      "previous_timestamp": "2024-04-10T16:25:39Z",
+      "next_timestamp": "2024-04-10T16:35:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T16:29:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T16:29:46Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T16:35:39Z",
+      "previous_timestamp": "2024-04-10T16:30:39Z",
+      "next_timestamp": "2024-04-10T16:40:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T16:35:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T16:35:11Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.31
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T16:40:39Z",
+      "previous_timestamp": "2024-04-10T16:35:39Z",
+      "next_timestamp": "2024-04-10T16:45:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T16:40:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T16:40:17Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.28
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T16:45:39Z",
+      "previous_timestamp": "2024-04-10T16:40:39Z",
+      "next_timestamp": "2024-04-10T16:50:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T16:44:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T16:44:41Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T16:50:39Z",
+      "previous_timestamp": "2024-04-10T16:45:39Z",
+      "next_timestamp": "2024-04-10T16:55:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T16:49:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T16:49:52Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.31
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T16:55:39Z",
+      "previous_timestamp": "2024-04-10T16:50:39Z",
+      "next_timestamp": "2024-04-10T17:00:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T16:55:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T16:55:03Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.9
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T17:00:39Z",
+      "previous_timestamp": "2024-04-10T16:55:39Z",
+      "next_timestamp": "2024-04-10T17:05:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T17:00:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T17:00:22Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.9
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T17:05:39Z",
+      "previous_timestamp": "2024-04-10T17:00:39Z",
+      "next_timestamp": "2024-04-10T17:10:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T17:03:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T17:03:52Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.4
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.21
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T17:10:39Z",
+      "previous_timestamp": "2024-04-10T17:05:39Z",
+      "next_timestamp": "2024-04-10T17:15:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T17:10:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T17:10:07Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 5.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T17:15:40Z",
+      "previous_timestamp": "2024-04-10T17:10:39Z",
+      "next_timestamp": "2024-04-10T17:20:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T17:15:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T17:15:23Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 6.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.11
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T17:20:39Z",
+      "previous_timestamp": "2024-04-10T17:15:40Z",
+      "next_timestamp": "2024-04-10T17:25:41Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T17:19:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T17:19:51Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T17:25:41Z",
+      "previous_timestamp": "2024-04-10T17:20:39Z",
+      "next_timestamp": "2024-04-10T17:30:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T17:25:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T17:25:12Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 5.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T17:30:39Z",
+      "previous_timestamp": "2024-04-10T17:25:41Z",
+      "next_timestamp": "2024-04-10T17:35:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T17:30:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T17:30:31Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 6.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.11
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T17:35:39Z",
+      "previous_timestamp": "2024-04-10T17:30:39Z",
+      "next_timestamp": "2024-04-10T17:40:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T17:34:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T17:34:56Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T17:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T17:40:39Z",
+      "previous_timestamp": "2024-04-10T17:35:39Z",
+      "next_timestamp": "2024-04-10T17:45:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T17:39:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T17:39:23Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 7.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.09
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T17:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T17:45:39Z",
+      "previous_timestamp": "2024-04-10T17:40:39Z",
+      "next_timestamp": "2024-04-10T17:50:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T17:44:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T17:44:56Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 6.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.11
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T17:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T17:50:39Z",
+      "previous_timestamp": "2024-04-10T17:45:39Z",
+      "next_timestamp": "2024-04-10T17:55:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T17:50:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T17:50:22Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T18:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T17:55:39Z",
+      "previous_timestamp": "2024-04-10T17:50:39Z",
+      "next_timestamp": "2024-04-10T18:00:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T17:54:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T17:54:53Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 6.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.13
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T18:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T18:00:39Z",
+      "previous_timestamp": "2024-04-10T17:55:39Z",
+      "next_timestamp": "2024-04-10T18:05:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T18:00:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T18:00:17Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 6.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.12
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T18:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T18:05:39Z",
+      "previous_timestamp": "2024-04-10T18:00:39Z",
+      "next_timestamp": "2024-04-10T18:10:40Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T18:04:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T18:04:37Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-10T18:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-10T18:10:40Z",
+      "previous_timestamp": "2024-04-10T18:05:39Z",
+      "next_timestamp": "2024-04-10T18:15:39Z",
+      "data": {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:10:46Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-10T18:10:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-10T18:10:11Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

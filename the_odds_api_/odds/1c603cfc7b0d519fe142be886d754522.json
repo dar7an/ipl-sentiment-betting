@@ -1,0 +1,631 @@
+[
+  {
+    "timestamp": "2024-03-29T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T13:55:39Z",
+      "previous_timestamp": "2024-03-29T13:50:40Z",
+      "next_timestamp": "2024-03-29T14:00:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T14:00:39Z",
+      "previous_timestamp": "2024-03-29T13:55:39Z",
+      "next_timestamp": "2024-03-29T14:05:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T14:05:40Z",
+      "previous_timestamp": "2024-03-29T14:00:39Z",
+      "next_timestamp": "2024-03-29T14:10:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T14:10:40Z",
+      "previous_timestamp": "2024-03-29T14:05:40Z",
+      "next_timestamp": "2024-03-29T14:15:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T14:15:40Z",
+      "previous_timestamp": "2024-03-29T14:10:40Z",
+      "next_timestamp": "2024-03-29T14:20:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T14:20:39Z",
+      "previous_timestamp": "2024-03-29T14:15:40Z",
+      "next_timestamp": "2024-03-29T14:25:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T14:25:39Z",
+      "previous_timestamp": "2024-03-29T14:20:39Z",
+      "next_timestamp": "2024-03-29T14:30:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T14:30:40Z",
+      "previous_timestamp": "2024-03-29T14:25:39Z",
+      "next_timestamp": "2024-03-29T14:35:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T14:35:39Z",
+      "previous_timestamp": "2024-03-29T14:30:40Z",
+      "next_timestamp": "2024-03-29T14:40:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T14:40:39Z",
+      "previous_timestamp": "2024-03-29T14:35:39Z",
+      "next_timestamp": "2024-03-29T14:45:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T14:45:40Z",
+      "previous_timestamp": "2024-03-29T14:40:39Z",
+      "next_timestamp": "2024-03-29T14:50:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T14:50:40Z",
+      "previous_timestamp": "2024-03-29T14:45:40Z",
+      "next_timestamp": "2024-03-29T14:55:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T14:55:40Z",
+      "previous_timestamp": "2024-03-29T14:50:40Z",
+      "next_timestamp": "2024-03-29T15:00:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T15:00:40Z",
+      "previous_timestamp": "2024-03-29T14:55:40Z",
+      "next_timestamp": "2024-03-29T15:05:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T15:05:39Z",
+      "previous_timestamp": "2024-03-29T15:00:40Z",
+      "next_timestamp": "2024-03-29T15:10:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T15:10:40Z",
+      "previous_timestamp": "2024-03-29T15:05:39Z",
+      "next_timestamp": "2024-03-29T15:15:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T15:15:39Z",
+      "previous_timestamp": "2024-03-29T15:10:40Z",
+      "next_timestamp": "2024-03-29T15:20:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T15:20:40Z",
+      "previous_timestamp": "2024-03-29T15:15:39Z",
+      "next_timestamp": "2024-03-29T15:25:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T15:25:39Z",
+      "previous_timestamp": "2024-03-29T15:20:40Z",
+      "next_timestamp": "2024-03-29T15:30:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T15:30:39Z",
+      "previous_timestamp": "2024-03-29T15:25:39Z",
+      "next_timestamp": "2024-03-29T15:35:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T15:35:39Z",
+      "previous_timestamp": "2024-03-29T15:30:39Z",
+      "next_timestamp": "2024-03-29T15:40:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T15:40:39Z",
+      "previous_timestamp": "2024-03-29T15:35:39Z",
+      "next_timestamp": "2024-03-29T15:45:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T15:45:39Z",
+      "previous_timestamp": "2024-03-29T15:40:39Z",
+      "next_timestamp": "2024-03-29T15:50:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T15:50:40Z",
+      "previous_timestamp": "2024-03-29T15:45:39Z",
+      "next_timestamp": "2024-03-29T15:55:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T15:55:40Z",
+      "previous_timestamp": "2024-03-29T15:50:40Z",
+      "next_timestamp": "2024-03-29T16:00:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T16:00:40Z",
+      "previous_timestamp": "2024-03-29T15:55:40Z",
+      "next_timestamp": "2024-03-29T16:05:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T16:05:39Z",
+      "previous_timestamp": "2024-03-29T16:00:40Z",
+      "next_timestamp": "2024-03-29T16:10:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T16:10:39Z",
+      "previous_timestamp": "2024-03-29T16:05:39Z",
+      "next_timestamp": "2024-03-29T16:15:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T16:15:39Z",
+      "previous_timestamp": "2024-03-29T16:10:39Z",
+      "next_timestamp": "2024-03-29T16:20:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T16:20:39Z",
+      "previous_timestamp": "2024-03-29T16:15:39Z",
+      "next_timestamp": "2024-03-29T16:25:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T16:25:40Z",
+      "previous_timestamp": "2024-03-29T16:20:39Z",
+      "next_timestamp": "2024-03-29T16:30:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T16:30:39Z",
+      "previous_timestamp": "2024-03-29T16:25:40Z",
+      "next_timestamp": "2024-03-29T16:35:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T16:35:39Z",
+      "previous_timestamp": "2024-03-29T16:30:39Z",
+      "next_timestamp": "2024-03-29T16:40:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T16:40:40Z",
+      "previous_timestamp": "2024-03-29T16:35:39Z",
+      "next_timestamp": "2024-03-29T16:45:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T16:45:40Z",
+      "previous_timestamp": "2024-03-29T16:40:40Z",
+      "next_timestamp": "2024-03-29T16:50:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T16:50:40Z",
+      "previous_timestamp": "2024-03-29T16:45:40Z",
+      "next_timestamp": "2024-03-29T16:55:40Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-29T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-29T16:55:40Z",
+      "previous_timestamp": "2024-03-29T16:50:40Z",
+      "next_timestamp": "2024-03-29T17:00:39Z",
+      "data": {
+        "id": "1c603cfc7b0d519fe142be886d754522",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-29T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": []
+      }
+    }
+  }
+]
