@@ -1,0 +1,1406 @@
+[
+  {
+    "timestamp": "2024-04-08T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T13:55:39Z",
+      "previous_timestamp": "2024-04-08T13:50:38Z",
+      "next_timestamp": "2024-04-08T14:00:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T13:55:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T13:55:24Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.86
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.94
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T14:00:39Z",
+      "previous_timestamp": "2024-04-08T13:55:39Z",
+      "next_timestamp": "2024-04-08T14:05:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T14:00:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T14:00:00Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T14:05:38Z",
+      "previous_timestamp": "2024-04-08T14:00:39Z",
+      "next_timestamp": "2024-04-08T14:10:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T14:05:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T14:05:08Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T14:10:39Z",
+      "previous_timestamp": "2024-04-08T14:05:38Z",
+      "next_timestamp": "2024-04-08T14:15:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T14:10:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T14:10:21Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T14:15:38Z",
+      "previous_timestamp": "2024-04-08T14:10:39Z",
+      "next_timestamp": "2024-04-08T14:20:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T14:15:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T14:15:05Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T14:20:39Z",
+      "previous_timestamp": "2024-04-08T14:15:38Z",
+      "next_timestamp": "2024-04-08T14:25:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T14:20:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T14:20:21Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T14:25:38Z",
+      "previous_timestamp": "2024-04-08T14:20:39Z",
+      "next_timestamp": "2024-04-08T14:30:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T14:24:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T14:24:46Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T14:30:39Z",
+      "previous_timestamp": "2024-04-08T14:25:38Z",
+      "next_timestamp": "2024-04-08T14:35:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T14:30:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T14:30:04Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T14:35:39Z",
+      "previous_timestamp": "2024-04-08T14:30:39Z",
+      "next_timestamp": "2024-04-08T14:40:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T14:33:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T14:33:49Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T14:40:39Z",
+      "previous_timestamp": "2024-04-08T14:35:39Z",
+      "next_timestamp": "2024-04-08T14:45:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T14:40:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T14:40:04Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T14:45:38Z",
+      "previous_timestamp": "2024-04-08T14:40:39Z",
+      "next_timestamp": "2024-04-08T14:50:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T14:45:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T14:45:24Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T14:50:38Z",
+      "previous_timestamp": "2024-04-08T14:45:38Z",
+      "next_timestamp": "2024-04-08T14:55:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T14:49:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T14:49:52Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T14:55:38Z",
+      "previous_timestamp": "2024-04-08T14:50:38Z",
+      "next_timestamp": "2024-04-08T15:00:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T14:55:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T14:55:09Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T15:00:38Z",
+      "previous_timestamp": "2024-04-08T14:55:38Z",
+      "next_timestamp": "2024-04-08T15:05:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T15:00:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T15:00:24Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T15:05:39Z",
+      "previous_timestamp": "2024-04-08T15:00:38Z",
+      "next_timestamp": "2024-04-08T15:10:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T15:05:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T15:05:05Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T15:10:39Z",
+      "previous_timestamp": "2024-04-08T15:05:39Z",
+      "next_timestamp": "2024-04-08T15:15:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T15:10:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T15:10:33Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T15:15:39Z",
+      "previous_timestamp": "2024-04-08T15:10:39Z",
+      "next_timestamp": "2024-04-08T15:20:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T15:15:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T15:15:08Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T15:20:39Z",
+      "previous_timestamp": "2024-04-08T15:15:39Z",
+      "next_timestamp": "2024-04-08T15:25:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T15:20:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T15:20:23Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T15:25:38Z",
+      "previous_timestamp": "2024-04-08T15:20:39Z",
+      "next_timestamp": "2024-04-08T15:30:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T15:24:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T15:24:12Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.27
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T15:30:39Z",
+      "previous_timestamp": "2024-04-08T15:25:38Z",
+      "next_timestamp": "2024-04-08T15:35:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T15:30:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T15:30:27Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.2
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T15:35:39Z",
+      "previous_timestamp": "2024-04-08T15:30:39Z",
+      "next_timestamp": "2024-04-08T15:40:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T15:34:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T15:34:56Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T15:40:39Z",
+      "previous_timestamp": "2024-04-08T15:35:39Z",
+      "next_timestamp": "2024-04-08T15:45:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T15:40:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T15:40:26Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.21
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T15:45:38Z",
+      "previous_timestamp": "2024-04-08T15:40:39Z",
+      "next_timestamp": "2024-04-08T15:50:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T15:44:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T15:44:58Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 6.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T15:50:38Z",
+      "previous_timestamp": "2024-04-08T15:45:38Z",
+      "next_timestamp": "2024-04-08T15:55:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T15:50:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T15:50:33Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 5.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T15:55:38Z",
+      "previous_timestamp": "2024-04-08T15:50:38Z",
+      "next_timestamp": "2024-04-08T16:00:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T15:55:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T15:55:09Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 5.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T16:00:38Z",
+      "previous_timestamp": "2024-04-08T15:55:38Z",
+      "next_timestamp": "2024-04-08T16:05:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T16:00:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T16:00:02Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 5.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T16:05:39Z",
+      "previous_timestamp": "2024-04-08T16:00:38Z",
+      "next_timestamp": "2024-04-08T16:10:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T16:05:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T16:05:33Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 6.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T16:10:39Z",
+      "previous_timestamp": "2024-04-08T16:05:39Z",
+      "next_timestamp": "2024-04-08T16:15:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T16:10:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T16:10:16Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 5.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T16:15:39Z",
+      "previous_timestamp": "2024-04-08T16:10:39Z",
+      "next_timestamp": "2024-04-08T16:20:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T16:15:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T16:15:03Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T16:20:38Z",
+      "previous_timestamp": "2024-04-08T16:15:39Z",
+      "next_timestamp": "2024-04-08T16:25:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T16:20:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T16:20:05Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.13
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 6.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T16:25:39Z",
+      "previous_timestamp": "2024-04-08T16:20:38Z",
+      "next_timestamp": "2024-04-08T16:30:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T16:25:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T16:25:11Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 5.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T16:30:39Z",
+      "previous_timestamp": "2024-04-08T16:25:39Z",
+      "next_timestamp": "2024-04-08T16:35:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T16:29:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T16:29:45Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.08
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T16:35:39Z",
+      "previous_timestamp": "2024-04-08T16:30:39Z",
+      "next_timestamp": "2024-04-08T16:40:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T16:35:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T16:35:09Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.04
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T16:40:39Z",
+      "previous_timestamp": "2024-04-08T16:35:39Z",
+      "next_timestamp": "2024-04-08T16:45:39Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T16:40:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T16:40:21Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T16:45:39Z",
+      "previous_timestamp": "2024-04-08T16:40:39Z",
+      "next_timestamp": "2024-04-08T16:50:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T16:44:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T16:44:51Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-08T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-08T16:50:38Z",
+      "previous_timestamp": "2024-04-08T16:45:39Z",
+      "next_timestamp": "2024-04-08T16:55:38Z",
+      "data": {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-08T16:50:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-08T16:50:10Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

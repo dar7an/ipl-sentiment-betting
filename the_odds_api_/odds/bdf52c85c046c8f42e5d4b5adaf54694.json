@@ -1,0 +1,1367 @@
+[
+  {
+    "timestamp": "2024-04-03T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T13:55:38Z",
+      "previous_timestamp": "2024-04-03T13:50:39Z",
+      "next_timestamp": "2024-04-03T14:00:38Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T13:54:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T13:54:41Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.08
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.76
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T14:00:38Z",
+      "previous_timestamp": "2024-04-03T13:55:38Z",
+      "next_timestamp": "2024-04-03T14:05:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T14:00:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T14:00:12Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T14:05:39Z",
+      "previous_timestamp": "2024-04-03T14:00:38Z",
+      "next_timestamp": "2024-04-03T14:10:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T14:05:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T14:05:27Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T14:10:39Z",
+      "previous_timestamp": "2024-04-03T14:05:39Z",
+      "next_timestamp": "2024-04-03T14:15:38Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T14:09:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T14:09:54Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T14:15:38Z",
+      "previous_timestamp": "2024-04-03T14:10:39Z",
+      "next_timestamp": "2024-04-03T14:20:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T14:14:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T14:14:26Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.59
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T14:20:39Z",
+      "previous_timestamp": "2024-04-03T14:15:38Z",
+      "next_timestamp": "2024-04-03T14:25:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T14:19:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T14:19:47Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T14:25:39Z",
+      "previous_timestamp": "2024-04-03T14:20:39Z",
+      "next_timestamp": "2024-04-03T14:30:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T14:24:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T14:24:57Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T14:30:39Z",
+      "previous_timestamp": "2024-04-03T14:25:39Z",
+      "next_timestamp": "2024-04-03T14:35:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T14:30:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T14:30:12Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 3.8
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.27
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T14:35:39Z",
+      "previous_timestamp": "2024-04-03T14:30:39Z",
+      "next_timestamp": "2024-04-03T14:40:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T14:35:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T14:35:23Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 4.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T14:40:39Z",
+      "previous_timestamp": "2024-04-03T14:35:39Z",
+      "next_timestamp": "2024-04-03T14:45:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T14:39:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T14:39:11Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 4.4
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.21
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T14:45:39Z",
+      "previous_timestamp": "2024-04-03T14:40:39Z",
+      "next_timestamp": "2024-04-03T14:50:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T14:45:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T14:45:29Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 5.6
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T14:50:39Z",
+      "previous_timestamp": "2024-04-03T14:45:39Z",
+      "next_timestamp": "2024-04-03T14:55:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T14:50:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T14:50:17Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 6.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.12
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T14:55:39Z",
+      "previous_timestamp": "2024-04-03T14:50:39Z",
+      "next_timestamp": "2024-04-03T15:00:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T14:55:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T14:55:02Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 5.6
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T15:00:39Z",
+      "previous_timestamp": "2024-04-03T14:55:39Z",
+      "next_timestamp": "2024-04-03T15:05:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T15:00:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T15:00:22Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 7.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.11
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T15:05:39Z",
+      "previous_timestamp": "2024-04-03T15:00:39Z",
+      "next_timestamp": "2024-04-03T15:10:38Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T15:04:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T15:04:54Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 6.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.12
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T15:10:38Z",
+      "previous_timestamp": "2024-04-03T15:05:39Z",
+      "next_timestamp": "2024-04-03T15:15:38Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T15:10:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T15:10:13Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 6.5
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.11
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T15:15:38Z",
+      "previous_timestamp": "2024-04-03T15:10:38Z",
+      "next_timestamp": "2024-04-03T15:20:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T15:14:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T15:14:06Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 6.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.12
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T15:20:39Z",
+      "previous_timestamp": "2024-04-03T15:15:38Z",
+      "next_timestamp": "2024-04-03T15:25:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T15:20:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T15:20:09Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.08
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T15:25:39Z",
+      "previous_timestamp": "2024-04-03T15:20:39Z",
+      "next_timestamp": "2024-04-03T15:30:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T15:24:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T15:24:58Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 8.5
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T15:30:39Z",
+      "previous_timestamp": "2024-04-03T15:25:39Z",
+      "next_timestamp": "2024-04-03T15:35:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T15:30:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T15:30:28Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.08
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T15:35:39Z",
+      "previous_timestamp": "2024-04-03T15:30:39Z",
+      "next_timestamp": "2024-04-03T15:40:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T15:35:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T15:35:11Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 11.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T15:40:39Z",
+      "previous_timestamp": "2024-04-03T15:35:39Z",
+      "next_timestamp": "2024-04-03T15:45:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T15:39:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T15:39:54Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 11.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T15:45:39Z",
+      "previous_timestamp": "2024-04-03T15:40:39Z",
+      "next_timestamp": "2024-04-03T15:50:38Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T15:44:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T15:44:41Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 11.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T15:50:38Z",
+      "previous_timestamp": "2024-04-03T15:45:39Z",
+      "next_timestamp": "2024-04-03T15:55:38Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T15:50:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T15:50:24Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 11.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.03
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T15:55:38Z",
+      "previous_timestamp": "2024-04-03T15:50:38Z",
+      "next_timestamp": "2024-04-03T16:00:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T15:55:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T15:55:11Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 12.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.04
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T16:00:39Z",
+      "previous_timestamp": "2024-04-03T15:55:38Z",
+      "next_timestamp": "2024-04-03T16:05:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T16:00:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T16:00:29Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 9.5
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T16:05:39Z",
+      "previous_timestamp": "2024-04-03T16:00:39Z",
+      "next_timestamp": "2024-04-03T16:10:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T16:05:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T16:05:24Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 9.5
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T16:10:39Z",
+      "previous_timestamp": "2024-04-03T16:05:39Z",
+      "next_timestamp": "2024-04-03T16:15:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T16:10:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T16:10:11Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 12.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.04
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T16:15:39Z",
+      "previous_timestamp": "2024-04-03T16:10:39Z",
+      "next_timestamp": "2024-04-03T16:20:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T16:14:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T16:14:51Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 12.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.04
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T16:20:39Z",
+      "previous_timestamp": "2024-04-03T16:15:39Z",
+      "next_timestamp": "2024-04-03T16:25:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T16:20:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T16:20:34Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 10.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T16:25:39Z",
+      "previous_timestamp": "2024-04-03T16:20:39Z",
+      "next_timestamp": "2024-04-03T16:30:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T16:23:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T16:23:48Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T16:30:39Z",
+      "previous_timestamp": "2024-04-03T16:25:39Z",
+      "next_timestamp": "2024-04-03T16:35:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T16:30:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T16:30:16Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 10.5
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T16:35:39Z",
+      "previous_timestamp": "2024-04-03T16:30:39Z",
+      "next_timestamp": "2024-04-03T16:40:39Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T16:33:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T16:33:28Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 14.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.02
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T16:40:39Z",
+      "previous_timestamp": "2024-04-03T16:35:39Z",
+      "next_timestamp": "2024-04-03T16:45:38Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T16:40:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T16:40:05Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 31.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-03T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-03T16:45:38Z",
+      "previous_timestamp": "2024-04-03T16:40:39Z",
+      "next_timestamp": "2024-04-03T16:50:40Z",
+      "data": {
+        "id": "bdf52c85c046c8f42e5d4b5adaf54694",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-03T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-03T16:40:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-03T16:40:48Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 31.0
+                  },
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

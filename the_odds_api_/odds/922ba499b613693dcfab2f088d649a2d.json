@@ -1,0 +1,1796 @@
+[
+  {
+    "timestamp": "2024-03-24T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T13:55:38Z",
+      "previous_timestamp": "2024-03-24T13:50:38Z",
+      "next_timestamp": "2024-03-24T14:00:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T13:55:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T13:55:09Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.68
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T14:00:38Z",
+      "previous_timestamp": "2024-03-24T13:55:38Z",
+      "next_timestamp": "2024-03-24T14:05:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T13:56:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T13:56:34Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.68
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T14:05:38Z",
+      "previous_timestamp": "2024-03-24T14:00:38Z",
+      "next_timestamp": "2024-03-24T14:10:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T14:05:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T14:05:28Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T14:10:38Z",
+      "previous_timestamp": "2024-03-24T14:05:38Z",
+      "next_timestamp": "2024-03-24T14:15:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T14:10:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T14:10:27Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T14:15:38Z",
+      "previous_timestamp": "2024-03-24T14:10:38Z",
+      "next_timestamp": "2024-03-24T14:20:40Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T14:15:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T14:15:10Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T14:20:40Z",
+      "previous_timestamp": "2024-03-24T14:15:38Z",
+      "next_timestamp": "2024-03-24T14:25:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T14:20:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T14:20:08Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T14:25:38Z",
+      "previous_timestamp": "2024-03-24T14:20:40Z",
+      "next_timestamp": "2024-03-24T14:30:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T14:24:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T14:24:51Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T14:30:38Z",
+      "previous_timestamp": "2024-03-24T14:25:38Z",
+      "next_timestamp": "2024-03-24T14:35:39Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T14:30:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T14:30:03Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T14:35:39Z",
+      "previous_timestamp": "2024-03-24T14:30:38Z",
+      "next_timestamp": "2024-03-24T14:40:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T14:35:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T14:35:10Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T14:40:38Z",
+      "previous_timestamp": "2024-03-24T14:35:39Z",
+      "next_timestamp": "2024-03-24T14:45:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T14:39:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T14:39:51Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T14:45:38Z",
+      "previous_timestamp": "2024-03-24T14:40:38Z",
+      "next_timestamp": "2024-03-24T14:50:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T14:43:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T14:43:42Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T14:50:38Z",
+      "previous_timestamp": "2024-03-24T14:45:38Z",
+      "next_timestamp": "2024-03-24T14:55:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T14:50:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T14:50:29Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T14:55:38Z",
+      "previous_timestamp": "2024-03-24T14:50:38Z",
+      "next_timestamp": "2024-03-24T15:00:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T14:54:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T14:54:55Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T15:00:38Z",
+      "previous_timestamp": "2024-03-24T14:55:38Z",
+      "next_timestamp": "2024-03-24T15:05:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T14:58:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T14:58:55Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T15:05:38Z",
+      "previous_timestamp": "2024-03-24T15:00:38Z",
+      "next_timestamp": "2024-03-24T15:10:39Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T15:05:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T15:05:17Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T15:10:39Z",
+      "previous_timestamp": "2024-03-24T15:05:38Z",
+      "next_timestamp": "2024-03-24T15:15:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T15:10:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T15:10:03Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T15:15:38Z",
+      "previous_timestamp": "2024-03-24T15:10:39Z",
+      "next_timestamp": "2024-03-24T15:20:39Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T15:15:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T15:15:07Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T15:20:39Z",
+      "previous_timestamp": "2024-03-24T15:15:38Z",
+      "next_timestamp": "2024-03-24T15:25:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T15:20:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T15:20:11Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T15:25:38Z",
+      "previous_timestamp": "2024-03-24T15:20:39Z",
+      "next_timestamp": "2024-03-24T15:30:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T15:24:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T15:24:52Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T15:30:38Z",
+      "previous_timestamp": "2024-03-24T15:25:38Z",
+      "next_timestamp": "2024-03-24T15:35:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T15:30:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T15:30:34Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.7
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.48
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T15:35:38Z",
+      "previous_timestamp": "2024-03-24T15:30:38Z",
+      "next_timestamp": "2024-03-24T15:40:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T15:35:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T15:35:36Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T15:40:38Z",
+      "previous_timestamp": "2024-03-24T15:35:38Z",
+      "next_timestamp": "2024-03-24T15:45:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T15:40:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T15:40:12Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T15:45:38Z",
+      "previous_timestamp": "2024-03-24T15:40:38Z",
+      "next_timestamp": "2024-03-24T15:50:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T15:44:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T15:44:39Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T15:50:38Z",
+      "previous_timestamp": "2024-03-24T15:45:38Z",
+      "next_timestamp": "2024-03-24T15:55:39Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T15:49:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T15:49:04Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T15:55:39Z",
+      "previous_timestamp": "2024-03-24T15:50:38Z",
+      "next_timestamp": "2024-03-24T16:00:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T15:55:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T15:55:34Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T16:00:38Z",
+      "previous_timestamp": "2024-03-24T15:55:39Z",
+      "next_timestamp": "2024-03-24T16:05:39Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:00:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:00:01Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T16:05:39Z",
+      "previous_timestamp": "2024-03-24T16:00:38Z",
+      "next_timestamp": "2024-03-24T16:10:39Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:04:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:04:38Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T16:10:39Z",
+      "previous_timestamp": "2024-03-24T16:05:39Z",
+      "next_timestamp": "2024-03-24T16:15:39Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:10:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:10:26Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T16:15:39Z",
+      "previous_timestamp": "2024-03-24T16:10:39Z",
+      "next_timestamp": "2024-03-24T16:20:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:14:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:14:51Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.9
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.26
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T16:20:38Z",
+      "previous_timestamp": "2024-03-24T16:15:39Z",
+      "next_timestamp": "2024-03-24T16:25:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:20:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:20:25Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T16:25:38Z",
+      "previous_timestamp": "2024-03-24T16:20:38Z",
+      "next_timestamp": "2024-03-24T16:30:39Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:24:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:24:52Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.6
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T16:30:39Z",
+      "previous_timestamp": "2024-03-24T16:25:38Z",
+      "next_timestamp": "2024-03-24T16:35:39Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:30:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:30:24Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.31
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T16:35:39Z",
+      "previous_timestamp": "2024-03-24T16:30:39Z",
+      "next_timestamp": "2024-03-24T16:40:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:34:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:34:52Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T16:40:38Z",
+      "previous_timestamp": "2024-03-24T16:35:39Z",
+      "next_timestamp": "2024-03-24T16:45:39Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:40:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:40:20Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.34
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T16:45:39Z",
+      "previous_timestamp": "2024-03-24T16:40:38Z",
+      "next_timestamp": "2024-03-24T16:50:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:44:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:44:38Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.31
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T16:50:38Z",
+      "previous_timestamp": "2024-03-24T16:45:39Z",
+      "next_timestamp": "2024-03-24T16:55:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:50:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:50:30Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T16:55:38Z",
+      "previous_timestamp": "2024-03-24T16:50:38Z",
+      "next_timestamp": "2024-03-24T17:00:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:54:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:54:46Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 8.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T17:00:38Z",
+      "previous_timestamp": "2024-03-24T16:55:38Z",
+      "next_timestamp": "2024-03-24T17:05:39Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T16:59:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T16:59:14Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 10.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T17:05:39Z",
+      "previous_timestamp": "2024-03-24T17:00:38Z",
+      "next_timestamp": "2024-03-24T17:10:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T17:04:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T17:04:49Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 7.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.11
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T17:10:38Z",
+      "previous_timestamp": "2024-03-24T17:05:39Z",
+      "next_timestamp": "2024-03-24T17:15:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T17:09:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T17:09:19Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 8.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T17:15:38Z",
+      "previous_timestamp": "2024-03-24T17:10:38Z",
+      "next_timestamp": "2024-03-24T17:20:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T17:14:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T17:14:52Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T17:20:38Z",
+      "previous_timestamp": "2024-03-24T17:15:38Z",
+      "next_timestamp": "2024-03-24T17:25:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T17:20:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T17:20:30Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.3
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.22
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T17:25:38Z",
+      "previous_timestamp": "2024-03-24T17:20:38Z",
+      "next_timestamp": "2024-03-24T17:30:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T17:24:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T17:24:52Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.1
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.23
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T17:30:38Z",
+      "previous_timestamp": "2024-03-24T17:25:38Z",
+      "next_timestamp": "2024-03-24T17:35:39Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T17:29:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T17:29:20Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.9
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.42
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T17:35:39Z",
+      "previous_timestamp": "2024-03-24T17:30:38Z",
+      "next_timestamp": "2024-03-24T17:40:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T17:33:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T17:33:43Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-24T17:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-24T17:40:38Z",
+      "previous_timestamp": "2024-03-24T17:35:39Z",
+      "next_timestamp": "2024-03-24T17:45:38Z",
+      "data": {
+        "id": "922ba499b613693dcfab2f088d649a2d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-24T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Mumbai Indians",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-24T17:40:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-24T17:40:25Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.69
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

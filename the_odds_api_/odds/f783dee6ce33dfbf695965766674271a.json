@@ -1,0 +1,1835 @@
+[
+  {
+    "timestamp": "2024-04-14T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T13:55:39Z",
+      "previous_timestamp": "2024-04-14T13:50:38Z",
+      "next_timestamp": "2024-04-14T14:00:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T13:55:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T13:55:13Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.57
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T14:00:38Z",
+      "previous_timestamp": "2024-04-14T13:55:39Z",
+      "next_timestamp": "2024-04-14T14:05:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:00:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:00:03Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T14:05:38Z",
+      "previous_timestamp": "2024-04-14T14:00:38Z",
+      "next_timestamp": "2024-04-14T14:10:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:04:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:04:58Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T14:10:38Z",
+      "previous_timestamp": "2024-04-14T14:05:38Z",
+      "next_timestamp": "2024-04-14T14:15:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:09:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:09:46Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T14:15:38Z",
+      "previous_timestamp": "2024-04-14T14:10:38Z",
+      "next_timestamp": "2024-04-14T14:20:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:14:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:14:31Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T14:20:38Z",
+      "previous_timestamp": "2024-04-14T14:15:38Z",
+      "next_timestamp": "2024-04-14T14:25:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:19:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:19:25Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T14:25:38Z",
+      "previous_timestamp": "2024-04-14T14:20:38Z",
+      "next_timestamp": "2024-04-14T14:30:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:25:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:25:14Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T14:30:38Z",
+      "previous_timestamp": "2024-04-14T14:25:38Z",
+      "next_timestamp": "2024-04-14T14:35:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:27:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:27:47Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T14:35:38Z",
+      "previous_timestamp": "2024-04-14T14:30:38Z",
+      "next_timestamp": "2024-04-14T14:40:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:35:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:35:00Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T14:40:38Z",
+      "previous_timestamp": "2024-04-14T14:35:38Z",
+      "next_timestamp": "2024-04-14T14:45:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:38:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:38:50Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T14:45:38Z",
+      "previous_timestamp": "2024-04-14T14:40:38Z",
+      "next_timestamp": "2024-04-14T14:50:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:44:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:44:45Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.57
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T14:50:38Z",
+      "previous_timestamp": "2024-04-14T14:45:38Z",
+      "next_timestamp": "2024-04-14T14:55:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:49:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:49:39Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T14:55:38Z",
+      "previous_timestamp": "2024-04-14T14:50:38Z",
+      "next_timestamp": "2024-04-14T15:00:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:54:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:54:35Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T15:00:38Z",
+      "previous_timestamp": "2024-04-14T14:55:38Z",
+      "next_timestamp": "2024-04-14T15:05:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T14:59:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T14:59:35Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.74
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T15:05:38Z",
+      "previous_timestamp": "2024-04-14T15:00:38Z",
+      "next_timestamp": "2024-04-14T15:10:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T15:04:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T15:04:35Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.74
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T15:10:38Z",
+      "previous_timestamp": "2024-04-14T15:05:38Z",
+      "next_timestamp": "2024-04-14T15:15:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T15:08:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T15:08:24Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T15:15:38Z",
+      "previous_timestamp": "2024-04-14T15:10:38Z",
+      "next_timestamp": "2024-04-14T15:20:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T15:14:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T15:14:45Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T15:20:38Z",
+      "previous_timestamp": "2024-04-14T15:15:38Z",
+      "next_timestamp": "2024-04-14T15:25:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T15:20:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T15:20:02Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T15:25:38Z",
+      "previous_timestamp": "2024-04-14T15:20:38Z",
+      "next_timestamp": "2024-04-14T15:30:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T15:25:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T15:25:10Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T15:30:38Z",
+      "previous_timestamp": "2024-04-14T15:25:38Z",
+      "next_timestamp": "2024-04-14T15:35:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T15:30:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T15:30:09Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T15:35:38Z",
+      "previous_timestamp": "2024-04-14T15:30:38Z",
+      "next_timestamp": "2024-04-14T15:40:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T15:34:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T15:34:05Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T15:40:38Z",
+      "previous_timestamp": "2024-04-14T15:35:38Z",
+      "next_timestamp": "2024-04-14T15:45:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T15:40:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T15:40:11Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T15:45:38Z",
+      "previous_timestamp": "2024-04-14T15:40:38Z",
+      "next_timestamp": "2024-04-14T15:50:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T15:44:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T15:44:12Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.91
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.91
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T15:50:38Z",
+      "previous_timestamp": "2024-04-14T15:45:38Z",
+      "next_timestamp": "2024-04-14T15:55:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T15:50:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T15:50:28Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T15:55:38Z",
+      "previous_timestamp": "2024-04-14T15:50:38Z",
+      "next_timestamp": "2024-04-14T16:00:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T15:54:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T15:54:28Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T16:00:38Z",
+      "previous_timestamp": "2024-04-14T15:55:38Z",
+      "next_timestamp": "2024-04-14T16:05:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T15:59:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T15:59:33Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T16:05:38Z",
+      "previous_timestamp": "2024-04-14T16:00:38Z",
+      "next_timestamp": "2024-04-14T16:10:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T16:04:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T16:04:45Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T16:10:38Z",
+      "previous_timestamp": "2024-04-14T16:05:38Z",
+      "next_timestamp": "2024-04-14T16:15:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T16:08:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T16:08:22Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T16:15:38Z",
+      "previous_timestamp": "2024-04-14T16:10:38Z",
+      "next_timestamp": "2024-04-14T16:20:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T16:14:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T16:14:51Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T16:20:38Z",
+      "previous_timestamp": "2024-04-14T16:15:38Z",
+      "next_timestamp": "2024-04-14T16:25:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T16:19:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T16:19:59Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T16:25:38Z",
+      "previous_timestamp": "2024-04-14T16:20:38Z",
+      "next_timestamp": "2024-04-14T16:30:39Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T16:25:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T16:25:08Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T16:30:39Z",
+      "previous_timestamp": "2024-04-14T16:25:38Z",
+      "next_timestamp": "2024-04-14T16:35:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T16:30:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T16:30:14Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.1
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T16:35:38Z",
+      "previous_timestamp": "2024-04-14T16:30:39Z",
+      "next_timestamp": "2024-04-14T16:40:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T16:35:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T16:35:25Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T16:40:38Z",
+      "previous_timestamp": "2024-04-14T16:35:38Z",
+      "next_timestamp": "2024-04-14T16:45:39Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T16:39:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T16:39:15Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T16:45:39Z",
+      "previous_timestamp": "2024-04-14T16:40:38Z",
+      "next_timestamp": "2024-04-14T16:50:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T16:43:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T16:43:21Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T16:50:38Z",
+      "previous_timestamp": "2024-04-14T16:45:39Z",
+      "next_timestamp": "2024-04-14T16:55:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T16:49:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T16:49:48Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T16:55:38Z",
+      "previous_timestamp": "2024-04-14T16:50:38Z",
+      "next_timestamp": "2024-04-14T17:00:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T16:54:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T16:54:57Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T17:00:38Z",
+      "previous_timestamp": "2024-04-14T16:55:38Z",
+      "next_timestamp": "2024-04-14T17:05:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T17:00:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T17:00:06Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T17:05:38Z",
+      "previous_timestamp": "2024-04-14T17:00:38Z",
+      "next_timestamp": "2024-04-14T17:10:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T17:05:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T17:05:11Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T17:10:38Z",
+      "previous_timestamp": "2024-04-14T17:05:38Z",
+      "next_timestamp": "2024-04-14T17:15:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T17:10:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T17:10:19Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T17:15:38Z",
+      "previous_timestamp": "2024-04-14T17:10:38Z",
+      "next_timestamp": "2024-04-14T17:20:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T17:12:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T17:12:55Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T17:20:38Z",
+      "previous_timestamp": "2024-04-14T17:15:38Z",
+      "next_timestamp": "2024-04-14T17:25:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T17:19:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T17:19:26Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 3.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T17:25:38Z",
+      "previous_timestamp": "2024-04-14T17:20:38Z",
+      "next_timestamp": "2024-04-14T17:30:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T17:24:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T17:24:37Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T17:30:38Z",
+      "previous_timestamp": "2024-04-14T17:25:38Z",
+      "next_timestamp": "2024-04-14T17:35:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T17:29:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T17:29:47Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T17:35:38Z",
+      "previous_timestamp": "2024-04-14T17:30:38Z",
+      "next_timestamp": "2024-04-14T17:40:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T17:34:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T17:34:53Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 7.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T17:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T17:40:38Z",
+      "previous_timestamp": "2024-04-14T17:35:38Z",
+      "next_timestamp": "2024-04-14T17:45:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T17:39:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T17:39:48Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-14T17:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-14T17:45:38Z",
+      "previous_timestamp": "2024-04-14T17:40:38Z",
+      "next_timestamp": "2024-04-14T17:50:38Z",
+      "data": {
+        "id": "f783dee6ce33dfbf695965766674271a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-14T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Chennai Super Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-14T17:44:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-14T17:44:49Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

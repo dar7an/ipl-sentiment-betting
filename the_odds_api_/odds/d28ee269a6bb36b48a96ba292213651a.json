@@ -1,0 +1,1757 @@
+[
+  {
+    "timestamp": "2024-04-13T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T13:55:39Z",
+      "previous_timestamp": "2024-04-13T13:50:39Z",
+      "next_timestamp": "2024-04-13T14:00:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T13:55:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T13:55:09Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.18
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T14:00:39Z",
+      "previous_timestamp": "2024-04-13T13:55:39Z",
+      "next_timestamp": "2024-04-13T14:05:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T13:58:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T13:58:13Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T14:05:39Z",
+      "previous_timestamp": "2024-04-13T14:00:39Z",
+      "next_timestamp": "2024-04-13T14:10:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T14:04:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T14:04:18Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T14:10:39Z",
+      "previous_timestamp": "2024-04-13T14:05:39Z",
+      "next_timestamp": "2024-04-13T14:15:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T14:10:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T14:10:32Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T14:15:39Z",
+      "previous_timestamp": "2024-04-13T14:10:39Z",
+      "next_timestamp": "2024-04-13T14:20:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T14:15:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T14:15:16Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T14:20:39Z",
+      "previous_timestamp": "2024-04-13T14:15:39Z",
+      "next_timestamp": "2024-04-13T14:25:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T14:20:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T14:20:00Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T14:25:39Z",
+      "previous_timestamp": "2024-04-13T14:20:39Z",
+      "next_timestamp": "2024-04-13T14:30:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T14:21:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T14:21:33Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T14:30:39Z",
+      "previous_timestamp": "2024-04-13T14:25:39Z",
+      "next_timestamp": "2024-04-13T14:35:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T14:29:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T14:29:31Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T14:35:39Z",
+      "previous_timestamp": "2024-04-13T14:30:39Z",
+      "next_timestamp": "2024-04-13T14:40:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T14:31:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T14:31:05Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T14:40:39Z",
+      "previous_timestamp": "2024-04-13T14:35:39Z",
+      "next_timestamp": "2024-04-13T14:45:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T14:40:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T14:40:20Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.33
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T14:45:39Z",
+      "previous_timestamp": "2024-04-13T14:40:39Z",
+      "next_timestamp": "2024-04-13T14:50:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T14:44:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T14:44:58Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.31
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T14:50:38Z",
+      "previous_timestamp": "2024-04-13T14:45:39Z",
+      "next_timestamp": "2024-04-13T14:55:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T14:48:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T14:48:01Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.27
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T14:55:39Z",
+      "previous_timestamp": "2024-04-13T14:50:38Z",
+      "next_timestamp": "2024-04-13T15:00:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T14:54:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T14:54:10Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.2
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.23
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T15:00:39Z",
+      "previous_timestamp": "2024-04-13T14:55:39Z",
+      "next_timestamp": "2024-04-13T15:05:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:00:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:00:22Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.31
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T15:05:38Z",
+      "previous_timestamp": "2024-04-13T15:00:39Z",
+      "next_timestamp": "2024-04-13T15:10:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:04:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:04:56Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.4
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.21
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T15:10:39Z",
+      "previous_timestamp": "2024-04-13T15:05:38Z",
+      "next_timestamp": "2024-04-13T15:15:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:09:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:09:34Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.9
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T15:15:39Z",
+      "previous_timestamp": "2024-04-13T15:10:39Z",
+      "next_timestamp": "2024-04-13T15:20:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:14:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:14:16Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T15:20:39Z",
+      "previous_timestamp": "2024-04-13T15:15:39Z",
+      "next_timestamp": "2024-04-13T15:25:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:20:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:20:23Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.28
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T15:25:39Z",
+      "previous_timestamp": "2024-04-13T15:20:39Z",
+      "next_timestamp": "2024-04-13T15:30:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:25:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:25:02Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.9
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T15:30:39Z",
+      "previous_timestamp": "2024-04-13T15:25:39Z",
+      "next_timestamp": "2024-04-13T15:35:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:29:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:29:36Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.9
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.26
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T15:35:38Z",
+      "previous_timestamp": "2024-04-13T15:30:39Z",
+      "next_timestamp": "2024-04-13T15:40:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:34:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:34:49Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.9
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T15:40:38Z",
+      "previous_timestamp": "2024-04-13T15:35:38Z",
+      "next_timestamp": "2024-04-13T15:45:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:39:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:39:06Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.9
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.26
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T15:45:39Z",
+      "previous_timestamp": "2024-04-13T15:40:38Z",
+      "next_timestamp": "2024-04-13T15:50:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:41:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:41:28Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.1
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T15:50:38Z",
+      "previous_timestamp": "2024-04-13T15:45:39Z",
+      "next_timestamp": "2024-04-13T15:55:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:48:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:48:33Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T15:55:39Z",
+      "previous_timestamp": "2024-04-13T15:50:38Z",
+      "next_timestamp": "2024-04-13T16:00:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:53:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:53:53Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T16:00:39Z",
+      "previous_timestamp": "2024-04-13T15:55:39Z",
+      "next_timestamp": "2024-04-13T16:05:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T15:57:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T15:57:53Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T16:05:38Z",
+      "previous_timestamp": "2024-04-13T16:00:39Z",
+      "next_timestamp": "2024-04-13T16:10:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T16:05:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T16:05:25Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T16:10:38Z",
+      "previous_timestamp": "2024-04-13T16:05:38Z",
+      "next_timestamp": "2024-04-13T16:15:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T16:10:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T16:10:13Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T16:15:38Z",
+      "previous_timestamp": "2024-04-13T16:10:38Z",
+      "next_timestamp": "2024-04-13T16:20:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T16:14:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T16:14:45Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 6.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.11
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T16:20:38Z",
+      "previous_timestamp": "2024-04-13T16:15:38Z",
+      "next_timestamp": "2024-04-13T16:25:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T16:20:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T16:20:04Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T16:25:39Z",
+      "previous_timestamp": "2024-04-13T16:20:38Z",
+      "next_timestamp": "2024-04-13T16:30:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T16:24:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T16:24:16Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 8.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T16:30:38Z",
+      "previous_timestamp": "2024-04-13T16:25:39Z",
+      "next_timestamp": "2024-04-13T16:35:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T16:29:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T16:29:57Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 7.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.09
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T16:35:38Z",
+      "previous_timestamp": "2024-04-13T16:30:38Z",
+      "next_timestamp": "2024-04-13T16:40:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T16:34:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T16:34:15Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 10.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T16:40:38Z",
+      "previous_timestamp": "2024-04-13T16:35:38Z",
+      "next_timestamp": "2024-04-13T16:45:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T16:39:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T16:39:49Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 7.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.09
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T16:45:38Z",
+      "previous_timestamp": "2024-04-13T16:40:38Z",
+      "next_timestamp": "2024-04-13T16:50:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T16:43:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T16:43:48Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 7.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.09
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T16:50:38Z",
+      "previous_timestamp": "2024-04-13T16:45:38Z",
+      "next_timestamp": "2024-04-13T16:55:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T16:48:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T16:48:18Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 12.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.04
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T16:55:39Z",
+      "previous_timestamp": "2024-04-13T16:50:38Z",
+      "next_timestamp": "2024-04-13T17:00:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T16:53:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T16:53:50Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 8.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T17:00:38Z",
+      "previous_timestamp": "2024-04-13T16:55:39Z",
+      "next_timestamp": "2024-04-13T17:05:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T17:00:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T17:00:28Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 8.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T17:05:38Z",
+      "previous_timestamp": "2024-04-13T17:00:38Z",
+      "next_timestamp": "2024-04-13T17:10:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T17:04:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T17:04:40Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.4
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.21
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T17:10:38Z",
+      "previous_timestamp": "2024-04-13T17:05:38Z",
+      "next_timestamp": "2024-04-13T17:15:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T17:08:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T17:08:32Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.27
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T17:15:39Z",
+      "previous_timestamp": "2024-04-13T17:10:38Z",
+      "next_timestamp": "2024-04-13T17:20:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T17:14:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T17:14:01Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.1
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.23
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T17:20:39Z",
+      "previous_timestamp": "2024-04-13T17:15:39Z",
+      "next_timestamp": "2024-04-13T17:25:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T17:18:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T17:18:15Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T17:25:38Z",
+      "previous_timestamp": "2024-04-13T17:20:39Z",
+      "next_timestamp": "2024-04-13T17:30:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T17:23:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T17:23:44Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.38
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T17:30:38Z",
+      "previous_timestamp": "2024-04-13T17:25:38Z",
+      "next_timestamp": "2024-04-13T17:35:39Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T17:30:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T17:30:19Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-13T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-13T17:35:39Z",
+      "previous_timestamp": "2024-04-13T17:30:38Z",
+      "next_timestamp": "2024-04-13T17:40:38Z",
+      "data": {
+        "id": "d28ee269a6bb36b48a96ba292213651a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-13T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-13T17:34:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-13T17:34:31Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.4
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.21
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

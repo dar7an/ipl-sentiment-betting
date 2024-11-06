@@ -1,0 +1,1523 @@
+[
+  {
+    "timestamp": "2024-04-01T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T13:55:39Z",
+      "previous_timestamp": "2024-04-01T13:50:38Z",
+      "next_timestamp": "2024-04-01T14:00:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T13:54:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T13:54:09Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.79
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.02
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T14:00:39Z",
+      "previous_timestamp": "2024-04-01T13:55:39Z",
+      "next_timestamp": "2024-04-01T14:05:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:00:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:00:22Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T14:05:39Z",
+      "previous_timestamp": "2024-04-01T14:00:39Z",
+      "next_timestamp": "2024-04-01T14:10:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:04:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:04:47Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T14:10:39Z",
+      "previous_timestamp": "2024-04-01T14:05:39Z",
+      "next_timestamp": "2024-04-01T14:15:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:09:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:09:17Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T14:15:38Z",
+      "previous_timestamp": "2024-04-01T14:10:39Z",
+      "next_timestamp": "2024-04-01T14:20:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:13:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:13:48Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T14:20:38Z",
+      "previous_timestamp": "2024-04-01T14:15:38Z",
+      "next_timestamp": "2024-04-01T14:25:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:19:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:19:54Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.6
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T14:25:38Z",
+      "previous_timestamp": "2024-04-01T14:20:38Z",
+      "next_timestamp": "2024-04-01T14:30:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:24:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:24:18Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.33
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T14:30:39Z",
+      "previous_timestamp": "2024-04-01T14:25:38Z",
+      "next_timestamp": "2024-04-01T14:35:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:30:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:30:16Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T14:35:39Z",
+      "previous_timestamp": "2024-04-01T14:30:39Z",
+      "next_timestamp": "2024-04-01T14:40:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:33:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:33:11Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T14:40:38Z",
+      "previous_timestamp": "2024-04-01T14:35:39Z",
+      "next_timestamp": "2024-04-01T14:45:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:39:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:39:06Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T14:45:39Z",
+      "previous_timestamp": "2024-04-01T14:40:38Z",
+      "next_timestamp": "2024-04-01T14:50:40Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:43:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:43:39Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.35
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.59
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T14:50:40Z",
+      "previous_timestamp": "2024-04-01T14:45:39Z",
+      "next_timestamp": "2024-04-01T14:55:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:49:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:49:37Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.35
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.59
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T14:55:39Z",
+      "previous_timestamp": "2024-04-01T14:50:40Z",
+      "next_timestamp": "2024-04-01T15:00:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:51:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:51:01Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T15:00:39Z",
+      "previous_timestamp": "2024-04-01T14:55:39Z",
+      "next_timestamp": "2024-04-01T15:05:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T14:59:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T14:59:55Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 3.2
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.36
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T15:05:38Z",
+      "previous_timestamp": "2024-04-01T15:00:39Z",
+      "next_timestamp": "2024-04-01T15:10:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T15:04:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T15:04:27Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 3.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.31
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T15:10:39Z",
+      "previous_timestamp": "2024-04-01T15:05:38Z",
+      "next_timestamp": "2024-04-01T15:15:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T15:10:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T15:10:27Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.34
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T15:15:38Z",
+      "previous_timestamp": "2024-04-01T15:10:39Z",
+      "next_timestamp": "2024-04-01T15:20:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T15:14:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T15:14:53Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 4.4
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.22
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T15:20:38Z",
+      "previous_timestamp": "2024-04-01T15:15:38Z",
+      "next_timestamp": "2024-04-01T15:25:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T15:19:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T15:19:30Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 4.6
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T15:25:38Z",
+      "previous_timestamp": "2024-04-01T15:20:38Z",
+      "next_timestamp": "2024-04-01T15:30:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T15:24:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T15:24:03Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 4.6
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T15:30:39Z",
+      "previous_timestamp": "2024-04-01T15:25:38Z",
+      "next_timestamp": "2024-04-01T15:35:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T15:30:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T15:30:03Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 4.6
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T15:35:38Z",
+      "previous_timestamp": "2024-04-01T15:30:39Z",
+      "next_timestamp": "2024-04-01T15:40:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T15:34:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T15:34:24Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T15:40:39Z",
+      "previous_timestamp": "2024-04-01T15:35:38Z",
+      "next_timestamp": "2024-04-01T15:45:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T15:40:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T15:40:23Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T15:45:39Z",
+      "previous_timestamp": "2024-04-01T15:40:39Z",
+      "next_timestamp": "2024-04-01T15:50:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T15:44:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T15:44:57Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 10.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T15:50:38Z",
+      "previous_timestamp": "2024-04-01T15:45:39Z",
+      "next_timestamp": "2024-04-01T15:55:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T15:49:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T15:49:39Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 8.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T15:55:38Z",
+      "previous_timestamp": "2024-04-01T15:50:38Z",
+      "next_timestamp": "2024-04-01T16:00:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T15:54:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T15:54:17Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T16:00:39Z",
+      "previous_timestamp": "2024-04-01T15:55:38Z",
+      "next_timestamp": "2024-04-01T16:05:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:00:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:00:31Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T16:05:39Z",
+      "previous_timestamp": "2024-04-01T16:00:39Z",
+      "next_timestamp": "2024-04-01T16:10:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:05:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:05:08Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T16:10:39Z",
+      "previous_timestamp": "2024-04-01T16:05:39Z",
+      "next_timestamp": "2024-04-01T16:15:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:09:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:09:57Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 6.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.12
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T16:15:39Z",
+      "previous_timestamp": "2024-04-01T16:10:39Z",
+      "next_timestamp": "2024-04-01T16:20:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:14:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:14:39Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 6.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.11
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T16:20:38Z",
+      "previous_timestamp": "2024-04-01T16:15:39Z",
+      "next_timestamp": "2024-04-01T16:25:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:19:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:19:14Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T16:25:39Z",
+      "previous_timestamp": "2024-04-01T16:20:38Z",
+      "next_timestamp": "2024-04-01T16:30:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:25:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:25:32Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 8.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T16:30:39Z",
+      "previous_timestamp": "2024-04-01T16:25:39Z",
+      "next_timestamp": "2024-04-01T16:35:40Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:30:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:30:10Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 12.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.04
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T16:35:40Z",
+      "previous_timestamp": "2024-04-01T16:30:39Z",
+      "next_timestamp": "2024-04-01T16:40:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:34:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:34:36Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 9.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T16:40:39Z",
+      "previous_timestamp": "2024-04-01T16:35:40Z",
+      "next_timestamp": "2024-04-01T16:45:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:39:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:39:15Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 9.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T16:45:38Z",
+      "previous_timestamp": "2024-04-01T16:40:39Z",
+      "next_timestamp": "2024-04-01T16:50:38Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:45:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:45:34Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 7.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.08
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T16:50:38Z",
+      "previous_timestamp": "2024-04-01T16:45:38Z",
+      "next_timestamp": "2024-04-01T16:55:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:48:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:48:48Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 10.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T16:55:39Z",
+      "previous_timestamp": "2024-04-01T16:50:38Z",
+      "next_timestamp": "2024-04-01T17:00:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:53:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:53:44Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 13.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.03
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T17:00:39Z",
+      "previous_timestamp": "2024-04-01T16:55:39Z",
+      "next_timestamp": "2024-04-01T17:05:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T16:58:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T16:58:28Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 15.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.02
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-01T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-01T17:05:39Z",
+      "previous_timestamp": "2024-04-01T17:00:39Z",
+      "next_timestamp": "2024-04-01T17:10:39Z",
+      "data": {
+        "id": "08a240024a4c6e976f44574309347428",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-01T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-01T17:03:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-01T17:03:11Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 31.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.01
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

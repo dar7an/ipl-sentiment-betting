@@ -1,0 +1,1835 @@
+[
+  {
+    "timestamp": "2024-03-22T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T14:25:39Z",
+      "previous_timestamp": "2024-03-22T14:20:39Z",
+      "next_timestamp": "2024-03-22T14:30:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T14:25:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T14:25:30Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.75
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T14:30:38Z",
+      "previous_timestamp": "2024-03-22T14:25:39Z",
+      "next_timestamp": "2024-03-22T14:35:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T14:30:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T14:30:13Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T14:35:39Z",
+      "previous_timestamp": "2024-03-22T14:30:38Z",
+      "next_timestamp": "2024-03-22T14:40:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T14:34:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T14:34:49Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T14:40:39Z",
+      "previous_timestamp": "2024-03-22T14:35:39Z",
+      "next_timestamp": "2024-03-22T14:45:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T14:40:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T14:40:19Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T14:45:39Z",
+      "previous_timestamp": "2024-03-22T14:40:39Z",
+      "next_timestamp": "2024-03-22T14:50:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T14:44:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T14:44:54Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.69
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T14:50:38Z",
+      "previous_timestamp": "2024-03-22T14:45:39Z",
+      "next_timestamp": "2024-03-22T14:55:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T14:50:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T14:50:28Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T14:55:38Z",
+      "previous_timestamp": "2024-03-22T14:50:38Z",
+      "next_timestamp": "2024-03-22T15:00:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T14:55:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T14:55:08Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T15:00:39Z",
+      "previous_timestamp": "2024-03-22T14:55:38Z",
+      "next_timestamp": "2024-03-22T15:05:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:00:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:00:36Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T15:05:39Z",
+      "previous_timestamp": "2024-03-22T15:00:39Z",
+      "next_timestamp": "2024-03-22T15:10:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:05:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:05:28Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T15:10:39Z",
+      "previous_timestamp": "2024-03-22T15:05:39Z",
+      "next_timestamp": "2024-03-22T15:15:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:09:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:09:18Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T15:15:38Z",
+      "previous_timestamp": "2024-03-22T15:10:39Z",
+      "next_timestamp": "2024-03-22T15:20:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:14:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:14:50Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T15:20:38Z",
+      "previous_timestamp": "2024-03-22T15:15:38Z",
+      "next_timestamp": "2024-03-22T15:25:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:19:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:19:39Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T15:25:39Z",
+      "previous_timestamp": "2024-03-22T15:20:38Z",
+      "next_timestamp": "2024-03-22T15:30:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:25:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:25:24Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T15:30:39Z",
+      "previous_timestamp": "2024-03-22T15:25:39Z",
+      "next_timestamp": "2024-03-22T15:35:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:30:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:30:12Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.21
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T15:35:38Z",
+      "previous_timestamp": "2024-03-22T15:30:39Z",
+      "next_timestamp": "2024-03-22T15:40:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:35:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:35:28Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T15:40:38Z",
+      "previous_timestamp": "2024-03-22T15:35:38Z",
+      "next_timestamp": "2024-03-22T15:45:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:39:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:39:42Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.27
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T15:45:39Z",
+      "previous_timestamp": "2024-03-22T15:40:38Z",
+      "next_timestamp": "2024-03-22T15:50:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:45:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:45:18Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.42
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.85
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T15:50:39Z",
+      "previous_timestamp": "2024-03-22T15:45:39Z",
+      "next_timestamp": "2024-03-22T15:55:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:49:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:49:25Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T15:55:38Z",
+      "previous_timestamp": "2024-03-22T15:50:39Z",
+      "next_timestamp": "2024-03-22T16:00:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:53:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:53:44Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T16:00:38Z",
+      "previous_timestamp": "2024-03-22T15:55:38Z",
+      "next_timestamp": "2024-03-22T16:05:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T15:59:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T15:59:57Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T16:05:39Z",
+      "previous_timestamp": "2024-03-22T16:00:38Z",
+      "next_timestamp": "2024-03-22T16:10:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T16:05:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T16:05:34Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T16:10:38Z",
+      "previous_timestamp": "2024-03-22T16:05:39Z",
+      "next_timestamp": "2024-03-22T16:15:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T16:09:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T16:09:57Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T16:15:39Z",
+      "previous_timestamp": "2024-03-22T16:10:38Z",
+      "next_timestamp": "2024-03-22T16:20:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T16:15:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T16:15:28Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.53
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.55
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T16:20:38Z",
+      "previous_timestamp": "2024-03-22T16:15:39Z",
+      "next_timestamp": "2024-03-22T16:25:40Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T16:19:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T16:19:51Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T16:25:40Z",
+      "previous_timestamp": "2024-03-22T16:20:38Z",
+      "next_timestamp": "2024-03-22T16:30:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T16:24:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T16:24:49Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T16:30:39Z",
+      "previous_timestamp": "2024-03-22T16:25:40Z",
+      "next_timestamp": "2024-03-22T16:35:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T16:29:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T16:29:56Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T16:35:39Z",
+      "previous_timestamp": "2024-03-22T16:30:39Z",
+      "next_timestamp": "2024-03-22T16:40:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T16:35:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T16:35:07Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T16:40:38Z",
+      "previous_timestamp": "2024-03-22T16:35:39Z",
+      "next_timestamp": "2024-03-22T16:45:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T16:40:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T16:40:34Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T16:45:39Z",
+      "previous_timestamp": "2024-03-22T16:40:38Z",
+      "next_timestamp": "2024-03-22T16:50:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T16:45:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T16:45:01Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T16:50:39Z",
+      "previous_timestamp": "2024-03-22T16:45:39Z",
+      "next_timestamp": "2024-03-22T16:55:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T16:49:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T16:49:32Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T16:55:39Z",
+      "previous_timestamp": "2024-03-22T16:50:39Z",
+      "next_timestamp": "2024-03-22T17:00:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T16:55:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T16:55:16Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T17:00:39Z",
+      "previous_timestamp": "2024-03-22T16:55:39Z",
+      "next_timestamp": "2024-03-22T17:05:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T16:59:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T16:59:41Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.31
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T17:05:38Z",
+      "previous_timestamp": "2024-03-22T17:00:39Z",
+      "next_timestamp": "2024-03-22T17:10:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T17:02:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T17:02:42Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T17:10:38Z",
+      "previous_timestamp": "2024-03-22T17:05:38Z",
+      "next_timestamp": "2024-03-22T17:15:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T17:09:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T17:09:21Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.26
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T17:15:39Z",
+      "previous_timestamp": "2024-03-22T17:10:38Z",
+      "next_timestamp": "2024-03-22T17:20:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T17:14:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T17:14:49Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T17:20:39Z",
+      "previous_timestamp": "2024-03-22T17:15:39Z",
+      "next_timestamp": "2024-03-22T17:25:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T17:19:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T17:19:59Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.27
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T17:25:39Z",
+      "previous_timestamp": "2024-03-22T17:20:39Z",
+      "next_timestamp": "2024-03-22T17:30:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T17:25:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T17:25:35Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T17:30:39Z",
+      "previous_timestamp": "2024-03-22T17:25:39Z",
+      "next_timestamp": "2024-03-22T17:35:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T17:30:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T17:30:32Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T17:35:39Z",
+      "previous_timestamp": "2024-03-22T17:30:39Z",
+      "next_timestamp": "2024-03-22T17:40:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T17:34:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T17:34:04Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T17:45:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T17:40:39Z",
+      "previous_timestamp": "2024-03-22T17:35:39Z",
+      "next_timestamp": "2024-03-22T17:45:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T17:40:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T17:40:06Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.18
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T17:50:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T17:45:39Z",
+      "previous_timestamp": "2024-03-22T17:40:39Z",
+      "next_timestamp": "2024-03-22T17:50:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T17:43:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T17:43:55Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.18
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T17:55:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T17:50:39Z",
+      "previous_timestamp": "2024-03-22T17:45:39Z",
+      "next_timestamp": "2024-03-22T17:55:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T17:50:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T17:50:24Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T18:00:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T17:55:39Z",
+      "previous_timestamp": "2024-03-22T17:50:39Z",
+      "next_timestamp": "2024-03-22T18:00:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T17:55:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T17:55:05Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.18
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T18:05:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T18:00:39Z",
+      "previous_timestamp": "2024-03-22T17:55:39Z",
+      "next_timestamp": "2024-03-22T18:05:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T18:00:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T18:00:33Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.18
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T18:10:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T18:05:38Z",
+      "previous_timestamp": "2024-03-22T18:00:39Z",
+      "next_timestamp": "2024-03-22T18:10:39Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T18:04:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T18:04:49Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.08
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T18:15:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T18:10:39Z",
+      "previous_timestamp": "2024-03-22T18:05:38Z",
+      "next_timestamp": "2024-03-22T18:15:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T18:10:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T18:10:03Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-03-22T18:20:00Z",
+    "odds": {
+      "timestamp": "2024-03-22T18:15:38Z",
+      "previous_timestamp": "2024-03-22T18:10:39Z",
+      "next_timestamp": "2024-03-22T18:20:38Z",
+      "data": {
+        "id": "45b7eacdd4a34d9ed1fd4013462999b0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-03-22T14:30:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-03-22T18:14:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-03-22T18:14:17Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
