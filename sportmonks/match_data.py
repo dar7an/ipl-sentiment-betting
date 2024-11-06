@@ -22,15 +22,16 @@ def fetch_match_data(fixture_id):
 
 def main():
     # Read fixture IDs
+    season_id = input("Folder (Season Year): ")
     with open(
-        "sportmonks/fixture_ids.txt",
+        f"sportmonks/{season_id}/fixture_ids.txt",
         "r",
     ) as f:
         fixture_ids = [line.strip() for line in f if line.strip()]
 
     # Fetch and save data for each fixture
     for fixture_id in fixture_ids:
-        output_file = Path(f"sportmonks/match_data/{fixture_id}.json")
+        output_file = Path(f"sportmonks/{season_id}/match_data/{fixture_id}.json")
 
         if output_file.exists():
             print(f"Skipping {fixture_id} - already exists")

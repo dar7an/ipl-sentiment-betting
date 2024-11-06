@@ -1,0 +1,46 @@
+{
+  "data": {
+    "resource": "fixtures",
+    "id": 59258,
+    "league_id": 1,
+    "season_id": 1484,
+    "stage_id": 5219,
+    "round": "66th Match",
+    "localteam_id": 9,
+    "visitorteam_id": 1976,
+    "starting_at": "2024-05-16T14:00:00.000000Z",
+    "type": "T20",
+    "live": true,
+    "status": "Aban.",
+    "last_period": null,
+    "note": "Match abandoned without a ball bowled",
+    "venue_id": 54,
+    "toss_won_team_id": null,
+    "winner_team_id": null,
+    "draw_noresult": "no-result",
+    "first_umpire_id": 80,
+    "second_umpire_id": 335,
+    "tv_umpire_id": 158,
+    "referee_id": 2354,
+    "man_of_match_id": null,
+    "man_of_series_id": null,
+    "total_overs_played": null,
+    "elected": null,
+    "super_over": false,
+    "follow_on": false,
+    "localteam_dl_data": {
+      "score": null,
+      "overs": null,
+      "wickets_out": null
+    },
+    "visitorteam_dl_data": {
+      "score": null,
+      "overs": null,
+      "wickets_out": null
+    },
+    "rpc_overs": null,
+    "rpc_target": null,
+    "weather_report": [],
+    "balls": []
+  }
+}
