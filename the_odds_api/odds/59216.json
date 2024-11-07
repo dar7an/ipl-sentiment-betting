@@ -1,0 +1,1340 @@
+[
+  {
+    "timestamp": "2024-05-04T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T13:55:39Z",
+      "previous_timestamp": "2024-05-04T13:50:39Z",
+      "next_timestamp": "2024-05-04T14:00:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T13:55:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T13:55:22Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.68
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T14:00:39Z",
+      "previous_timestamp": "2024-05-04T13:55:39Z",
+      "next_timestamp": "2024-05-04T14:05:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T13:59:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T13:59:41Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.69
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T14:05:39Z",
+      "previous_timestamp": "2024-05-04T14:00:39Z",
+      "next_timestamp": "2024-05-04T14:10:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T14:04:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T14:04:12Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.69
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T14:10:39Z",
+      "previous_timestamp": "2024-05-04T14:05:39Z",
+      "next_timestamp": "2024-05-04T14:15:38Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T14:10:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T14:10:21Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.7
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.48
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T14:15:38Z",
+      "previous_timestamp": "2024-05-04T14:10:39Z",
+      "next_timestamp": "2024-05-04T14:20:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T14:14:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T14:14:38Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T14:20:39Z",
+      "previous_timestamp": "2024-05-04T14:15:38Z",
+      "next_timestamp": "2024-05-04T14:25:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T14:20:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T14:20:05Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.1
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T14:25:39Z",
+      "previous_timestamp": "2024-05-04T14:20:39Z",
+      "next_timestamp": "2024-05-04T14:30:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T14:25:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T14:25:00Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.5
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.31
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T14:30:39Z",
+      "previous_timestamp": "2024-05-04T14:25:39Z",
+      "next_timestamp": "2024-05-04T14:35:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T14:30:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T14:30:30Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.9
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T14:35:39Z",
+      "previous_timestamp": "2024-05-04T14:30:39Z",
+      "next_timestamp": "2024-05-04T14:40:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T14:34:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T14:34:55Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.4
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.21
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T14:40:39Z",
+      "previous_timestamp": "2024-05-04T14:35:39Z",
+      "next_timestamp": "2024-05-04T14:45:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T14:40:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T14:40:27Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.22
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T14:45:39Z",
+      "previous_timestamp": "2024-05-04T14:40:39Z",
+      "next_timestamp": "2024-05-04T14:50:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T14:45:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T14:45:00Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.9
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T14:50:39Z",
+      "previous_timestamp": "2024-05-04T14:45:39Z",
+      "next_timestamp": "2024-05-04T14:55:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T14:50:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T14:50:15Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.9
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.26
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T14:55:39Z",
+      "previous_timestamp": "2024-05-04T14:50:39Z",
+      "next_timestamp": "2024-05-04T15:00:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T14:53:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T14:53:22Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.9
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T15:00:39Z",
+      "previous_timestamp": "2024-05-04T14:55:39Z",
+      "next_timestamp": "2024-05-04T15:05:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T14:58:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T14:58:39Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.4
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.32
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T15:05:39Z",
+      "previous_timestamp": "2024-05-04T15:00:39Z",
+      "next_timestamp": "2024-05-04T15:10:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T15:04:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T15:04:10Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T15:10:39Z",
+      "previous_timestamp": "2024-05-04T15:05:39Z",
+      "next_timestamp": "2024-05-04T15:15:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T15:09:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T15:09:27Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T15:15:39Z",
+      "previous_timestamp": "2024-05-04T15:10:39Z",
+      "next_timestamp": "2024-05-04T15:20:38Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T15:14:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T15:14:57Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 5.5
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T15:20:38Z",
+      "previous_timestamp": "2024-05-04T15:15:39Z",
+      "next_timestamp": "2024-05-04T15:25:38Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T15:20:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T15:20:19Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.9
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T15:25:38Z",
+      "previous_timestamp": "2024-05-04T15:20:38Z",
+      "next_timestamp": "2024-05-04T15:30:38Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T15:24:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T15:24:39Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.9
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T15:30:38Z",
+      "previous_timestamp": "2024-05-04T15:25:38Z",
+      "next_timestamp": "2024-05-04T15:35:38Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T15:30:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T15:30:09Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.22
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T15:35:38Z",
+      "previous_timestamp": "2024-05-04T15:30:38Z",
+      "next_timestamp": "2024-05-04T15:40:38Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T15:35:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T15:35:22Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 4.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.22
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T15:40:38Z",
+      "previous_timestamp": "2024-05-04T15:35:38Z",
+      "next_timestamp": "2024-05-04T15:45:38Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T15:40:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T15:40:05Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T15:45:38Z",
+      "previous_timestamp": "2024-05-04T15:40:38Z",
+      "next_timestamp": "2024-05-04T15:50:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T15:45:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T15:45:34Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 5.3
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.17
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T15:50:39Z",
+      "previous_timestamp": "2024-05-04T15:45:38Z",
+      "next_timestamp": "2024-05-04T15:55:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T15:50:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T15:50:05Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 6.5
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.11
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T15:55:39Z",
+      "previous_timestamp": "2024-05-04T15:50:39Z",
+      "next_timestamp": "2024-05-04T16:00:38Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T15:55:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T15:55:01Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T16:00:38Z",
+      "previous_timestamp": "2024-05-04T15:55:39Z",
+      "next_timestamp": "2024-05-04T16:05:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T16:00:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T16:00:07Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T16:05:39Z",
+      "previous_timestamp": "2024-05-04T16:00:38Z",
+      "next_timestamp": "2024-05-04T16:10:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T16:04:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T16:04:26Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T16:10:39Z",
+      "previous_timestamp": "2024-05-04T16:05:39Z",
+      "next_timestamp": "2024-05-04T16:15:38Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T16:09:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T16:09:26Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T16:15:38Z",
+      "previous_timestamp": "2024-05-04T16:10:39Z",
+      "next_timestamp": "2024-05-04T16:20:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T16:14:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T16:14:58Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 11.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.02
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T16:20:39Z",
+      "previous_timestamp": "2024-05-04T16:15:38Z",
+      "next_timestamp": "2024-05-04T16:25:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T16:20:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T16:20:22Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 31.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.01
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T16:25:39Z",
+      "previous_timestamp": "2024-05-04T16:20:39Z",
+      "next_timestamp": "2024-05-04T16:30:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T16:24:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T16:24:47Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 31.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.01
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T16:30:39Z",
+      "previous_timestamp": "2024-05-04T16:25:39Z",
+      "next_timestamp": "2024-05-04T16:35:38Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T16:24:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T16:24:47Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 31.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.01
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T16:55:39Z",
+      "previous_timestamp": "2024-05-04T16:50:38Z",
+      "next_timestamp": "2024-05-04T17:00:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T17:00:39Z",
+      "previous_timestamp": "2024-05-04T16:55:39Z",
+      "next_timestamp": "2024-05-04T17:05:38Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T17:05:38Z",
+      "previous_timestamp": "2024-05-04T17:00:39Z",
+      "next_timestamp": "2024-05-04T17:10:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": []
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-04T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-04T17:10:39Z",
+      "previous_timestamp": "2024-05-04T17:05:38Z",
+      "next_timestamp": "2024-05-04T17:15:39Z",
+      "data": {
+        "id": "ff5b6654aaf45e888fb6de171dc78752",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-04T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-04T17:07:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-04T17:07:44Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 13.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.02
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

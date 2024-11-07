@@ -1,0 +1,1640 @@
+[
+  {
+    "timestamp": "2024-05-19T10:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T09:55:38Z",
+      "previous_timestamp": "2024-05-19T09:50:38Z",
+      "next_timestamp": "2024-05-19T10:00:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T09:54:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T09:54:55Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.25
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.33
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T10:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T10:00:38Z",
+      "previous_timestamp": "2024-05-19T09:55:38Z",
+      "next_timestamp": "2024-05-19T10:05:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T10:00:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T10:00:10Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T10:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T10:05:38Z",
+      "previous_timestamp": "2024-05-19T10:00:38Z",
+      "next_timestamp": "2024-05-19T10:10:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T10:05:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T10:05:25Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.6
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.51
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T10:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T10:10:38Z",
+      "previous_timestamp": "2024-05-19T10:05:38Z",
+      "next_timestamp": "2024-05-19T10:15:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T10:10:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T10:10:26Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.7
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.48
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T10:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T10:15:38Z",
+      "previous_timestamp": "2024-05-19T10:10:38Z",
+      "next_timestamp": "2024-05-19T10:20:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T10:15:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T10:15:05Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.6
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.51
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T10:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T10:20:38Z",
+      "previous_timestamp": "2024-05-19T10:15:38Z",
+      "next_timestamp": "2024-05-19T10:25:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T10:19:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T10:19:13Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T10:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T10:25:38Z",
+      "previous_timestamp": "2024-05-19T10:20:38Z",
+      "next_timestamp": "2024-05-19T10:30:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T10:24:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T10:24:33Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T10:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T10:30:38Z",
+      "previous_timestamp": "2024-05-19T10:25:38Z",
+      "next_timestamp": "2024-05-19T10:35:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T10:29:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T10:29:13Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T10:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T10:35:38Z",
+      "previous_timestamp": "2024-05-19T10:30:38Z",
+      "next_timestamp": "2024-05-19T10:40:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T10:34:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T10:34:33Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T10:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T10:40:38Z",
+      "previous_timestamp": "2024-05-19T10:35:38Z",
+      "next_timestamp": "2024-05-19T10:45:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T10:40:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T10:40:04Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T10:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T10:45:38Z",
+      "previous_timestamp": "2024-05-19T10:40:38Z",
+      "next_timestamp": "2024-05-19T10:50:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T10:44:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T10:44:32Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.91
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.91
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T10:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T10:50:38Z",
+      "previous_timestamp": "2024-05-19T10:45:38Z",
+      "next_timestamp": "2024-05-19T10:55:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T10:49:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T10:49:14Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T11:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T10:55:38Z",
+      "previous_timestamp": "2024-05-19T10:50:38Z",
+      "next_timestamp": "2024-05-19T11:00:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T10:55:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T10:55:03Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T11:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T11:00:38Z",
+      "previous_timestamp": "2024-05-19T10:55:38Z",
+      "next_timestamp": "2024-05-19T11:05:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T11:00:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T11:00:20Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T11:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T11:05:38Z",
+      "previous_timestamp": "2024-05-19T11:00:38Z",
+      "next_timestamp": "2024-05-19T11:10:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T11:04:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T11:04:29Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.42
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.85
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T11:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T11:10:38Z",
+      "previous_timestamp": "2024-05-19T11:05:38Z",
+      "next_timestamp": "2024-05-19T11:15:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T11:06:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T11:06:58Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T11:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T11:15:38Z",
+      "previous_timestamp": "2024-05-19T11:10:38Z",
+      "next_timestamp": "2024-05-19T11:20:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T11:12:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T11:12:13Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T11:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T11:20:38Z",
+      "previous_timestamp": "2024-05-19T11:15:38Z",
+      "next_timestamp": "2024-05-19T11:25:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T11:18:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T11:18:19Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T11:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T11:25:38Z",
+      "previous_timestamp": "2024-05-19T11:20:38Z",
+      "next_timestamp": "2024-05-19T11:30:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T11:25:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T11:25:28Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T11:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T11:30:38Z",
+      "previous_timestamp": "2024-05-19T11:25:38Z",
+      "next_timestamp": "2024-05-19T11:35:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T11:30:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T11:30:07Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T11:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T11:35:38Z",
+      "previous_timestamp": "2024-05-19T11:30:38Z",
+      "next_timestamp": "2024-05-19T11:40:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T11:34:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T11:34:46Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.91
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.91
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T11:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T11:40:38Z",
+      "previous_timestamp": "2024-05-19T11:35:38Z",
+      "next_timestamp": "2024-05-19T11:45:39Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T11:39:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T11:39:43Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T11:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T11:45:39Z",
+      "previous_timestamp": "2024-05-19T11:40:38Z",
+      "next_timestamp": "2024-05-19T11:50:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T11:45:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T11:45:36Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T11:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T11:50:38Z",
+      "previous_timestamp": "2024-05-19T11:45:39Z",
+      "next_timestamp": "2024-05-19T11:55:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T11:50:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T11:50:19Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T12:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T11:55:38Z",
+      "previous_timestamp": "2024-05-19T11:50:38Z",
+      "next_timestamp": "2024-05-19T12:00:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T11:54:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T11:54:57Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T12:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T12:00:38Z",
+      "previous_timestamp": "2024-05-19T11:55:38Z",
+      "next_timestamp": "2024-05-19T12:05:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T12:00:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T12:00:26Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.38
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T12:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T12:05:38Z",
+      "previous_timestamp": "2024-05-19T12:00:38Z",
+      "next_timestamp": "2024-05-19T12:10:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T12:05:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T12:05:19Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T12:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T12:10:38Z",
+      "previous_timestamp": "2024-05-19T12:05:38Z",
+      "next_timestamp": "2024-05-19T12:15:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T12:10:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T12:10:14Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T12:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T12:15:38Z",
+      "previous_timestamp": "2024-05-19T12:10:38Z",
+      "next_timestamp": "2024-05-19T12:20:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T12:15:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T12:15:28Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T12:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T12:20:38Z",
+      "previous_timestamp": "2024-05-19T12:15:38Z",
+      "next_timestamp": "2024-05-19T12:25:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T12:18:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T12:18:49Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T12:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T12:25:38Z",
+      "previous_timestamp": "2024-05-19T12:20:38Z",
+      "next_timestamp": "2024-05-19T12:30:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T12:24:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T12:24:36Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T12:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T12:30:38Z",
+      "previous_timestamp": "2024-05-19T12:25:38Z",
+      "next_timestamp": "2024-05-19T12:35:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T12:30:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T12:30:19Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T12:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T12:35:38Z",
+      "previous_timestamp": "2024-05-19T12:30:38Z",
+      "next_timestamp": "2024-05-19T12:40:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T12:34:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T12:34:46Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.57
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T12:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T12:40:38Z",
+      "previous_timestamp": "2024-05-19T12:35:38Z",
+      "next_timestamp": "2024-05-19T12:45:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T12:40:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T12:40:04Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.85
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.42
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T12:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T12:45:38Z",
+      "previous_timestamp": "2024-05-19T12:40:38Z",
+      "next_timestamp": "2024-05-19T12:50:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T12:45:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T12:45:29Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.6
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T12:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T12:50:38Z",
+      "previous_timestamp": "2024-05-19T12:45:38Z",
+      "next_timestamp": "2024-05-19T12:55:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T12:49:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T12:49:36Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T13:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T12:55:38Z",
+      "previous_timestamp": "2024-05-19T12:50:38Z",
+      "next_timestamp": "2024-05-19T13:00:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T12:54:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T12:54:19Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 10.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T13:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T13:00:38Z",
+      "previous_timestamp": "2024-05-19T12:55:38Z",
+      "next_timestamp": "2024-05-19T13:05:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T13:00:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T13:00:28Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T13:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T13:05:38Z",
+      "previous_timestamp": "2024-05-19T13:00:38Z",
+      "next_timestamp": "2024-05-19T13:10:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T13:05:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T13:05:15Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 13.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.03
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T13:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T13:10:38Z",
+      "previous_timestamp": "2024-05-19T13:05:38Z",
+      "next_timestamp": "2024-05-19T13:15:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T13:08:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T13:08:24Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 31.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.01
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T13:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T13:15:38Z",
+      "previous_timestamp": "2024-05-19T13:10:38Z",
+      "next_timestamp": "2024-05-19T13:20:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T13:08:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T13:08:24Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 31.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.01
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-19T13:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-19T13:20:38Z",
+      "previous_timestamp": "2024-05-19T13:15:38Z",
+      "next_timestamp": "2024-05-19T13:25:38Z",
+      "data": {
+        "id": "da23c93b35ff326aee7afe569ef7c8f0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-19T10:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Punjab Kings",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-19T13:18:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-19T13:18:53Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 31.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.01
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

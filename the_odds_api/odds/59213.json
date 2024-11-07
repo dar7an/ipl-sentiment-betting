@@ -1,0 +1,1796 @@
+[
+  {
+    "timestamp": "2024-05-03T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T13:55:39Z",
+      "previous_timestamp": "2024-05-03T13:50:38Z",
+      "next_timestamp": "2024-05-03T14:00:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T13:55:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T13:55:00Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T14:00:39Z",
+      "previous_timestamp": "2024-05-03T13:55:39Z",
+      "next_timestamp": "2024-05-03T14:05:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T14:00:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T14:00:21Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T14:05:39Z",
+      "previous_timestamp": "2024-05-03T14:00:39Z",
+      "next_timestamp": "2024-05-03T14:10:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T14:05:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T14:05:24Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.55
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.51
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T14:10:40Z",
+      "previous_timestamp": "2024-05-03T14:05:39Z",
+      "next_timestamp": "2024-05-03T14:15:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T14:06:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T14:06:09Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.55
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.51
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T14:15:40Z",
+      "previous_timestamp": "2024-05-03T14:10:40Z",
+      "next_timestamp": "2024-05-03T14:20:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T14:14:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T14:14:31Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.6
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T14:20:40Z",
+      "previous_timestamp": "2024-05-03T14:15:40Z",
+      "next_timestamp": "2024-05-03T14:25:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T14:19:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T14:19:55Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T14:25:40Z",
+      "previous_timestamp": "2024-05-03T14:20:40Z",
+      "next_timestamp": "2024-05-03T14:30:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T14:25:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T14:25:03Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T14:30:39Z",
+      "previous_timestamp": "2024-05-03T14:25:40Z",
+      "next_timestamp": "2024-05-03T14:35:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T14:29:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T14:29:36Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T14:35:39Z",
+      "previous_timestamp": "2024-05-03T14:30:39Z",
+      "next_timestamp": "2024-05-03T14:40:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T14:33:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T14:33:25Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 4.1
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T14:40:39Z",
+      "previous_timestamp": "2024-05-03T14:35:39Z",
+      "next_timestamp": "2024-05-03T14:45:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T14:39:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T14:39:57Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.27
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T14:45:39Z",
+      "previous_timestamp": "2024-05-03T14:40:39Z",
+      "next_timestamp": "2024-05-03T14:50:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T14:43:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T14:43:58Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.27
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T14:50:40Z",
+      "previous_timestamp": "2024-05-03T14:45:39Z",
+      "next_timestamp": "2024-05-03T14:55:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T14:50:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T14:50:35Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.2
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.36
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T14:55:39Z",
+      "previous_timestamp": "2024-05-03T14:50:40Z",
+      "next_timestamp": "2024-05-03T15:00:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T14:54:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T14:54:48Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T15:00:39Z",
+      "previous_timestamp": "2024-05-03T14:55:39Z",
+      "next_timestamp": "2024-05-03T15:05:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:00:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:00:28Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.85
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.42
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T15:05:39Z",
+      "previous_timestamp": "2024-05-03T15:00:39Z",
+      "next_timestamp": "2024-05-03T15:10:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:04:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:04:54Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T15:10:39Z",
+      "previous_timestamp": "2024-05-03T15:05:39Z",
+      "next_timestamp": "2024-05-03T15:15:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:10:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:10:23Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T15:15:40Z",
+      "previous_timestamp": "2024-05-03T15:10:39Z",
+      "next_timestamp": "2024-05-03T15:20:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:15:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:15:00Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T15:20:39Z",
+      "previous_timestamp": "2024-05-03T15:15:40Z",
+      "next_timestamp": "2024-05-03T15:25:41Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:19:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:19:57Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T15:25:41Z",
+      "previous_timestamp": "2024-05-03T15:20:39Z",
+      "next_timestamp": "2024-05-03T15:30:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:23:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:23:22Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.85
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.42
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T15:30:39Z",
+      "previous_timestamp": "2024-05-03T15:25:41Z",
+      "next_timestamp": "2024-05-03T15:35:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:30:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:30:13Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.4
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.32
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T15:35:39Z",
+      "previous_timestamp": "2024-05-03T15:30:39Z",
+      "next_timestamp": "2024-05-03T15:40:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:34:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:34:06Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.9
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T15:40:39Z",
+      "previous_timestamp": "2024-05-03T15:35:39Z",
+      "next_timestamp": "2024-05-03T15:45:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:39:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:39:21Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 4.9
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T15:45:40Z",
+      "previous_timestamp": "2024-05-03T15:40:39Z",
+      "next_timestamp": "2024-05-03T15:50:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:44:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:44:23Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 4.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T15:50:39Z",
+      "previous_timestamp": "2024-05-03T15:45:40Z",
+      "next_timestamp": "2024-05-03T15:55:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:50:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:50:27Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 4.6
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T15:55:39Z",
+      "previous_timestamp": "2024-05-03T15:50:39Z",
+      "next_timestamp": "2024-05-03T16:00:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:54:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:54:48Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 4.6
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T16:00:39Z",
+      "previous_timestamp": "2024-05-03T15:55:39Z",
+      "next_timestamp": "2024-05-03T16:05:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T15:59:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T15:59:19Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 4.6
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T16:05:39Z",
+      "previous_timestamp": "2024-05-03T16:00:39Z",
+      "next_timestamp": "2024-05-03T16:10:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T16:05:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T16:05:07Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 4.9
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T16:10:39Z",
+      "previous_timestamp": "2024-05-03T16:05:39Z",
+      "next_timestamp": "2024-05-03T16:15:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T16:08:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T16:08:29Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 6.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.11
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T16:15:39Z",
+      "previous_timestamp": "2024-05-03T16:10:39Z",
+      "next_timestamp": "2024-05-03T16:20:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T16:15:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T16:15:06Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 4.2
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.22
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T16:20:39Z",
+      "previous_timestamp": "2024-05-03T16:15:39Z",
+      "next_timestamp": "2024-05-03T16:25:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T16:19:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T16:19:33Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 6.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.11
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T16:25:39Z",
+      "previous_timestamp": "2024-05-03T16:20:39Z",
+      "next_timestamp": "2024-05-03T16:30:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T16:25:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T16:25:19Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 5.6
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T16:30:39Z",
+      "previous_timestamp": "2024-05-03T16:25:39Z",
+      "next_timestamp": "2024-05-03T16:35:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T16:29:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T16:29:40Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 5.7
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T16:35:40Z",
+      "previous_timestamp": "2024-05-03T16:30:39Z",
+      "next_timestamp": "2024-05-03T16:40:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T16:35:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T16:35:30Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.33
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T16:40:39Z",
+      "previous_timestamp": "2024-05-03T16:35:40Z",
+      "next_timestamp": "2024-05-03T16:45:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T16:40:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T16:40:34Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T16:45:40Z",
+      "previous_timestamp": "2024-05-03T16:40:39Z",
+      "next_timestamp": "2024-05-03T16:50:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T16:43:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T16:43:31Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T16:50:40Z",
+      "previous_timestamp": "2024-05-03T16:45:40Z",
+      "next_timestamp": "2024-05-03T16:55:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T16:48:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T16:48:47Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T16:55:39Z",
+      "previous_timestamp": "2024-05-03T16:50:40Z",
+      "next_timestamp": "2024-05-03T17:00:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T16:54:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T16:54:55Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T17:00:39Z",
+      "previous_timestamp": "2024-05-03T16:55:39Z",
+      "next_timestamp": "2024-05-03T17:05:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T16:59:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T16:59:36Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T17:05:39Z",
+      "previous_timestamp": "2024-05-03T17:00:39Z",
+      "next_timestamp": "2024-05-03T17:10:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T17:05:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T17:05:13Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T17:10:40Z",
+      "previous_timestamp": "2024-05-03T17:05:39Z",
+      "next_timestamp": "2024-05-03T17:15:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T17:10:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T17:10:14Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T17:15:40Z",
+      "previous_timestamp": "2024-05-03T17:10:40Z",
+      "next_timestamp": "2024-05-03T17:20:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T17:15:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T17:15:15Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.59
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T17:20:39Z",
+      "previous_timestamp": "2024-05-03T17:15:40Z",
+      "next_timestamp": "2024-05-03T17:25:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T17:20:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T17:20:25Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.85
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.42
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T17:25:39Z",
+      "previous_timestamp": "2024-05-03T17:20:39Z",
+      "next_timestamp": "2024-05-03T17:30:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T17:23:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T17:23:02Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.33
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T17:30:39Z",
+      "previous_timestamp": "2024-05-03T17:25:39Z",
+      "next_timestamp": "2024-05-03T17:35:39Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T17:30:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T17:30:16Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T17:35:39Z",
+      "previous_timestamp": "2024-05-03T17:30:39Z",
+      "next_timestamp": "2024-05-03T17:40:41Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T17:34:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T17:34:12Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 3.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-03T17:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-03T17:40:41Z",
+      "previous_timestamp": "2024-05-03T17:35:39Z",
+      "next_timestamp": "2024-05-03T17:45:40Z",
+      "data": {
+        "id": "0ae6c36cc2013631224635935ba9b08c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-03T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-03T17:39:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-03T17:39:45Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.31
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

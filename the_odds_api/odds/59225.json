@@ -1,0 +1,1757 @@
+[
+  {
+    "timestamp": "2024-05-06T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T13:55:39Z",
+      "previous_timestamp": "2024-05-06T13:50:38Z",
+      "next_timestamp": "2024-05-06T14:00:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T13:55:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T13:55:08Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T14:00:39Z",
+      "previous_timestamp": "2024-05-06T13:55:39Z",
+      "next_timestamp": "2024-05-06T14:05:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T14:00:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T14:00:07Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T14:05:38Z",
+      "previous_timestamp": "2024-05-06T14:00:39Z",
+      "next_timestamp": "2024-05-06T14:10:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T14:05:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T14:05:09Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T14:10:39Z",
+      "previous_timestamp": "2024-05-06T14:05:38Z",
+      "next_timestamp": "2024-05-06T14:15:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T14:08:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T14:08:41Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T14:15:39Z",
+      "previous_timestamp": "2024-05-06T14:10:39Z",
+      "next_timestamp": "2024-05-06T14:20:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T14:15:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T14:15:28Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T14:20:38Z",
+      "previous_timestamp": "2024-05-06T14:15:39Z",
+      "next_timestamp": "2024-05-06T14:25:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T14:20:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T14:20:35Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.91
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.91
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T14:25:38Z",
+      "previous_timestamp": "2024-05-06T14:20:38Z",
+      "next_timestamp": "2024-05-06T14:30:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T14:23:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T14:23:26Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T14:30:38Z",
+      "previous_timestamp": "2024-05-06T14:25:38Z",
+      "next_timestamp": "2024-05-06T14:35:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T14:30:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T14:30:30Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T14:35:39Z",
+      "previous_timestamp": "2024-05-06T14:30:38Z",
+      "next_timestamp": "2024-05-06T14:40:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T14:35:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T14:35:01Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T14:40:38Z",
+      "previous_timestamp": "2024-05-06T14:35:39Z",
+      "next_timestamp": "2024-05-06T14:45:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T14:40:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T14:40:13Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T14:45:39Z",
+      "previous_timestamp": "2024-05-06T14:40:38Z",
+      "next_timestamp": "2024-05-06T14:50:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T14:43:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T14:43:47Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T14:50:39Z",
+      "previous_timestamp": "2024-05-06T14:45:39Z",
+      "next_timestamp": "2024-05-06T14:55:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T14:50:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T14:50:26Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T14:55:38Z",
+      "previous_timestamp": "2024-05-06T14:50:39Z",
+      "next_timestamp": "2024-05-06T15:00:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T14:55:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T14:55:34Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T15:00:38Z",
+      "previous_timestamp": "2024-05-06T14:55:38Z",
+      "next_timestamp": "2024-05-06T15:05:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T15:00:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T15:00:00Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T15:05:38Z",
+      "previous_timestamp": "2024-05-06T15:00:38Z",
+      "next_timestamp": "2024-05-06T15:10:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T15:05:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T15:05:14Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T15:10:38Z",
+      "previous_timestamp": "2024-05-06T15:05:38Z",
+      "next_timestamp": "2024-05-06T15:15:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T15:10:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T15:10:24Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T15:15:39Z",
+      "previous_timestamp": "2024-05-06T15:10:38Z",
+      "next_timestamp": "2024-05-06T15:20:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T15:15:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T15:15:26Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T15:20:39Z",
+      "previous_timestamp": "2024-05-06T15:15:39Z",
+      "next_timestamp": "2024-05-06T15:25:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T15:19:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T15:19:59Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T15:25:38Z",
+      "previous_timestamp": "2024-05-06T15:20:39Z",
+      "next_timestamp": "2024-05-06T15:30:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T15:25:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T15:25:17Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T15:30:39Z",
+      "previous_timestamp": "2024-05-06T15:25:38Z",
+      "next_timestamp": "2024-05-06T15:35:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T15:30:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T15:30:16Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T15:35:39Z",
+      "previous_timestamp": "2024-05-06T15:30:39Z",
+      "next_timestamp": "2024-05-06T15:40:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T15:34:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T15:34:01Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T15:40:38Z",
+      "previous_timestamp": "2024-05-06T15:35:39Z",
+      "next_timestamp": "2024-05-06T15:45:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T15:39:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T15:39:11Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.21
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T15:45:38Z",
+      "previous_timestamp": "2024-05-06T15:40:38Z",
+      "next_timestamp": "2024-05-06T15:50:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T15:45:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T15:45:11Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.27
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T15:50:38Z",
+      "previous_timestamp": "2024-05-06T15:45:38Z",
+      "next_timestamp": "2024-05-06T15:55:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T15:50:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T15:50:33Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.27
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T15:55:38Z",
+      "previous_timestamp": "2024-05-06T15:50:38Z",
+      "next_timestamp": "2024-05-06T16:00:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T15:55:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T15:55:05Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T16:00:39Z",
+      "previous_timestamp": "2024-05-06T15:55:38Z",
+      "next_timestamp": "2024-05-06T16:05:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T16:00:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T16:00:25Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T16:05:39Z",
+      "previous_timestamp": "2024-05-06T16:00:39Z",
+      "next_timestamp": "2024-05-06T16:10:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T16:05:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T16:05:02Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.32
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T16:10:38Z",
+      "previous_timestamp": "2024-05-06T16:05:39Z",
+      "next_timestamp": "2024-05-06T16:15:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T16:10:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T16:10:32Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T16:15:39Z",
+      "previous_timestamp": "2024-05-06T16:10:38Z",
+      "next_timestamp": "2024-05-06T16:20:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T16:14:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T16:14:41Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.21
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T16:20:38Z",
+      "previous_timestamp": "2024-05-06T16:15:39Z",
+      "next_timestamp": "2024-05-06T16:25:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T16:19:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T16:19:51Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T16:25:38Z",
+      "previous_timestamp": "2024-05-06T16:20:38Z",
+      "next_timestamp": "2024-05-06T16:30:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T16:25:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T16:25:06Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.27
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T16:30:38Z",
+      "previous_timestamp": "2024-05-06T16:25:38Z",
+      "next_timestamp": "2024-05-06T16:35:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T16:30:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T16:30:11Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T16:35:38Z",
+      "previous_timestamp": "2024-05-06T16:30:38Z",
+      "next_timestamp": "2024-05-06T16:40:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T16:35:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T16:35:22Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T16:40:38Z",
+      "previous_timestamp": "2024-05-06T16:35:38Z",
+      "next_timestamp": "2024-05-06T16:45:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T16:40:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T16:40:02Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T16:45:38Z",
+      "previous_timestamp": "2024-05-06T16:40:38Z",
+      "next_timestamp": "2024-05-06T16:50:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T16:45:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T16:45:13Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.27
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T16:50:38Z",
+      "previous_timestamp": "2024-05-06T16:45:38Z",
+      "next_timestamp": "2024-05-06T16:55:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T16:50:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T16:50:04Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 5.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T16:55:39Z",
+      "previous_timestamp": "2024-05-06T16:50:38Z",
+      "next_timestamp": "2024-05-06T17:00:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T16:55:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T16:55:26Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T17:00:38Z",
+      "previous_timestamp": "2024-05-06T16:55:39Z",
+      "next_timestamp": "2024-05-06T17:05:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T17:00:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T17:00:10Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T17:05:39Z",
+      "previous_timestamp": "2024-05-06T17:00:38Z",
+      "next_timestamp": "2024-05-06T17:10:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T17:05:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T17:05:34Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.21
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T17:10:38Z",
+      "previous_timestamp": "2024-05-06T17:05:39Z",
+      "next_timestamp": "2024-05-06T17:15:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T17:10:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T17:10:22Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 5.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T17:15:38Z",
+      "previous_timestamp": "2024-05-06T17:10:38Z",
+      "next_timestamp": "2024-05-06T17:20:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T17:15:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T17:15:00Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 6.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T17:20:39Z",
+      "previous_timestamp": "2024-05-06T17:15:38Z",
+      "next_timestamp": "2024-05-06T17:25:38Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T17:20:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T17:20:24Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.04
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T17:25:38Z",
+      "previous_timestamp": "2024-05-06T17:20:39Z",
+      "next_timestamp": "2024-05-06T17:30:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T17:25:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T17:25:20Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T17:30:39Z",
+      "previous_timestamp": "2024-05-06T17:25:38Z",
+      "next_timestamp": "2024-05-06T17:35:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T17:29:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T17:29:57Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-06T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-06T17:35:39Z",
+      "previous_timestamp": "2024-05-06T17:30:39Z",
+      "next_timestamp": "2024-05-06T17:40:39Z",
+      "data": {
+        "id": "3ff8125b66b8941c8b37086773fb0b9a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-06T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-06T17:30:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-06T17:30:40Z",
+                "outcomes": [
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

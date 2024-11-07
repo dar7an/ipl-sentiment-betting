@@ -1,0 +1,1679 @@
+[
+  {
+    "timestamp": "2024-05-12T10:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T09:55:38Z",
+      "previous_timestamp": "2024-05-12T09:50:38Z",
+      "next_timestamp": "2024-05-12T10:00:37Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T09:54:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T09:54:48Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.82
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T10:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T10:00:37Z",
+      "previous_timestamp": "2024-05-12T09:55:38Z",
+      "next_timestamp": "2024-05-12T10:05:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T10:00:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T10:00:15Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T10:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T10:05:38Z",
+      "previous_timestamp": "2024-05-12T10:00:37Z",
+      "next_timestamp": "2024-05-12T10:10:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T10:04:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T10:04:58Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T10:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T10:10:38Z",
+      "previous_timestamp": "2024-05-12T10:05:38Z",
+      "next_timestamp": "2024-05-12T10:15:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T10:10:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T10:10:12Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T10:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T10:15:38Z",
+      "previous_timestamp": "2024-05-12T10:10:38Z",
+      "next_timestamp": "2024-05-12T10:20:37Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T10:14:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T10:14:04Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T10:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T10:20:37Z",
+      "previous_timestamp": "2024-05-12T10:15:38Z",
+      "next_timestamp": "2024-05-12T10:25:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T10:20:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T10:20:07Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T10:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T10:25:38Z",
+      "previous_timestamp": "2024-05-12T10:20:37Z",
+      "next_timestamp": "2024-05-12T10:30:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T10:25:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T10:25:03Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T10:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T10:30:38Z",
+      "previous_timestamp": "2024-05-12T10:25:38Z",
+      "next_timestamp": "2024-05-12T10:35:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T10:29:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T10:29:58Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T10:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T10:35:38Z",
+      "previous_timestamp": "2024-05-12T10:30:38Z",
+      "next_timestamp": "2024-05-12T10:40:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T10:34:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T10:34:30Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T10:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T10:40:38Z",
+      "previous_timestamp": "2024-05-12T10:35:38Z",
+      "next_timestamp": "2024-05-12T10:45:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T10:39:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T10:39:43Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T10:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T10:45:38Z",
+      "previous_timestamp": "2024-05-12T10:40:38Z",
+      "next_timestamp": "2024-05-12T10:50:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T10:44:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T10:44:32Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.42
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.85
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T10:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T10:50:38Z",
+      "previous_timestamp": "2024-05-12T10:45:38Z",
+      "next_timestamp": "2024-05-12T10:55:39Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T10:49:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T10:49:52Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T11:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T10:55:39Z",
+      "previous_timestamp": "2024-05-12T10:50:38Z",
+      "next_timestamp": "2024-05-12T11:00:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T10:54:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T10:54:22Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T11:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T11:00:38Z",
+      "previous_timestamp": "2024-05-12T10:55:39Z",
+      "next_timestamp": "2024-05-12T11:05:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:00:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:00:15Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T11:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T11:05:38Z",
+      "previous_timestamp": "2024-05-12T11:00:38Z",
+      "next_timestamp": "2024-05-12T11:10:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:04:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:04:54Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T11:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T11:10:38Z",
+      "previous_timestamp": "2024-05-12T11:05:38Z",
+      "next_timestamp": "2024-05-12T11:15:37Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:09:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:09:46Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.31
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T11:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T11:15:37Z",
+      "previous_timestamp": "2024-05-12T11:10:38Z",
+      "next_timestamp": "2024-05-12T11:20:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:14:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:14:46Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.27
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T11:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T11:20:38Z",
+      "previous_timestamp": "2024-05-12T11:15:37Z",
+      "next_timestamp": "2024-05-12T11:25:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:19:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:19:56Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T11:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T11:25:38Z",
+      "previous_timestamp": "2024-05-12T11:20:38Z",
+      "next_timestamp": "2024-05-12T11:30:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:24:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:24:37Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.32
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T11:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T11:30:38Z",
+      "previous_timestamp": "2024-05-12T11:25:38Z",
+      "next_timestamp": "2024-05-12T11:35:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:30:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:30:31Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.27
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T11:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T11:35:38Z",
+      "previous_timestamp": "2024-05-12T11:30:38Z",
+      "next_timestamp": "2024-05-12T11:40:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:35:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:35:09Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.22
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 4.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T11:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T11:40:38Z",
+      "previous_timestamp": "2024-05-12T11:35:38Z",
+      "next_timestamp": "2024-05-12T11:45:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:39:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:39:49Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 5.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T11:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T11:45:38Z",
+      "previous_timestamp": "2024-05-12T11:40:38Z",
+      "next_timestamp": "2024-05-12T11:50:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:44:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:44:29Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.15
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 5.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T11:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T11:50:38Z",
+      "previous_timestamp": "2024-05-12T11:45:38Z",
+      "next_timestamp": "2024-05-12T11:55:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:50:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:50:20Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.15
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 5.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T12:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T11:55:38Z",
+      "previous_timestamp": "2024-05-12T11:50:38Z",
+      "next_timestamp": "2024-05-12T12:00:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:55:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:55:01Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.15
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 5.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T12:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T12:00:38Z",
+      "previous_timestamp": "2024-05-12T11:55:38Z",
+      "next_timestamp": "2024-05-12T12:05:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T11:58:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T11:58:40Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 5.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T12:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T12:05:38Z",
+      "previous_timestamp": "2024-05-12T12:00:38Z",
+      "next_timestamp": "2024-05-12T12:10:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T12:04:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T12:04:30Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T12:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T12:10:38Z",
+      "previous_timestamp": "2024-05-12T12:05:38Z",
+      "next_timestamp": "2024-05-12T12:15:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T12:09:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T12:09:26Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T12:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T12:15:38Z",
+      "previous_timestamp": "2024-05-12T12:10:38Z",
+      "next_timestamp": "2024-05-12T12:20:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T12:15:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T12:15:28Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 6.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T12:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T12:20:38Z",
+      "previous_timestamp": "2024-05-12T12:15:38Z",
+      "next_timestamp": "2024-05-12T12:25:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T12:20:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T12:20:11Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T12:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T12:25:38Z",
+      "previous_timestamp": "2024-05-12T12:20:38Z",
+      "next_timestamp": "2024-05-12T12:30:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T12:25:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T12:25:02Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.04
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T12:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T12:30:38Z",
+      "previous_timestamp": "2024-05-12T12:25:38Z",
+      "next_timestamp": "2024-05-12T12:35:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T12:29:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T12:29:48Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T12:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T12:35:38Z",
+      "previous_timestamp": "2024-05-12T12:30:38Z",
+      "next_timestamp": "2024-05-12T12:40:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T12:34:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T12:34:46Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T12:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T12:40:38Z",
+      "previous_timestamp": "2024-05-12T12:35:38Z",
+      "next_timestamp": "2024-05-12T12:45:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T12:39:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T12:39:34Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 8.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T12:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T12:45:38Z",
+      "previous_timestamp": "2024-05-12T12:40:38Z",
+      "next_timestamp": "2024-05-12T12:50:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T12:45:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T12:45:30Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 8.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T12:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T12:50:38Z",
+      "previous_timestamp": "2024-05-12T12:45:38Z",
+      "next_timestamp": "2024-05-12T12:55:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T12:50:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T12:50:13Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 8.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T13:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T12:55:38Z",
+      "previous_timestamp": "2024-05-12T12:50:38Z",
+      "next_timestamp": "2024-05-12T13:00:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T12:55:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T12:55:04Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 8.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T13:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T13:00:38Z",
+      "previous_timestamp": "2024-05-12T12:55:38Z",
+      "next_timestamp": "2024-05-12T13:05:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T12:59:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T12:59:52Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.08
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T13:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T13:05:38Z",
+      "previous_timestamp": "2024-05-12T13:00:38Z",
+      "next_timestamp": "2024-05-12T13:10:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T13:04:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T13:04:40Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T13:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T13:10:38Z",
+      "previous_timestamp": "2024-05-12T13:05:38Z",
+      "next_timestamp": "2024-05-12T13:15:37Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T13:09:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T13:09:32Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T13:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T13:15:37Z",
+      "previous_timestamp": "2024-05-12T13:10:38Z",
+      "next_timestamp": "2024-05-12T13:20:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T13:09:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T13:09:32Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T13:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T13:20:38Z",
+      "previous_timestamp": "2024-05-12T13:15:37Z",
+      "next_timestamp": "2024-05-12T13:25:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T13:09:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T13:09:32Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T13:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T13:25:38Z",
+      "previous_timestamp": "2024-05-12T13:20:38Z",
+      "next_timestamp": "2024-05-12T13:30:38Z",
+      "data": {
+        "id": "ff8e936ee33ac5d5a3ff73f59794d943",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T10:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T13:24:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T13:24:20Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 14.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,1991 @@
+[
+  {
+    "timestamp": "2024-05-09T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T13:55:39Z",
+      "previous_timestamp": "2024-05-09T13:50:39Z",
+      "next_timestamp": "2024-05-09T14:00:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T13:54:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T13:54:51Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.06
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.78
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T14:00:39Z",
+      "previous_timestamp": "2024-05-09T13:55:39Z",
+      "next_timestamp": "2024-05-09T14:05:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T13:59:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T13:59:37Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T14:05:39Z",
+      "previous_timestamp": "2024-05-09T14:00:39Z",
+      "next_timestamp": "2024-05-09T14:10:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T14:04:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T14:04:47Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.1
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T14:10:39Z",
+      "previous_timestamp": "2024-05-09T14:05:39Z",
+      "next_timestamp": "2024-05-09T14:15:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T14:10:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T14:10:25Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T14:15:39Z",
+      "previous_timestamp": "2024-05-09T14:10:39Z",
+      "next_timestamp": "2024-05-09T14:20:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T14:15:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T14:15:03Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.74
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T14:20:39Z",
+      "previous_timestamp": "2024-05-09T14:15:39Z",
+      "next_timestamp": "2024-05-09T14:25:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T14:19:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T14:19:15Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T14:25:39Z",
+      "previous_timestamp": "2024-05-09T14:20:39Z",
+      "next_timestamp": "2024-05-09T14:30:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T14:24:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T14:24:53Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T14:30:39Z",
+      "previous_timestamp": "2024-05-09T14:25:39Z",
+      "next_timestamp": "2024-05-09T14:35:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T14:30:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T14:30:02Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T14:35:39Z",
+      "previous_timestamp": "2024-05-09T14:30:39Z",
+      "next_timestamp": "2024-05-09T14:40:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T14:35:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T14:35:00Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T14:40:39Z",
+      "previous_timestamp": "2024-05-09T14:35:39Z",
+      "next_timestamp": "2024-05-09T14:45:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T14:40:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T14:40:00Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T14:45:39Z",
+      "previous_timestamp": "2024-05-09T14:40:39Z",
+      "next_timestamp": "2024-05-09T14:50:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T14:44:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T14:44:33Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T14:50:39Z",
+      "previous_timestamp": "2024-05-09T14:45:39Z",
+      "next_timestamp": "2024-05-09T14:55:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T14:49:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T14:49:45Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.5
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.31
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T14:55:39Z",
+      "previous_timestamp": "2024-05-09T14:50:39Z",
+      "next_timestamp": "2024-05-09T15:00:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T14:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T14:55:35Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.75
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.45
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T15:00:39Z",
+      "previous_timestamp": "2024-05-09T14:55:39Z",
+      "next_timestamp": "2024-05-09T15:05:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T14:58:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T14:58:50Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.75
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.45
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T15:05:39Z",
+      "previous_timestamp": "2024-05-09T15:00:39Z",
+      "next_timestamp": "2024-05-09T15:10:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T15:05:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T15:05:36Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.75
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.45
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T15:10:39Z",
+      "previous_timestamp": "2024-05-09T15:05:39Z",
+      "next_timestamp": "2024-05-09T15:15:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T15:09:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T15:09:38Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.75
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.45
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T15:15:39Z",
+      "previous_timestamp": "2024-05-09T15:10:39Z",
+      "next_timestamp": "2024-05-09T15:20:38Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T15:14:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T15:14:50Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.75
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.45
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T15:20:38Z",
+      "previous_timestamp": "2024-05-09T15:15:39Z",
+      "next_timestamp": "2024-05-09T15:25:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T15:20:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T15:20:04Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.75
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.45
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T15:25:39Z",
+      "previous_timestamp": "2024-05-09T15:20:38Z",
+      "next_timestamp": "2024-05-09T15:30:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T15:24:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T15:24:57Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.75
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.45
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T15:30:39Z",
+      "previous_timestamp": "2024-05-09T15:25:39Z",
+      "next_timestamp": "2024-05-09T15:35:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T15:29:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T15:29:53Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T15:35:39Z",
+      "previous_timestamp": "2024-05-09T15:30:39Z",
+      "next_timestamp": "2024-05-09T15:40:38Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T15:34:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T15:34:49Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T15:40:38Z",
+      "previous_timestamp": "2024-05-09T15:35:39Z",
+      "next_timestamp": "2024-05-09T15:45:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T15:39:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T15:39:43Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T15:45:39Z",
+      "previous_timestamp": "2024-05-09T15:40:38Z",
+      "next_timestamp": "2024-05-09T15:50:38Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T15:44:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T15:44:50Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.36
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T15:50:38Z",
+      "previous_timestamp": "2024-05-09T15:45:39Z",
+      "next_timestamp": "2024-05-09T15:55:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T15:50:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T15:50:00Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.8
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.28
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T15:55:39Z",
+      "previous_timestamp": "2024-05-09T15:50:38Z",
+      "next_timestamp": "2024-05-09T16:00:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T15:55:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T15:55:10Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T16:00:39Z",
+      "previous_timestamp": "2024-05-09T15:55:39Z",
+      "next_timestamp": "2024-05-09T16:05:40Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T15:59:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T15:59:23Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.4
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.21
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T16:05:40Z",
+      "previous_timestamp": "2024-05-09T16:00:39Z",
+      "next_timestamp": "2024-05-09T16:10:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T16:05:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T16:05:02Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.3
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.22
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T16:10:39Z",
+      "previous_timestamp": "2024-05-09T16:05:40Z",
+      "next_timestamp": "2024-05-09T16:15:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T16:10:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T16:10:11Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.3
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.17
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T16:15:39Z",
+      "previous_timestamp": "2024-05-09T16:10:39Z",
+      "next_timestamp": "2024-05-09T16:20:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T16:15:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T16:15:16Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.6
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T16:20:39Z",
+      "previous_timestamp": "2024-05-09T16:15:39Z",
+      "next_timestamp": "2024-05-09T16:25:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T16:20:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T16:20:16Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T16:25:39Z",
+      "previous_timestamp": "2024-05-09T16:20:39Z",
+      "next_timestamp": "2024-05-09T16:30:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T16:24:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T16:24:28Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T16:30:39Z",
+      "previous_timestamp": "2024-05-09T16:25:39Z",
+      "next_timestamp": "2024-05-09T16:35:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T16:30:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T16:30:12Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T16:35:39Z",
+      "previous_timestamp": "2024-05-09T16:30:39Z",
+      "next_timestamp": "2024-05-09T16:40:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T16:33:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T16:33:41Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.9
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.26
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T16:40:39Z",
+      "previous_timestamp": "2024-05-09T16:35:39Z",
+      "next_timestamp": "2024-05-09T16:45:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T16:40:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T16:40:23Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T16:45:39Z",
+      "previous_timestamp": "2024-05-09T16:40:39Z",
+      "next_timestamp": "2024-05-09T16:50:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T16:44:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T16:44:19Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T16:50:39Z",
+      "previous_timestamp": "2024-05-09T16:45:39Z",
+      "next_timestamp": "2024-05-09T16:55:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T16:50:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T16:50:02Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.9
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T16:55:39Z",
+      "previous_timestamp": "2024-05-09T16:50:39Z",
+      "next_timestamp": "2024-05-09T17:00:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T16:55:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T16:55:16Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T17:00:39Z",
+      "previous_timestamp": "2024-05-09T16:55:39Z",
+      "next_timestamp": "2024-05-09T17:05:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:00:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:00:35Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.65
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.48
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T17:05:39Z",
+      "previous_timestamp": "2024-05-09T17:00:39Z",
+      "next_timestamp": "2024-05-09T17:10:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:04:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:04:55Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T17:10:39Z",
+      "previous_timestamp": "2024-05-09T17:05:39Z",
+      "next_timestamp": "2024-05-09T17:15:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:09:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:09:53Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.5
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.31
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T17:15:39Z",
+      "previous_timestamp": "2024-05-09T17:10:39Z",
+      "next_timestamp": "2024-05-09T17:20:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:14:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:14:57Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.45
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T17:20:39Z",
+      "previous_timestamp": "2024-05-09T17:15:39Z",
+      "next_timestamp": "2024-05-09T17:25:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:20:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:20:25Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T17:25:39Z",
+      "previous_timestamp": "2024-05-09T17:20:39Z",
+      "next_timestamp": "2024-05-09T17:30:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:24:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:24:55Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T17:30:39Z",
+      "previous_timestamp": "2024-05-09T17:25:39Z",
+      "next_timestamp": "2024-05-09T17:35:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:29:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:29:51Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T17:35:39Z",
+      "previous_timestamp": "2024-05-09T17:30:39Z",
+      "next_timestamp": "2024-05-09T17:40:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:34:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:34:52Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T17:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T17:40:39Z",
+      "previous_timestamp": "2024-05-09T17:35:39Z",
+      "next_timestamp": "2024-05-09T17:45:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:39:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:39:46Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.4
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.21
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T17:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T17:45:39Z",
+      "previous_timestamp": "2024-05-09T17:40:39Z",
+      "next_timestamp": "2024-05-09T17:50:38Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:44:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:44:57Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 7.5
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.08
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T17:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T17:50:38Z",
+      "previous_timestamp": "2024-05-09T17:45:39Z",
+      "next_timestamp": "2024-05-09T17:55:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:49:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:49:55Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 10.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T18:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T17:55:39Z",
+      "previous_timestamp": "2024-05-09T17:50:38Z",
+      "next_timestamp": "2024-05-09T18:00:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:54:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:54:09Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T18:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T18:00:39Z",
+      "previous_timestamp": "2024-05-09T17:55:39Z",
+      "next_timestamp": "2024-05-09T18:05:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:57:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:57:45Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 29.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.02
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-09T18:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-09T18:05:39Z",
+      "previous_timestamp": "2024-05-09T18:00:39Z",
+      "next_timestamp": "2024-05-09T18:10:39Z",
+      "data": {
+        "id": "e218a919ff4a0ea5e8f0523d8170bf2a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-09T17:57:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-09T17:57:45Z",
+                "outcomes": [
+                  {
+                    "name": "Punjab Kings",
+                    "price": 29.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.02
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

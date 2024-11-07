@@ -1,0 +1,1757 @@
+[
+  {
+    "timestamp": "2024-04-25T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T13:55:39Z",
+      "previous_timestamp": "2024-04-25T13:50:39Z",
+      "next_timestamp": "2024-04-25T14:00:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T13:54:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T13:54:47Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.22
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.68
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T14:00:40Z",
+      "previous_timestamp": "2024-04-25T13:55:39Z",
+      "next_timestamp": "2024-04-25T14:05:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T13:59:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T13:59:44Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T14:05:40Z",
+      "previous_timestamp": "2024-04-25T14:00:40Z",
+      "next_timestamp": "2024-04-25T14:10:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T14:04:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T14:04:59Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T14:10:40Z",
+      "previous_timestamp": "2024-04-25T14:05:40Z",
+      "next_timestamp": "2024-04-25T14:15:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T14:08:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T14:08:38Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T14:15:39Z",
+      "previous_timestamp": "2024-04-25T14:10:40Z",
+      "next_timestamp": "2024-04-25T14:20:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T14:15:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T14:15:03Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T14:20:39Z",
+      "previous_timestamp": "2024-04-25T14:15:39Z",
+      "next_timestamp": "2024-04-25T14:25:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T14:19:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T14:19:27Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T14:25:39Z",
+      "previous_timestamp": "2024-04-25T14:20:39Z",
+      "next_timestamp": "2024-04-25T14:30:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T14:24:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T14:24:22Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T14:30:40Z",
+      "previous_timestamp": "2024-04-25T14:25:39Z",
+      "next_timestamp": "2024-04-25T14:35:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T14:30:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T14:30:13Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.6
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T14:35:39Z",
+      "previous_timestamp": "2024-04-25T14:30:40Z",
+      "next_timestamp": "2024-04-25T14:40:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T14:35:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T14:35:13Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T14:40:39Z",
+      "previous_timestamp": "2024-04-25T14:35:39Z",
+      "next_timestamp": "2024-04-25T14:45:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T14:39:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T14:39:33Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T14:45:39Z",
+      "previous_timestamp": "2024-04-25T14:40:39Z",
+      "next_timestamp": "2024-04-25T14:50:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T14:45:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T14:45:15Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T14:50:39Z",
+      "previous_timestamp": "2024-04-25T14:45:39Z",
+      "next_timestamp": "2024-04-25T14:55:41Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T14:48:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T14:48:45Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T14:55:41Z",
+      "previous_timestamp": "2024-04-25T14:50:39Z",
+      "next_timestamp": "2024-04-25T15:00:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T14:54:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T14:54:00Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T15:00:40Z",
+      "previous_timestamp": "2024-04-25T14:55:41Z",
+      "next_timestamp": "2024-04-25T15:05:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T14:59:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T14:59:39Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T15:05:39Z",
+      "previous_timestamp": "2024-04-25T15:00:40Z",
+      "next_timestamp": "2024-04-25T15:10:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T15:04:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T15:04:45Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T15:10:39Z",
+      "previous_timestamp": "2024-04-25T15:05:39Z",
+      "next_timestamp": "2024-04-25T15:15:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T15:09:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T15:09:13Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.57
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T15:15:39Z",
+      "previous_timestamp": "2024-04-25T15:10:39Z",
+      "next_timestamp": "2024-04-25T15:20:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T15:14:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T15:14:31Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T15:20:40Z",
+      "previous_timestamp": "2024-04-25T15:15:39Z",
+      "next_timestamp": "2024-04-25T15:25:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T15:20:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T15:20:15Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T15:25:40Z",
+      "previous_timestamp": "2024-04-25T15:20:40Z",
+      "next_timestamp": "2024-04-25T15:30:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T15:25:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T15:25:25Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T15:30:39Z",
+      "previous_timestamp": "2024-04-25T15:25:40Z",
+      "next_timestamp": "2024-04-25T15:35:38Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T15:29:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T15:29:48Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T15:35:38Z",
+      "previous_timestamp": "2024-04-25T15:30:39Z",
+      "next_timestamp": "2024-04-25T15:40:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T15:34:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T15:34:21Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T15:40:39Z",
+      "previous_timestamp": "2024-04-25T15:35:38Z",
+      "next_timestamp": "2024-04-25T15:45:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T15:40:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T15:40:04Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.69
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T15:45:39Z",
+      "previous_timestamp": "2024-04-25T15:40:39Z",
+      "next_timestamp": "2024-04-25T15:50:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T15:45:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T15:45:27Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T15:50:40Z",
+      "previous_timestamp": "2024-04-25T15:45:39Z",
+      "next_timestamp": "2024-04-25T15:55:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T15:48:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T15:48:55Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T15:55:39Z",
+      "previous_timestamp": "2024-04-25T15:50:40Z",
+      "next_timestamp": "2024-04-25T16:00:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T15:55:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T15:55:23Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T16:00:39Z",
+      "previous_timestamp": "2024-04-25T15:55:39Z",
+      "next_timestamp": "2024-04-25T16:05:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T15:59:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T15:59:49Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T16:05:39Z",
+      "previous_timestamp": "2024-04-25T16:00:39Z",
+      "next_timestamp": "2024-04-25T16:10:38Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T16:05:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T16:05:09Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T16:10:38Z",
+      "previous_timestamp": "2024-04-25T16:05:39Z",
+      "next_timestamp": "2024-04-25T16:15:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T16:09:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T16:09:28Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T16:15:40Z",
+      "previous_timestamp": "2024-04-25T16:10:38Z",
+      "next_timestamp": "2024-04-25T16:20:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T16:15:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T16:15:09Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T16:20:39Z",
+      "previous_timestamp": "2024-04-25T16:15:40Z",
+      "next_timestamp": "2024-04-25T16:25:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T16:19:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T16:19:38Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T16:25:39Z",
+      "previous_timestamp": "2024-04-25T16:20:39Z",
+      "next_timestamp": "2024-04-25T16:30:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T16:24:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T16:24:48Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 5.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T16:30:40Z",
+      "previous_timestamp": "2024-04-25T16:25:39Z",
+      "next_timestamp": "2024-04-25T16:35:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T16:30:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T16:30:32Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T16:35:39Z",
+      "previous_timestamp": "2024-04-25T16:30:40Z",
+      "next_timestamp": "2024-04-25T16:40:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T16:35:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T16:35:00Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T16:40:39Z",
+      "previous_timestamp": "2024-04-25T16:35:39Z",
+      "next_timestamp": "2024-04-25T16:45:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T16:40:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T16:40:17Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.12
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 6.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T16:45:39Z",
+      "previous_timestamp": "2024-04-25T16:40:39Z",
+      "next_timestamp": "2024-04-25T16:50:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T16:44:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T16:44:45Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.21
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T16:50:40Z",
+      "previous_timestamp": "2024-04-25T16:45:39Z",
+      "next_timestamp": "2024-04-25T16:55:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T16:49:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T16:49:20Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 9.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T16:55:40Z",
+      "previous_timestamp": "2024-04-25T16:50:40Z",
+      "next_timestamp": "2024-04-25T17:00:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T16:55:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T16:55:10Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.12
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 6.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T17:00:39Z",
+      "previous_timestamp": "2024-04-25T16:55:40Z",
+      "next_timestamp": "2024-04-25T17:05:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T16:59:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T16:59:43Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T17:05:39Z",
+      "previous_timestamp": "2024-04-25T17:00:39Z",
+      "next_timestamp": "2024-04-25T17:10:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T17:05:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T17:05:10Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.04
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T17:10:39Z",
+      "previous_timestamp": "2024-04-25T17:05:39Z",
+      "next_timestamp": "2024-04-25T17:15:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T17:09:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T17:09:45Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.04
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T17:15:39Z",
+      "previous_timestamp": "2024-04-25T17:10:39Z",
+      "next_timestamp": "2024-04-25T17:20:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T17:15:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T17:15:35Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T17:20:40Z",
+      "previous_timestamp": "2024-04-25T17:15:39Z",
+      "next_timestamp": "2024-04-25T17:25:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T17:20:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T17:20:00Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.03
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T17:25:39Z",
+      "previous_timestamp": "2024-04-25T17:20:40Z",
+      "next_timestamp": "2024-04-25T17:30:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T17:23:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T17:23:09Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T17:30:39Z",
+      "previous_timestamp": "2024-04-25T17:25:39Z",
+      "next_timestamp": "2024-04-25T17:35:39Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T17:23:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T17:23:09Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-25T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-25T17:35:39Z",
+      "previous_timestamp": "2024-04-25T17:30:39Z",
+      "next_timestamp": "2024-04-25T17:40:40Z",
+      "data": {
+        "id": "aca5813a158cb47a3f6e034136f17dc0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-25T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-25T17:23:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-25T17:23:09Z",
+                "outcomes": [
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

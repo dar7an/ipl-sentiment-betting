@@ -1,0 +1,1991 @@
+[
+  {
+    "timestamp": "2024-04-16T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T13:55:39Z",
+      "previous_timestamp": "2024-04-16T13:50:38Z",
+      "next_timestamp": "2024-04-16T14:00:38Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T13:55:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T13:55:16Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T14:00:38Z",
+      "previous_timestamp": "2024-04-16T13:55:39Z",
+      "next_timestamp": "2024-04-16T14:05:40Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:00:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:00:09Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T14:05:40Z",
+      "previous_timestamp": "2024-04-16T14:00:38Z",
+      "next_timestamp": "2024-04-16T14:10:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:04:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:04:40Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T14:10:39Z",
+      "previous_timestamp": "2024-04-16T14:05:40Z",
+      "next_timestamp": "2024-04-16T14:15:38Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:10:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:10:08Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T14:15:38Z",
+      "previous_timestamp": "2024-04-16T14:10:39Z",
+      "next_timestamp": "2024-04-16T14:20:38Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:15:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:15:06Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T14:20:38Z",
+      "previous_timestamp": "2024-04-16T14:15:38Z",
+      "next_timestamp": "2024-04-16T14:25:38Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:20:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:20:12Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T14:25:38Z",
+      "previous_timestamp": "2024-04-16T14:20:38Z",
+      "next_timestamp": "2024-04-16T14:30:38Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:25:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:25:33Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T14:30:38Z",
+      "previous_timestamp": "2024-04-16T14:25:38Z",
+      "next_timestamp": "2024-04-16T14:35:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:29:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:29:58Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T14:35:39Z",
+      "previous_timestamp": "2024-04-16T14:30:38Z",
+      "next_timestamp": "2024-04-16T14:40:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:35:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:35:16Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T14:40:39Z",
+      "previous_timestamp": "2024-04-16T14:35:39Z",
+      "next_timestamp": "2024-04-16T14:45:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:39:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:39:11Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T14:45:39Z",
+      "previous_timestamp": "2024-04-16T14:40:39Z",
+      "next_timestamp": "2024-04-16T14:50:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:45:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:45:29Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T14:50:39Z",
+      "previous_timestamp": "2024-04-16T14:45:39Z",
+      "next_timestamp": "2024-04-16T14:55:38Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:50:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:50:18Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T14:55:38Z",
+      "previous_timestamp": "2024-04-16T14:50:39Z",
+      "next_timestamp": "2024-04-16T15:00:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:54:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:54:57Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T15:00:39Z",
+      "previous_timestamp": "2024-04-16T14:55:38Z",
+      "next_timestamp": "2024-04-16T15:05:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T14:59:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T14:59:59Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T15:05:39Z",
+      "previous_timestamp": "2024-04-16T15:00:39Z",
+      "next_timestamp": "2024-04-16T15:10:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T15:04:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T15:04:51Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T15:10:39Z",
+      "previous_timestamp": "2024-04-16T15:05:39Z",
+      "next_timestamp": "2024-04-16T15:15:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T15:10:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T15:10:09Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T15:15:39Z",
+      "previous_timestamp": "2024-04-16T15:10:39Z",
+      "next_timestamp": "2024-04-16T15:20:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T15:15:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T15:15:31Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T15:20:39Z",
+      "previous_timestamp": "2024-04-16T15:15:39Z",
+      "next_timestamp": "2024-04-16T15:25:38Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T15:20:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T15:20:22Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T15:25:38Z",
+      "previous_timestamp": "2024-04-16T15:20:39Z",
+      "next_timestamp": "2024-04-16T15:30:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T15:25:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T15:25:17Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T15:30:39Z",
+      "previous_timestamp": "2024-04-16T15:25:38Z",
+      "next_timestamp": "2024-04-16T15:35:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T15:30:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T15:30:22Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T15:35:39Z",
+      "previous_timestamp": "2024-04-16T15:30:39Z",
+      "next_timestamp": "2024-04-16T15:40:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T15:35:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T15:35:26Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T15:40:39Z",
+      "previous_timestamp": "2024-04-16T15:35:39Z",
+      "next_timestamp": "2024-04-16T15:45:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T15:40:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T15:40:11Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T15:45:39Z",
+      "previous_timestamp": "2024-04-16T15:40:39Z",
+      "next_timestamp": "2024-04-16T15:50:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T15:45:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T15:45:08Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T15:50:39Z",
+      "previous_timestamp": "2024-04-16T15:45:39Z",
+      "next_timestamp": "2024-04-16T15:55:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T15:50:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T15:50:03Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T15:55:39Z",
+      "previous_timestamp": "2024-04-16T15:50:39Z",
+      "next_timestamp": "2024-04-16T16:00:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T15:55:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T15:55:30Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T16:00:39Z",
+      "previous_timestamp": "2024-04-16T15:55:39Z",
+      "next_timestamp": "2024-04-16T16:05:40Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T16:00:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T16:00:04Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T16:05:40Z",
+      "previous_timestamp": "2024-04-16T16:00:39Z",
+      "next_timestamp": "2024-04-16T16:10:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T16:05:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T16:05:11Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T16:10:39Z",
+      "previous_timestamp": "2024-04-16T16:05:40Z",
+      "next_timestamp": "2024-04-16T16:15:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T16:09:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T16:09:29Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T16:15:39Z",
+      "previous_timestamp": "2024-04-16T16:10:39Z",
+      "next_timestamp": "2024-04-16T16:20:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T16:15:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T16:15:13Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T16:20:39Z",
+      "previous_timestamp": "2024-04-16T16:15:39Z",
+      "next_timestamp": "2024-04-16T16:25:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T16:20:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T16:20:14Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T16:25:39Z",
+      "previous_timestamp": "2024-04-16T16:20:39Z",
+      "next_timestamp": "2024-04-16T16:30:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T16:25:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T16:25:35Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T16:30:39Z",
+      "previous_timestamp": "2024-04-16T16:25:39Z",
+      "next_timestamp": "2024-04-16T16:35:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T16:30:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T16:30:01Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T16:35:39Z",
+      "previous_timestamp": "2024-04-16T16:30:39Z",
+      "next_timestamp": "2024-04-16T16:40:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T16:35:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T16:35:28Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T16:40:39Z",
+      "previous_timestamp": "2024-04-16T16:35:39Z",
+      "next_timestamp": "2024-04-16T16:45:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T16:39:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T16:39:57Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T16:45:39Z",
+      "previous_timestamp": "2024-04-16T16:40:39Z",
+      "next_timestamp": "2024-04-16T16:50:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T16:44:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T16:44:57Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T16:50:39Z",
+      "previous_timestamp": "2024-04-16T16:45:39Z",
+      "next_timestamp": "2024-04-16T16:55:38Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T16:49:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T16:49:34Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T16:55:38Z",
+      "previous_timestamp": "2024-04-16T16:50:39Z",
+      "next_timestamp": "2024-04-16T17:00:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T16:55:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T16:55:12Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T17:00:39Z",
+      "previous_timestamp": "2024-04-16T16:55:38Z",
+      "next_timestamp": "2024-04-16T17:05:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T17:00:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T17:00:10Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T17:05:39Z",
+      "previous_timestamp": "2024-04-16T17:00:39Z",
+      "next_timestamp": "2024-04-16T17:10:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T17:05:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T17:05:03Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T17:10:39Z",
+      "previous_timestamp": "2024-04-16T17:05:39Z",
+      "next_timestamp": "2024-04-16T17:15:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T17:10:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T17:10:22Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T17:15:39Z",
+      "previous_timestamp": "2024-04-16T17:10:39Z",
+      "next_timestamp": "2024-04-16T17:20:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T17:14:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T17:14:51Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T17:20:39Z",
+      "previous_timestamp": "2024-04-16T17:15:39Z",
+      "next_timestamp": "2024-04-16T17:25:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T17:18:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T17:18:03Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T17:25:39Z",
+      "previous_timestamp": "2024-04-16T17:20:39Z",
+      "next_timestamp": "2024-04-16T17:30:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T17:24:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T17:24:24Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T17:30:39Z",
+      "previous_timestamp": "2024-04-16T17:25:39Z",
+      "next_timestamp": "2024-04-16T17:35:38Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T17:28:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T17:28:26Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T17:35:38Z",
+      "previous_timestamp": "2024-04-16T17:30:39Z",
+      "next_timestamp": "2024-04-16T17:40:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T17:34:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T17:34:05Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T17:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T17:40:39Z",
+      "previous_timestamp": "2024-04-16T17:35:38Z",
+      "next_timestamp": "2024-04-16T17:45:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T17:39:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T17:39:52Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T17:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T17:45:39Z",
+      "previous_timestamp": "2024-04-16T17:40:39Z",
+      "next_timestamp": "2024-04-16T17:50:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T17:43:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T17:43:05Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T17:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T17:50:39Z",
+      "previous_timestamp": "2024-04-16T17:45:39Z",
+      "next_timestamp": "2024-04-16T17:55:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T17:49:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T17:49:53Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T18:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T17:55:39Z",
+      "previous_timestamp": "2024-04-16T17:50:39Z",
+      "next_timestamp": "2024-04-16T18:00:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T17:54:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T17:54:20Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T18:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T18:00:39Z",
+      "previous_timestamp": "2024-04-16T17:55:39Z",
+      "next_timestamp": "2024-04-16T18:05:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T18:00:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T18:00:08Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-16T18:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-16T18:05:39Z",
+      "previous_timestamp": "2024-04-16T18:00:39Z",
+      "next_timestamp": "2024-04-16T18:10:39Z",
+      "data": {
+        "id": "505e44f44d4a9146243ed0409b9c2622",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-17T14:00:00Z",
+        "home_team": "Gujarat Titans",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-16T18:05:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-16T18:05:29Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
