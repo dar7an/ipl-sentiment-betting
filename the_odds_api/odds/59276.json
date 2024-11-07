@@ -1,0 +1,1835 @@
+[
+  {
+    "timestamp": "2024-05-22T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T13:55:39Z",
+      "previous_timestamp": "2024-05-22T13:50:38Z",
+      "next_timestamp": "2024-05-22T14:00:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T13:55:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T13:55:28Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T14:00:38Z",
+      "previous_timestamp": "2024-05-22T13:55:39Z",
+      "next_timestamp": "2024-05-22T14:05:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T14:00:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T14:00:23Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.91
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.91
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T14:05:38Z",
+      "previous_timestamp": "2024-05-22T14:00:38Z",
+      "next_timestamp": "2024-05-22T14:10:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T14:05:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T14:05:21Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T14:10:38Z",
+      "previous_timestamp": "2024-05-22T14:05:38Z",
+      "next_timestamp": "2024-05-22T14:15:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T14:10:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T14:10:14Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T14:15:38Z",
+      "previous_timestamp": "2024-05-22T14:10:38Z",
+      "next_timestamp": "2024-05-22T14:20:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T14:15:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T14:15:12Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T14:20:38Z",
+      "previous_timestamp": "2024-05-22T14:15:38Z",
+      "next_timestamp": "2024-05-22T14:25:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T14:20:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T14:20:05Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T14:25:38Z",
+      "previous_timestamp": "2024-05-22T14:20:38Z",
+      "next_timestamp": "2024-05-22T14:30:39Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T14:25:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T14:25:01Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T14:30:39Z",
+      "previous_timestamp": "2024-05-22T14:25:38Z",
+      "next_timestamp": "2024-05-22T14:35:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T14:30:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T14:30:00Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T14:35:38Z",
+      "previous_timestamp": "2024-05-22T14:30:39Z",
+      "next_timestamp": "2024-05-22T14:40:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T14:35:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T14:35:16Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T14:40:38Z",
+      "previous_timestamp": "2024-05-22T14:35:38Z",
+      "next_timestamp": "2024-05-22T14:45:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T14:40:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T14:40:17Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T14:45:38Z",
+      "previous_timestamp": "2024-05-22T14:40:38Z",
+      "next_timestamp": "2024-05-22T14:50:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T14:45:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T14:45:19Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T14:50:38Z",
+      "previous_timestamp": "2024-05-22T14:45:38Z",
+      "next_timestamp": "2024-05-22T14:55:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T14:50:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T14:50:24Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T14:55:38Z",
+      "previous_timestamp": "2024-05-22T14:50:38Z",
+      "next_timestamp": "2024-05-22T15:00:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T14:55:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T14:55:24Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T15:00:38Z",
+      "previous_timestamp": "2024-05-22T14:55:38Z",
+      "next_timestamp": "2024-05-22T15:05:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T15:00:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T15:00:20Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T15:05:38Z",
+      "previous_timestamp": "2024-05-22T15:00:38Z",
+      "next_timestamp": "2024-05-22T15:10:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T15:04:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T15:04:40Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T15:10:38Z",
+      "previous_timestamp": "2024-05-22T15:05:38Z",
+      "next_timestamp": "2024-05-22T15:15:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T15:10:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T15:10:28Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T15:15:38Z",
+      "previous_timestamp": "2024-05-22T15:10:38Z",
+      "next_timestamp": "2024-05-22T15:20:39Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T15:15:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T15:15:28Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T15:20:39Z",
+      "previous_timestamp": "2024-05-22T15:15:38Z",
+      "next_timestamp": "2024-05-22T15:25:39Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T15:20:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T15:20:27Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T15:25:39Z",
+      "previous_timestamp": "2024-05-22T15:20:39Z",
+      "next_timestamp": "2024-05-22T15:30:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T15:25:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T15:25:22Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T15:30:38Z",
+      "previous_timestamp": "2024-05-22T15:25:39Z",
+      "next_timestamp": "2024-05-22T15:35:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T15:30:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T15:30:23Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T15:35:38Z",
+      "previous_timestamp": "2024-05-22T15:30:38Z",
+      "next_timestamp": "2024-05-22T15:40:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T15:35:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T15:35:23Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T15:40:38Z",
+      "previous_timestamp": "2024-05-22T15:35:38Z",
+      "next_timestamp": "2024-05-22T15:45:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T15:40:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T15:40:17Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T15:45:38Z",
+      "previous_timestamp": "2024-05-22T15:40:38Z",
+      "next_timestamp": "2024-05-22T15:50:39Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T15:45:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T15:45:12Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.32
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T15:50:39Z",
+      "previous_timestamp": "2024-05-22T15:45:38Z",
+      "next_timestamp": "2024-05-22T15:55:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T15:50:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T15:50:16Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.32
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T15:55:38Z",
+      "previous_timestamp": "2024-05-22T15:50:39Z",
+      "next_timestamp": "2024-05-22T16:00:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T15:55:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T15:55:16Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T16:00:38Z",
+      "previous_timestamp": "2024-05-22T15:55:38Z",
+      "next_timestamp": "2024-05-22T16:05:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T16:00:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T16:00:10Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T16:05:38Z",
+      "previous_timestamp": "2024-05-22T16:00:38Z",
+      "next_timestamp": "2024-05-22T16:10:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T16:05:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T16:05:10Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T16:10:38Z",
+      "previous_timestamp": "2024-05-22T16:05:38Z",
+      "next_timestamp": "2024-05-22T16:15:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T16:10:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T16:10:20Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T16:15:38Z",
+      "previous_timestamp": "2024-05-22T16:10:38Z",
+      "next_timestamp": "2024-05-22T16:20:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T16:15:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T16:15:15Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T16:20:38Z",
+      "previous_timestamp": "2024-05-22T16:15:38Z",
+      "next_timestamp": "2024-05-22T16:25:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T16:20:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T16:20:15Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.21
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T16:25:38Z",
+      "previous_timestamp": "2024-05-22T16:20:38Z",
+      "next_timestamp": "2024-05-22T16:30:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T16:25:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T16:25:09Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.18
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T16:30:38Z",
+      "previous_timestamp": "2024-05-22T16:25:38Z",
+      "next_timestamp": "2024-05-22T16:35:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T16:30:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T16:30:11Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.31
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T16:35:38Z",
+      "previous_timestamp": "2024-05-22T16:30:38Z",
+      "next_timestamp": "2024-05-22T16:40:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T16:35:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T16:35:14Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.15
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 5.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T16:40:38Z",
+      "previous_timestamp": "2024-05-22T16:35:38Z",
+      "next_timestamp": "2024-05-22T16:45:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T16:40:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T16:40:10Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.09
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T16:45:38Z",
+      "previous_timestamp": "2024-05-22T16:40:38Z",
+      "next_timestamp": "2024-05-22T16:50:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T16:44:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T16:44:21Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.09
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T16:50:38Z",
+      "previous_timestamp": "2024-05-22T16:45:38Z",
+      "next_timestamp": "2024-05-22T16:55:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T16:49:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T16:49:13Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.09
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T16:55:38Z",
+      "previous_timestamp": "2024-05-22T16:50:38Z",
+      "next_timestamp": "2024-05-22T17:00:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T16:54:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T16:54:57Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T17:00:38Z",
+      "previous_timestamp": "2024-05-22T16:55:38Z",
+      "next_timestamp": "2024-05-22T17:05:39Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T17:00:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T17:00:00Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T17:05:39Z",
+      "previous_timestamp": "2024-05-22T17:00:38Z",
+      "next_timestamp": "2024-05-22T17:10:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T17:03:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T17:03:34Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T17:10:38Z",
+      "previous_timestamp": "2024-05-22T17:05:39Z",
+      "next_timestamp": "2024-05-22T17:15:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T17:10:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T17:10:05Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.21
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T17:15:38Z",
+      "previous_timestamp": "2024-05-22T17:10:38Z",
+      "next_timestamp": "2024-05-22T17:20:39Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T17:12:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T17:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.13
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 6.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T17:20:39Z",
+      "previous_timestamp": "2024-05-22T17:15:38Z",
+      "next_timestamp": "2024-05-22T17:25:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T17:20:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T17:20:06Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.31
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T17:25:38Z",
+      "previous_timestamp": "2024-05-22T17:20:39Z",
+      "next_timestamp": "2024-05-22T17:30:39Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T17:25:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T17:25:07Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.33
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T17:30:39Z",
+      "previous_timestamp": "2024-05-22T17:25:38Z",
+      "next_timestamp": "2024-05-22T17:35:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T17:30:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T17:30:16Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T17:35:38Z",
+      "previous_timestamp": "2024-05-22T17:30:39Z",
+      "next_timestamp": "2024-05-22T17:40:39Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T17:34:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T17:34:32Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.03
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 13.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T17:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T17:40:39Z",
+      "previous_timestamp": "2024-05-22T17:35:38Z",
+      "next_timestamp": "2024-05-22T17:45:38Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T17:40:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T17:40:24Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-22T17:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-22T17:45:38Z",
+      "previous_timestamp": "2024-05-22T17:40:39Z",
+      "next_timestamp": "2024-05-22T17:50:39Z",
+      "data": {
+        "id": "6a5ef307364476061d56363a8b6efca4",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-22T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Royal Challengers Bangalore",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-22T17:42:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-22T17:42:29Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,1696 @@
+[
+  {
+    "timestamp": "2024-05-12T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T13:55:38Z",
+      "previous_timestamp": "2024-05-12T13:50:38Z",
+      "next_timestamp": "2024-05-12T14:00:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T13:54:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T13:54:32Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.16
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T14:00:38Z",
+      "previous_timestamp": "2024-05-12T13:55:38Z",
+      "next_timestamp": "2024-05-12T14:05:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T13:59:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T13:59:30Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T14:05:38Z",
+      "previous_timestamp": "2024-05-12T14:00:38Z",
+      "next_timestamp": "2024-05-12T14:10:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T14:04:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T14:04:29Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T14:10:38Z",
+      "previous_timestamp": "2024-05-12T14:05:38Z",
+      "next_timestamp": "2024-05-12T14:15:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T14:09:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T14:09:28Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T14:15:38Z",
+      "previous_timestamp": "2024-05-12T14:10:38Z",
+      "next_timestamp": "2024-05-12T14:20:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T14:14:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T14:14:40Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T14:20:38Z",
+      "previous_timestamp": "2024-05-12T14:15:38Z",
+      "next_timestamp": "2024-05-12T14:25:37Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T14:19:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T14:19:56Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T14:25:37Z",
+      "previous_timestamp": "2024-05-12T14:20:38Z",
+      "next_timestamp": "2024-05-12T14:30:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T14:25:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T14:25:07Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T14:30:38Z",
+      "previous_timestamp": "2024-05-12T14:25:37Z",
+      "next_timestamp": "2024-05-12T14:35:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T14:30:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T14:30:20Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T14:35:38Z",
+      "previous_timestamp": "2024-05-12T14:30:38Z",
+      "next_timestamp": "2024-05-12T14:40:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T14:35:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T14:35:26Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T14:40:38Z",
+      "previous_timestamp": "2024-05-12T14:35:38Z",
+      "next_timestamp": "2024-05-12T14:45:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T14:39:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T14:39:27Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T14:45:38Z",
+      "previous_timestamp": "2024-05-12T14:40:38Z",
+      "next_timestamp": "2024-05-12T14:50:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T14:44:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T14:44:29Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.85
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.42
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T14:50:38Z",
+      "previous_timestamp": "2024-05-12T14:45:38Z",
+      "next_timestamp": "2024-05-12T14:55:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T14:49:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T14:49:44Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 3.1
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T14:55:38Z",
+      "previous_timestamp": "2024-05-12T14:50:38Z",
+      "next_timestamp": "2024-05-12T15:00:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T14:54:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T14:54:50Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T15:00:38Z",
+      "previous_timestamp": "2024-05-12T14:55:38Z",
+      "next_timestamp": "2024-05-12T15:05:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T14:59:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T14:59:54Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.59
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T15:05:38Z",
+      "previous_timestamp": "2024-05-12T15:00:38Z",
+      "next_timestamp": "2024-05-12T15:10:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T15:04:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T15:04:59Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T15:10:38Z",
+      "previous_timestamp": "2024-05-12T15:05:38Z",
+      "next_timestamp": "2024-05-12T15:15:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T15:09:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T15:09:58Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T15:15:38Z",
+      "previous_timestamp": "2024-05-12T15:10:38Z",
+      "next_timestamp": "2024-05-12T15:20:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T15:14:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T15:14:55Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T15:20:38Z",
+      "previous_timestamp": "2024-05-12T15:15:38Z",
+      "next_timestamp": "2024-05-12T15:25:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T15:18:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T15:18:37Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T15:25:38Z",
+      "previous_timestamp": "2024-05-12T15:20:38Z",
+      "next_timestamp": "2024-05-12T15:30:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T15:24:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T15:24:59Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T15:30:38Z",
+      "previous_timestamp": "2024-05-12T15:25:38Z",
+      "next_timestamp": "2024-05-12T15:35:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T15:30:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T15:30:01Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T15:35:38Z",
+      "previous_timestamp": "2024-05-12T15:30:38Z",
+      "next_timestamp": "2024-05-12T15:40:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T15:35:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T15:35:07Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T15:40:38Z",
+      "previous_timestamp": "2024-05-12T15:35:38Z",
+      "next_timestamp": "2024-05-12T15:45:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T15:39:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T15:39:59Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T15:45:38Z",
+      "previous_timestamp": "2024-05-12T15:40:38Z",
+      "next_timestamp": "2024-05-12T15:50:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T15:44:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T15:44:57Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T15:50:38Z",
+      "previous_timestamp": "2024-05-12T15:45:38Z",
+      "next_timestamp": "2024-05-12T15:55:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T15:50:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T15:50:02Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T15:55:38Z",
+      "previous_timestamp": "2024-05-12T15:50:38Z",
+      "next_timestamp": "2024-05-12T16:00:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T15:55:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T15:55:00Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T16:00:38Z",
+      "previous_timestamp": "2024-05-12T15:55:38Z",
+      "next_timestamp": "2024-05-12T16:05:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T15:58:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T15:58:36Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T16:05:38Z",
+      "previous_timestamp": "2024-05-12T16:00:38Z",
+      "next_timestamp": "2024-05-12T16:10:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T16:04:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T16:04:58Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T16:10:38Z",
+      "previous_timestamp": "2024-05-12T16:05:38Z",
+      "next_timestamp": "2024-05-12T16:15:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T16:10:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T16:10:04Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 4.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T16:15:38Z",
+      "previous_timestamp": "2024-05-12T16:10:38Z",
+      "next_timestamp": "2024-05-12T16:20:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T16:15:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T16:15:14Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 6.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.13
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T16:20:38Z",
+      "previous_timestamp": "2024-05-12T16:15:38Z",
+      "next_timestamp": "2024-05-12T16:25:37Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T16:20:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T16:20:20Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 5.7
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T16:25:37Z",
+      "previous_timestamp": "2024-05-12T16:20:38Z",
+      "next_timestamp": "2024-05-12T16:30:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T16:25:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T16:25:17Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 4.4
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.21
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T16:30:38Z",
+      "previous_timestamp": "2024-05-12T16:25:37Z",
+      "next_timestamp": "2024-05-12T16:35:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T16:30:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T16:30:14Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 3.7
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T16:35:38Z",
+      "previous_timestamp": "2024-05-12T16:30:38Z",
+      "next_timestamp": "2024-05-12T16:40:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T16:34:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T16:34:15Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 3.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.36
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T16:40:38Z",
+      "previous_timestamp": "2024-05-12T16:35:38Z",
+      "next_timestamp": "2024-05-12T16:45:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T16:39:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T16:39:24Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T16:45:38Z",
+      "previous_timestamp": "2024-05-12T16:40:38Z",
+      "next_timestamp": "2024-05-12T16:50:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T16:44:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T16:44:31Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T16:50:38Z",
+      "previous_timestamp": "2024-05-12T16:45:38Z",
+      "next_timestamp": "2024-05-12T16:55:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T16:49:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T16:49:36Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 4.1
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T16:55:38Z",
+      "previous_timestamp": "2024-05-12T16:50:38Z",
+      "next_timestamp": "2024-05-12T17:00:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T16:54:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T16:54:54Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 11.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.02
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T17:00:38Z",
+      "previous_timestamp": "2024-05-12T16:55:38Z",
+      "next_timestamp": "2024-05-12T17:05:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T16:59:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T16:59:55Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 7.5
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.08
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T17:05:38Z",
+      "previous_timestamp": "2024-05-12T17:00:38Z",
+      "next_timestamp": "2024-05-12T17:10:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T17:04:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T17:04:55Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 4.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.22
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T17:10:38Z",
+      "previous_timestamp": "2024-05-12T17:05:38Z",
+      "next_timestamp": "2024-05-12T17:15:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T17:10:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T17:10:03Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 5.8
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T17:15:38Z",
+      "previous_timestamp": "2024-05-12T17:10:38Z",
+      "next_timestamp": "2024-05-12T17:20:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T17:15:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T17:15:02Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 11.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.04
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T17:20:38Z",
+      "previous_timestamp": "2024-05-12T17:15:38Z",
+      "next_timestamp": "2024-05-12T17:25:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T17:15:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T17:15:02Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 11.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.04
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T17:25:38Z",
+      "previous_timestamp": "2024-05-12T17:20:38Z",
+      "next_timestamp": "2024-05-12T17:30:38Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-12T17:15:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-12T17:15:02Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 11.0
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.04
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-12T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-12T17:30:38Z",
+      "previous_timestamp": "2024-05-12T17:25:38Z",
+      "next_timestamp": "2024-05-12T17:35:37Z",
+      "data": {
+        "id": "6c96ea1c3ff1ebc35aa3e7827301206a",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-12T14:00:00Z",
+        "home_team": "Royal Challengers Bangalore",
+        "away_team": "Delhi Capitals",
+        "bookmakers": []
+      }
+    }
+  }
+]

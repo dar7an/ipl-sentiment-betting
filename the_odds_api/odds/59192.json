@@ -1,0 +1,1718 @@
+[
+  {
+    "timestamp": "2024-04-27T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T13:55:38Z",
+      "previous_timestamp": "2024-04-27T13:50:39Z",
+      "next_timestamp": "2024-04-27T14:00:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T13:55:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T13:55:25Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.06
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.78
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T14:00:39Z",
+      "previous_timestamp": "2024-04-27T13:55:38Z",
+      "next_timestamp": "2024-04-27T14:05:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T13:58:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T13:58:29Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.14
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T14:05:39Z",
+      "previous_timestamp": "2024-04-27T14:00:39Z",
+      "next_timestamp": "2024-04-27T14:10:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T14:04:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T14:04:32Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.35
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.59
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T14:10:39Z",
+      "previous_timestamp": "2024-04-27T14:05:39Z",
+      "next_timestamp": "2024-04-27T14:15:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T14:10:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T14:10:27Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T14:15:39Z",
+      "previous_timestamp": "2024-04-27T14:10:39Z",
+      "next_timestamp": "2024-04-27T14:20:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T14:15:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T14:15:00Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.7
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.48
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T14:20:39Z",
+      "previous_timestamp": "2024-04-27T14:15:39Z",
+      "next_timestamp": "2024-04-27T14:25:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T14:19:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T14:19:27Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.6
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.51
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T14:25:38Z",
+      "previous_timestamp": "2024-04-27T14:20:39Z",
+      "next_timestamp": "2024-04-27T14:30:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T14:25:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T14:25:23Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.55
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.53
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T14:30:39Z",
+      "previous_timestamp": "2024-04-27T14:25:38Z",
+      "next_timestamp": "2024-04-27T14:35:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T14:29:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T14:29:49Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.59
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T14:35:38Z",
+      "previous_timestamp": "2024-04-27T14:30:39Z",
+      "next_timestamp": "2024-04-27T14:40:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T14:34:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T14:34:25Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T14:40:39Z",
+      "previous_timestamp": "2024-04-27T14:35:38Z",
+      "next_timestamp": "2024-04-27T14:45:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T14:40:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T14:40:27Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T14:45:39Z",
+      "previous_timestamp": "2024-04-27T14:40:39Z",
+      "next_timestamp": "2024-04-27T14:50:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T14:43:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T14:43:25Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T14:50:39Z",
+      "previous_timestamp": "2024-04-27T14:45:39Z",
+      "next_timestamp": "2024-04-27T14:55:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T14:49:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T14:49:31Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T14:55:38Z",
+      "previous_timestamp": "2024-04-27T14:50:39Z",
+      "next_timestamp": "2024-04-27T15:00:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T14:55:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T14:55:31Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T15:00:39Z",
+      "previous_timestamp": "2024-04-27T14:55:38Z",
+      "next_timestamp": "2024-04-27T15:05:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T15:00:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T15:00:04Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.42
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.85
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T15:05:39Z",
+      "previous_timestamp": "2024-04-27T15:00:39Z",
+      "next_timestamp": "2024-04-27T15:10:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T15:04:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T15:04:38Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T15:10:39Z",
+      "previous_timestamp": "2024-04-27T15:05:39Z",
+      "next_timestamp": "2024-04-27T15:15:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T15:07:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T15:07:37Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T15:15:39Z",
+      "previous_timestamp": "2024-04-27T15:10:39Z",
+      "next_timestamp": "2024-04-27T15:20:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T15:15:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T15:15:23Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T15:20:39Z",
+      "previous_timestamp": "2024-04-27T15:15:39Z",
+      "next_timestamp": "2024-04-27T15:25:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T15:20:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T15:20:14Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T15:25:39Z",
+      "previous_timestamp": "2024-04-27T15:20:39Z",
+      "next_timestamp": "2024-04-27T15:30:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T15:25:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T15:25:00Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T15:30:38Z",
+      "previous_timestamp": "2024-04-27T15:25:39Z",
+      "next_timestamp": "2024-04-27T15:35:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T15:29:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T15:29:48Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T15:35:38Z",
+      "previous_timestamp": "2024-04-27T15:30:38Z",
+      "next_timestamp": "2024-04-27T15:40:40Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T15:34:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T15:34:35Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T15:40:40Z",
+      "previous_timestamp": "2024-04-27T15:35:38Z",
+      "next_timestamp": "2024-04-27T15:45:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T15:39:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T15:39:17Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T15:45:38Z",
+      "previous_timestamp": "2024-04-27T15:40:40Z",
+      "next_timestamp": "2024-04-27T15:50:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T15:44:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T15:44:09Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.55
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T15:50:38Z",
+      "previous_timestamp": "2024-04-27T15:45:38Z",
+      "next_timestamp": "2024-04-27T15:55:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T15:50:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T15:50:30Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T15:55:38Z",
+      "previous_timestamp": "2024-04-27T15:50:38Z",
+      "next_timestamp": "2024-04-27T16:00:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T15:53:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T15:53:38Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T16:00:39Z",
+      "previous_timestamp": "2024-04-27T15:55:38Z",
+      "next_timestamp": "2024-04-27T16:05:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T16:00:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T16:00:02Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T16:05:38Z",
+      "previous_timestamp": "2024-04-27T16:00:39Z",
+      "next_timestamp": "2024-04-27T16:10:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T16:03:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T16:03:12Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T16:10:39Z",
+      "previous_timestamp": "2024-04-27T16:05:38Z",
+      "next_timestamp": "2024-04-27T16:15:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T16:09:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T16:09:31Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T16:15:39Z",
+      "previous_timestamp": "2024-04-27T16:10:39Z",
+      "next_timestamp": "2024-04-27T16:20:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T16:14:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T16:14:19Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T16:20:39Z",
+      "previous_timestamp": "2024-04-27T16:15:39Z",
+      "next_timestamp": "2024-04-27T16:25:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T16:19:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T16:19:03Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T16:25:39Z",
+      "previous_timestamp": "2024-04-27T16:20:39Z",
+      "next_timestamp": "2024-04-27T16:30:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T16:25:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T16:25:16Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T16:30:39Z",
+      "previous_timestamp": "2024-04-27T16:25:39Z",
+      "next_timestamp": "2024-04-27T16:35:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T16:29:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T16:29:50Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T16:35:38Z",
+      "previous_timestamp": "2024-04-27T16:30:39Z",
+      "next_timestamp": "2024-04-27T16:40:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T16:34:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T16:34:28Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T16:40:38Z",
+      "previous_timestamp": "2024-04-27T16:35:38Z",
+      "next_timestamp": "2024-04-27T16:45:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T16:39:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T16:39:10Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T16:45:38Z",
+      "previous_timestamp": "2024-04-27T16:40:38Z",
+      "next_timestamp": "2024-04-27T16:50:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T16:45:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T16:45:24Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.36
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T16:50:38Z",
+      "previous_timestamp": "2024-04-27T16:45:38Z",
+      "next_timestamp": "2024-04-27T16:55:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T16:49:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T16:49:53Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T16:55:39Z",
+      "previous_timestamp": "2024-04-27T16:50:38Z",
+      "next_timestamp": "2024-04-27T17:00:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T16:54:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T16:54:27Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T17:00:38Z",
+      "previous_timestamp": "2024-04-27T16:55:39Z",
+      "next_timestamp": "2024-04-27T17:05:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T17:00:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T17:00:28Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T17:05:39Z",
+      "previous_timestamp": "2024-04-27T17:00:38Z",
+      "next_timestamp": "2024-04-27T17:10:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T17:05:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T17:05:00Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T17:10:39Z",
+      "previous_timestamp": "2024-04-27T17:05:39Z",
+      "next_timestamp": "2024-04-27T17:15:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T17:09:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T17:09:37Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T17:15:39Z",
+      "previous_timestamp": "2024-04-27T17:10:39Z",
+      "next_timestamp": "2024-04-27T17:20:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T17:14:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T17:14:10Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 3.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.33
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T17:20:38Z",
+      "previous_timestamp": "2024-04-27T17:15:39Z",
+      "next_timestamp": "2024-04-27T17:25:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T17:20:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T17:20:12Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 4.1
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T17:25:39Z",
+      "previous_timestamp": "2024-04-27T17:20:38Z",
+      "next_timestamp": "2024-04-27T17:30:39Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T17:24:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T17:24:38Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 8.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-27T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-27T17:30:39Z",
+      "previous_timestamp": "2024-04-27T17:25:39Z",
+      "next_timestamp": "2024-04-27T17:35:38Z",
+      "data": {
+        "id": "7b83f4f593667d917d6e11328b7e7f00",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-27T14:00:00Z",
+        "home_team": "Lucknow Super Giants",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-27T17:30:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-27T17:30:33Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 7.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.09
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,2147 @@
+[
+  {
+    "timestamp": "2024-05-17T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T13:55:39Z",
+      "previous_timestamp": "2024-05-17T13:50:39Z",
+      "next_timestamp": "2024-05-17T14:00:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T13:54:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T13:54:39Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.04
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.79
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T14:00:39Z",
+      "previous_timestamp": "2024-05-17T13:55:39Z",
+      "next_timestamp": "2024-05-17T14:05:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:00:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:00:16Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T14:05:39Z",
+      "previous_timestamp": "2024-05-17T14:00:39Z",
+      "next_timestamp": "2024-05-17T14:10:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:05:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:05:33Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T14:10:39Z",
+      "previous_timestamp": "2024-05-17T14:05:39Z",
+      "next_timestamp": "2024-05-17T14:15:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:09:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:09:48Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T14:15:39Z",
+      "previous_timestamp": "2024-05-17T14:10:39Z",
+      "next_timestamp": "2024-05-17T14:20:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:14:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:14:52Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T14:20:39Z",
+      "previous_timestamp": "2024-05-17T14:15:39Z",
+      "next_timestamp": "2024-05-17T14:25:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:20:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:20:02Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.59
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T14:25:39Z",
+      "previous_timestamp": "2024-05-17T14:20:39Z",
+      "next_timestamp": "2024-05-17T14:30:40Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:25:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:25:15Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T14:30:40Z",
+      "previous_timestamp": "2024-05-17T14:25:39Z",
+      "next_timestamp": "2024-05-17T14:35:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:30:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:30:00Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T14:35:39Z",
+      "previous_timestamp": "2024-05-17T14:30:40Z",
+      "next_timestamp": "2024-05-17T14:40:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:34:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:34:04Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.69
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T14:40:39Z",
+      "previous_timestamp": "2024-05-17T14:35:39Z",
+      "next_timestamp": "2024-05-17T14:45:40Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:40:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:40:09Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T14:45:40Z",
+      "previous_timestamp": "2024-05-17T14:40:39Z",
+      "next_timestamp": "2024-05-17T14:50:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:44:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:44:05Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T14:50:39Z",
+      "previous_timestamp": "2024-05-17T14:45:40Z",
+      "next_timestamp": "2024-05-17T14:55:40Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:49:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:49:55Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T14:55:40Z",
+      "previous_timestamp": "2024-05-17T14:50:39Z",
+      "next_timestamp": "2024-05-17T15:00:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:55:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:55:25Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.7
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.48
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T15:00:39Z",
+      "previous_timestamp": "2024-05-17T14:55:40Z",
+      "next_timestamp": "2024-05-17T15:05:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T14:59:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T14:59:28Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.43
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T15:05:39Z",
+      "previous_timestamp": "2024-05-17T15:00:39Z",
+      "next_timestamp": "2024-05-17T15:10:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T15:04:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T15:04:41Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.6
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T15:10:39Z",
+      "previous_timestamp": "2024-05-17T15:05:39Z",
+      "next_timestamp": "2024-05-17T15:15:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T15:10:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T15:10:07Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.6
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.51
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T15:15:39Z",
+      "previous_timestamp": "2024-05-17T15:10:39Z",
+      "next_timestamp": "2024-05-17T15:20:40Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T15:14:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T15:14:53Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T15:20:40Z",
+      "previous_timestamp": "2024-05-17T15:15:39Z",
+      "next_timestamp": "2024-05-17T15:25:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T15:19:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T15:19:58Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T15:25:39Z",
+      "previous_timestamp": "2024-05-17T15:20:40Z",
+      "next_timestamp": "2024-05-17T15:30:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T15:25:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T15:25:08Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.35
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T15:30:39Z",
+      "previous_timestamp": "2024-05-17T15:25:39Z",
+      "next_timestamp": "2024-05-17T15:35:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T15:26:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T15:26:54Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T15:35:39Z",
+      "previous_timestamp": "2024-05-17T15:30:39Z",
+      "next_timestamp": "2024-05-17T15:40:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T15:35:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T15:35:19Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T15:40:39Z",
+      "previous_timestamp": "2024-05-17T15:35:39Z",
+      "next_timestamp": "2024-05-17T15:45:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T15:40:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T15:40:07Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T15:45:39Z",
+      "previous_timestamp": "2024-05-17T15:40:39Z",
+      "next_timestamp": "2024-05-17T15:50:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T15:45:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T15:45:03Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T15:50:39Z",
+      "previous_timestamp": "2024-05-17T15:45:39Z",
+      "next_timestamp": "2024-05-17T15:55:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T15:50:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T15:50:29Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T15:55:39Z",
+      "previous_timestamp": "2024-05-17T15:50:39Z",
+      "next_timestamp": "2024-05-17T16:00:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T15:55:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T15:55:14Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T16:00:39Z",
+      "previous_timestamp": "2024-05-17T15:55:39Z",
+      "next_timestamp": "2024-05-17T16:05:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:00:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:00:09Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T16:05:39Z",
+      "previous_timestamp": "2024-05-17T16:00:39Z",
+      "next_timestamp": "2024-05-17T16:10:38Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:04:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:04:06Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T16:10:38Z",
+      "previous_timestamp": "2024-05-17T16:05:39Z",
+      "next_timestamp": "2024-05-17T16:15:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:09:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:09:56Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T16:15:39Z",
+      "previous_timestamp": "2024-05-17T16:10:38Z",
+      "next_timestamp": "2024-05-17T16:20:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:14:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:14:50Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T16:20:39Z",
+      "previous_timestamp": "2024-05-17T16:15:39Z",
+      "next_timestamp": "2024-05-17T16:25:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:20:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:20:35Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T16:25:39Z",
+      "previous_timestamp": "2024-05-17T16:20:39Z",
+      "next_timestamp": "2024-05-17T16:30:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:25:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:25:30Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T16:30:39Z",
+      "previous_timestamp": "2024-05-17T16:25:39Z",
+      "next_timestamp": "2024-05-17T16:35:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:30:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:30:17Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T16:35:39Z",
+      "previous_timestamp": "2024-05-17T16:30:39Z",
+      "next_timestamp": "2024-05-17T16:40:38Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:34:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:34:24Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T16:40:38Z",
+      "previous_timestamp": "2024-05-17T16:35:39Z",
+      "next_timestamp": "2024-05-17T16:45:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:40:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:40:02Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T16:45:39Z",
+      "previous_timestamp": "2024-05-17T16:40:38Z",
+      "next_timestamp": "2024-05-17T16:50:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:44:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:44:51Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T16:50:39Z",
+      "previous_timestamp": "2024-05-17T16:45:39Z",
+      "next_timestamp": "2024-05-17T16:55:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:48:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:48:59Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T16:55:39Z",
+      "previous_timestamp": "2024-05-17T16:50:39Z",
+      "next_timestamp": "2024-05-17T17:00:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:55:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:55:35Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T17:00:39Z",
+      "previous_timestamp": "2024-05-17T16:55:39Z",
+      "next_timestamp": "2024-05-17T17:05:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T16:59:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T16:59:46Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T17:05:39Z",
+      "previous_timestamp": "2024-05-17T17:00:39Z",
+      "next_timestamp": "2024-05-17T17:10:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T17:04:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T17:04:47Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T17:10:39Z",
+      "previous_timestamp": "2024-05-17T17:05:39Z",
+      "next_timestamp": "2024-05-17T17:15:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T17:10:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T17:10:05Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T17:15:39Z",
+      "previous_timestamp": "2024-05-17T17:10:39Z",
+      "next_timestamp": "2024-05-17T17:20:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T17:15:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T17:15:11Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T17:20:39Z",
+      "previous_timestamp": "2024-05-17T17:15:39Z",
+      "next_timestamp": "2024-05-17T17:25:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T17:18:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T17:18:24Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T17:25:39Z",
+      "previous_timestamp": "2024-05-17T17:20:39Z",
+      "next_timestamp": "2024-05-17T17:30:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T17:25:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T17:25:31Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T17:30:39Z",
+      "previous_timestamp": "2024-05-17T17:25:39Z",
+      "next_timestamp": "2024-05-17T17:35:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T17:29:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T17:29:50Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T17:35:39Z",
+      "previous_timestamp": "2024-05-17T17:30:39Z",
+      "next_timestamp": "2024-05-17T17:40:40Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T17:35:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T17:35:05Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T17:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T17:40:40Z",
+      "previous_timestamp": "2024-05-17T17:35:39Z",
+      "next_timestamp": "2024-05-17T17:45:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T17:40:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T17:40:29Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.5
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.54
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T17:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T17:45:39Z",
+      "previous_timestamp": "2024-05-17T17:40:40Z",
+      "next_timestamp": "2024-05-17T17:50:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T17:44:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T17:44:50Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T17:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T17:50:39Z",
+      "previous_timestamp": "2024-05-17T17:45:39Z",
+      "next_timestamp": "2024-05-17T17:55:40Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T17:45:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T17:45:59Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T18:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T17:55:40Z",
+      "previous_timestamp": "2024-05-17T17:50:39Z",
+      "next_timestamp": "2024-05-17T18:00:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T17:55:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T17:55:03Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.38
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T18:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T18:00:39Z",
+      "previous_timestamp": "2024-05-17T17:55:40Z",
+      "next_timestamp": "2024-05-17T18:05:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T18:00:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T18:00:12Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.15
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 5.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T18:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T18:05:39Z",
+      "previous_timestamp": "2024-05-17T18:00:39Z",
+      "next_timestamp": "2024-05-17T18:10:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T18:05:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T18:05:24Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.18
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 4.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T18:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T18:10:39Z",
+      "previous_timestamp": "2024-05-17T18:05:39Z",
+      "next_timestamp": "2024-05-17T18:15:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T18:10:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T18:10:28Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 8.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T18:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T18:15:39Z",
+      "previous_timestamp": "2024-05-17T18:10:39Z",
+      "next_timestamp": "2024-05-17T18:20:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T18:14:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T18:14:12Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.0
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T18:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T18:20:39Z",
+      "previous_timestamp": "2024-05-17T18:15:39Z",
+      "next_timestamp": "2024-05-17T18:25:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T18:19:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T18:19:20Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-17T18:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-17T18:25:39Z",
+      "previous_timestamp": "2024-05-17T18:20:39Z",
+      "next_timestamp": "2024-05-17T18:30:39Z",
+      "data": {
+        "id": "904e9987d0f20181862cc5f3160a955b",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-17T14:00:00Z",
+        "home_team": "Mumbai Indians",
+        "away_team": "Lucknow Super Giants",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-17T18:23:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-17T18:23:17Z",
+                "outcomes": [
+                  {
+                    "name": "Lucknow Super Giants",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Mumbai Indians",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,1718 @@
+[
+  {
+    "timestamp": "2024-04-21T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T13:55:38Z",
+      "previous_timestamp": "2024-04-21T13:50:38Z",
+      "next_timestamp": "2024-04-21T14:00:39Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T13:54:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:54:19Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T14:00:39Z",
+      "previous_timestamp": "2024-04-21T13:55:38Z",
+      "next_timestamp": "2024-04-21T14:05:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:00:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:00:12Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T14:05:38Z",
+      "previous_timestamp": "2024-04-21T14:00:39Z",
+      "next_timestamp": "2024-04-21T14:10:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:04:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:04:18Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T14:10:38Z",
+      "previous_timestamp": "2024-04-21T14:05:38Z",
+      "next_timestamp": "2024-04-21T14:15:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:09:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:09:51Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T14:15:38Z",
+      "previous_timestamp": "2024-04-21T14:10:38Z",
+      "next_timestamp": "2024-04-21T14:20:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:15:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:15:27Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T14:20:38Z",
+      "previous_timestamp": "2024-04-21T14:15:38Z",
+      "next_timestamp": "2024-04-21T14:25:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:19:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:19:57Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T14:25:38Z",
+      "previous_timestamp": "2024-04-21T14:20:38Z",
+      "next_timestamp": "2024-04-21T14:30:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:22:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:22:40Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T14:30:38Z",
+      "previous_timestamp": "2024-04-21T14:25:38Z",
+      "next_timestamp": "2024-04-21T14:35:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:29:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:29:37Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T14:35:38Z",
+      "previous_timestamp": "2024-04-21T14:30:38Z",
+      "next_timestamp": "2024-04-21T14:40:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:35:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:35:18Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T14:40:38Z",
+      "previous_timestamp": "2024-04-21T14:35:38Z",
+      "next_timestamp": "2024-04-21T14:45:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:35:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:35:18Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T14:45:38Z",
+      "previous_timestamp": "2024-04-21T14:40:38Z",
+      "next_timestamp": "2024-04-21T14:50:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:45:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:45:19Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T14:50:38Z",
+      "previous_timestamp": "2024-04-21T14:45:38Z",
+      "next_timestamp": "2024-04-21T14:55:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:49:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:49:27Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.35
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T14:55:38Z",
+      "previous_timestamp": "2024-04-21T14:50:38Z",
+      "next_timestamp": "2024-04-21T15:00:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:55:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:55:03Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.42
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.85
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T15:00:38Z",
+      "previous_timestamp": "2024-04-21T14:55:38Z",
+      "next_timestamp": "2024-04-21T15:05:39Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T14:59:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:59:30Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T15:05:39Z",
+      "previous_timestamp": "2024-04-21T15:00:38Z",
+      "next_timestamp": "2024-04-21T15:10:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T15:05:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T15:05:09Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T15:10:38Z",
+      "previous_timestamp": "2024-04-21T15:05:39Z",
+      "next_timestamp": "2024-04-21T15:15:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T15:09:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T15:09:06Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.31
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T15:15:38Z",
+      "previous_timestamp": "2024-04-21T15:10:38Z",
+      "next_timestamp": "2024-04-21T15:20:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T15:14:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T15:14:46Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.2
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T15:20:38Z",
+      "previous_timestamp": "2024-04-21T15:15:38Z",
+      "next_timestamp": "2024-04-21T15:25:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T15:20:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T15:20:24Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 6.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T15:25:38Z",
+      "previous_timestamp": "2024-04-21T15:20:38Z",
+      "next_timestamp": "2024-04-21T15:30:39Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T15:24:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T15:24:42Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T15:30:39Z",
+      "previous_timestamp": "2024-04-21T15:25:38Z",
+      "next_timestamp": "2024-04-21T15:35:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T15:30:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T15:30:19Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T15:35:38Z",
+      "previous_timestamp": "2024-04-21T15:30:39Z",
+      "next_timestamp": "2024-04-21T15:40:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T15:34:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T15:34:20Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.18
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T15:40:38Z",
+      "previous_timestamp": "2024-04-21T15:35:38Z",
+      "next_timestamp": "2024-04-21T15:45:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T15:39:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T15:39:52Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.21
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T15:45:38Z",
+      "previous_timestamp": "2024-04-21T15:40:38Z",
+      "next_timestamp": "2024-04-21T15:50:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T15:45:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T15:45:27Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.18
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T15:50:38Z",
+      "previous_timestamp": "2024-04-21T15:45:38Z",
+      "next_timestamp": "2024-04-21T15:55:39Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T15:49:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T15:49:52Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.18
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T15:55:39Z",
+      "previous_timestamp": "2024-04-21T15:50:38Z",
+      "next_timestamp": "2024-04-21T16:00:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T15:55:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T15:55:29Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T16:00:38Z",
+      "previous_timestamp": "2024-04-21T15:55:39Z",
+      "next_timestamp": "2024-04-21T16:05:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T15:59:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T15:59:29Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T16:05:38Z",
+      "previous_timestamp": "2024-04-21T16:00:38Z",
+      "next_timestamp": "2024-04-21T16:10:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T16:05:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T16:05:03Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 6.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T16:10:38Z",
+      "previous_timestamp": "2024-04-21T16:05:38Z",
+      "next_timestamp": "2024-04-21T16:15:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T16:09:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T16:09:26Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T16:15:38Z",
+      "previous_timestamp": "2024-04-21T16:10:38Z",
+      "next_timestamp": "2024-04-21T16:20:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T16:15:13Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T16:15:13Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T16:20:38Z",
+      "previous_timestamp": "2024-04-21T16:15:38Z",
+      "next_timestamp": "2024-04-21T16:25:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T16:19:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T16:19:19Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 7.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T16:25:38Z",
+      "previous_timestamp": "2024-04-21T16:20:38Z",
+      "next_timestamp": "2024-04-21T16:30:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T16:24:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T16:24:58Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.08
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T16:30:38Z",
+      "previous_timestamp": "2024-04-21T16:25:38Z",
+      "next_timestamp": "2024-04-21T16:35:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T16:29:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T16:29:29Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T16:35:38Z",
+      "previous_timestamp": "2024-04-21T16:30:38Z",
+      "next_timestamp": "2024-04-21T16:40:39Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T16:35:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T16:35:04Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 10.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T16:40:39Z",
+      "previous_timestamp": "2024-04-21T16:35:38Z",
+      "next_timestamp": "2024-04-21T16:45:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T16:39:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T16:39:00Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 10.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T16:45:38Z",
+      "previous_timestamp": "2024-04-21T16:40:39Z",
+      "next_timestamp": "2024-04-21T16:50:39Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T16:44:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T16:44:38Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 6.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T16:50:39Z",
+      "previous_timestamp": "2024-04-21T16:45:38Z",
+      "next_timestamp": "2024-04-21T16:55:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T16:50:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T16:50:18Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T16:55:38Z",
+      "previous_timestamp": "2024-04-21T16:50:39Z",
+      "next_timestamp": "2024-04-21T17:00:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T16:54:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T16:54:48Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T17:00:38Z",
+      "previous_timestamp": "2024-04-21T16:55:38Z",
+      "next_timestamp": "2024-04-21T17:05:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T17:00:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T17:00:28Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T17:05:38Z",
+      "previous_timestamp": "2024-04-21T17:00:38Z",
+      "next_timestamp": "2024-04-21T17:10:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T17:04:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T17:04:28Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.13
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 6.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T17:10:38Z",
+      "previous_timestamp": "2024-04-21T17:05:38Z",
+      "next_timestamp": "2024-04-21T17:15:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T17:09:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T17:09:54Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T17:15:38Z",
+      "previous_timestamp": "2024-04-21T17:10:38Z",
+      "next_timestamp": "2024-04-21T17:20:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T17:15:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T17:15:21Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.42
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 2.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T17:20:38Z",
+      "previous_timestamp": "2024-04-21T17:15:38Z",
+      "next_timestamp": "2024-04-21T17:25:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T17:19:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T17:19:44Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.38
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T17:25:38Z",
+      "previous_timestamp": "2024-04-21T17:20:38Z",
+      "next_timestamp": "2024-04-21T17:30:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T17:25:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T17:25:16Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.08
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-21T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-21T17:30:38Z",
+      "previous_timestamp": "2024-04-21T17:25:38Z",
+      "next_timestamp": "2024-04-21T17:35:38Z",
+      "data": {
+        "id": "15b0af07ba9dc3275c2b2b706511483d",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-21T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-21T17:26:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T17:26:18Z",
+                "outcomes": [
+                  {
+                    "name": "Gujarat Titans",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Punjab Kings",
+                    "price": 30.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

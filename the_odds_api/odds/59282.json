@@ -1,0 +1,1406 @@
+[
+  {
+    "timestamp": "2024-05-26T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T13:55:38Z",
+      "previous_timestamp": "2024-05-26T13:50:38Z",
+      "next_timestamp": "2024-05-26T14:00:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T13:55:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T13:55:09Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T14:00:38Z",
+      "previous_timestamp": "2024-05-26T13:55:38Z",
+      "next_timestamp": "2024-05-26T14:05:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:00:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:00:02Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T14:05:38Z",
+      "previous_timestamp": "2024-05-26T14:00:38Z",
+      "next_timestamp": "2024-05-26T14:10:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:03:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:03:36Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T14:10:38Z",
+      "previous_timestamp": "2024-05-26T14:05:38Z",
+      "next_timestamp": "2024-05-26T14:15:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:09:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:09:56Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T14:15:38Z",
+      "previous_timestamp": "2024-05-26T14:10:38Z",
+      "next_timestamp": "2024-05-26T14:20:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:14:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:14:50Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T14:20:38Z",
+      "previous_timestamp": "2024-05-26T14:15:38Z",
+      "next_timestamp": "2024-05-26T14:25:40Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:19:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:19:52Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T14:25:40Z",
+      "previous_timestamp": "2024-05-26T14:20:38Z",
+      "next_timestamp": "2024-05-26T14:30:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:23:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:23:58Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T14:30:38Z",
+      "previous_timestamp": "2024-05-26T14:25:40Z",
+      "next_timestamp": "2024-05-26T14:35:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:29:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:29:43Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T14:35:38Z",
+      "previous_timestamp": "2024-05-26T14:30:38Z",
+      "next_timestamp": "2024-05-26T14:40:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:34:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:34:59Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.31
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T14:40:38Z",
+      "previous_timestamp": "2024-05-26T14:35:38Z",
+      "next_timestamp": "2024-05-26T14:45:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:40:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:40:35Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.36
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T14:45:38Z",
+      "previous_timestamp": "2024-05-26T14:40:38Z",
+      "next_timestamp": "2024-05-26T14:50:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:45:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:45:34Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.24
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T14:50:38Z",
+      "previous_timestamp": "2024-05-26T14:45:38Z",
+      "next_timestamp": "2024-05-26T14:55:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:49:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:49:53Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.27
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T14:55:38Z",
+      "previous_timestamp": "2024-05-26T14:50:38Z",
+      "next_timestamp": "2024-05-26T15:00:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:55:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:55:02Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.24
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T15:00:38Z",
+      "previous_timestamp": "2024-05-26T14:55:38Z",
+      "next_timestamp": "2024-05-26T15:05:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T14:59:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T14:59:57Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 5.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T15:05:38Z",
+      "previous_timestamp": "2024-05-26T15:00:38Z",
+      "next_timestamp": "2024-05-26T15:10:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T15:05:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T15:05:01Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.13
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 6.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T15:10:38Z",
+      "previous_timestamp": "2024-05-26T15:05:38Z",
+      "next_timestamp": "2024-05-26T15:15:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T15:10:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T15:10:15Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T15:15:38Z",
+      "previous_timestamp": "2024-05-26T15:10:38Z",
+      "next_timestamp": "2024-05-26T15:20:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T15:12:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T15:12:53Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.09
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T15:20:38Z",
+      "previous_timestamp": "2024-05-26T15:15:38Z",
+      "next_timestamp": "2024-05-26T15:25:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T15:19:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T15:19:52Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.03
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 13.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T15:25:38Z",
+      "previous_timestamp": "2024-05-26T15:20:38Z",
+      "next_timestamp": "2024-05-26T15:30:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T15:25:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T15:25:29Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 10.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T15:30:38Z",
+      "previous_timestamp": "2024-05-26T15:25:38Z",
+      "next_timestamp": "2024-05-26T15:35:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T15:29:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T15:29:49Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 10.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T15:35:38Z",
+      "previous_timestamp": "2024-05-26T15:30:38Z",
+      "next_timestamp": "2024-05-26T15:40:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T15:34:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T15:34:59Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T15:40:38Z",
+      "previous_timestamp": "2024-05-26T15:35:38Z",
+      "next_timestamp": "2024-05-26T15:45:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T15:40:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T15:40:17Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T15:45:38Z",
+      "previous_timestamp": "2024-05-26T15:40:38Z",
+      "next_timestamp": "2024-05-26T15:50:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T15:44:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T15:44:39Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T15:50:38Z",
+      "previous_timestamp": "2024-05-26T15:45:38Z",
+      "next_timestamp": "2024-05-26T15:55:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T15:50:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T15:50:08Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T15:55:38Z",
+      "previous_timestamp": "2024-05-26T15:50:38Z",
+      "next_timestamp": "2024-05-26T16:00:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T15:55:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T15:55:28Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T16:00:38Z",
+      "previous_timestamp": "2024-05-26T15:55:38Z",
+      "next_timestamp": "2024-05-26T16:05:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T16:00:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T16:00:07Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T16:05:38Z",
+      "previous_timestamp": "2024-05-26T16:00:38Z",
+      "next_timestamp": "2024-05-26T16:10:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T16:04:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T16:04:37Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T16:10:38Z",
+      "previous_timestamp": "2024-05-26T16:05:38Z",
+      "next_timestamp": "2024-05-26T16:15:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T16:10:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T16:10:33Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T16:15:38Z",
+      "previous_timestamp": "2024-05-26T16:10:38Z",
+      "next_timestamp": "2024-05-26T16:20:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T16:13:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T16:13:15Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T16:20:38Z",
+      "previous_timestamp": "2024-05-26T16:15:38Z",
+      "next_timestamp": "2024-05-26T16:25:38Z",
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T16:13:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T16:13:15Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T16:25:38Z",
+      "previous_timestamp": "2024-05-26T16:20:38Z",
+      "next_timestamp": null,
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T16:13:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T16:13:15Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T16:25:38Z",
+      "previous_timestamp": "2024-05-26T16:20:38Z",
+      "next_timestamp": null,
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T16:13:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T16:13:15Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T16:25:38Z",
+      "previous_timestamp": "2024-05-26T16:20:38Z",
+      "next_timestamp": null,
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T16:13:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T16:13:15Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T16:25:38Z",
+      "previous_timestamp": "2024-05-26T16:20:38Z",
+      "next_timestamp": null,
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T16:13:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T16:13:15Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T16:25:38Z",
+      "previous_timestamp": "2024-05-26T16:20:38Z",
+      "next_timestamp": null,
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T16:13:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T16:13:15Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-26T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-26T16:25:38Z",
+      "previous_timestamp": "2024-05-26T16:20:38Z",
+      "next_timestamp": null,
+      "data": {
+        "id": "abf07c0604f2f530cca29bbaa7448967",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-26T14:00:00Z",
+        "home_team": "Kolkata Knight Riders",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-26T16:13:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-26T16:13:15Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

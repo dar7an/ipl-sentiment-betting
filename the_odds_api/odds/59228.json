@@ -1,0 +1,1874 @@
+[
+  {
+    "timestamp": "2024-05-07T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T13:55:38Z",
+      "previous_timestamp": "2024-05-07T13:50:39Z",
+      "next_timestamp": "2024-05-07T14:00:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T13:55:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T13:55:33Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T14:00:39Z",
+      "previous_timestamp": "2024-05-07T13:55:38Z",
+      "next_timestamp": "2024-05-07T14:05:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T14:00:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T14:00:10Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T14:05:38Z",
+      "previous_timestamp": "2024-05-07T14:00:39Z",
+      "next_timestamp": "2024-05-07T14:10:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T14:04:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T14:04:57Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.3
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T14:10:39Z",
+      "previous_timestamp": "2024-05-07T14:05:38Z",
+      "next_timestamp": "2024-05-07T14:15:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T14:09:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T14:09:00Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.15
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T14:15:39Z",
+      "previous_timestamp": "2024-05-07T14:10:39Z",
+      "next_timestamp": "2024-05-07T14:20:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T14:15:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T14:15:05Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T14:20:39Z",
+      "previous_timestamp": "2024-05-07T14:15:39Z",
+      "next_timestamp": "2024-05-07T14:25:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T14:19:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T14:19:37Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T14:25:38Z",
+      "previous_timestamp": "2024-05-07T14:20:39Z",
+      "next_timestamp": "2024-05-07T14:30:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T14:25:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T14:25:14Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T14:30:38Z",
+      "previous_timestamp": "2024-05-07T14:25:38Z",
+      "next_timestamp": "2024-05-07T14:35:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T14:30:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T14:30:04Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T14:35:39Z",
+      "previous_timestamp": "2024-05-07T14:30:38Z",
+      "next_timestamp": "2024-05-07T14:40:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T14:35:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T14:35:05Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T14:40:39Z",
+      "previous_timestamp": "2024-05-07T14:35:39Z",
+      "next_timestamp": "2024-05-07T14:45:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T14:40:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T14:40:28Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T14:45:38Z",
+      "previous_timestamp": "2024-05-07T14:40:39Z",
+      "next_timestamp": "2024-05-07T14:50:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T14:44:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T14:44:55Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T14:50:39Z",
+      "previous_timestamp": "2024-05-07T14:45:38Z",
+      "next_timestamp": "2024-05-07T14:55:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T14:50:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T14:50:26Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T14:55:39Z",
+      "previous_timestamp": "2024-05-07T14:50:39Z",
+      "next_timestamp": "2024-05-07T15:00:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T14:55:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T14:55:27Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T15:00:38Z",
+      "previous_timestamp": "2024-05-07T14:55:39Z",
+      "next_timestamp": "2024-05-07T15:05:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T15:00:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T15:00:23Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T15:05:39Z",
+      "previous_timestamp": "2024-05-07T15:00:38Z",
+      "next_timestamp": "2024-05-07T15:10:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T15:05:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T15:05:12Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T15:10:39Z",
+      "previous_timestamp": "2024-05-07T15:05:39Z",
+      "next_timestamp": "2024-05-07T15:15:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T15:10:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T15:10:04Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T15:15:39Z",
+      "previous_timestamp": "2024-05-07T15:10:39Z",
+      "next_timestamp": "2024-05-07T15:20:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T15:15:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T15:15:35Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.05
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T15:20:39Z",
+      "previous_timestamp": "2024-05-07T15:15:39Z",
+      "next_timestamp": "2024-05-07T15:25:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T15:20:35Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T15:20:35Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T15:25:38Z",
+      "previous_timestamp": "2024-05-07T15:20:39Z",
+      "next_timestamp": "2024-05-07T15:30:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T15:24:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T15:24:25Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T15:30:38Z",
+      "previous_timestamp": "2024-05-07T15:25:38Z",
+      "next_timestamp": "2024-05-07T15:35:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T15:29:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T15:29:47Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T15:35:38Z",
+      "previous_timestamp": "2024-05-07T15:30:38Z",
+      "next_timestamp": "2024-05-07T15:40:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T15:35:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T15:35:25Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T15:40:38Z",
+      "previous_timestamp": "2024-05-07T15:35:38Z",
+      "next_timestamp": "2024-05-07T15:45:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T15:40:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T15:40:19Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T15:45:38Z",
+      "previous_timestamp": "2024-05-07T15:40:38Z",
+      "next_timestamp": "2024-05-07T15:50:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T15:44:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T15:44:49Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T15:50:39Z",
+      "previous_timestamp": "2024-05-07T15:45:38Z",
+      "next_timestamp": "2024-05-07T15:55:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T15:50:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T15:50:29Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T15:55:39Z",
+      "previous_timestamp": "2024-05-07T15:50:39Z",
+      "next_timestamp": "2024-05-07T16:00:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T15:55:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T15:55:08Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T16:00:39Z",
+      "previous_timestamp": "2024-05-07T15:55:39Z",
+      "next_timestamp": "2024-05-07T16:05:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:00:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:00:33Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T16:05:39Z",
+      "previous_timestamp": "2024-05-07T16:00:39Z",
+      "next_timestamp": "2024-05-07T16:10:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:05:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:05:18Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.4
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T16:10:39Z",
+      "previous_timestamp": "2024-05-07T16:05:39Z",
+      "next_timestamp": "2024-05-07T16:15:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:10:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:10:06Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.31
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T16:15:39Z",
+      "previous_timestamp": "2024-05-07T16:10:39Z",
+      "next_timestamp": "2024-05-07T16:20:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:15:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:15:12Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.55
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T16:20:39Z",
+      "previous_timestamp": "2024-05-07T16:15:39Z",
+      "next_timestamp": "2024-05-07T16:25:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:19:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:19:14Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T16:25:39Z",
+      "previous_timestamp": "2024-05-07T16:20:39Z",
+      "next_timestamp": "2024-05-07T16:30:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:25:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:25:34Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T16:30:39Z",
+      "previous_timestamp": "2024-05-07T16:25:39Z",
+      "next_timestamp": "2024-05-07T16:35:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:30:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:30:15Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T16:35:39Z",
+      "previous_timestamp": "2024-05-07T16:30:39Z",
+      "next_timestamp": "2024-05-07T16:40:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:35:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:35:29Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.5
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T16:40:38Z",
+      "previous_timestamp": "2024-05-07T16:35:39Z",
+      "next_timestamp": "2024-05-07T16:45:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:39:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:39:48Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T16:45:38Z",
+      "previous_timestamp": "2024-05-07T16:40:38Z",
+      "next_timestamp": "2024-05-07T16:50:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:44:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:44:53Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T16:50:39Z",
+      "previous_timestamp": "2024-05-07T16:45:38Z",
+      "next_timestamp": "2024-05-07T16:55:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:50:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:50:01Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T16:55:39Z",
+      "previous_timestamp": "2024-05-07T16:50:39Z",
+      "next_timestamp": "2024-05-07T17:00:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:55:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:55:00Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.25
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T17:00:39Z",
+      "previous_timestamp": "2024-05-07T16:55:39Z",
+      "next_timestamp": "2024-05-07T17:05:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T16:58:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T16:58:31Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T17:05:39Z",
+      "previous_timestamp": "2024-05-07T17:00:39Z",
+      "next_timestamp": "2024-05-07T17:10:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T17:05:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T17:05:26Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T17:10:39Z",
+      "previous_timestamp": "2024-05-07T17:05:39Z",
+      "next_timestamp": "2024-05-07T17:15:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T17:09:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T17:09:51Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T17:15:39Z",
+      "previous_timestamp": "2024-05-07T17:10:39Z",
+      "next_timestamp": "2024-05-07T17:20:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T17:15:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T17:15:01Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.55
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.51
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T17:20:39Z",
+      "previous_timestamp": "2024-05-07T17:15:39Z",
+      "next_timestamp": "2024-05-07T17:25:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T17:20:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T17:20:14Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 2.7
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.48
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T17:25:39Z",
+      "previous_timestamp": "2024-05-07T17:20:39Z",
+      "next_timestamp": "2024-05-07T17:30:38Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T17:25:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T17:25:12Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T17:30:38Z",
+      "previous_timestamp": "2024-05-07T17:25:39Z",
+      "next_timestamp": "2024-05-07T17:35:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T17:30:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T17:30:23Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T17:35:39Z",
+      "previous_timestamp": "2024-05-07T17:30:38Z",
+      "next_timestamp": "2024-05-07T17:40:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T17:35:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T17:35:09Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T17:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T17:40:39Z",
+      "previous_timestamp": "2024-05-07T17:35:39Z",
+      "next_timestamp": "2024-05-07T17:45:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T17:39:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T17:39:56Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.24
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 4.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T17:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T17:45:39Z",
+      "previous_timestamp": "2024-05-07T17:40:39Z",
+      "next_timestamp": "2024-05-07T17:50:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T17:44:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T17:44:30Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.04
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-07T17:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-07T17:50:39Z",
+      "previous_timestamp": "2024-05-07T17:45:39Z",
+      "next_timestamp": "2024-05-07T17:55:39Z",
+      "data": {
+        "id": "96560985c977883a82c6479ca59e9db0",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-07T14:00:00Z",
+        "home_team": "Delhi Capitals",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-07T17:47:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-07T17:47:36Z",
+                "outcomes": [
+                  {
+                    "name": "Delhi Capitals",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

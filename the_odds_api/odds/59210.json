@@ -1,0 +1,1874 @@
+[
+  {
+    "timestamp": "2024-05-02T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T13:55:38Z",
+      "previous_timestamp": "2024-05-02T13:50:39Z",
+      "next_timestamp": "2024-05-02T14:00:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T13:55:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T13:55:33Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T14:00:39Z",
+      "previous_timestamp": "2024-05-02T13:55:38Z",
+      "next_timestamp": "2024-05-02T14:05:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T13:59:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T13:59:57Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T14:05:39Z",
+      "previous_timestamp": "2024-05-02T14:00:39Z",
+      "next_timestamp": "2024-05-02T14:10:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T14:05:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T14:05:02Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T14:10:39Z",
+      "previous_timestamp": "2024-05-02T14:05:39Z",
+      "next_timestamp": "2024-05-02T14:15:38Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T14:10:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T14:10:09Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T14:15:38Z",
+      "previous_timestamp": "2024-05-02T14:10:39Z",
+      "next_timestamp": "2024-05-02T14:20:38Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T14:15:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T14:15:20Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T14:20:38Z",
+      "previous_timestamp": "2024-05-02T14:15:38Z",
+      "next_timestamp": "2024-05-02T14:25:38Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T14:20:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T14:20:34Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.55
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T14:25:38Z",
+      "previous_timestamp": "2024-05-02T14:20:38Z",
+      "next_timestamp": "2024-05-02T14:30:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T14:24:56Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T14:24:56Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T14:30:39Z",
+      "previous_timestamp": "2024-05-02T14:25:38Z",
+      "next_timestamp": "2024-05-02T14:35:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T14:29:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T14:29:59Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T14:35:39Z",
+      "previous_timestamp": "2024-05-02T14:30:39Z",
+      "next_timestamp": "2024-05-02T14:40:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T14:34:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T14:34:58Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T14:40:39Z",
+      "previous_timestamp": "2024-05-02T14:35:39Z",
+      "next_timestamp": "2024-05-02T14:45:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T14:40:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T14:40:03Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T14:45:39Z",
+      "previous_timestamp": "2024-05-02T14:40:39Z",
+      "next_timestamp": "2024-05-02T14:50:38Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T14:45:04Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T14:45:04Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T14:50:38Z",
+      "previous_timestamp": "2024-05-02T14:45:39Z",
+      "next_timestamp": "2024-05-02T14:55:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T14:50:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T14:50:10Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T14:55:39Z",
+      "previous_timestamp": "2024-05-02T14:50:38Z",
+      "next_timestamp": "2024-05-02T15:00:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T14:55:10Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T14:55:10Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T15:00:39Z",
+      "previous_timestamp": "2024-05-02T14:55:39Z",
+      "next_timestamp": "2024-05-02T15:05:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T14:59:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T14:59:25Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T15:05:39Z",
+      "previous_timestamp": "2024-05-02T15:00:39Z",
+      "next_timestamp": "2024-05-02T15:10:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T15:05:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T15:05:16Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T15:10:39Z",
+      "previous_timestamp": "2024-05-02T15:05:39Z",
+      "next_timestamp": "2024-05-02T15:15:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T15:10:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T15:10:27Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.35
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.59
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T15:15:39Z",
+      "previous_timestamp": "2024-05-02T15:10:39Z",
+      "next_timestamp": "2024-05-02T15:20:40Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T15:15:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T15:15:28Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T15:20:40Z",
+      "previous_timestamp": "2024-05-02T15:15:39Z",
+      "next_timestamp": "2024-05-02T15:25:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T15:20:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T15:20:33Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T15:25:39Z",
+      "previous_timestamp": "2024-05-02T15:20:40Z",
+      "next_timestamp": "2024-05-02T15:30:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T15:25:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T15:25:32Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T15:30:39Z",
+      "previous_timestamp": "2024-05-02T15:25:39Z",
+      "next_timestamp": "2024-05-02T15:35:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T15:29:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T15:29:05Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T15:35:39Z",
+      "previous_timestamp": "2024-05-02T15:30:39Z",
+      "next_timestamp": "2024-05-02T15:40:40Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T15:34:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T15:34:54Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T15:40:40Z",
+      "previous_timestamp": "2024-05-02T15:35:39Z",
+      "next_timestamp": "2024-05-02T15:45:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T15:40:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T15:40:12Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.91
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.91
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T15:45:39Z",
+      "previous_timestamp": "2024-05-02T15:40:40Z",
+      "next_timestamp": "2024-05-02T15:50:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T15:45:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T15:45:15Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T15:50:39Z",
+      "previous_timestamp": "2024-05-02T15:45:39Z",
+      "next_timestamp": "2024-05-02T15:55:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T15:50:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T15:50:18Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T15:55:39Z",
+      "previous_timestamp": "2024-05-02T15:50:39Z",
+      "next_timestamp": "2024-05-02T16:00:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T15:55:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T15:55:28Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T16:00:39Z",
+      "previous_timestamp": "2024-05-02T15:55:39Z",
+      "next_timestamp": "2024-05-02T16:05:38Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:00:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:00:33Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.7
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.48
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T16:05:38Z",
+      "previous_timestamp": "2024-05-02T16:00:39Z",
+      "next_timestamp": "2024-05-02T16:10:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:04:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:04:55Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 4.1
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T16:10:39Z",
+      "previous_timestamp": "2024-05-02T16:05:38Z",
+      "next_timestamp": "2024-05-02T16:15:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:10:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:10:02Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 4.1
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T16:15:39Z",
+      "previous_timestamp": "2024-05-02T16:10:39Z",
+      "next_timestamp": "2024-05-02T16:20:38Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:15:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:15:08Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 3.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T16:20:38Z",
+      "previous_timestamp": "2024-05-02T16:15:39Z",
+      "next_timestamp": "2024-05-02T16:25:38Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:20:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:20:19Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.75
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.45
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T16:25:38Z",
+      "previous_timestamp": "2024-05-02T16:20:38Z",
+      "next_timestamp": "2024-05-02T16:30:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:25:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:25:32Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T16:30:39Z",
+      "previous_timestamp": "2024-05-02T16:25:38Z",
+      "next_timestamp": "2024-05-02T16:35:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:30:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:30:32Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T16:35:39Z",
+      "previous_timestamp": "2024-05-02T16:30:39Z",
+      "next_timestamp": "2024-05-02T16:40:38Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:34:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:34:55Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T16:40:38Z",
+      "previous_timestamp": "2024-05-02T16:35:39Z",
+      "next_timestamp": "2024-05-02T16:45:38Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:39:55Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:39:55Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T16:45:38Z",
+      "previous_timestamp": "2024-05-02T16:40:38Z",
+      "next_timestamp": "2024-05-02T16:50:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:45:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:45:09Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T16:50:39Z",
+      "previous_timestamp": "2024-05-02T16:45:38Z",
+      "next_timestamp": "2024-05-02T16:55:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:50:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:50:07Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T16:55:39Z",
+      "previous_timestamp": "2024-05-02T16:50:39Z",
+      "next_timestamp": "2024-05-02T17:00:38Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:55:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:55:06Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.32
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T17:00:38Z",
+      "previous_timestamp": "2024-05-02T16:55:39Z",
+      "next_timestamp": "2024-05-02T17:05:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T16:59:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T16:59:34Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T17:05:39Z",
+      "previous_timestamp": "2024-05-02T17:00:38Z",
+      "next_timestamp": "2024-05-02T17:10:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T17:05:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T17:05:23Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.28
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T17:10:39Z",
+      "previous_timestamp": "2024-05-02T17:05:39Z",
+      "next_timestamp": "2024-05-02T17:15:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T17:09:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T17:09:52Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.17
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 5.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T17:15:39Z",
+      "previous_timestamp": "2024-05-02T17:10:39Z",
+      "next_timestamp": "2024-05-02T17:20:38Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T17:14:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T17:14:54Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T17:20:38Z",
+      "previous_timestamp": "2024-05-02T17:15:39Z",
+      "next_timestamp": "2024-05-02T17:25:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T17:19:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T17:19:58Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 7.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T17:25:39Z",
+      "previous_timestamp": "2024-05-02T17:20:38Z",
+      "next_timestamp": "2024-05-02T17:30:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T17:23:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T17:23:38Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.11
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 6.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T17:30:39Z",
+      "previous_timestamp": "2024-05-02T17:25:39Z",
+      "next_timestamp": "2024-05-02T17:35:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T17:30:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T17:30:17Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.15
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 5.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T17:35:39Z",
+      "previous_timestamp": "2024-05-02T17:30:39Z",
+      "next_timestamp": "2024-05-02T17:40:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T17:35:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T17:35:34Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 8.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T17:45:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T17:40:39Z",
+      "previous_timestamp": "2024-05-02T17:35:39Z",
+      "next_timestamp": "2024-05-02T17:45:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T17:40:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T17:40:02Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T17:50:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T17:45:39Z",
+      "previous_timestamp": "2024-05-02T17:40:39Z",
+      "next_timestamp": "2024-05-02T17:50:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T17:44:24Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T17:44:24Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 2.4
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.59
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-05-02T17:55:00Z",
+    "odds": {
+      "timestamp": "2024-05-02T17:50:39Z",
+      "previous_timestamp": "2024-05-02T17:45:39Z",
+      "next_timestamp": "2024-05-02T17:55:39Z",
+      "data": {
+        "id": "cffa268d37ccd86d7897f865c28bbc6c",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-05-02T14:00:00Z",
+        "home_team": "Sunrisers Hyderabad",
+        "away_team": "Rajasthan Royals",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-05-02T17:50:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-05-02T17:50:27Z",
+                "outcomes": [
+                  {
+                    "name": "Rajasthan Royals",
+                    "price": 1.24
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

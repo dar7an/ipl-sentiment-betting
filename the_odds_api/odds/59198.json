@@ -1,0 +1,1796 @@
+[
+  {
+    "timestamp": "2024-04-28T14:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T13:55:38Z",
+      "previous_timestamp": "2024-04-28T13:50:38Z",
+      "next_timestamp": "2024-04-28T14:00:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T13:53:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T13:53:50Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.89
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.93
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T14:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T14:00:38Z",
+      "previous_timestamp": "2024-04-28T13:55:38Z",
+      "next_timestamp": "2024-04-28T14:05:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:00:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:00:32Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T14:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T14:05:38Z",
+      "previous_timestamp": "2024-04-28T14:00:38Z",
+      "next_timestamp": "2024-04-28T14:10:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:03:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:03:07Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.87
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T14:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T14:10:38Z",
+      "previous_timestamp": "2024-04-28T14:05:38Z",
+      "next_timestamp": "2024-04-28T14:15:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:08:31Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:08:31Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T14:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T14:15:38Z",
+      "previous_timestamp": "2024-04-28T14:10:38Z",
+      "next_timestamp": "2024-04-28T14:20:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:13:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:13:49Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T14:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T14:20:38Z",
+      "previous_timestamp": "2024-04-28T14:15:38Z",
+      "next_timestamp": "2024-04-28T14:25:39Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:19:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:19:14Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T14:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T14:25:39Z",
+      "previous_timestamp": "2024-04-28T14:20:38Z",
+      "next_timestamp": "2024-04-28T14:30:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:24:39Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:24:39Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.83
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T14:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T14:30:38Z",
+      "previous_timestamp": "2024-04-28T14:25:39Z",
+      "next_timestamp": "2024-04-28T14:35:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:29:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:29:59Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T14:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T14:35:38Z",
+      "previous_timestamp": "2024-04-28T14:30:38Z",
+      "next_timestamp": "2024-04-28T14:40:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:35:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:35:18Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T14:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T14:40:38Z",
+      "previous_timestamp": "2024-04-28T14:35:38Z",
+      "next_timestamp": "2024-04-28T14:45:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:39:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:39:23Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.8
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T14:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T14:45:38Z",
+      "previous_timestamp": "2024-04-28T14:40:38Z",
+      "next_timestamp": "2024-04-28T14:50:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:44:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:44:47Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.71
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T14:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T14:50:38Z",
+      "previous_timestamp": "2024-04-28T14:45:38Z",
+      "next_timestamp": "2024-04-28T14:55:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:50:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:50:08Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T15:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T14:55:38Z",
+      "previous_timestamp": "2024-04-28T14:50:38Z",
+      "next_timestamp": "2024-04-28T15:00:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:54:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:54:02Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T15:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T15:00:38Z",
+      "previous_timestamp": "2024-04-28T14:55:38Z",
+      "next_timestamp": "2024-04-28T15:05:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T14:59:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T14:59:25Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T15:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T15:05:38Z",
+      "previous_timestamp": "2024-04-28T15:00:38Z",
+      "next_timestamp": "2024-04-28T15:10:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T15:03:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T15:03:32Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T15:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T15:10:38Z",
+      "previous_timestamp": "2024-04-28T15:05:38Z",
+      "next_timestamp": "2024-04-28T15:15:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T15:10:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T15:10:09Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T15:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T15:15:38Z",
+      "previous_timestamp": "2024-04-28T15:10:38Z",
+      "next_timestamp": "2024-04-28T15:20:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T15:15:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T15:15:34Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.77
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T15:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T15:20:38Z",
+      "previous_timestamp": "2024-04-28T15:15:38Z",
+      "next_timestamp": "2024-04-28T15:25:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T15:18:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T15:18:11Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T15:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T15:25:38Z",
+      "previous_timestamp": "2024-04-28T15:20:38Z",
+      "next_timestamp": "2024-04-28T15:30:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T15:24:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T15:24:59Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.59
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T15:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T15:30:38Z",
+      "previous_timestamp": "2024-04-28T15:25:38Z",
+      "next_timestamp": "2024-04-28T15:35:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T15:30:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T15:30:16Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T15:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T15:35:38Z",
+      "previous_timestamp": "2024-04-28T15:30:38Z",
+      "next_timestamp": "2024-04-28T15:40:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T15:35:33Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T15:35:33Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T15:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T15:40:38Z",
+      "previous_timestamp": "2024-04-28T15:35:38Z",
+      "next_timestamp": "2024-04-28T15:45:39Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T15:39:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T15:39:27Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.37
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T15:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T15:45:39Z",
+      "previous_timestamp": "2024-04-28T15:40:38Z",
+      "next_timestamp": "2024-04-28T15:50:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T15:44:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T15:44:47Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.33
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T15:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T15:50:38Z",
+      "previous_timestamp": "2024-04-28T15:45:39Z",
+      "next_timestamp": "2024-04-28T15:55:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T15:50:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T15:50:06Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T16:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T15:55:38Z",
+      "previous_timestamp": "2024-04-28T15:50:38Z",
+      "next_timestamp": "2024-04-28T16:00:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T15:55:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T15:55:25Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T16:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T16:00:38Z",
+      "previous_timestamp": "2024-04-28T15:55:38Z",
+      "next_timestamp": "2024-04-28T16:05:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T15:59:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T15:59:29Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T16:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T16:05:38Z",
+      "previous_timestamp": "2024-04-28T16:00:38Z",
+      "next_timestamp": "2024-04-28T16:10:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T16:04:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T16:04:50Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T16:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T16:10:38Z",
+      "previous_timestamp": "2024-04-28T16:05:38Z",
+      "next_timestamp": "2024-04-28T16:15:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T16:10:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T16:10:15Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T16:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T16:15:38Z",
+      "previous_timestamp": "2024-04-28T16:10:38Z",
+      "next_timestamp": "2024-04-28T16:20:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T16:14:20Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T16:14:20Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T16:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T16:20:38Z",
+      "previous_timestamp": "2024-04-28T16:15:38Z",
+      "next_timestamp": "2024-04-28T16:25:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T16:16:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T16:16:57Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 2.0
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 1.83
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T16:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T16:25:38Z",
+      "previous_timestamp": "2024-04-28T16:20:38Z",
+      "next_timestamp": "2024-04-28T16:30:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T16:25:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T16:25:07Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.51
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T16:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T16:30:38Z",
+      "previous_timestamp": "2024-04-28T16:25:38Z",
+      "next_timestamp": "2024-04-28T16:35:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T16:30:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T16:30:30Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.24
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T16:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T16:35:38Z",
+      "previous_timestamp": "2024-04-28T16:30:38Z",
+      "next_timestamp": "2024-04-28T16:40:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T16:31:48Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T16:31:48Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T16:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T16:40:38Z",
+      "previous_timestamp": "2024-04-28T16:35:38Z",
+      "next_timestamp": "2024-04-28T16:45:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T16:39:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T16:39:47Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.21
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T16:50:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T16:45:38Z",
+      "previous_timestamp": "2024-04-28T16:40:38Z",
+      "next_timestamp": "2024-04-28T16:50:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T16:45:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T16:45:05Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.18
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T16:55:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T16:50:38Z",
+      "previous_timestamp": "2024-04-28T16:45:38Z",
+      "next_timestamp": "2024-04-28T16:55:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T16:50:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T16:50:23Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.22
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 4.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T17:00:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T16:55:38Z",
+      "previous_timestamp": "2024-04-28T16:50:38Z",
+      "next_timestamp": "2024-04-28T17:00:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T16:54:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T16:54:19Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.14
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 5.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T17:05:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T17:00:38Z",
+      "previous_timestamp": "2024-04-28T16:55:38Z",
+      "next_timestamp": "2024-04-28T17:05:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T16:59:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T16:59:37Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.09
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T17:10:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T17:05:38Z",
+      "previous_timestamp": "2024-04-28T17:00:38Z",
+      "next_timestamp": "2024-04-28T17:10:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T17:04:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T17:04:57Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.09
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 7.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T17:15:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T17:10:38Z",
+      "previous_timestamp": "2024-04-28T17:05:38Z",
+      "next_timestamp": "2024-04-28T17:15:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T17:10:12Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T17:10:12Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 8.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T17:20:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T17:15:38Z",
+      "previous_timestamp": "2024-04-28T17:10:38Z",
+      "next_timestamp": "2024-04-28T17:20:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T17:15:23Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T17:15:23Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 8.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T17:25:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T17:20:38Z",
+      "previous_timestamp": "2024-04-28T17:15:38Z",
+      "next_timestamp": "2024-04-28T17:25:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T17:19:21Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T17:19:21Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.07
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 8.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T17:30:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T17:25:38Z",
+      "previous_timestamp": "2024-04-28T17:20:38Z",
+      "next_timestamp": "2024-04-28T17:30:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T17:24:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T17:24:37Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.02
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T17:35:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T17:30:38Z",
+      "previous_timestamp": "2024-04-28T17:25:38Z",
+      "next_timestamp": "2024-04-28T17:35:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T17:29:53Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T17:29:53Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T17:40:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T17:35:38Z",
+      "previous_timestamp": "2024-04-28T17:30:38Z",
+      "next_timestamp": "2024-04-28T17:40:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T17:32:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T17:32:22Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2024-04-28T17:45:00Z",
+    "odds": {
+      "timestamp": "2024-04-28T17:40:38Z",
+      "previous_timestamp": "2024-04-28T17:35:38Z",
+      "next_timestamp": "2024-04-28T17:45:38Z",
+      "data": {
+        "id": "94c2b3ef3987ecb6b7ef4282f4a59525",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-28T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2024-04-28T17:32:22Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-28T17:32:22Z",
+                "outcomes": [
+                  {
+                    "name": "Chennai Super Kings",
+                    "price": 1.01
+                  },
+                  {
+                    "name": "Sunrisers Hyderabad",
+                    "price": 31.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
