@@ -1,0 +1,6171 @@
+{
+    "summary": {
+        "id": 58355,
+        "round": "10th Match",
+        "localteam_id": 8,
+        "visitorteam_id": 5,
+        "starting_at": "2024-03-29T14:00:00.000000Z",
+        "note": "Kolkata Knight Riders won by 7 wickets (with 19 balls remaining)",
+        "venue_id": 59,
+        "toss_won_team_id": 5,
+        "winner_team_id": 5
+    },
+    "balls": [
+        {
+            "ball": 0.1,
+            "updated_at": "2024-03-29T14:02:28.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-03-29T14:02:36.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-03-29T14:02:39.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-03-29T14:02:56.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-03-29T14:03:50.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-03-29T14:04:33.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-03-29T14:05:55.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-03-29T14:06:20.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-03-29T14:07:22.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-03-29T14:08:00.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-03-29T14:08:34.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-03-29T14:09:17.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-03-29T14:10:51.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-03-29T14:11:59.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-03-29T14:12:25.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-03-29T14:13:42.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-03-29T14:14:12.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-03-29T14:14:26.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-03-29T14:15:45.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-03-29T14:16:27.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-03-29T14:16:56.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-03-29T14:17:32.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-03-29T14:18:22.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-03-29T14:19:38.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-03-29T14:20:16.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-03-29T14:21:30.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-03-29T14:21:36.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-03-29T14:22:06.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-03-29T14:22:43.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-03-29T14:22:48.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-03-29T14:23:15.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-03-29T14:24:32.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-03-29T14:25:01.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-03-29T14:25:17.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-03-29T14:25:49.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-03-29T14:26:06.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-03-29T14:27:03.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-03-29T14:30:26.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-03-29T14:30:56.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-03-29T14:30:59.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-03-29T14:31:01.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-03-29T14:31:50.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-03-29T14:31:52.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-03-29T14:33:14.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-03-29T14:33:20.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-03-29T14:33:46.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-03-29T14:34:02.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-03-29T14:34:23.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-03-29T14:34:55.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-03-29T14:36:34.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-03-29T14:36:46.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-03-29T14:37:06.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-03-29T14:37:37.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-03-29T14:38:12.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-03-29T14:38:57.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-03-29T14:40:55.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-03-29T14:41:39.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-03-29T14:41:49.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-03-29T14:42:08.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-03-29T14:42:49.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-03-29T14:43:18.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-03-29T14:43:57.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-03-29T14:46:01.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-03-29T14:45:25.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-03-29T14:45:47.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-03-29T14:46:19.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-03-29T14:46:50.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 1,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-03-29T14:48:31.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-03-29T14:48:42.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-03-29T14:49:25.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-03-29T14:50:18.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-03-29T14:50:49.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-03-29T14:51:38.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-03-29T14:52:27.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-03-29T14:53:24.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-03-29T14:53:26.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-03-29T14:53:52.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-03-29T14:54:22.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-03-29T14:54:43.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-03-29T14:56:18.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-03-29T14:56:39.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-03-29T14:57:11.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-03-29T14:57:58.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-03-29T14:58:53.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-03-29T14:59:52.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-03-29T15:01:17.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-03-29T15:04:13.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-03-29T15:04:18.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-03-29T15:04:26.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-03-29T15:04:29.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-03-29T15:04:33.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-03-29T15:06:15.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-03-29T15:06:39.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-03-29T15:07:16.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-03-29T15:07:51.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 15.5,
+            "updated_at": "2024-03-29T15:08:30.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-03-29T15:09:23.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-03-29T15:09:50.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 16.1,
+            "updated_at": "2024-03-29T15:14:39.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 16.2,
+            "updated_at": "2024-03-29T15:14:42.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 16.3,
+            "updated_at": "2024-03-29T15:14:46.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 16.3,
+            "updated_at": "2024-03-29T15:15:21.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 16.4,
+            "updated_at": "2024-03-29T15:17:00.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9921,
+                "fullname": "Anuj Rawat",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 16.5,
+            "updated_at": "2024-03-29T15:17:54.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9921,
+                "fullname": "Anuj Rawat",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 16.6,
+            "updated_at": "2024-03-29T15:17:59.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 17.1,
+            "updated_at": "2024-03-29T15:20:22.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.2,
+            "updated_at": "2024-03-29T15:20:36.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.3,
+            "updated_at": "2024-03-29T15:21:39.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 9921,
+                "fullname": "Anuj Rawat",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.4,
+            "updated_at": "2024-03-29T15:22:59.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.5,
+            "updated_at": "2024-03-29T15:23:48.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.6,
+            "updated_at": "2024-03-29T15:24:47.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.1,
+            "updated_at": "2024-03-29T15:25:22.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 18.2,
+            "updated_at": "2024-03-29T15:26:00.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 18.3,
+            "updated_at": "2024-03-29T15:26:37.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 18.4,
+            "updated_at": "2024-03-29T15:27:04.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 18.5,
+            "updated_at": "2024-03-29T15:28:39.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 18.6,
+            "updated_at": "2024-03-29T15:28:57.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.1,
+            "updated_at": "2024-03-29T15:30:25.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 19.2,
+            "updated_at": "2024-03-29T15:31:06.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 19.3,
+            "updated_at": "2024-03-29T15:32:07.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 19.4,
+            "updated_at": "2024-03-29T15:32:55.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 19.5,
+            "updated_at": "2024-03-29T15:33:40.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 19.6,
+            "updated_at": "2024-03-29T15:41:33.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Run Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.1,
+            "updated_at": "2024-03-29T15:51:02.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-03-29T15:51:40.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-03-29T15:52:51.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-03-29T15:52:59.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-03-29T15:54:00.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-03-29T15:54:42.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-03-29T15:56:14.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-03-29T15:56:48.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-03-29T15:57:37.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-03-29T15:58:13.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "5 Wides",
+                "runs": 5,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-03-29T15:58:30.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-03-29T15:59:27.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-03-29T15:59:57.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-03-29T16:01:31.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 115,
+                "fullname": "Alzarri Joseph",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-03-29T16:01:52.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 115,
+                "fullname": "Alzarri Joseph",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-03-29T16:02:31.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 115,
+                "fullname": "Alzarri Joseph",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-03-29T16:03:30.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 115,
+                "fullname": "Alzarri Joseph",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-03-29T16:03:54.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 115,
+                "fullname": "Alzarri Joseph",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-03-29T16:04:31.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 115,
+                "fullname": "Alzarri Joseph",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-03-29T16:05:28.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-03-29T16:06:00.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-03-29T16:06:39.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-03-29T16:07:38.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-03-29T16:08:22.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-03-29T16:09:01.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-03-29T16:10:41.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-03-29T16:11:38.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-03-29T16:12:13.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-03-29T16:12:53.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-03-29T16:13:54.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-03-29T16:14:30.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-03-29T16:15:26.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-03-29T16:16:08.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-03-29T16:17:00.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-03-29T16:17:34.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-03-29T16:18:15.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "4 Leg Byes",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 4,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-03-29T16:18:58.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-03-29T16:22:27.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-03-29T16:23:18.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-03-29T16:23:33.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-03-29T16:24:47.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-03-29T16:24:57.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-03-29T16:25:32.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-03-29T16:28:03.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-03-29T16:28:31.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-03-29T16:29:05.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-03-29T16:29:33.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-03-29T16:31:00.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-03-29T16:32:16.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-03-29T16:33:26.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-03-29T16:33:29.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-03-29T16:34:00.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 2,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-03-29T16:34:13.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-03-29T16:35:12.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-03-29T16:35:30.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-03-29T16:36:47.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-03-29T16:37:16.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-03-29T16:38:07.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-03-29T16:39:29.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-03-29T16:40:15.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-03-29T16:40:51.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-03-29T16:42:20.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 115,
+                "fullname": "Alzarri Joseph",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-03-29T16:42:34.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 115,
+                "fullname": "Alzarri Joseph",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-03-29T16:43:22.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 115,
+                "fullname": "Alzarri Joseph",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-03-29T16:44:04.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 115,
+                "fullname": "Alzarri Joseph",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-03-29T16:45:25.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 115,
+                "fullname": "Alzarri Joseph",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-03-29T16:47:15.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 115,
+                "fullname": "Alzarri Joseph",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-03-29T16:48:26.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-03-29T16:48:49.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-03-29T16:49:19.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-03-29T16:49:59.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-03-29T16:50:30.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-03-29T16:51:13.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-03-29T16:52:48.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-03-29T16:53:23.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-03-29T16:54:14.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-03-29T16:54:47.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-03-29T16:55:17.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-03-29T16:55:49.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-03-29T16:57:32.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-03-29T16:57:42.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-03-29T16:57:53.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-03-29T16:58:36.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-03-29T16:59:22.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-03-29T16:59:54.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-03-29T17:02:00.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-03-29T17:02:04.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-03-29T17:02:19.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-03-29T17:03:03.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-03-29T17:04:09.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-03-29T17:04:13.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-03-29T17:04:54.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-03-29T17:06:05.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-03-29T17:08:07.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-03-29T17:11:35.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-03-29T17:11:48.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-03-29T17:11:56.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-03-29T17:12:25.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.5,
+            "updated_at": "2024-03-29T17:13:14.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-03-29T17:13:48.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.1,
+            "updated_at": "2024-03-29T17:14:51.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 16.2,
+            "updated_at": "2024-03-29T17:15:37.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 16.3,
+            "updated_at": "2024-03-29T17:16:04.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 16.4,
+            "updated_at": "2024-03-29T17:16:17.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 16.5,
+            "updated_at": "2024-03-29T17:16:46.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3389,
+                "fullname": "Mayank Dagar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        }
+    ]
+}

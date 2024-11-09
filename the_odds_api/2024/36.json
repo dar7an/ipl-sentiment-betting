@@ -12,7 +12,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T09:55:07Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T09:55:07Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.69
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -29,7 +51,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T09:59:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T09:59:44Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.67
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -46,7 +90,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T10:04:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T10:04:45Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.53
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -63,7 +129,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T10:10:34Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T10:10:34Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.62
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -80,7 +168,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T10:14:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T10:14:38Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.56
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.45
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -97,7 +207,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T10:18:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T10:18:59Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.61
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.35
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -114,7 +246,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T10:24:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T10:24:14Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -131,7 +285,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T10:28:50Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T10:28:50Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -148,7 +324,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T10:35:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T10:35:30Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.41
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -165,7 +363,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T10:39:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T10:39:16Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.57
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -182,7 +402,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T10:45:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T10:45:28Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.47
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -199,7 +441,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T10:49:46Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T10:49:46Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.36
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -216,7 +480,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T10:55:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T10:55:05Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.41
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -233,7 +519,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:00:27Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:00:27Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.85
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -250,7 +558,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:04:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:04:08Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.44
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -267,7 +597,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:09:25Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:09:25Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.41
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -284,7 +636,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:12:00Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:12:00Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -301,7 +675,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:19:45Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:19:45Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.49
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -318,7 +714,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:24:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:24:59Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.48
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.65
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -335,7 +753,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:30:14Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:30:14Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.49
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.6
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -352,7 +792,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:35:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:35:30Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.38
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -369,7 +831,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:39:47Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:39:47Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.31
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.55
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -386,7 +870,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:45:08Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:45:08Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.32
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -403,7 +909,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:48:58Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:48:58Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.28
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.85
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -420,7 +948,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:54:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:54:19Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.29
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.65
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -437,7 +987,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T11:58:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T11:58:32Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.28
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -454,7 +1026,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T12:05:06Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T12:05:06Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.26
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -471,7 +1065,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T12:10:30Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T12:10:30Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.28
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -488,7 +1104,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T12:14:41Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T12:14:41Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.31
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -505,7 +1143,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T12:15:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T12:15:51Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.38
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -522,7 +1182,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T12:22:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T12:22:54Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.35
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -539,7 +1221,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T12:22:54Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T12:22:54Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.54
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.35
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -556,7 +1260,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T12:35:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T12:35:02Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.32
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -573,7 +1299,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T12:40:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T12:40:29Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.22
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 4.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -590,7 +1338,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T12:44:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T12:44:52Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.38
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -607,7 +1377,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T12:50:18Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T12:50:18Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -624,7 +1416,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T12:54:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T12:54:05Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.38
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -641,7 +1455,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T12:59:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T12:59:37Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.45
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -658,7 +1494,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T13:04:59Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:04:59Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.95
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -675,7 +1533,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T13:10:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:10:28Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.35
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -692,7 +1572,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T13:10:28Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:10:28Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 3.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.35
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -709,7 +1611,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T13:18:38Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:18:38Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.1
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.74
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -726,7 +1650,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T13:24:19Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:24:19Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.61
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -743,7 +1689,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T13:29:57Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:29:57Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.1
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -760,7 +1728,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T13:34:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:34:26Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.1
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.74
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -777,7 +1767,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T13:40:09Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:40:09Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 2.2
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.67
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -794,7 +1806,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T13:44:11Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:44:11Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.87
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 1.91
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -811,7 +1845,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T13:49:51Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:49:51Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.34
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -828,7 +1884,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T13:54:17Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:54:17Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.35
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 3.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -845,7 +1923,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T13:57:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T13:57:26Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.43
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 2.85
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -862,7 +1962,29 @@
         "commence_time": "2024-04-21T10:00:00Z",
         "home_team": "Kolkata Knight Riders",
         "away_team": "Royal Challengers Bangalore",
-        "bookmakers": []
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-21T14:01:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2024-04-21T14:01:29Z",
+                "outcomes": [
+                  {
+                    "name": "Kolkata Knight Riders",
+                    "price": 1.06
+                  },
+                  {
+                    "name": "Royal Challengers Bangalore",
+                    "price": 9.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   }
