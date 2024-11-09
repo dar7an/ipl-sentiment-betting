@@ -1,0 +1,548 @@
+[
+    {
+        "last_update": "2024-04-20T13:55:13Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 2.2
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.69
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:00:07Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 2.15
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.71
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:04:57Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 2.7
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.48
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:09:43Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 3.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.31
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:14:28Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 4.9
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.18
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:19:18Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 6.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.11
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:20:46Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 6.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.11
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:30:35Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 11.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.04
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:30:35Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 11.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.04
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:39:26Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 7.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.08
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:45:33Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 6.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.11
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:50:15Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 4.3
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.22
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:54:45Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 4.3
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.22
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T14:59:24Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 5.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.15
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T15:05:35Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 5.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.15
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T15:08:45Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 6.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.13
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T15:15:00Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 5.8
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.14
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T15:19:31Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 6.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.12
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T15:24:06Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 5.8
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.14
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T15:30:16Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 6.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.12
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T15:34:54Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 5.6
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.14
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T15:39:44Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 6.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.11
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T15:44:19Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 6.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.12
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T15:50:29Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 7.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.09
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T15:55:15Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 6.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.11
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T15:58:27Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 6.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.11
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T16:04:35Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 6.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.12
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T16:09:04Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 5.7
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.14
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T16:13:50Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 6.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.12
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T16:18:28Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 5.6
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.15
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T16:23:29Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 4.1
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.24
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T16:29:36Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 5.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.15
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T16:34:16Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 3.2
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.36
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T16:40:32Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 3.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.38
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T16:45:08Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 4.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.24
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T16:49:43Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 5.2
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.17
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T16:54:29Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 5.8
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.14
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T16:57:28Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 5.1
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.18
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T17:04:56Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 13.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.03
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T17:09:29Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 31.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.01
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T17:14:04Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 31.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.01
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-20T17:14:04Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 31.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.01
+            }
+        ]
+    }
+]

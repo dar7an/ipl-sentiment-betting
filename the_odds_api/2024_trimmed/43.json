@@ -1,0 +1,665 @@
+[
+    {
+        "last_update": "2024-04-27T09:54:32Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 2.44
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 1.56
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T09:56:45Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 2.54
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 1.53
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T10:04:02Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 2.2
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 1.69
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T10:09:57Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.87
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 1.95
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T10:14:41Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.62
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 2.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T10:19:30Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.5
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 2.6
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T10:24:36Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.5
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 2.6
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T10:28:08Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.43
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 2.75
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T10:35:30Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.37
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.1
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T10:38:04Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.31
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T10:44:34Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.38
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T10:49:49Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.51
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 2.6
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T10:53:50Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.59
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 2.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T10:59:16Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.51
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 2.55
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T11:04:53Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.4
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T11:09:17Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.31
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T11:14:54Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.37
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.1
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T11:20:31Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.37
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.1
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T11:24:50Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.33
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T11:29:11Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.31
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T11:33:31Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.31
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T11:39:21Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.29
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T11:45:11Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.29
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T11:49:40Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.29
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T11:55:34Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.29
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:00:00Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.29
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:02:57Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.29
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:10:28Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.25
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.9
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:14:50Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.25
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.9
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:20:35Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.43
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 2.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:24:57Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.43
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 2.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:27:51Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.37
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.1
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:35:06Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.25
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 3.9
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:39:25Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.13
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 6.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:45:21Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.18
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 4.9
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:48:10Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.07
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 8.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:55:25Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.07
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 8.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T12:59:45Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.14
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 5.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T13:05:34Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.22
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 4.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T13:10:06Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.11
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 6.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T13:14:35Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.14
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 5.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T13:17:32Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.14
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 5.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T13:25:07Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.04
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 11.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T13:29:48Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.04
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 11.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T13:34:08Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.12
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 6.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T13:40:19Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.14
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 5.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T13:44:54Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.17
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 5.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T13:49:24Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.07
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 8.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T13:55:25Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.04
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 11.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T13:58:29Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.07
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 8.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-27T14:03:04Z",
+        "odds": [
+            {
+                "name": "Delhi Capitals",
+                "price": 1.07
+            },
+            {
+                "name": "Mumbai Indians",
+                "price": 8.0
+            }
+        ]
+    }
+]

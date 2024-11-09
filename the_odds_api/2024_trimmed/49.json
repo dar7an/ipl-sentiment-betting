@@ -1,0 +1,587 @@
+[
+    {
+        "last_update": "2024-05-01T13:55:17Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.71
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.15
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T13:59:31Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.62
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T14:04:47Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.67
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T14:10:16Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.62
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T14:14:15Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.62
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T14:16:39Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.67
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T14:16:39Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.67
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T14:16:39Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.67
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T14:35:08Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.5
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.6
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T14:40:25Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.62
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T14:40:25Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.62
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T14:49:32Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.3
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.62
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T14:54:27Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.2
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.69
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:00:22Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.3
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.62
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:04:34Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.2
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.67
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:10:06Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.5
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.54
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:15:07Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.3
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.62
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:19:57Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.6
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.51
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:25:11Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.35
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.59
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:28:35Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.15
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.67
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:34:44Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.83
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:40:31Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.0
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.83
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:45:10Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.35
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.59
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:50:21Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.2
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.69
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:54:33Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.6
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.51
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T15:59:33Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.5
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.54
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T16:04:45Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.5
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.54
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T16:10:02Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.7
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.48
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T16:15:00Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 3.5
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.31
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T16:20:07Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 3.0
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T16:24:15Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 3.1
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.37
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T16:30:14Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.55
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.53
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T16:35:07Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.3
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.62
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T16:39:21Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 3.3
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.34
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T16:45:03Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 3.5
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.31
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T16:49:04Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 4.6
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T16:54:22Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 6.5
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.11
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T17:00:09Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 5.8
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.14
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T17:05:19Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 8.0
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.07
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T17:10:26Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 13.0
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.04
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T17:15:29Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 11.0
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.04
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T17:19:47Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 11.0
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.02
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T17:25:09Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 12.0
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.03
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T17:25:58Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 31.0
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-05-01T17:25:58Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 31.0
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.0
+            }
+        ]
+    }
+]

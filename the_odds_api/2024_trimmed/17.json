@@ -1,0 +1,587 @@
+[
+    {
+        "last_update": "2024-04-04T13:55:22Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.75
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.1
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:00:07Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.77
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.05
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:03:15Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.67
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:09:15Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.5
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.6
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:15:24Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.62
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:19:45Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.62
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:25:13Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.51
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.6
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:29:54Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.48
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:35:21Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.43
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.75
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:40:04Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.43
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.75
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:45:26Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.54
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:49:58Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.43
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.75
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:54:23Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.48
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T14:59:58Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.32
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T15:05:27Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.37
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.1
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T15:10:20Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.4
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T15:15:13Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.34
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T15:20:19Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.37
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.1
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T15:24:17Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.29
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T15:30:23Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.33
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T15:35:21Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.27
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T15:40:23Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.27
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T15:45:01Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.25
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.9
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T15:50:26Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.25
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.9
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T15:55:06Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.25
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.9
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:00:04Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.25
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.9
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:05:12Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.24
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 4.1
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:09:59Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.24
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 4.1
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:15:12Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.31
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:20:15Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.36
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 3.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:25:31Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.18
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 4.9
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:30:28Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.18
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 4.9
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:35:29Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.11
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 6.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:40:00Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.07
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 8.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:45:13Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.04
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 11.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:49:59Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.06
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 8.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:55:14Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.18
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 4.6
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T16:59:59Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.08
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 7.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T17:05:16Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.14
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 5.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T17:09:39Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.2
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 4.6
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T17:14:59Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.22
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 4.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T17:20:13Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.18
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 4.6
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T17:25:22Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.51
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.6
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T17:29:41Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 1.54
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 2.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-04T17:35:08Z",
+        "odds": [
+            {
+                "name": "Gujarat Titans",
+                "price": 6.0
+            },
+            {
+                "name": "Punjab Kings",
+                "price": 1.12
+            }
+        ]
+    }
+]

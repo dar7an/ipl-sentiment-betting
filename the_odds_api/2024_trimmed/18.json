@@ -1,0 +1,522 @@
+[
+    {
+        "last_update": "2024-04-05T13:55:07Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.85
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.96
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T14:00:06Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.91
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.91
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T14:05:09Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T14:10:09Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.95
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.87
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T14:15:26Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.77
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T14:20:01Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.95
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.87
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T14:24:55Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T14:30:01Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.91
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.91
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T14:35:01Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.15
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.71
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T14:37:39Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.83
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T14:44:55Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.91
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.91
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T14:50:31Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.95
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.87
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T14:55:28Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.77
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.05
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T15:00:11Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.8
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T15:05:22Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 1.83
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T15:08:57Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.15
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.71
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T15:14:29Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.4
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.59
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T15:20:24Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.4
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.59
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T15:25:07Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.54
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T15:30:25Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.4
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.57
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T15:34:50Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 2.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.54
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T15:40:06Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 3.1
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.37
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T15:45:32Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 3.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T15:49:43Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 3.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T15:55:20Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 3.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:00:01Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 3.2
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.36
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:05:32Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 6.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.13
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:10:23Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 4.9
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.18
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:15:22Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 5.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.15
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:20:22Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 5.8
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.14
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:23:38Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 7.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.08
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:30:36Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 8.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.07
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:35:13Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 10.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.06
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:39:59Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 10.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.06
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:44:43Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 8.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.07
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:49:57Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 10.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.06
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:55:18Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 14.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.02
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T16:59:03Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 10.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.06
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T17:04:19Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 10.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.06
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-05T17:09:20Z",
+        "odds": [
+            {
+                "name": "Chennai Super Kings",
+                "price": 7.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.08
+            }
+        ]
+    }
+]
