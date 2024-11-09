@@ -1,0 +1,6414 @@
+{
+    "summary": {
+        "id": 59126,
+        "round": "22nd Match",
+        "localteam_id": 2,
+        "visitorteam_id": 5,
+        "starting_at": "2024-04-08T14:00:00.000000Z",
+        "note": "Chennai Super Kings won by 7 wickets (with 14 balls remaining)",
+        "venue_id": 58,
+        "toss_won_team_id": 2,
+        "winner_team_id": 2
+    },
+    "balls": [
+        {
+            "ball": 0.1,
+            "updated_at": "2024-04-08T14:01:46.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-04-08T14:02:25.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-04-08T14:03:12.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-04-08T14:04:03.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-04-08T14:04:21.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-04-08T14:04:59.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-04-08T14:06:14.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-04-08T14:06:57.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-04-08T14:07:43.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-04-08T14:08:10.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-04-08T14:08:50.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-04-08T14:09:29.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-04-08T14:10:28.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "4 Leg Byes",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 4,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-04-08T14:11:00.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-04-08T14:11:35.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-04-08T14:13:49.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-04-08T14:14:28.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-04-08T14:15:00.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-04-08T14:15:42.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-04-08T14:17:19.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-04-08T14:17:52.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-04-08T14:18:26.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-04-08T14:19:17.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-04-08T14:19:56.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-04-08T14:20:32.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-04-08T14:21:38.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-04-08T14:22:01.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-04-08T14:22:53.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-04-08T14:23:36.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-04-08T14:24:02.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-04-08T14:24:33.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-04-08T14:26:41.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-04-08T14:27:24.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-04-08T14:27:56.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-04-08T14:28:59.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-04-08T14:29:43.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-04-08T14:30:19.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-04-08T14:30:57.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-04-08T14:32:27.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "LBW OUT",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 35066,
+                "fullname": "Angkrish Raghuvanshi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-04-08T14:33:57.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-04-08T14:34:34.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-04-08T14:35:12.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-04-08T14:36:01.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-04-08T14:36:12.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-04-08T14:37:22.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-04-08T14:38:25.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-04-08T14:38:45.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-04-08T14:39:04.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-04-08T14:39:34.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-04-08T14:40:10.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-04-08T14:40:36.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-04-08T14:41:22.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-04-08T14:42:25.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-04-08T14:46:20.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-04-08T14:47:15.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-04-08T14:47:19.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-04-08T14:47:21.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-04-08T14:48:37.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-04-08T14:48:40.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-04-08T14:49:05.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-04-08T14:49:55.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-04-08T14:50:20.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-04-08T14:50:39.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-04-08T14:51:33.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-04-08T14:51:51.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-04-08T14:52:11.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-04-08T14:52:45.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-04-08T14:53:01.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-04-08T14:53:34.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-04-08T14:56:43.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-04-08T14:56:48.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-04-08T14:56:52.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-04-08T14:56:56.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-04-08T14:57:51.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-04-08T14:58:50.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-04-08T15:00:11.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-04-08T15:00:37.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-04-08T15:01:11.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-04-08T15:01:44.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-04-08T15:02:03.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-04-08T15:02:15.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 55,
+                "fullname": "Ravindra Jadeja",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-04-08T15:03:49.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-04-08T15:04:37.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-04-08T15:05:03.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-04-08T15:05:42.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-04-08T15:06:39.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-04-08T15:06:59.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-04-08T15:08:22.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-04-08T15:09:20.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-04-08T15:10:17.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-04-08T15:10:41.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-04-08T15:11:26.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-04-08T15:11:43.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-04-08T15:12:18.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21942,
+                "fullname": "Maheesh Theekshana",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-04-08T15:13:38.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-04-08T15:14:11.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-04-08T15:15:17.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 No Ball",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-04-08T15:23:54.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-04-08T15:24:38.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.5,
+            "updated_at": "2024-04-08T15:24:41.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-04-08T15:24:45.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 60,
+                "fullname": "Shardul Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.1,
+            "updated_at": "2024-04-08T15:24:50.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.2,
+            "updated_at": "2024-04-08T15:24:52.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.3,
+            "updated_at": "2024-04-08T15:24:55.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.4,
+            "updated_at": "2024-04-08T15:25:05.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.5,
+            "updated_at": "2024-04-08T15:25:19.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.6,
+            "updated_at": "2024-04-08T15:26:04.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.1,
+            "updated_at": "2024-04-08T15:27:00.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.2,
+            "updated_at": "2024-04-08T15:27:51.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.3,
+            "updated_at": "2024-04-08T15:29:18.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 No Ball + Four",
+                "runs": 5,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.3,
+            "updated_at": "2024-04-08T15:29:24.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.4,
+            "updated_at": "2024-04-08T15:29:54.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.5,
+            "updated_at": "2024-04-08T15:32:06.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.5,
+            "updated_at": "2024-04-08T15:32:13.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.6,
+            "updated_at": "2024-04-08T15:32:51.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.1,
+            "updated_at": "2024-04-08T15:34:19.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.1,
+            "updated_at": "2024-04-08T15:34:49.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.2,
+            "updated_at": "2024-04-08T15:47:52.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.3,
+            "updated_at": "2024-04-08T15:38:44.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.4,
+            "updated_at": "2024-04-08T15:38:50.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.5,
+            "updated_at": "2024-04-08T15:39:34.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.6,
+            "updated_at": "2024-04-08T15:40:09.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6697,
+                "fullname": "Tushar Deshpande",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.1,
+            "updated_at": "2024-04-08T15:42:12.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.2,
+            "updated_at": "2024-04-08T15:43:01.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.3,
+            "updated_at": "2024-04-08T15:43:27.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.4,
+            "updated_at": "2024-04-08T15:45:24.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.5,
+            "updated_at": "2024-04-08T15:45:32.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.6,
+            "updated_at": "2024-04-08T15:46:28.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 1,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 237,
+                "fullname": "Mustafizur Rahman",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.1,
+            "updated_at": "2024-04-08T16:03:08.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-04-08T16:03:12.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-04-08T16:04:03.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-04-08T16:04:25.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-04-08T16:05:09.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-04-08T16:05:47.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-04-08T16:06:20.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-04-08T16:08:30.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-04-08T16:09:05.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-04-08T16:09:41.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-04-08T16:10:54.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-04-08T16:10:58.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-04-08T16:11:03.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-04-08T16:13:14.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-04-08T16:13:20.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-04-08T16:13:58.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-04-08T16:14:24.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-04-08T16:15:27.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-04-08T16:16:18.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-04-08T16:17:22.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-04-08T16:18:23.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-04-08T16:19:37.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 5594,
+                "fullname": "Rachin Ravindra",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-04-08T16:22:09.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-04-08T16:22:13.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-04-08T16:22:18.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-04-08T16:22:51.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-04-08T16:24:34.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-04-08T16:24:58.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-04-08T16:25:45.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-04-08T16:27:00.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-04-08T16:27:24.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-04-08T16:28:28.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-04-08T16:32:13.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-04-08T16:32:15.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-04-08T16:32:18.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-04-08T16:32:22.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-04-08T16:32:33.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-04-08T16:32:41.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-04-08T16:33:51.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-04-08T16:34:29.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-04-08T16:34:55.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-04-08T16:35:14.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-04-08T16:36:01.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-04-08T16:36:39.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-04-08T16:38:18.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-04-08T16:38:26.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-04-08T16:38:44.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-04-08T16:39:21.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-04-08T16:40:02.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-04-08T16:40:25.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-04-08T16:42:22.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-04-08T16:42:25.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-04-08T16:42:57.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-04-08T16:43:32.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-04-08T16:44:04.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-04-08T16:44:43.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-04-08T16:48:21.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-04-08T16:48:23.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-04-08T16:48:47.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "2 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 2,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-04-08T16:49:42.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-04-08T16:50:20.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-04-08T16:50:45.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-04-08T16:52:05.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-04-08T16:52:56.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-04-08T16:53:46.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-04-08T16:53:53.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-04-08T16:54:14.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-04-08T16:54:40.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-04-08T16:55:25.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-04-08T16:56:35.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-04-08T16:56:56.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-04-08T16:57:50.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-04-08T16:58:07.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-04-08T16:58:43.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-04-08T16:59:37.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-04-08T17:01:26.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-04-08T17:01:44.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-04-08T17:02:23.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 5678,
+                "fullname": "Daryl Mitchell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-04-08T17:04:59.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-04-08T17:05:02.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-04-08T17:05:07.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-04-08T17:06:28.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-04-08T17:07:09.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-04-08T17:07:38.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-04-08T17:08:47.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-04-08T17:09:29.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-04-08T17:10:06.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-04-08T17:11:10.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-04-08T17:11:32.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-04-08T17:12:07.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-04-08T17:12:49.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-04-08T17:13:20.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-04-08T17:13:50.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-04-08T17:17:11.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-04-08T17:17:45.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-04-08T17:18:32.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-04-08T17:19:01.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.5,
+            "updated_at": "2024-04-08T17:19:53.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-04-08T17:21:20.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 16.1,
+            "updated_at": "2024-04-08T17:22:48.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.2,
+            "updated_at": "2024-04-08T17:23:35.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.3,
+            "updated_at": "2024-04-08T17:24:35.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.4,
+            "updated_at": "2024-04-08T17:25:01.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.5,
+            "updated_at": "2024-04-08T17:26:16.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 4940,
+                "fullname": "Shivam Dube",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.6,
+            "updated_at": "2024-04-08T17:27:47.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 274,
+                "fullname": "Mahendra Singh Dhoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.1,
+            "updated_at": "2024-04-08T17:29:02.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 17.2,
+            "updated_at": "2024-04-08T17:29:37.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 274,
+                "fullname": "Mahendra Singh Dhoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 17.3,
+            "updated_at": "2024-04-08T17:30:04.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 274,
+                "fullname": "Mahendra Singh Dhoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 17.4,
+            "updated_at": "2024-04-08T17:30:43.000000Z",
+            "id": 2,
+            "name": "Chennai Super Kings",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4856,
+                "fullname": "Ruturaj Gaikwad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3350,
+                "fullname": "Anukul Roy",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        }
+    ]
+}

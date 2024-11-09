@@ -1,0 +1,5631 @@
+{
+    "summary": {
+        "id": 59273,
+        "round": "Qualifier 1",
+        "localteam_id": 5,
+        "visitorteam_id": 9,
+        "starting_at": "2024-05-21T14:00:00.000000Z",
+        "note": "Kolkata Knight Riders won by 8 wickets (with 38 balls remaining)",
+        "venue_id": 182,
+        "toss_won_team_id": 9,
+        "winner_team_id": 5
+    },
+    "balls": [
+        {
+            "ball": 0.1,
+            "updated_at": "2024-05-21T14:01:47.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-05-21T14:02:47.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-05-21T14:04:27.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-05-21T14:05:16.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-05-21T14:06:02.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-05-21T14:06:34.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-05-21T14:08:15.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-05-21T14:09:03.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-05-21T14:09:33.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-05-21T14:10:27.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-05-21T14:10:57.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-05-21T14:12:03.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-05-21T14:13:28.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-05-21T14:14:33.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-05-21T14:15:21.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-05-21T14:15:58.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-05-21T14:16:43.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-05-21T14:17:38.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-05-21T14:19:00.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-05-21T14:19:23.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-05-21T14:20:17.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-05-21T14:20:42.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-05-21T14:21:57.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 No Ball + Four",
+                "runs": 5,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-05-21T14:22:05.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-05-21T14:22:39.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-05-21T14:23:35.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-05-21T14:24:19.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-05-21T14:24:49.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-05-21T14:26:53.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-05-21T14:27:05.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-05-21T14:28:40.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-05-21T14:28:44.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-05-21T14:32:03.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-05-21T14:31:02.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-05-21T14:36:00.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-05-21T14:36:09.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-05-21T14:36:17.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-05-21T14:36:39.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-05-21T14:36:42.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-05-21T14:36:47.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-05-21T14:37:56.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-05-21T14:38:12.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-05-21T14:38:50.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-05-21T14:39:02.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-05-21T14:39:39.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-05-21T14:40:02.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-05-21T14:41:20.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-05-21T14:42:06.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-05-21T14:42:42.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-05-21T14:43:59.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-05-21T14:44:23.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-05-21T14:45:06.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-05-21T14:45:39.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-05-21T14:49:09.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-05-21T14:49:49.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-05-21T14:50:21.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-05-21T14:50:53.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-05-21T14:51:13.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-05-21T14:51:48.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-05-21T14:53:35.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-05-21T14:54:48.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-05-21T14:54:53.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-05-21T14:55:15.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-05-21T14:56:11.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-05-21T14:57:01.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-05-21T14:58:14.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 No Ball + 1 Run",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-05-21T14:58:31.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-05-21T14:59:14.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-05-21T14:59:28.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-05-21T15:00:00.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-05-21T15:00:51.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-05-21T15:01:45.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 65,
+                "fullname": "Heinrich Klaasen",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-05-21T15:05:20.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-05-21T15:07:25.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9927,
+                "fullname": "Abdul Samad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-05-21T15:07:33.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9927,
+                "fullname": "Abdul Samad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-05-21T15:07:44.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9927,
+                "fullname": "Abdul Samad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-05-21T15:07:49.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9927,
+                "fullname": "Abdul Samad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-05-21T15:05:42.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-05-21T15:06:33.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-05-21T15:06:45.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-05-21T15:07:16.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9927,
+                "fullname": "Abdul Samad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-05-21T15:08:07.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9927,
+                "fullname": "Abdul Samad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-05-21T15:08:13.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-05-21T15:08:44.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3305,
+                "fullname": "Rahul Tripathi",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-05-21T15:09:12.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9927,
+                "fullname": "Abdul Samad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-05-21T15:12:41.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9927,
+                "fullname": "Abdul Samad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-05-21T15:13:44.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "Run Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 9927,
+                "fullname": "Abdul Samad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-05-21T15:16:45.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 24840,
+                "fullname": "Sanvir Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-05-21T15:18:01.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-05-21T15:18:07.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-05-21T15:19:51.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-05-21T15:20:36.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9927,
+                "fullname": "Abdul Samad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-05-21T15:21:05.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9927,
+                "fullname": "Abdul Samad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-05-21T15:21:39.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-05-21T15:22:59.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 9927,
+                "fullname": "Abdul Samad",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-05-21T15:24:30.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-05-21T15:25:25.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-05-21T15:26:34.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-05-21T15:26:38.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-05-21T15:27:16.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-05-21T15:27:24.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.5,
+            "updated_at": "2024-05-21T15:27:48.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-05-21T15:30:29.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "LBW OUT",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 16.1,
+            "updated_at": "2024-05-21T15:31:41.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.2,
+            "updated_at": "2024-05-21T15:31:49.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.3,
+            "updated_at": "2024-05-21T15:32:29.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.4,
+            "updated_at": "2024-05-21T15:32:50.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.5,
+            "updated_at": "2024-05-21T15:33:30.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.6,
+            "updated_at": "2024-05-21T15:34:12.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.1,
+            "updated_at": "2024-05-21T15:35:32.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 17.2,
+            "updated_at": "2024-05-21T15:35:52.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 17.3,
+            "updated_at": "2024-05-21T15:36:22.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 17.4,
+            "updated_at": "2024-05-21T15:37:03.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 17.5,
+            "updated_at": "2024-05-21T15:37:27.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 17.6,
+            "updated_at": "2024-05-21T15:38:03.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 18.1,
+            "updated_at": "2024-05-21T15:39:33.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 18.2,
+            "updated_at": "2024-05-21T15:40:20.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 18.3,
+            "updated_at": "2024-05-21T15:40:53.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 18.4,
+            "updated_at": "2024-05-21T15:41:43.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 18.5,
+            "updated_at": "2024-05-21T15:42:16.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 18.6,
+            "updated_at": "2024-05-21T15:43:10.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 19.1,
+            "updated_at": "2024-05-21T15:44:35.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "3 Runs",
+                "runs": 3,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.2,
+            "updated_at": "2024-05-21T15:45:29.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.3,
+            "updated_at": "2024-05-21T15:46:09.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 0.1,
+            "updated_at": "2024-05-21T16:02:59.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-05-21T16:03:03.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-05-21T16:04:02.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-05-21T16:04:46.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-05-21T16:05:26.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-05-21T16:05:52.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-05-21T16:07:25.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-05-21T16:07:46.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-05-21T16:08:56.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-05-21T16:11:08.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "4 Leg Byes",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 4,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-05-21T16:12:10.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-05-21T16:12:59.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-05-21T16:13:03.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-05-21T16:16:24.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "4 Leg Byes",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 4,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-05-21T16:16:27.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-05-21T16:17:06.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-05-21T16:18:08.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-05-21T16:18:46.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-05-21T16:19:13.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-05-21T16:20:43.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-05-21T16:21:26.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 344,
+                "fullname": "Rahmanullah Gurbaz",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-05-21T16:22:59.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-05-21T16:23:37.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-05-21T16:24:21.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-05-21T16:25:48.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-05-21T16:26:44.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-05-21T16:26:49.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-05-21T16:27:26.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-05-21T16:27:51.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-05-21T16:28:28.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-05-21T16:29:15.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-05-21T16:31:10.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-05-21T16:33:29.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-05-21T16:34:19.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-05-21T16:34:59.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-05-21T16:37:25.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-05-21T16:37:31.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-05-21T16:37:35.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-05-21T16:41:25.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-05-21T16:42:51.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-05-21T16:44:02.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-05-21T16:44:11.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-05-21T16:45:01.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-05-21T16:45:21.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-05-21T16:47:09.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-05-21T16:48:00.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-05-21T16:48:08.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-05-21T16:49:07.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-05-21T16:49:10.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-05-21T16:49:15.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-05-21T16:50:34.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-05-21T16:51:08.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-05-21T16:51:57.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-05-21T16:52:42.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-05-21T16:53:33.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-05-21T16:53:37.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-05-21T16:55:51.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-05-21T16:57:00.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-05-21T16:57:02.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-05-21T16:57:28.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-05-21T16:57:32.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-05-21T16:58:19.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-05-21T16:59:31.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-05-21T17:00:12.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-05-21T17:01:26.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-05-21T17:01:49.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-05-21T17:02:26.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-05-21T17:03:36.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-05-21T17:04:39.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-05-21T17:05:03.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-05-21T17:06:17.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-05-21T17:06:22.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-05-21T17:06:29.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-05-21T17:06:54.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-05-21T17:09:01.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-05-21T17:09:41.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-05-21T17:10:15.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-05-21T17:10:48.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-05-21T17:11:20.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-05-21T17:11:50.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 22134,
+                "fullname": "Nitish Kumar Reddy",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-05-21T17:12:54.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-05-21T17:13:30.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-05-21T17:13:54.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-05-21T17:14:22.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        }
+    ]
+}
