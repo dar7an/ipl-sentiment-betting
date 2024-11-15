@@ -79,7 +79,7 @@
     {
         "venue_id": 140,
         "Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
-        "City": "Pothanamallayapalam, Visakhapatnam",
+        "City": "Visakhapatnam",
         "won_batting_first": "53.33%",
         "won_winning_toss": "53.33%",
         "average_runs_per_over": 7.99,
@@ -97,7 +97,7 @@
     {
         "venue_id": 182,
         "Name": "Narendra Modi Stadium",
-        "City": "Motera, Ahmedabad",
+        "City": "Ahmedabad",
         "won_batting_first": "42.86%",
         "won_winning_toss": "48.57%",
         "average_runs_per_over": 8.65,
