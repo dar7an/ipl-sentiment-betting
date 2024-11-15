@@ -1,0 +1,40 @@
+over,win_probability,over_info,forecast,innings
+1.0,RR 57.05%,Over 1 • LSG 8/1,Live Forecast: LSG 168,1
+2.0,RR 66.35%,Over 2 • LSG 11/2,Live Forecast: LSG 159,2
+3.0,RR 64.37%,Over 3 • LSG 20/2,Live Forecast: LSG 161,2
+4.0,RR 66.35%,Over 4 • LSG 26/2,Live Forecast: LSG 159,2
+5.0,RR 61.3%,Over 5 • LSG 36/2,Live Forecast: LSG 164,2
+6.0,RR 54.88%,Over 6 • LSG 46/2,Live Forecast: LSG 170,2
+7.0,LSG 60.48%,Over 7 • LSG 54/2,Live Forecast: LSG 184,2
+8.0,LSG 81.66%,Over 8 • LSG 75/2,Live Forecast: LSG 208,2
+9.0,LSG 83.56%,Over 9 • LSG 81/2,Live Forecast: LSG 211,2
+10.0,LSG 87.86%,Over 10 • LSG 94/2,Live Forecast: LSG 219,2
+11.0,LSG 87.38%,Over 11 • LSG 112/2,Live Forecast: LSG 218,2
+12.0,LSG 91.13%,Over 12 • LSG 126/2,Live Forecast: LSG 227,2
+13.0,LSG 86.89%,Over 13 • LSG 135/3,Live Forecast: LSG 217,2
+14.0,LSG 80.99%,Over 14 • LSG 141/3,Live Forecast: LSG 207,2
+15.0,LSG 77.33%,Over 15 • LSG 150/3,Live Forecast: LSG 202,2
+16.0,LSG 73.2%,Over 16 • LSG 156/4,Live Forecast: LSG 197,2
+17.0,LSG 78.85%,Over 17 • LSG 171/4,Live Forecast: LSG 204,2
+18.0,LSG 74.07%,Over 18 • LSG 178/5,Live Forecast: LSG 198,2
+19.0,LSG 71.42%,Over 19 • LSG 184/5,Live Forecast: LSG 195,2
+20.0,LSG 72.32%,Over 20 • LSG 196/5,Live Forecast: LSG 196,2
+1.0,LSG 66.41%,Over 1 • RR 13/0,RR needed 184 runs from 114 balls,2
+2.0,LSG 66.51%,Over 2 • RR 20/0,RR needed 177 runs from 108 balls,2
+3.0,LSG 66.35%,Over 3 • RR 28/0,RR needed 169 runs from 102 balls,2
+4.0,LSG 66.05%,Over 4 • RR 37/0,RR needed 160 runs from 96 balls,2
+5.0,LSG 59%,Over 5 • RR 50/0,RR needed 147 runs from 90 balls,2
+6.0,LSG 56.67%,Over 6 • RR 60/1,RR needed 137 runs from 84 balls,2
+7.0,LSG 76.58%,Over 7 • RR 63/2,RR needed 134 runs from 78 balls,2
+8.0,LSG 78.57%,Over 8 • RR 70/2,RR needed 127 runs from 72 balls,2
+9.0,LSG 82.37%,Over 9 • RR 78/3,RR needed 119 runs from 66 balls,2
+10.0,LSG 87.76%,Over 10 • RR 81/3,RR needed 116 runs from 60 balls,2
+11.0,LSG 80.19%,Over 11 • RR 93/3,RR needed 104 runs from 54 balls,2
+12.0,LSG 56.27%,Over 12 • RR 110/3,RR needed 87 runs from 48 balls,2
+13.0,LSG 57.41%,Over 13 • RR 115/3,RR needed 82 runs from 42 balls,2
+14.0,RR 73.95%,Over 14 • RR 135/3,RR needed 62 runs from 36 balls,2
+15.0,RR 70.36%,Over 15 • RR 144/3,RR needed 53 runs from 30 balls,2
+16.0,RR 90.58%,Over 16 • RR 160/3,RR needed 37 runs from 24 balls,2
+17.0,RR 93.08%,Over 17 • RR 170/3,RR needed 27 runs from 18 balls,2
+18.0,RR 99%,Over 18 • RR 186/3,RR needed 11 runs from 12 balls,2
+19.0,RR 100%,Over 19 • RR 199/3,RR won by 7 wickets (with 6 balls remaining),1

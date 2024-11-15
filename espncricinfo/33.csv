@@ -1,0 +1,41 @@
+over,win_probability,over_info,forecast,innings
+1.0,MI 54.59%,Over 1 • MI 7/0,Live Forecast: MI 179,1
+2.0,MI 58.98%,Over 2 • MI 18/0,Live Forecast: MI 183,2
+3.0,MI 57.89%,Over 3 • MI 27/1,Live Forecast: MI 182,2
+4.0,MI 66.31%,Over 4 • MI 36/1,Live Forecast: MI 190,2
+5.0,MI 62.19%,Over 5 • MI 43/1,Live Forecast: MI 186,2
+6.0,MI 64.28%,Over 6 • MI 54/1,Live Forecast: MI 188,2
+7.0,MI 55.69%,Over 7 • MI 58/1,Live Forecast: MI 180,2
+8.0,MI 58.98%,Over 8 • MI 68/1,Live Forecast: MI 183,2
+9.0,MI 68.29%,Over 9 • MI 77/1,Live Forecast: MI 192,2
+10.0,MI 72.05%,Over 10 • MI 86/1,Live Forecast: MI 196,2
+11.0,MI 75.52%,Over 11 • MI 96/1,Live Forecast: MI 200,2
+12.0,MI 67.31%,Over 12 • MI 101/2,Live Forecast: MI 191,2
+13.0,MI 62.19%,Over 13 • MI 109/2,Live Forecast: MI 186,2
+14.0,MI 53.48%,Over 14 • MI 115/2,Live Forecast: MI 178,2
+15.0,MI 63.24%,Over 15 • MI 130/2,Live Forecast: MI 187,2
+16.0,MI 71.14%,Over 16 • MI 148/2,Live Forecast: MI 195,2
+17.0,MI 69.26%,Over 17 • MI 156/3,Live Forecast: MI 193,2
+18.0,MI 67.31%,Over 18 • MI 167/4,Live Forecast: MI 191,2
+19.0,MI 74.68%,Over 19 • MI 185/4,Live Forecast: MI 199,2
+20.0,MI 68.29%,Over 20 • MI 192/7,Live Forecast: MI 192,2
+1.0,MI 70.24%,Over 1 • PBKS 12/1,PBKS needed 181 runs from 114 balls,2
+2.0,MI 84.11%,Over 2 • PBKS 14/3,PBKS needed 179 runs from 108 balls,2
+3.0,MI 95.75%,Over 3 • PBKS 21/4,PBKS needed 172 runs from 102 balls,2
+4.0,MI 95.17%,Over 4 • PBKS 28/4,PBKS needed 165 runs from 96 balls,2
+5.0,MI 94.36%,Over 5 • PBKS 39/4,PBKS needed 154 runs from 90 balls,2
+6.0,MI 96.04%,Over 6 • PBKS 40/4,PBKS needed 153 runs from 84 balls,2
+7.0,MI 98.24%,Over 7 • PBKS 50/5,PBKS needed 143 runs from 78 balls,2
+8.0,MI 97.94%,Over 8 • PBKS 60/5,PBKS needed 133 runs from 72 balls,2
+9.0,MI 93.82%,Over 9 • PBKS 76/5,PBKS needed 117 runs from 66 balls,2
+10.0,MI 96.79%,Over 10 • PBKS 87/6,PBKS needed 106 runs from 60 balls,2
+11.0,MI 95.06%,Over 11 • PBKS 100/6,PBKS needed 93 runs from 54 balls,2
+12.0,MI 93.51%,Over 12 • PBKS 111/6,PBKS needed 82 runs from 48 balls,2
+13.0,MI 96.46%,Over 13 • PBKS 120/7,PBKS needed 73 runs from 42 balls,2
+14.0,MI 95.73%,Over 14 • PBKS 128/7,PBKS needed 65 runs from 36 balls,2
+15.0,MI 91.11%,Over 15 • PBKS 141/7,PBKS needed 52 runs from 30 balls,2
+16.0,PBKS 77.54%,Over 16 • PBKS 165/7,PBKS needed 28 runs from 24 balls,2
+17.0,PBKS 74.33%,Over 17 • PBKS 168/7,PBKS needed 25 runs from 18 balls,2
+18.0,MI 70.87%,Over 18 • PBKS 170/8,PBKS needed 23 runs from 12 balls,2
+19.0,MI 65.09%,Over 19 • PBKS 181/9,PBKS needed 12 runs from 6 balls,2
+20.0,MI 100%,Over 20 • PBKS 183/10,MI won by 9 runs,1

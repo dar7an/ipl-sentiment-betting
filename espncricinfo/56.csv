@@ -1,0 +1,41 @@
+over,win_probability,over_info,forecast,innings
+1.0,RR 52.95%,Over 1 • DC 6/0,Live Forecast: DC 174,1
+2.0,RR 51.86%,Over 2 • DC 16/0,Live Forecast: DC 175,2
+3.0,DC 59.1%,Over 3 • DC 31/0,Live Forecast: DC 185,2
+4.0,DC 85.78%,Over 4 • DC 59/0,Live Forecast: DC 217,2
+5.0,DC 87.33%,Over 5 • DC 68/1,Live Forecast: DC 220,2
+6.0,DC 88.29%,Over 6 • DC 78/2,Live Forecast: DC 222,2
+7.0,DC 79.42%,Over 7 • DC 84/2,Live Forecast: DC 207,2
+8.0,DC 81.53%,Over 8 • DC 98/2,Live Forecast: DC 210,2
+9.0,DC 84.66%,Over 9 • DC 109/2,Live Forecast: DC 215,2
+10.0,DC 84.66%,Over 10 • DC 115/3,Live Forecast: DC 215,2
+11.0,DC 89.6%,Over 11 • DC 129/3,Live Forecast: DC 225,2
+12.0,DC 92.77%,Over 12 • DC 142/3,Live Forecast: DC 234,2
+13.0,DC 88.74%,Over 13 • DC 146/4,Live Forecast: DC 223,2
+14.0,DC 84.66%,Over 14 • DC 151/5,Live Forecast: DC 215,2
+15.0,DC 80.85%,Over 15 • DC 156/5,Live Forecast: DC 209,2
+16.0,DC 79.42%,Over 16 • DC 164/5,Live Forecast: DC 207,2
+17.0,DC 72.96%,Over 17 • DC 168/5,Live Forecast: DC 199,2
+18.0,DC 83.46%,Over 18 • DC 189/5,Live Forecast: DC 213,2
+19.0,DC 85.23%,Over 19 • DC 203/6,Live Forecast: DC 216,2
+20.0,DC 87.82%,Over 20 • DC 221/8,Live Forecast: DC 221,2
+1.0,DC 91.41%,Over 1 • RR 7/1,RR needed 215 runs from 114 balls,2
+2.0,DC 94.12%,Over 2 • RR 9/1,RR needed 213 runs from 108 balls,2
+3.0,DC 90.92%,Over 3 • RR 27/1,RR needed 195 runs from 102 balls,2
+4.0,DC 86.83%,Over 4 • RR 42/1,RR needed 180 runs from 96 balls,2
+5.0,DC 77.39%,Over 5 • RR 57/1,RR needed 165 runs from 90 balls,2
+6.0,DC 72.72%,Over 6 • RR 67/2,RR needed 155 runs from 84 balls,2
+7.0,DC 82.07%,Over 7 • RR 70/2,RR needed 152 runs from 78 balls,2
+8.0,DC 89.84%,Over 8 • RR 78/2,RR needed 144 runs from 72 balls,2
+9.0,DC 91.53%,Over 9 • RR 86/2,RR needed 136 runs from 66 balls,2
+10.0,DC 91.99%,Over 10 • RR 93/2,RR needed 129 runs from 60 balls,2
+11.0,DC 91.11%,Over 11 • RR 103/3,RR needed 119 runs from 54 balls,2
+12.0,DC 90.2%,Over 12 • RR 113/3,RR needed 109 runs from 48 balls,2
+13.0,DC 73.24%,Over 13 • RR 131/3,RR needed 91 runs from 42 balls,2
+14.0,DC 53.61%,Over 14 • RR 148/3,RR needed 74 runs from 36 balls,2
+15.0,DC 55.19%,Over 15 • RR 159/3,RR needed 63 runs from 30 balls,2
+16.0,DC 64.64%,Over 16 • RR 170/4,RR needed 52 runs from 24 balls,2
+17.0,DC 78.85%,Over 17 • RR 181/5,RR needed 41 runs from 18 balls,2
+18.0,DC 97.34%,Over 18 • RR 185/7,RR needed 37 runs from 12 balls,2
+19.0,DC 98.52%,Over 19 • RR 193/7,RR needed 29 runs from 6 balls,2
+20.0,DC 100%,Over 20 • RR 201/8,DC won by 20 runs,1

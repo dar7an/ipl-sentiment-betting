@@ -1,0 +1,41 @@
+over,win_probability,over_info,forecast,innings
+1.0,GT 53.81%,Over 1 • PBKS 2/0,Live Forecast: PBKS 167,1
+2.0,PBKS 60.58%,Over 2 • PBKS 23/0,Live Forecast: PBKS 180,2
+3.0,PBKS 63.73%,Over 3 • PBKS 34/0,Live Forecast: PBKS 183,2
+4.0,PBKS 69.66%,Over 4 • PBKS 42/0,Live Forecast: PBKS 189,2
+5.0,PBKS 62.69%,Over 5 • PBKS 45/0,Live Forecast: PBKS 182,2
+6.0,PBKS 60.58%,Over 6 • PBKS 56/1,Live Forecast: PBKS 180,2
+7.0,PBKS 57.33%,Over 7 • PBKS 63/2,Live Forecast: PBKS 177,2
+8.0,PBKS 55.13%,Over 8 • PBKS 67/3,Live Forecast: PBKS 175,2
+9.0,GT 50.45%,Over 9 • PBKS 70/3,Live Forecast: PBKS 170,2
+10.0,GT 54.92%,Over 10 • PBKS 74/3,Live Forecast: PBKS 166,2
+11.0,GT 58.22%,Over 11 • PBKS 80/4,Live Forecast: PBKS 163,2
+12.0,GT 62.51%,Over 12 • PBKS 86/5,Live Forecast: PBKS 159,2
+13.0,GT 66.6%,Over 13 • PBKS 90/5,Live Forecast: PBKS 155,2
+14.0,GT 74.02%,Over 14 • PBKS 93/6,Live Forecast: PBKS 147,2
+15.0,GT 76.5%,Over 15 • PBKS 97/6,Live Forecast: PBKS 144,2
+16.0,GT 76.5%,Over 16 • PBKS 107/7,Live Forecast: PBKS 144,2
+17.0,GT 78.06%,Over 17 • PBKS 114/7,Live Forecast: PBKS 142,2
+18.0,GT 76.5%,Over 18 • PBKS 125/7,Live Forecast: PBKS 144,2
+19.0,GT 73.15%,Over 19 • PBKS 139/8,Live Forecast: PBKS 148,2
+20.0,GT 78.06%,Over 20 • PBKS 142/10,Live Forecast: PBKS 142,2
+1.0,GT 79.84%,Over 1 • GT 7/0,GT needed 136 runs from 114 balls,2
+2.0,GT 79.15%,Over 2 • GT 12/0,GT needed 131 runs from 108 balls,2
+3.0,GT 83.07%,Over 3 • GT 21/0,GT needed 122 runs from 102 balls,2
+4.0,GT 83.08%,Over 4 • GT 29/1,GT needed 114 runs from 96 balls,2
+5.0,GT 85.35%,Over 5 • GT 36/1,GT needed 107 runs from 90 balls,2
+6.0,GT 87.1%,Over 6 • GT 44/1,GT needed 99 runs from 84 balls,2
+7.0,GT 89.17%,Over 7 • GT 51/1,GT needed 92 runs from 78 balls,2
+8.0,GT 89.73%,Over 8 • GT 58/1,GT needed 85 runs from 72 balls,2
+9.0,GT 93.34%,Over 9 • GT 65/1,GT needed 78 runs from 66 balls,2
+10.0,GT 86.37%,Over 10 • GT 68/2,GT needed 75 runs from 60 balls,2
+11.0,GT 83.69%,Over 11 • GT 72/2,GT needed 71 runs from 54 balls,2
+12.0,GT 78.58%,Over 12 • GT 78/3,GT needed 65 runs from 48 balls,2
+13.0,GT 83.74%,Over 13 • GT 86/3,GT needed 57 runs from 42 balls,2
+14.0,GT 83.26%,Over 14 • GT 91/3,GT needed 52 runs from 36 balls,2
+15.0,GT 86.07%,Over 15 • GT 101/4,GT needed 42 runs from 30 balls,2
+16.0,GT 72.77%,Over 16 • GT 105/5,GT needed 38 runs from 24 balls,2
+17.0,GT 89.32%,Over 17 • GT 118/5,GT needed 25 runs from 18 balls,2
+18.0,GT 99.16%,Over 18 • GT 138/5,GT needed 5 runs from 12 balls,2
+19.0,GT 97.98%,Over 19 • GT 142/7,GT needed 1 runs from 6 balls,2
+20.0,GT 100%,Over 20 • GT 146/7,GT won by 3 wickets (with 5 balls remaining),1

@@ -1,0 +1,41 @@
+over,win_probability,over_info,forecast,innings
+1.0,DC 62.25%,Over 1 • DC 19/0,Live Forecast: DC 191,1
+2.0,DC 72.88%,Over 2 • DC 37/0,Live Forecast: DC 202,2
+3.0,DC 82.13%,Over 3 • DC 55/0,Live Forecast: DC 214,2
+4.0,DC 85.74%,Over 4 • DC 69/0,Live Forecast: DC 220,2
+5.0,DC 92.47%,Over 5 • DC 89/0,Live Forecast: DC 236,2
+6.0,DC 90.38%,Over 6 • DC 92/0,Live Forecast: DC 230,2
+7.0,DC 94.82%,Over 7 • DC 113/0,Live Forecast: DC 245,2
+8.0,DC 92.47%,Over 8 • DC 116/1,Live Forecast: DC 236,2
+9.0,DC 92.15%,Over 9 • DC 124/1,Live Forecast: DC 235,2
+10.0,DC 88.26%,Over 10 • DC 128/2,Live Forecast: DC 225,2
+11.0,DC 89.99%,Over 11 • DC 138/2,Live Forecast: DC 229,2
+12.0,DC 92.47%,Over 12 • DC 154/2,Live Forecast: DC 236,2
+13.0,DC 95.62%,Over 13 • DC 166/2,Live Forecast: DC 249,2
+14.0,DC 96.3%,Over 14 • DC 181/3,Live Forecast: DC 253,2
+15.0,DC 95.03%,Over 15 • DC 190/3,Live Forecast: DC 246,2
+16.0,DC 94.82%,Over 16 • DC 199/3,Live Forecast: DC 245,2
+17.0,DC 94.12%,Over 17 • DC 208/3,Live Forecast: DC 242,2
+18.0,DC 97.01%,Over 18 • DC 234/3,Live Forecast: DC 258,2
+19.0,DC 96.3%,Over 19 • DC 240/4,Live Forecast: DC 253,2
+20.0,DC 96.88%,Over 20 • DC 257/4,Live Forecast: DC 257,2
+1.0,DC 96.21%,Over 1 • MI 14/0,MI needed 244 runs from 114 balls,2
+2.0,DC 95.05%,Over 2 • MI 29/0,MI needed 229 runs from 108 balls,2
+3.0,DC 95.87%,Over 3 • MI 35/0,MI needed 223 runs from 102 balls,2
+4.0,DC 96.24%,Over 4 • MI 45/1,MI needed 213 runs from 96 balls,2
+5.0,DC 98.23%,Over 5 • MI 54/2,MI needed 204 runs from 90 balls,2
+6.0,DC 98.86%,Over 6 • MI 65/3,MI needed 193 runs from 84 balls,2
+7.0,DC 99.19%,Over 7 • MI 72/3,MI needed 186 runs from 78 balls,2
+8.0,DC 99.16%,Over 8 • MI 82/3,MI needed 176 runs from 72 balls,2
+9.0,DC 97.87%,Over 9 • MI 101/3,MI needed 157 runs from 66 balls,2
+10.0,DC 93.99%,Over 10 • MI 115/3,MI needed 143 runs from 60 balls,2
+11.0,DC 95.69%,Over 11 • MI 120/3,MI needed 138 runs from 54 balls,2
+12.0,DC 97.78%,Over 12 • MI 134/3,MI needed 124 runs from 48 balls,2
+13.0,DC 99.67%,Over 13 • MI 141/5,MI needed 117 runs from 42 balls,2
+14.0,DC 99.7%,Over 14 • MI 152/5,MI needed 106 runs from 36 balls,2
+15.0,DC 98.98%,Over 15 • MI 173/5,MI needed 85 runs from 30 balls,2
+16.0,DC 98.8%,Over 16 • MI 187/5,MI needed 71 runs from 24 balls,2
+17.0,DC 99.53%,Over 17 • MI 194/5,MI needed 64 runs from 18 balls,2
+18.0,DC 97.94%,Over 18 • MI 217/6,MI needed 41 runs from 12 balls,2
+19.0,DC 96.4%,Over 19 • MI 233/7,MI needed 25 runs from 6 balls,2
+20.0,DC 100%,Over 20 • MI 247/9,DC won by 10 runs,1

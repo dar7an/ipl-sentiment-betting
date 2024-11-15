@@ -1,0 +1,41 @@
+over,win_probability,over_info,forecast,innings
+1.0,RCB 56.86%,Over 1 • RCB 10/0,Live Forecast: RCB 187,1
+2.0,RCB 62.13%,Over 2 • RCB 23/0,Live Forecast: RCB 192,2
+3.0,RCB 53.64%,Over 3 • RCB 25/1,Live Forecast: RCB 184,2
+4.0,RCB 58.99%,Over 4 • RCB 37/2,Live Forecast: RCB 189,2
+5.0,RCB 63.16%,Over 5 • RCB 51/2,Live Forecast: RCB 193,2
+6.0,RCB 71.88%,Over 6 • RCB 61/2,Live Forecast: RCB 202,2
+7.0,RCB 83.97%,Over 7 • RCB 76/2,Live Forecast: RCB 218,2
+8.0,RCB 85.71%,Over 8 • RCB 87/2,Live Forecast: RCB 221,2
+9.0,RCB 91.5%,Over 9 • RCB 99/2,Live Forecast: RCB 234,2
+10.0,RCB 87.78%,Over 10 • RCB 110/2,Live Forecast: RCB 225,2
+11.0,RCB 82.72%,Over 11 • RCB 118/2,Live Forecast: RCB 216,2
+12.0,RCB 72.77%,Over 12 • RCB 121/2,Live Forecast: RCB 203,2
+13.0,RCB 72.77%,Over 13 • RCB 131/3,Live Forecast: RCB 203,2
+14.0,RCB 65.19%,Over 14 • RCB 134/3,Live Forecast: RCB 195,2
+15.0,RCB 58.99%,Over 15 • RCB 138/4,Live Forecast: RCB 189,2
+16.0,RCB 57.93%,Over 16 • RCB 147/4,Live Forecast: RCB 188,2
+17.0,RCB 72.77%,Over 17 • RCB 169/4,Live Forecast: RCB 203,2
+18.0,RCB 66.19%,Over 18 • RCB 174/6,Live Forecast: RCB 196,2
+19.0,RCB 60.05%,Over 19 • RCB 179/7,Live Forecast: RCB 190,2
+20.0,RCB 56.86%,Over 20 • RCB 187/9,Live Forecast: RCB 187,2
+1.0,RCB 61.05%,Over 1 • DC 9/1,DC needed 179 runs from 114 balls,2
+2.0,RCB 52.31%,Over 2 • DC 24/1,DC needed 164 runs from 108 balls,2
+3.0,RCB 80.09%,Over 3 • DC 28/3,DC needed 160 runs from 102 balls,2
+4.0,RCB 92.22%,Over 4 • DC 30/4,DC needed 158 runs from 96 balls,2
+5.0,RCB 89.27%,Over 5 • DC 43/4,DC needed 145 runs from 90 balls,2
+6.0,RCB 85.74%,Over 6 • DC 54/4,DC needed 134 runs from 84 balls,2
+7.0,RCB 78.1%,Over 7 • DC 63/4,DC needed 125 runs from 78 balls,2
+8.0,RCB 69.41%,Over 8 • DC 71/4,DC needed 117 runs from 72 balls,2
+9.0,RCB 59.36%,Over 9 • DC 81/4,DC needed 107 runs from 66 balls,2
+10.0,RCB 87.04%,Over 10 • DC 87/5,DC needed 101 runs from 60 balls,2
+11.0,RCB 97.31%,Over 11 • DC 90/6,DC needed 98 runs from 54 balls,2
+12.0,RCB 96.6%,Over 12 • DC 100/6,DC needed 88 runs from 48 balls,2
+13.0,RCB 92.04%,Over 13 • DC 116/6,DC needed 72 runs from 42 balls,2
+14.0,RCB 88.04%,Over 14 • DC 124/6,DC needed 64 runs from 36 balls,2
+15.0,RCB 95.99%,Over 15 • DC 127/7,DC needed 61 runs from 30 balls,2
+16.0,RCB 99.06%,Over 16 • DC 130/8,DC needed 58 runs from 24 balls,2
+17.0,RCB 99.63%,Over 17 • DC 133/8,DC needed 55 runs from 18 balls,2
+18.0,RCB 99.95%,Over 18 • DC 135/9,DC needed 53 runs from 12 balls,2
+19.0,RCB 99.99%,Over 19 • DC 140/9,DC needed 48 runs from 6 balls,2
+20.0,RCB 100%,Over 20 • DC 140/10,RCB won by 47 runs,1

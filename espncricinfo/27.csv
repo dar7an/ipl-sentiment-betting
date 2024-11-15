@@ -1,0 +1,41 @@
+over,win_probability,over_info,forecast,innings
+1.0,RR 53.53%,Over 1 • PBKS 4/0,Live Forecast: PBKS 170,1
+2.0,PBKS 52.06%,Over 2 • PBKS 17/0,Live Forecast: PBKS 175,2
+3.0,PBKS 52.06%,Over 3 • PBKS 26/0,Live Forecast: PBKS 175,2
+4.0,RR 51.3%,Over 4 • PBKS 28/1,Live Forecast: PBKS 172,2
+5.0,RR 65.29%,Over 5 • PBKS 31/1,Live Forecast: PBKS 159,2
+6.0,RR 66.28%,Over 6 • PBKS 38/1,Live Forecast: PBKS 158,2
+7.0,RR 67.27%,Over 7 • PBKS 42/2,Live Forecast: PBKS 157,2
+8.0,RR 68.23%,Over 8 • PBKS 47/3,Live Forecast: PBKS 156,2
+9.0,RR 74.52%,Over 9 • PBKS 50/3,Live Forecast: PBKS 149,2
+10.0,RR 76.94%,Over 10 • PBKS 53/4,Live Forecast: PBKS 146,2
+11.0,RR 80.59%,Over 11 • PBKS 58/4,Live Forecast: PBKS 141,2
+12.0,RR 71.04%,Over 12 • PBKS 70/4,Live Forecast: PBKS 153,2
+13.0,RR 81.92%,Over 13 • PBKS 72/5,Live Forecast: PBKS 139,2
+14.0,RR 86%,Over 14 • PBKS 75/5,Live Forecast: PBKS 132,2
+15.0,RR 83.78%,Over 15 • PBKS 86/5,Live Forecast: PBKS 136,2
+16.0,RR 79.19%,Over 16 • PBKS 103/5,Live Forecast: PBKS 143,2
+17.0,RR 78.46%,Over 17 • PBKS 111/6,Live Forecast: PBKS 144,2
+18.0,RR 79.19%,Over 18 • PBKS 123/7,Live Forecast: PBKS 143,2
+19.0,RR 71.04%,Over 19 • PBKS 141/7,Live Forecast: PBKS 153,2
+20.0,RR 76.15%,Over 20 • PBKS 147/8,Live Forecast: PBKS 147,2
+1.0,RR 79.94%,Over 1 • RR 9/0,RR needed 139 runs from 114 balls,2
+2.0,RR 79.93%,Over 2 • RR 14/0,RR needed 134 runs from 108 balls,2
+3.0,RR 75.44%,Over 3 • RR 16/0,RR needed 132 runs from 102 balls,2
+4.0,RR 80.62%,Over 4 • RR 29/0,RR needed 119 runs from 96 balls,2
+5.0,RR 85.97%,Over 5 • RR 36/0,RR needed 112 runs from 90 balls,2
+6.0,RR 89.97%,Over 6 • RR 43/0,RR needed 105 runs from 84 balls,2
+7.0,RR 82.75%,Over 7 • RR 49/0,RR needed 99 runs from 78 balls,2
+8.0,RR 89.08%,Over 8 • RR 56/0,RR needed 92 runs from 72 balls,2
+9.0,RR 80.56%,Over 9 • RR 58/1,RR needed 90 runs from 66 balls,2
+10.0,RR 87.22%,Over 10 • RR 66/1,RR needed 82 runs from 60 balls,2
+11.0,RR 94.45%,Over 11 • RR 79/1,RR needed 69 runs from 54 balls,2
+12.0,RR 90.78%,Over 12 • RR 83/2,RR needed 65 runs from 48 balls,2
+13.0,RR 88.91%,Over 13 • RR 88/2,RR needed 60 runs from 42 balls,2
+14.0,RR 67.48%,Over 14 • RR 90/3,RR needed 58 runs from 36 balls,2
+15.0,RR 75.93%,Over 15 • RR 99/3,RR needed 49 runs from 30 balls,2
+16.0,RR 65.5%,Over 16 • RR 105/3,RR needed 43 runs from 24 balls,2
+17.0,RR 69.16%,Over 17 • RR 114/4,RR needed 34 runs from 18 balls,2
+18.0,RR 86.62%,Over 18 • RR 128/5,RR needed 20 runs from 12 balls,2
+19.0,RR 85.86%,Over 19 • RR 138/7,RR needed 10 runs from 6 balls,2
+20.0,RR 100%,Over 20 • RR 152/7,RR won by 3 wickets (with 1 ball remaining),1
