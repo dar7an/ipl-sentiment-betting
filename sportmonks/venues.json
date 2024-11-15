@@ -1,0 +1,115 @@
+[
+    {
+        "venue_id": 46,
+        "Name": "Wankhede Stadium",
+        "City": "Mumbai",
+        "won_batting_first": "46.55%",
+        "won_winning_toss": "51.72%",
+        "average_runs_per_over": 8.55,
+        "average_score_batting_first": 170.16
+    },
+    {
+        "venue_id": 51,
+        "Name": "Sawai Mansingh Stadium",
+        "City": "Jaipur",
+        "won_batting_first": "35.09%",
+        "won_winning_toss": "52.63%",
+        "average_runs_per_over": 8.14,
+        "average_score_batting_first": 161.51
+    },
+    {
+        "venue_id": 54,
+        "Name": "Rajiv Gandhi International Stadium",
+        "City": "Hyderabad",
+        "won_batting_first": "44.16%",
+        "won_winning_toss": "36.36%",
+        "average_runs_per_over": 8.20,
+        "average_score_batting_first": 160.76
+    },
+    {
+        "venue_id": 58,
+        "Name": "MA Chidambaram Stadium",
+        "City": "Chennai",
+        "won_batting_first": "57.65%",
+        "won_winning_toss": "49.41%",
+        "average_runs_per_over": 8.03,
+        "average_score_batting_first": 163.89
+    },
+    {
+        "venue_id": 59,
+        "Name": "M.Chinnaswamy Stadium",
+        "City": "Bengaluru",
+        "won_batting_first": "43.16%",
+        "won_winning_toss": "52.63%",
+        "average_runs_per_over": 8.80,
+        "average_score_batting_first": 167.84
+    },
+    {
+        "venue_id": 62,
+        "Name": "Himachal Pradesh Cricket Association Stadium",
+        "City": "Dharamsala"
+    },
+    {
+        "venue_id": 63,
+        "Name": "Arun Jaitley Stadium",
+        "City": "Delhi",
+        "won_batting_first": "47.19%",
+        "won_winning_toss": "50.56%",
+        "average_runs_per_over": 8.50,
+        "average_score_batting_first": 166.97
+    },
+    {
+        "venue_id": 64,
+        "Name": "Eden Gardens",
+        "City": "Kolkata",
+        "won_batting_first": "40.86%",
+        "won_winning_toss": "52.69%",
+        "average_runs_per_over": 8.46,
+        "average_score_batting_first": 162.78
+    },
+    {
+        "venue_id": 134,
+        "Name": "Barsapara Cricket Stadium",
+        "City": "Guwahati",
+        "won_batting_first": "50.00%",
+        "won_winning_toss": "75.00%",
+        "average_runs_per_over": 8.58,
+        "average_score_batting_first": 135.00
+    },
+    {
+        "venue_id": 140,
+        "Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+        "City": "Pothanamallayapalam, Visakhapatnam",
+        "won_batting_first": "53.33%",
+        "won_winning_toss": "53.33%",
+        "average_runs_per_over": 7.99,
+        "average_score_batting_first": 167.33
+    },
+    {
+        "venue_id": 170,
+        "Name": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+        "City": "Lucknow",
+        "won_batting_first": "50.00%",
+        "won_winning_toss": "57.14%",
+        "average_runs_per_over": 8.18,
+        "average_score_batting_first": 165.43
+    },
+    {
+        "venue_id": 182,
+        "Name": "Narendra Modi Stadium",
+        "City": "Motera, Ahmedabad",
+        "won_batting_first": "42.86%",
+        "won_winning_toss": "48.57%",
+        "average_runs_per_over": 8.65,
+        "average_score_batting_first": 167.64
+    },
+    {
+        "venue_id": 959,
+        "Name": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+        "City": "Chandigarh",
+        "won_batting_first": "45%",
+        "won_winning_toss": "48.33%",
+        "average_runs_per_over": 8.48,
+        "average_score_batting_first": 168.07
+    }
+]
