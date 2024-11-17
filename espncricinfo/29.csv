@@ -1,41 +1,41 @@
-over,win_probability,over_info,forecast,innings
-1.0,CSK 51.7%,Over 1 • CSK 6/0,Live Forecast: CSK 173,1
-2.0,MI 56.12%,Over 2 • CSK 9/1,Live Forecast: CSK 166,2
-3.0,MI 52.79%,Over 3 • CSK 18/1,Live Forecast: CSK 169,2
-4.0,MI 56.12%,Over 4 • CSK 24/1,Live Forecast: CSK 166,2
-5.0,CSK 63.69%,Over 5 • CSK 38/1,Live Forecast: CSK 184,2
-6.0,CSK 71.51%,Over 6 • CSK 48/1,Live Forecast: CSK 192,2
-7.0,CSK 69.65%,Over 7 • CSK 52/1,Live Forecast: CSK 190,2
-8.0,CSK 57.27%,Over 8 • CSK 61/2,Live Forecast: CSK 178,2
-9.0,MI 55.02%,Over 9 • CSK 65/2,Live Forecast: CSK 167,2
-10.0,CSK 69.65%,Over 10 • CSK 80/2,Live Forecast: CSK 190,2
-11.0,CSK 75.01%,Over 11 • CSK 92/2,Live Forecast: CSK 196,2
-12.0,CSK 76.64%,Over 12 • CSK 102/2,Live Forecast: CSK 198,2
-13.0,CSK 70.59%,Over 13 • CSK 110/2,Live Forecast: CSK 191,2
-14.0,CSK 83.03%,Over 14 • CSK 132/2,Live Forecast: CSK 207,2
-15.0,CSK 86.44%,Over 15 • CSK 149/2,Live Forecast: CSK 213,2
-16.0,CSK 73.3%,Over 16 • CSK 151/3,Live Forecast: CSK 194,2
-17.0,CSK 72.41%,Over 17 • CSK 161/3,Live Forecast: CSK 193,2
-18.0,CSK 73.3%,Over 18 • CSK 173/3,Live Forecast: CSK 194,2
-19.0,CSK 71.51%,Over 19 • CSK 180/3,Live Forecast: CSK 192,2
-20.0,CSK 82.39%,Over 20 • CSK 206/4,Live Forecast: CSK 206,2
-1.0,CSK 82.96%,Over 1 • MI 5/0,MI needed 202 runs from 114 balls,2
-2.0,CSK 83.04%,Over 2 • MI 13/0,MI needed 194 runs from 108 balls,2
-3.0,CSK 79.23%,Over 3 • MI 25/0,MI needed 182 runs from 102 balls,2
-4.0,CSK 71.41%,Over 4 • MI 38/0,MI needed 169 runs from 96 balls,2
-5.0,CSK 57.63%,Over 5 • MI 53/0,MI needed 154 runs from 90 balls,2
-6.0,MI 52.64%,Over 6 • MI 63/0,MI needed 144 runs from 84 balls,2
-7.0,CSK 60.17%,Over 7 • MI 70/0,MI needed 137 runs from 78 balls,2
-8.0,CSK 82.13%,Over 8 • MI 75/2,MI needed 132 runs from 72 balls,2
-9.0,CSK 85.11%,Over 9 • MI 81/2,MI needed 126 runs from 66 balls,2
-10.0,CSK 83.72%,Over 10 • MI 90/2,MI needed 117 runs from 60 balls,2
-11.0,MI 50.25%,Over 11 • MI 108/2,MI needed 99 runs from 54 balls,2
-12.0,MI 52.7%,Over 12 • MI 118/2,MI needed 89 runs from 48 balls,2
-13.0,CSK 55.4%,Over 13 • MI 124/2,MI needed 83 runs from 42 balls,2
-14.0,CSK 83.11%,Over 14 • MI 130/3,MI needed 77 runs from 36 balls,2
-15.0,CSK 92.53%,Over 15 • MI 132/3,MI needed 75 runs from 30 balls,2
-16.0,CSK 98.44%,Over 16 • MI 135/4,MI needed 72 runs from 24 balls,2
-17.0,CSK 97.57%,Over 17 • MI 154/5,MI needed 53 runs from 18 balls,2
-18.0,CSK 99.43%,Over 18 • MI 160/6,MI needed 47 runs from 12 balls,2
-19.0,CSK 99.29%,Over 19 • MI 173/6,MI needed 34 runs from 6 balls,2
-20.0,CSK 100%,Over 20 • MI 186/6,CSK won by 20 runs,1
+over,win_probability,over_info,forecast
+1.0,CSK 51.7%,Over 1 • CSK 6/0,Live Forecast: CSK 173
+2.0,MI 56.12%,Over 2 • CSK 9/1,Live Forecast: CSK 166
+3.0,MI 52.79%,Over 3 • CSK 18/1,Live Forecast: CSK 169
+4.0,MI 56.12%,Over 4 • CSK 24/1,Live Forecast: CSK 166
+5.0,CSK 63.69%,Over 5 • CSK 38/1,Live Forecast: CSK 184
+6.0,CSK 71.51%,Over 6 • CSK 48/1,Live Forecast: CSK 192
+7.0,CSK 69.65%,Over 7 • CSK 52/1,Live Forecast: CSK 190
+8.0,CSK 57.27%,Over 8 • CSK 61/2,Live Forecast: CSK 178
+9.0,MI 55.02%,Over 9 • CSK 65/2,Live Forecast: CSK 167
+10.0,CSK 69.65%,Over 10 • CSK 80/2,Live Forecast: CSK 190
+11.0,CSK 75.01%,Over 11 • CSK 92/2,Live Forecast: CSK 196
+12.0,CSK 76.64%,Over 12 • CSK 102/2,Live Forecast: CSK 198
+13.0,CSK 70.59%,Over 13 • CSK 110/2,Live Forecast: CSK 191
+14.0,CSK 83.03%,Over 14 • CSK 132/2,Live Forecast: CSK 207
+15.0,CSK 86.44%,Over 15 • CSK 149/2,Live Forecast: CSK 213
+16.0,CSK 73.3%,Over 16 • CSK 151/3,Live Forecast: CSK 194
+17.0,CSK 72.41%,Over 17 • CSK 161/3,Live Forecast: CSK 193
+18.0,CSK 73.3%,Over 18 • CSK 173/3,Live Forecast: CSK 194
+19.0,CSK 71.51%,Over 19 • CSK 180/3,Live Forecast: CSK 192
+20.0,CSK 82.39%,Over 20 • CSK 206/4,Live Forecast: CSK 206
+1.0,CSK 82.96%,Over 1 • MI 5/0,MI needed 202 runs from 114 balls
+2.0,CSK 83.04%,Over 2 • MI 13/0,MI needed 194 runs from 108 balls
+3.0,CSK 79.23%,Over 3 • MI 25/0,MI needed 182 runs from 102 balls
+4.0,CSK 71.41%,Over 4 • MI 38/0,MI needed 169 runs from 96 balls
+5.0,CSK 57.63%,Over 5 • MI 53/0,MI needed 154 runs from 90 balls
+6.0,MI 52.64%,Over 6 • MI 63/0,MI needed 144 runs from 84 balls
+7.0,CSK 60.17%,Over 7 • MI 70/0,MI needed 137 runs from 78 balls
+8.0,CSK 82.13%,Over 8 • MI 75/2,MI needed 132 runs from 72 balls
+9.0,CSK 85.11%,Over 9 • MI 81/2,MI needed 126 runs from 66 balls
+10.0,CSK 83.72%,Over 10 • MI 90/2,MI needed 117 runs from 60 balls
+11.0,MI 50.25%,Over 11 • MI 108/2,MI needed 99 runs from 54 balls
+12.0,MI 52.7%,Over 12 • MI 118/2,MI needed 89 runs from 48 balls
+13.0,CSK 55.4%,Over 13 • MI 124/2,MI needed 83 runs from 42 balls
+14.0,CSK 83.11%,Over 14 • MI 130/3,MI needed 77 runs from 36 balls
+15.0,CSK 92.53%,Over 15 • MI 132/3,MI needed 75 runs from 30 balls
+16.0,CSK 98.44%,Over 16 • MI 135/4,MI needed 72 runs from 24 balls
+17.0,CSK 97.57%,Over 17 • MI 154/5,MI needed 53 runs from 18 balls
+18.0,CSK 99.43%,Over 18 • MI 160/6,MI needed 47 runs from 12 balls
+19.0,CSK 99.29%,Over 19 • MI 173/6,MI needed 34 runs from 6 balls
+20.0,CSK 100%,Over 20 • MI 186/6,CSK won by 20 runs

@@ -1,41 +1,41 @@
-over,win_probability,over_info,forecast,innings
-1.0,CSK 58.94%,Over 1 • RCB 2/0,Live Forecast: RCB 169,1
-2.0,CSK 50.28%,Over 2 • RCB 18/0,Live Forecast: RCB 177,2
-3.0,RCB 57.41%,Over 3 • RCB 31/0,Live Forecast: RCB 184,2
-4.0,RCB 56.32%,Over 4 • RCB 35/0,Live Forecast: RCB 183,2
-5.0,CSK 53.57%,Over 5 • RCB 37/0,Live Forecast: RCB 174,2
-6.0,CSK 64.08%,Over 6 • RCB 42/0,Live Forecast: RCB 164,2
-7.0,CSK 58.94%,Over 7 • RCB 52/0,Live Forecast: RCB 169,2
-8.0,CSK 53.57%,Over 8 • RCB 60/0,Live Forecast: RCB 174,2
-9.0,RCB 58.49%,Over 9 • RCB 70/0,Live Forecast: RCB 185,2
-10.0,RCB 63.78%,Over 10 • RCB 78/1,Live Forecast: RCB 190,2
-11.0,RCB 79.04%,Over 11 • RCB 98/1,Live Forecast: RCB 207,2
-12.0,RCB 84.96%,Over 12 • RCB 108/1,Live Forecast: RCB 216,2
-13.0,RCB 72.48%,Over 13 • RCB 113/2,Live Forecast: RCB 199,2
-14.0,RCB 75.92%,Over 14 • RCB 132/2,Live Forecast: RCB 203,2
-15.0,RCB 67.8%,Over 15 • RCB 138/2,Live Forecast: RCB 194,2
-16.0,RCB 75.09%,Over 16 • RCB 155/2,Live Forecast: RCB 202,2
-17.0,RCB 76.73%,Over 17 • RCB 171/2,Live Forecast: RCB 204,2
-18.0,RCB 82.52%,Over 18 • RCB 187/3,Live Forecast: RCB 212,2
-19.0,RCB 85.52%,Over 19 • RCB 205/4,Live Forecast: RCB 217,2
-20.0,RCB 86.07%,Over 20 • RCB 218/5,Live Forecast: RCB 218,2
-1.0,RCB 88.6%,Over 1 • CSK 12/1,CSK needed 207 runs from 114 balls,2
-2.0,RCB 89.68%,Over 2 • CSK 19/1,CSK needed 200 runs from 108 balls,2
-3.0,RCB 94.34%,Over 3 • CSK 26/2,CSK needed 193 runs from 102 balls,2
-4.0,RCB 91.98%,Over 4 • CSK 39/2,CSK needed 180 runs from 96 balls,2
-5.0,RCB 94.12%,Over 5 • CSK 43/2,CSK needed 176 runs from 90 balls,2
-6.0,RCB 85.49%,Over 6 • CSK 58/2,CSK needed 161 runs from 84 balls,2
-7.0,RCB 90.68%,Over 7 • CSK 64/2,CSK needed 155 runs from 78 balls,2
-8.0,RCB 82.67%,Over 8 • CSK 78/2,CSK needed 141 runs from 72 balls,2
-9.0,RCB 88.11%,Over 9 • CSK 85/2,CSK needed 134 runs from 66 balls,2
-10.0,RCB 95.5%,Over 10 • CSK 87/3,CSK needed 132 runs from 60 balls,2
-11.0,RCB 98.06%,Over 11 • CSK 91/3,CSK needed 128 runs from 54 balls,2
-12.0,RCB 94.75%,Over 12 • CSK 110/3,CSK needed 109 runs from 48 balls,2
-13.0,RCB 96.86%,Over 13 • CSK 115/4,CSK needed 104 runs from 42 balls,2
-14.0,RCB 98.94%,Over 14 • CSK 125/5,CSK needed 94 runs from 36 balls,2
-15.0,RCB 99.72%,Over 15 • CSK 129/6,CSK needed 90 runs from 30 balls,2
-16.0,RCB 99.85%,Over 16 • CSK 138/6,CSK needed 81 runs from 24 balls,2
-17.0,RCB 99.86%,Over 17 • CSK 151/6,CSK needed 68 runs from 18 balls,2
-18.0,RCB 99.78%,Over 18 • CSK 166/6,CSK needed 53 runs from 12 balls,2
-19.0,RCB 99.44%,Over 19 • CSK 184/6,CSK needed 35 runs from 6 balls,2
-20.0,RCB 100%,Over 20 • CSK 191/7,RCB won by 27 runs,1
+over,win_probability,over_info,forecast
+1.0,CSK 58.94%,Over 1 • RCB 2/0,Live Forecast: RCB 169
+2.0,CSK 50.28%,Over 2 • RCB 18/0,Live Forecast: RCB 177
+3.0,RCB 57.41%,Over 3 • RCB 31/0,Live Forecast: RCB 184
+4.0,RCB 56.32%,Over 4 • RCB 35/0,Live Forecast: RCB 183
+5.0,CSK 53.57%,Over 5 • RCB 37/0,Live Forecast: RCB 174
+6.0,CSK 64.08%,Over 6 • RCB 42/0,Live Forecast: RCB 164
+7.0,CSK 58.94%,Over 7 • RCB 52/0,Live Forecast: RCB 169
+8.0,CSK 53.57%,Over 8 • RCB 60/0,Live Forecast: RCB 174
+9.0,RCB 58.49%,Over 9 • RCB 70/0,Live Forecast: RCB 185
+10.0,RCB 63.78%,Over 10 • RCB 78/1,Live Forecast: RCB 190
+11.0,RCB 79.04%,Over 11 • RCB 98/1,Live Forecast: RCB 207
+12.0,RCB 84.96%,Over 12 • RCB 108/1,Live Forecast: RCB 216
+13.0,RCB 72.48%,Over 13 • RCB 113/2,Live Forecast: RCB 199
+14.0,RCB 75.92%,Over 14 • RCB 132/2,Live Forecast: RCB 203
+15.0,RCB 67.8%,Over 15 • RCB 138/2,Live Forecast: RCB 194
+16.0,RCB 75.09%,Over 16 • RCB 155/2,Live Forecast: RCB 202
+17.0,RCB 76.73%,Over 17 • RCB 171/2,Live Forecast: RCB 204
+18.0,RCB 82.52%,Over 18 • RCB 187/3,Live Forecast: RCB 212
+19.0,RCB 85.52%,Over 19 • RCB 205/4,Live Forecast: RCB 217
+20.0,RCB 86.07%,Over 20 • RCB 218/5,Live Forecast: RCB 218
+1.0,RCB 88.6%,Over 1 • CSK 12/1,CSK needed 207 runs from 114 balls
+2.0,RCB 89.68%,Over 2 • CSK 19/1,CSK needed 200 runs from 108 balls
+3.0,RCB 94.34%,Over 3 • CSK 26/2,CSK needed 193 runs from 102 balls
+4.0,RCB 91.98%,Over 4 • CSK 39/2,CSK needed 180 runs from 96 balls
+5.0,RCB 94.12%,Over 5 • CSK 43/2,CSK needed 176 runs from 90 balls
+6.0,RCB 85.49%,Over 6 • CSK 58/2,CSK needed 161 runs from 84 balls
+7.0,RCB 90.68%,Over 7 • CSK 64/2,CSK needed 155 runs from 78 balls
+8.0,RCB 82.67%,Over 8 • CSK 78/2,CSK needed 141 runs from 72 balls
+9.0,RCB 88.11%,Over 9 • CSK 85/2,CSK needed 134 runs from 66 balls
+10.0,RCB 95.5%,Over 10 • CSK 87/3,CSK needed 132 runs from 60 balls
+11.0,RCB 98.06%,Over 11 • CSK 91/3,CSK needed 128 runs from 54 balls
+12.0,RCB 94.75%,Over 12 • CSK 110/3,CSK needed 109 runs from 48 balls
+13.0,RCB 96.86%,Over 13 • CSK 115/4,CSK needed 104 runs from 42 balls
+14.0,RCB 98.94%,Over 14 • CSK 125/5,CSK needed 94 runs from 36 balls
+15.0,RCB 99.72%,Over 15 • CSK 129/6,CSK needed 90 runs from 30 balls
+16.0,RCB 99.85%,Over 16 • CSK 138/6,CSK needed 81 runs from 24 balls
+17.0,RCB 99.86%,Over 17 • CSK 151/6,CSK needed 68 runs from 18 balls
+18.0,RCB 99.78%,Over 18 • CSK 166/6,CSK needed 53 runs from 12 balls
+19.0,RCB 99.44%,Over 19 • CSK 184/6,CSK needed 35 runs from 6 balls
+20.0,RCB 100%,Over 20 • CSK 191/7,RCB won by 27 runs

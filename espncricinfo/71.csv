@@ -1,34 +1,34 @@
-over,win_probability,over_info,forecast,innings
-1.0,SRH 55.79%,Over 1 • SRH 8/1,Live Forecast: SRH 182,1
-2.0,KKR 54.11%,Over 2 • SRH 13/2,Live Forecast: SRH 173,2
-3.0,KKR 55.19%,Over 3 • SRH 21/2,Live Forecast: SRH 172,2
-4.0,KKR 51.92%,Over 4 • SRH 33/2,Live Forecast: SRH 175,2
-5.0,KKR 53.01%,Over 5 • SRH 39/4,Live Forecast: SRH 174,2
-6.0,KKR 60.52%,Over 6 • SRH 45/4,Live Forecast: SRH 167,2
-7.0,KKR 67.49%,Over 7 • SRH 50/4,Live Forecast: SRH 160,2
-8.0,KKR 59.47%,Over 8 • SRH 62/4,Live Forecast: SRH 168,2
-9.0,SRH 65.32%,Over 9 • SRH 80/4,Live Forecast: SRH 191,2
-10.0,SRH 78.65%,Over 10 • SRH 92/4,Live Forecast: SRH 206,2
-11.0,SRH 71.12%,Over 11 • SRH 101/5,Live Forecast: SRH 197,2
-12.0,SRH 66.32%,Over 12 • SRH 110/5,Live Forecast: SRH 192,2
-13.0,SRH 54.69%,Over 13 • SRH 115/5,Live Forecast: SRH 181,2
-14.0,KKR 50.82%,Over 14 • SRH 123/7,Live Forecast: SRH 176,2
-15.0,KKR 64.58%,Over 15 • SRH 125/8,Live Forecast: SRH 163,2
-16.0,KKR 76.12%,Over 16 • SRH 126/9,Live Forecast: SRH 150,2
-17.0,KKR 71.15%,Over 17 • SRH 133/9,Live Forecast: SRH 156,2
-18.0,KKR 64.58%,Over 18 • SRH 144/9,Live Forecast: SRH 163,2
-19.0,KKR 62.57%,Over 19 • SRH 156/9,Live Forecast: SRH 165,2
-1.0,KKR 69.38%,Over 1 • KKR 6/0,KKR needed 154 runs from 114 balls,2
-2.0,KKR 82.39%,Over 2 • KKR 26/0,KKR needed 134 runs from 108 balls,2
-3.0,KKR 90.22%,Over 3 • KKR 44/0,KKR needed 116 runs from 102 balls,2
-4.0,KKR 87.42%,Over 4 • KKR 49/1,KKR needed 111 runs from 96 balls,2
-5.0,KKR 88.76%,Over 5 • KKR 57/1,KKR needed 103 runs from 90 balls,2
-6.0,KKR 88.51%,Over 6 • KKR 63/1,KKR needed 97 runs from 84 balls,2
-7.0,KKR 90.43%,Over 7 • KKR 74/2,KKR needed 86 runs from 78 balls,2
-8.0,KKR 93.85%,Over 8 • KKR 85/2,KKR needed 75 runs from 72 balls,2
-9.0,KKR 96.78%,Over 9 • KKR 96/2,KKR needed 64 runs from 66 balls,2
-10.0,KKR 98%,Over 10 • KKR 107/2,KKR needed 53 runs from 60 balls,2
-11.0,KKR 99.07%,Over 11 • KKR 119/2,KKR needed 41 runs from 54 balls,2
-12.0,KKR 99.54%,Over 12 • KKR 129/2,KKR needed 31 runs from 48 balls,2
-13.0,KKR 99.86%,Over 13 • KKR 142/2,KKR needed 18 runs from 42 balls,2
-14.0,KKR 100%,Over 14 • KKR 164/2,KKR won by 8 wickets (with 38 balls remaining),1
+over,win_probability,over_info,forecast
+1.0,SRH 55.79%,Over 1 • SRH 8/1,Live Forecast: SRH 182
+2.0,KKR 54.11%,Over 2 • SRH 13/2,Live Forecast: SRH 173
+3.0,KKR 55.19%,Over 3 • SRH 21/2,Live Forecast: SRH 172
+4.0,KKR 51.92%,Over 4 • SRH 33/2,Live Forecast: SRH 175
+5.0,KKR 53.01%,Over 5 • SRH 39/4,Live Forecast: SRH 174
+6.0,KKR 60.52%,Over 6 • SRH 45/4,Live Forecast: SRH 167
+7.0,KKR 67.49%,Over 7 • SRH 50/4,Live Forecast: SRH 160
+8.0,KKR 59.47%,Over 8 • SRH 62/4,Live Forecast: SRH 168
+9.0,SRH 65.32%,Over 9 • SRH 80/4,Live Forecast: SRH 191
+10.0,SRH 78.65%,Over 10 • SRH 92/4,Live Forecast: SRH 206
+11.0,SRH 71.12%,Over 11 • SRH 101/5,Live Forecast: SRH 197
+12.0,SRH 66.32%,Over 12 • SRH 110/5,Live Forecast: SRH 192
+13.0,SRH 54.69%,Over 13 • SRH 115/5,Live Forecast: SRH 181
+14.0,KKR 50.82%,Over 14 • SRH 123/7,Live Forecast: SRH 176
+15.0,KKR 64.58%,Over 15 • SRH 125/8,Live Forecast: SRH 163
+16.0,KKR 76.12%,Over 16 • SRH 126/9,Live Forecast: SRH 150
+17.0,KKR 71.15%,Over 17 • SRH 133/9,Live Forecast: SRH 156
+18.0,KKR 64.58%,Over 18 • SRH 144/9,Live Forecast: SRH 163
+19.0,KKR 62.57%,Over 19 • SRH 156/9,Live Forecast: SRH 165
+1.0,KKR 69.38%,Over 1 • KKR 6/0,KKR needed 154 runs from 114 balls
+2.0,KKR 82.39%,Over 2 • KKR 26/0,KKR needed 134 runs from 108 balls
+3.0,KKR 90.22%,Over 3 • KKR 44/0,KKR needed 116 runs from 102 balls
+4.0,KKR 87.42%,Over 4 • KKR 49/1,KKR needed 111 runs from 96 balls
+5.0,KKR 88.76%,Over 5 • KKR 57/1,KKR needed 103 runs from 90 balls
+6.0,KKR 88.51%,Over 6 • KKR 63/1,KKR needed 97 runs from 84 balls
+7.0,KKR 90.43%,Over 7 • KKR 74/2,KKR needed 86 runs from 78 balls
+8.0,KKR 93.85%,Over 8 • KKR 85/2,KKR needed 75 runs from 72 balls
+9.0,KKR 96.78%,Over 9 • KKR 96/2,KKR needed 64 runs from 66 balls
+10.0,KKR 98%,Over 10 • KKR 107/2,KKR needed 53 runs from 60 balls
+11.0,KKR 99.07%,Over 11 • KKR 119/2,KKR needed 41 runs from 54 balls
+12.0,KKR 99.54%,Over 12 • KKR 129/2,KKR needed 31 runs from 48 balls
+13.0,KKR 99.86%,Over 13 • KKR 142/2,KKR needed 18 runs from 42 balls
+14.0,KKR 100%,Over 14 • KKR 164/2,KKR won by 8 wickets (with 38 balls remaining)

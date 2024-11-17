@@ -1,41 +1,41 @@
-over,win_probability,over_info,forecast,innings
-1.0,LSG 51.51%,Over 1 • MI 2/0,Live Forecast: MI 172,1
-2.0,LSG 57%,Over 2 • MI 8/1,Live Forecast: MI 167,2
-3.0,LSG 55.91%,Over 3 • MI 20/2,Live Forecast: MI 168,2
-4.0,LSG 60.21%,Over 4 • MI 22/2,Live Forecast: MI 164,2
-5.0,LSG 62.3%,Over 5 • MI 27/2,Live Forecast: MI 162,2
-6.0,LSG 82.44%,Over 6 • MI 28/4,Live Forecast: MI 138,2
-7.0,LSG 80.49%,Over 7 • MI 36/4,Live Forecast: MI 141,2
-8.0,LSG 79.81%,Over 8 • MI 41/4,Live Forecast: MI 142,2
-9.0,LSG 71.92%,Over 9 • MI 49/4,Live Forecast: MI 152,2
-10.0,LSG 70.12%,Over 10 • MI 57/4,Live Forecast: MI 154,2
-11.0,LSG 70.12%,Over 11 • MI 65/4,Live Forecast: MI 154,2
-12.0,LSG 76.1%,Over 12 • MI 68/4,Live Forecast: MI 147,2
-13.0,LSG 80.49%,Over 13 • MI 73/4,Live Forecast: MI 141,2
-14.0,LSG 81.16%,Over 14 • MI 80/5,Live Forecast: MI 140,2
-15.0,LSG 74.48%,Over 15 • MI 96/5,Live Forecast: MI 149,2
-16.0,LSG 73.65%,Over 16 • MI 106/5,Live Forecast: MI 150,2
-17.0,LSG 77.64%,Over 17 • MI 112/5,Live Forecast: MI 145,2
-18.0,LSG 76.88%,Over 18 • MI 123/6,Live Forecast: MI 146,2
-19.0,LSG 82.44%,Over 19 • MI 127/7,Live Forecast: MI 138,2
-20.0,LSG 78.38%,Over 20 • MI 144/7,Live Forecast: MI 144,2
-1.0,LSG 68.07%,Over 1 • LSG 1/1,LSG needed 144 runs from 114 balls,2
-2.0,LSG 69.73%,Over 2 • LSG 8/1,LSG needed 137 runs from 108 balls,2
-3.0,LSG 65.78%,Over 3 • LSG 11/1,LSG needed 134 runs from 102 balls,2
-4.0,LSG 78.55%,Over 4 • LSG 26/1,LSG needed 119 runs from 96 balls,2
-5.0,LSG 91.41%,Over 5 • LSG 46/1,LSG needed 99 runs from 90 balls,2
-6.0,LSG 92.5%,Over 6 • LSG 52/1,LSG needed 93 runs from 84 balls,2
-7.0,LSG 93.63%,Over 7 • LSG 57/1,LSG needed 88 runs from 78 balls,2
-8.0,LSG 86.63%,Over 8 • LSG 61/2,LSG needed 84 runs from 72 balls,2
-9.0,LSG 89.07%,Over 9 • LSG 71/2,LSG needed 74 runs from 66 balls,2
-10.0,LSG 92.71%,Over 10 • LSG 79/2,LSG needed 66 runs from 60 balls,2
-11.0,LSG 95.47%,Over 11 • LSG 88/2,LSG needed 57 runs from 54 balls,2
-12.0,LSG 94.91%,Over 12 • LSG 91/2,LSG needed 54 runs from 48 balls,2
-13.0,LSG 96.39%,Over 13 • LSG 99/2,LSG needed 46 runs from 42 balls,2
-14.0,LSG 93.17%,Over 14 • LSG 103/3,LSG needed 42 runs from 36 balls,2
-15.0,LSG 95.91%,Over 15 • LSG 116/4,LSG needed 29 runs from 30 balls,2
-16.0,LSG 97.11%,Over 16 • LSG 122/4,LSG needed 23 runs from 24 balls,2
-17.0,LSG 91.96%,Over 17 • LSG 123/4,LSG needed 22 runs from 18 balls,2
-18.0,LSG 95.6%,Over 18 • LSG 132/5,LSG needed 13 runs from 12 balls,2
-19.0,LSG 97.83%,Over 19 • LSG 142/6,LSG needed 3 runs from 6 balls,2
-20.0,LSG 100%,Over 20 • LSG 145/6,LSG won by 4 wickets (with 4 balls remaining),1
+over,win_probability,over_info,forecast
+1.0,LSG 51.51%,Over 1 • MI 2/0,Live Forecast: MI 172
+2.0,LSG 57%,Over 2 • MI 8/1,Live Forecast: MI 167
+3.0,LSG 55.91%,Over 3 • MI 20/2,Live Forecast: MI 168
+4.0,LSG 60.21%,Over 4 • MI 22/2,Live Forecast: MI 164
+5.0,LSG 62.3%,Over 5 • MI 27/2,Live Forecast: MI 162
+6.0,LSG 82.44%,Over 6 • MI 28/4,Live Forecast: MI 138
+7.0,LSG 80.49%,Over 7 • MI 36/4,Live Forecast: MI 141
+8.0,LSG 79.81%,Over 8 • MI 41/4,Live Forecast: MI 142
+9.0,LSG 71.92%,Over 9 • MI 49/4,Live Forecast: MI 152
+10.0,LSG 70.12%,Over 10 • MI 57/4,Live Forecast: MI 154
+11.0,LSG 70.12%,Over 11 • MI 65/4,Live Forecast: MI 154
+12.0,LSG 76.1%,Over 12 • MI 68/4,Live Forecast: MI 147
+13.0,LSG 80.49%,Over 13 • MI 73/4,Live Forecast: MI 141
+14.0,LSG 81.16%,Over 14 • MI 80/5,Live Forecast: MI 140
+15.0,LSG 74.48%,Over 15 • MI 96/5,Live Forecast: MI 149
+16.0,LSG 73.65%,Over 16 • MI 106/5,Live Forecast: MI 150
+17.0,LSG 77.64%,Over 17 • MI 112/5,Live Forecast: MI 145
+18.0,LSG 76.88%,Over 18 • MI 123/6,Live Forecast: MI 146
+19.0,LSG 82.44%,Over 19 • MI 127/7,Live Forecast: MI 138
+20.0,LSG 78.38%,Over 20 • MI 144/7,Live Forecast: MI 144
+1.0,LSG 68.07%,Over 1 • LSG 1/1,LSG needed 144 runs from 114 balls
+2.0,LSG 69.73%,Over 2 • LSG 8/1,LSG needed 137 runs from 108 balls
+3.0,LSG 65.78%,Over 3 • LSG 11/1,LSG needed 134 runs from 102 balls
+4.0,LSG 78.55%,Over 4 • LSG 26/1,LSG needed 119 runs from 96 balls
+5.0,LSG 91.41%,Over 5 • LSG 46/1,LSG needed 99 runs from 90 balls
+6.0,LSG 92.5%,Over 6 • LSG 52/1,LSG needed 93 runs from 84 balls
+7.0,LSG 93.63%,Over 7 • LSG 57/1,LSG needed 88 runs from 78 balls
+8.0,LSG 86.63%,Over 8 • LSG 61/2,LSG needed 84 runs from 72 balls
+9.0,LSG 89.07%,Over 9 • LSG 71/2,LSG needed 74 runs from 66 balls
+10.0,LSG 92.71%,Over 10 • LSG 79/2,LSG needed 66 runs from 60 balls
+11.0,LSG 95.47%,Over 11 • LSG 88/2,LSG needed 57 runs from 54 balls
+12.0,LSG 94.91%,Over 12 • LSG 91/2,LSG needed 54 runs from 48 balls
+13.0,LSG 96.39%,Over 13 • LSG 99/2,LSG needed 46 runs from 42 balls
+14.0,LSG 93.17%,Over 14 • LSG 103/3,LSG needed 42 runs from 36 balls
+15.0,LSG 95.91%,Over 15 • LSG 116/4,LSG needed 29 runs from 30 balls
+16.0,LSG 97.11%,Over 16 • LSG 122/4,LSG needed 23 runs from 24 balls
+17.0,LSG 91.96%,Over 17 • LSG 123/4,LSG needed 22 runs from 18 balls
+18.0,LSG 95.6%,Over 18 • LSG 132/5,LSG needed 13 runs from 12 balls
+19.0,LSG 97.83%,Over 19 • LSG 142/6,LSG needed 3 runs from 6 balls
+20.0,LSG 100%,Over 20 • LSG 145/6,LSG won by 4 wickets (with 4 balls remaining)

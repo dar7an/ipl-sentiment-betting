@@ -1,40 +1,40 @@
-over,win_probability,over_info,forecast,innings
-1.0,MI 51.51%,Over 1 • MI 6/1,Live Forecast: MI 174,1
-2.0,RR 57.39%,Over 2 • MI 9/2,Live Forecast: MI 166,2
-3.0,RR 54.08%,Over 3 • MI 20/2,Live Forecast: MI 169,2
-4.0,RR 66.79%,Over 4 • MI 21/3,Live Forecast: MI 157,2
-5.0,RR 63.76%,Over 5 • MI 27/3,Live Forecast: MI 160,2
-6.0,MI 51.51%,Over 6 • MI 45/3,Live Forecast: MI 174,2
-7.0,MI 54.86%,Over 7 • MI 50/3,Live Forecast: MI 177,2
-8.0,MI 55.97%,Over 8 • MI 56/4,Live Forecast: MI 178,2
-9.0,RR 52.97%,Over 9 • MI 66/4,Live Forecast: MI 170,2
-10.0,RR 52.97%,Over 10 • MI 72/4,Live Forecast: MI 170,2
-11.0,MI 50.39%,Over 11 • MI 82/4,Live Forecast: MI 173,2
-12.0,MI 58.17%,Over 12 • MI 95/4,Live Forecast: MI 180,2
-13.0,MI 54.86%,Over 13 • MI 101/4,Live Forecast: MI 177,2
-14.0,MI 68.53%,Over 14 • MI 120/4,Live Forecast: MI 190,2
-15.0,MI 67.55%,Over 15 • MI 131/4,Live Forecast: MI 189,2
-16.0,MI 78.07%,Over 16 • MI 151/4,Live Forecast: MI 201,2
-17.0,MI 72.26%,Over 17 • MI 161/5,Live Forecast: MI 194,2
-18.0,MI 71.35%,Over 18 • MI 170/5,Live Forecast: MI 193,2
-19.0,MI 67.55%,Over 19 • MI 176/6,Live Forecast: MI 189,2
-20.0,MI 57.07%,Over 20 • MI 179/9,Live Forecast: MI 179,2
-1.0,MI 52.19%,Over 1 • RR 11/0,RR needed 169 runs from 114 balls,2
-2.0,MI 56.44%,Over 2 • RR 13/0,RR needed 167 runs from 108 balls,2
-3.0,MI 58.97%,Over 3 • RR 19/0,RR needed 161 runs from 102 balls,2
-4.0,MI 50.36%,Over 4 • RR 35/0,RR needed 145 runs from 96 balls,2
-5.0,RR 62.41%,Over 5 • RR 44/0,RR needed 136 runs from 90 balls,2
-6.0,RR 80.92%,Over 6 • RR 61/0,RR needed 119 runs from 84 balls,2
-7.0,RR 85.9%,Over 7 • RR 68/0,RR needed 112 runs from 78 balls,2
-8.0,RR 73.89%,Over 8 • RR 74/1,RR needed 106 runs from 72 balls,2
-9.0,RR 71.19%,Over 9 • RR 83/1,RR needed 97 runs from 66 balls,2
-10.0,RR 75.11%,Over 10 • RR 95/1,RR needed 85 runs from 60 balls,2
-11.0,RR 94.24%,Over 11 • RR 110/1,RR needed 70 runs from 54 balls,2
-12.0,RR 91.72%,Over 12 • RR 113/1,RR needed 67 runs from 48 balls,2
-13.0,RR 94.54%,Over 13 • RR 123/1,RR needed 57 runs from 42 balls,2
-14.0,RR 96.64%,Over 14 • RR 135/1,RR needed 45 runs from 36 balls,2
-15.0,RR 99.24%,Over 15 • RR 151/1,RR needed 29 runs from 30 balls,2
-16.0,RR 99.65%,Over 16 • RR 160/1,RR needed 20 runs from 24 balls,2
-17.0,RR 99.87%,Over 17 • RR 170/1,RR needed 10 runs from 18 balls,2
-18.0,RR 99.87%,Over 18 • RR 175/1,RR needed 5 runs from 12 balls,2
-19.0,RR 100%,Over 19 • RR 183/1,RR won by 9 wickets (with 8 balls remaining),1
+over,win_probability,over_info,forecast
+1.0,MI 51.51%,Over 1 • MI 6/1,Live Forecast: MI 174
+2.0,RR 57.39%,Over 2 • MI 9/2,Live Forecast: MI 166
+3.0,RR 54.08%,Over 3 • MI 20/2,Live Forecast: MI 169
+4.0,RR 66.79%,Over 4 • MI 21/3,Live Forecast: MI 157
+5.0,RR 63.76%,Over 5 • MI 27/3,Live Forecast: MI 160
+6.0,MI 51.51%,Over 6 • MI 45/3,Live Forecast: MI 174
+7.0,MI 54.86%,Over 7 • MI 50/3,Live Forecast: MI 177
+8.0,MI 55.97%,Over 8 • MI 56/4,Live Forecast: MI 178
+9.0,RR 52.97%,Over 9 • MI 66/4,Live Forecast: MI 170
+10.0,RR 52.97%,Over 10 • MI 72/4,Live Forecast: MI 170
+11.0,MI 50.39%,Over 11 • MI 82/4,Live Forecast: MI 173
+12.0,MI 58.17%,Over 12 • MI 95/4,Live Forecast: MI 180
+13.0,MI 54.86%,Over 13 • MI 101/4,Live Forecast: MI 177
+14.0,MI 68.53%,Over 14 • MI 120/4,Live Forecast: MI 190
+15.0,MI 67.55%,Over 15 • MI 131/4,Live Forecast: MI 189
+16.0,MI 78.07%,Over 16 • MI 151/4,Live Forecast: MI 201
+17.0,MI 72.26%,Over 17 • MI 161/5,Live Forecast: MI 194
+18.0,MI 71.35%,Over 18 • MI 170/5,Live Forecast: MI 193
+19.0,MI 67.55%,Over 19 • MI 176/6,Live Forecast: MI 189
+20.0,MI 57.07%,Over 20 • MI 179/9,Live Forecast: MI 179
+1.0,MI 52.19%,Over 1 • RR 11/0,RR needed 169 runs from 114 balls
+2.0,MI 56.44%,Over 2 • RR 13/0,RR needed 167 runs from 108 balls
+3.0,MI 58.97%,Over 3 • RR 19/0,RR needed 161 runs from 102 balls
+4.0,MI 50.36%,Over 4 • RR 35/0,RR needed 145 runs from 96 balls
+5.0,RR 62.41%,Over 5 • RR 44/0,RR needed 136 runs from 90 balls
+6.0,RR 80.92%,Over 6 • RR 61/0,RR needed 119 runs from 84 balls
+7.0,RR 85.9%,Over 7 • RR 68/0,RR needed 112 runs from 78 balls
+8.0,RR 73.89%,Over 8 • RR 74/1,RR needed 106 runs from 72 balls
+9.0,RR 71.19%,Over 9 • RR 83/1,RR needed 97 runs from 66 balls
+10.0,RR 75.11%,Over 10 • RR 95/1,RR needed 85 runs from 60 balls
+11.0,RR 94.24%,Over 11 • RR 110/1,RR needed 70 runs from 54 balls
+12.0,RR 91.72%,Over 12 • RR 113/1,RR needed 67 runs from 48 balls
+13.0,RR 94.54%,Over 13 • RR 123/1,RR needed 57 runs from 42 balls
+14.0,RR 96.64%,Over 14 • RR 135/1,RR needed 45 runs from 36 balls
+15.0,RR 99.24%,Over 15 • RR 151/1,RR needed 29 runs from 30 balls
+16.0,RR 99.65%,Over 16 • RR 160/1,RR needed 20 runs from 24 balls
+17.0,RR 99.87%,Over 17 • RR 170/1,RR needed 10 runs from 18 balls
+18.0,RR 99.87%,Over 18 • RR 175/1,RR needed 5 runs from 12 balls
+19.0,RR 100%,Over 19 • RR 183/1,RR won by 9 wickets (with 8 balls remaining)

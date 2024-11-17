@@ -1,41 +1,41 @@
-over,win_probability,over_info,forecast,innings
-1.0,LSG 53.35%,Over 1 • CSK 4/1,Live Forecast: CSK 168,1
-2.0,CSK 57.79%,Over 2 • CSK 20/1,Live Forecast: CSK 178,2
-3.0,CSK 53.37%,Over 3 • CSK 25/1,Live Forecast: CSK 174,2
-4.0,CSK 66.2%,Over 4 • CSK 37/1,Live Forecast: CSK 186,2
-5.0,CSK 72.79%,Over 5 • CSK 48/1,Live Forecast: CSK 193,2
-6.0,CSK 58.88%,Over 6 • CSK 49/2,Live Forecast: CSK 179,2
-7.0,CSK 54.48%,Over 7 • CSK 56/2,Live Forecast: CSK 175,2
-8.0,CSK 56.7%,Over 8 • CSK 66/2,Live Forecast: CSK 177,2
-9.0,CSK 59.96%,Over 9 • CSK 74/2,Live Forecast: CSK 180,2
-10.0,CSK 71.9%,Over 10 • CSK 85/2,Live Forecast: CSK 192,2
-11.0,CSK 72.79%,Over 11 • CSK 93/2,Live Forecast: CSK 193,2
-12.0,CSK 71.9%,Over 12 • CSK 102/3,Live Forecast: CSK 192,2
-13.0,CSK 71%,Over 13 • CSK 111/3,Live Forecast: CSK 191,2
-14.0,CSK 67.19%,Over 14 • CSK 119/3,Live Forecast: CSK 187,2
-15.0,CSK 73.67%,Over 15 • CSK 135/3,Live Forecast: CSK 194,2
-16.0,CSK 83.86%,Over 16 • CSK 154/3,Live Forecast: CSK 208,2
-17.0,CSK 79.23%,Over 17 • CSK 162/3,Live Forecast: CSK 201,2
-18.0,CSK 81.33%,Over 18 • CSK 178/3,Live Forecast: CSK 204,2
-19.0,CSK 84.44%,Over 19 • CSK 195/3,Live Forecast: CSK 209,2
-20.0,CSK 85.01%,Over 20 • CSK 210/4,Live Forecast: CSK 210,2
-1.0,CSK 91.95%,Over 1 • LSG 1/1,LSG needed 210 runs from 114 balls,2
-2.0,CSK 91.87%,Over 2 • LSG 11/1,LSG needed 200 runs from 108 balls,2
-3.0,CSK 90.83%,Over 3 • LSG 21/1,LSG needed 190 runs from 102 balls,2
-4.0,CSK 89.96%,Over 4 • LSG 29/1,LSG needed 182 runs from 96 balls,2
-5.0,CSK 94.29%,Over 5 • LSG 33/2,LSG needed 178 runs from 90 balls,2
-6.0,CSK 92.49%,Over 6 • LSG 45/2,LSG needed 166 runs from 84 balls,2
-7.0,CSK 94.93%,Over 7 • LSG 51/2,LSG needed 160 runs from 78 balls,2
-8.0,CSK 92.41%,Over 8 • LSG 63/2,LSG needed 148 runs from 72 balls,2
-9.0,CSK 80.98%,Over 9 • LSG 78/2,LSG needed 133 runs from 66 balls,2
-10.0,CSK 86.61%,Over 10 • LSG 83/2,LSG needed 128 runs from 60 balls,2
-11.0,CSK 95.58%,Over 11 • LSG 88/3,LSG needed 123 runs from 54 balls,2
-12.0,CSK 96.81%,Over 12 • LSG 98/3,LSG needed 113 runs from 48 balls,2
-13.0,CSK 91.98%,Over 13 • LSG 115/3,LSG needed 96 runs from 42 balls,2
-14.0,CSK 93.34%,Over 14 • LSG 124/3,LSG needed 87 runs from 36 balls,2
-15.0,CSK 89.98%,Over 15 • LSG 137/3,LSG needed 74 runs from 30 balls,2
-16.0,CSK 66.33%,Over 16 • LSG 157/3,LSG needed 54 runs from 24 balls,2
-17.0,CSK 90.28%,Over 17 • LSG 164/4,LSG needed 47 runs from 18 balls,2
-18.0,CSK 80.63%,Over 18 • LSG 179/4,LSG needed 32 runs from 12 balls,2
-19.0,CSK 67.11%,Over 19 • LSG 194/4,LSG needed 17 runs from 6 balls,2
-20.0,LSG 100%,Over 20 • LSG 213/4,LSG won by 6 wickets (with 3 balls remaining),1
+over,win_probability,over_info,forecast
+1.0,LSG 53.35%,Over 1 • CSK 4/1,Live Forecast: CSK 168
+2.0,CSK 57.79%,Over 2 • CSK 20/1,Live Forecast: CSK 178
+3.0,CSK 53.37%,Over 3 • CSK 25/1,Live Forecast: CSK 174
+4.0,CSK 66.2%,Over 4 • CSK 37/1,Live Forecast: CSK 186
+5.0,CSK 72.79%,Over 5 • CSK 48/1,Live Forecast: CSK 193
+6.0,CSK 58.88%,Over 6 • CSK 49/2,Live Forecast: CSK 179
+7.0,CSK 54.48%,Over 7 • CSK 56/2,Live Forecast: CSK 175
+8.0,CSK 56.7%,Over 8 • CSK 66/2,Live Forecast: CSK 177
+9.0,CSK 59.96%,Over 9 • CSK 74/2,Live Forecast: CSK 180
+10.0,CSK 71.9%,Over 10 • CSK 85/2,Live Forecast: CSK 192
+11.0,CSK 72.79%,Over 11 • CSK 93/2,Live Forecast: CSK 193
+12.0,CSK 71.9%,Over 12 • CSK 102/3,Live Forecast: CSK 192
+13.0,CSK 71%,Over 13 • CSK 111/3,Live Forecast: CSK 191
+14.0,CSK 67.19%,Over 14 • CSK 119/3,Live Forecast: CSK 187
+15.0,CSK 73.67%,Over 15 • CSK 135/3,Live Forecast: CSK 194
+16.0,CSK 83.86%,Over 16 • CSK 154/3,Live Forecast: CSK 208
+17.0,CSK 79.23%,Over 17 • CSK 162/3,Live Forecast: CSK 201
+18.0,CSK 81.33%,Over 18 • CSK 178/3,Live Forecast: CSK 204
+19.0,CSK 84.44%,Over 19 • CSK 195/3,Live Forecast: CSK 209
+20.0,CSK 85.01%,Over 20 • CSK 210/4,Live Forecast: CSK 210
+1.0,CSK 91.95%,Over 1 • LSG 1/1,LSG needed 210 runs from 114 balls
+2.0,CSK 91.87%,Over 2 • LSG 11/1,LSG needed 200 runs from 108 balls
+3.0,CSK 90.83%,Over 3 • LSG 21/1,LSG needed 190 runs from 102 balls
+4.0,CSK 89.96%,Over 4 • LSG 29/1,LSG needed 182 runs from 96 balls
+5.0,CSK 94.29%,Over 5 • LSG 33/2,LSG needed 178 runs from 90 balls
+6.0,CSK 92.49%,Over 6 • LSG 45/2,LSG needed 166 runs from 84 balls
+7.0,CSK 94.93%,Over 7 • LSG 51/2,LSG needed 160 runs from 78 balls
+8.0,CSK 92.41%,Over 8 • LSG 63/2,LSG needed 148 runs from 72 balls
+9.0,CSK 80.98%,Over 9 • LSG 78/2,LSG needed 133 runs from 66 balls
+10.0,CSK 86.61%,Over 10 • LSG 83/2,LSG needed 128 runs from 60 balls
+11.0,CSK 95.58%,Over 11 • LSG 88/3,LSG needed 123 runs from 54 balls
+12.0,CSK 96.81%,Over 12 • LSG 98/3,LSG needed 113 runs from 48 balls
+13.0,CSK 91.98%,Over 13 • LSG 115/3,LSG needed 96 runs from 42 balls
+14.0,CSK 93.34%,Over 14 • LSG 124/3,LSG needed 87 runs from 36 balls
+15.0,CSK 89.98%,Over 15 • LSG 137/3,LSG needed 74 runs from 30 balls
+16.0,CSK 66.33%,Over 16 • LSG 157/3,LSG needed 54 runs from 24 balls
+17.0,CSK 90.28%,Over 17 • LSG 164/4,LSG needed 47 runs from 18 balls
+18.0,CSK 80.63%,Over 18 • LSG 179/4,LSG needed 32 runs from 12 balls
+19.0,CSK 67.11%,Over 19 • LSG 194/4,LSG needed 17 runs from 6 balls
+20.0,LSG 100%,Over 20 • LSG 213/4,LSG won by 6 wickets (with 3 balls remaining)

@@ -1,41 +1,41 @@
-over,win_probability,over_info,forecast,innings
-1.0,SRH 63.52%,Over 1 • SRH 11/0,Live Forecast: SRH 185,1
-2.0,SRH 62.48%,Over 2 • SRH 20/0,Live Forecast: SRH 184,2
-3.0,SRH 60.35%,Over 3 • SRH 27/0,Live Forecast: SRH 182,2
-4.0,SRH 58.19%,Over 4 • SRH 34/0,Live Forecast: SRH 180,2
-5.0,SRH 54.88%,Over 5 • SRH 41/1,Live Forecast: SRH 177,2
-6.0,SRH 73.15%,Over 6 • SRH 56/1,Live Forecast: SRH 195,2
-7.0,SRH 65.57%,Over 7 • SRH 60/2,Live Forecast: SRH 187,2
-8.0,SRH 64.55%,Over 8 • SRH 64/2,Live Forecast: SRH 186,2
-9.0,GT 51.82%,Over 9 • SRH 69/2,Live Forecast: SRH 171,2
-10.0,GT 54.05%,Over 10 • SRH 74/3,Live Forecast: SRH 169,2
-11.0,SRH 52.65%,Over 11 • SRH 83/3,Live Forecast: SRH 175,2
-12.0,SRH 53.77%,Over 12 • SRH 90/3,Live Forecast: SRH 176,2
-13.0,SRH 66.58%,Over 13 • SRH 104/3,Live Forecast: SRH 188,2
-14.0,SRH 52.65%,Over 14 • SRH 109/4,Live Forecast: SRH 175,2
-15.0,SRH 53.77%,Over 15 • SRH 122/5,Live Forecast: SRH 176,2
-16.0,GT 51.82%,Over 16 • SRH 128/5,Live Forecast: SRH 171,2
-17.0,GT 54.05%,Over 17 • SRH 137/5,Live Forecast: SRH 169,2
-18.0,GT 52.94%,Over 18 • SRH 147/5,Live Forecast: SRH 170,2
-19.0,GT 51.82%,Over 19 • SRH 159/5,Live Forecast: SRH 171,2
-20.0,GT 61.65%,Over 20 • SRH 162/8,Live Forecast: SRH 162,2
-1.0,GT 62.61%,Over 1 • GT 7/0,GT needed 156 runs from 114 balls,2
-2.0,GT 67.9%,Over 2 • GT 18/0,GT needed 145 runs from 108 balls,2
-3.0,GT 68.44%,Over 3 • GT 25/0,GT needed 138 runs from 102 balls,2
-4.0,GT 76.85%,Over 4 • GT 36/0,GT needed 127 runs from 96 balls,2
-5.0,GT 73.17%,Over 5 • GT 45/1,GT needed 118 runs from 90 balls,2
-6.0,GT 77.73%,Over 6 • GT 52/1,GT needed 111 runs from 84 balls,2
-7.0,GT 79.46%,Over 7 • GT 58/1,GT needed 105 runs from 78 balls,2
-8.0,GT 74.96%,Over 8 • GT 63/1,GT needed 100 runs from 72 balls,2
-9.0,GT 84.25%,Over 9 • GT 74/1,GT needed 89 runs from 66 balls,2
-10.0,GT 76.33%,Over 10 • GT 78/2,GT needed 85 runs from 60 balls,2
-11.0,GT 74.95%,Over 11 • GT 83/2,GT needed 80 runs from 54 balls,2
-12.0,GT 71.94%,Over 12 • GT 90/2,GT needed 73 runs from 48 balls,2
-13.0,GT 77.23%,Over 13 • GT 98/2,GT needed 65 runs from 42 balls,2
-14.0,GT 87.99%,Over 14 • GT 108/2,GT needed 55 runs from 36 balls,2
-15.0,GT 83.97%,Over 15 • GT 114/2,GT needed 49 runs from 30 balls,2
-16.0,GT 99.1%,Over 16 • GT 138/2,GT needed 25 runs from 24 balls,2
-17.0,GT 99.12%,Over 17 • GT 147/3,GT needed 16 runs from 18 balls,2
-18.0,GT 99.55%,Over 18 • GT 156/3,GT needed 7 runs from 12 balls,2
-19.0,GT 99.6%,Over 19 • GT 162/3,GT needed 1 runs from 6 balls,2
-20.0,GT 100%,Over 20 • GT 168/3,GT won by 7 wickets (with 5 balls remaining),1
+over,win_probability,over_info,forecast
+1.0,SRH 63.52%,Over 1 • SRH 11/0,Live Forecast: SRH 185
+2.0,SRH 62.48%,Over 2 • SRH 20/0,Live Forecast: SRH 184
+3.0,SRH 60.35%,Over 3 • SRH 27/0,Live Forecast: SRH 182
+4.0,SRH 58.19%,Over 4 • SRH 34/0,Live Forecast: SRH 180
+5.0,SRH 54.88%,Over 5 • SRH 41/1,Live Forecast: SRH 177
+6.0,SRH 73.15%,Over 6 • SRH 56/1,Live Forecast: SRH 195
+7.0,SRH 65.57%,Over 7 • SRH 60/2,Live Forecast: SRH 187
+8.0,SRH 64.55%,Over 8 • SRH 64/2,Live Forecast: SRH 186
+9.0,GT 51.82%,Over 9 • SRH 69/2,Live Forecast: SRH 171
+10.0,GT 54.05%,Over 10 • SRH 74/3,Live Forecast: SRH 169
+11.0,SRH 52.65%,Over 11 • SRH 83/3,Live Forecast: SRH 175
+12.0,SRH 53.77%,Over 12 • SRH 90/3,Live Forecast: SRH 176
+13.0,SRH 66.58%,Over 13 • SRH 104/3,Live Forecast: SRH 188
+14.0,SRH 52.65%,Over 14 • SRH 109/4,Live Forecast: SRH 175
+15.0,SRH 53.77%,Over 15 • SRH 122/5,Live Forecast: SRH 176
+16.0,GT 51.82%,Over 16 • SRH 128/5,Live Forecast: SRH 171
+17.0,GT 54.05%,Over 17 • SRH 137/5,Live Forecast: SRH 169
+18.0,GT 52.94%,Over 18 • SRH 147/5,Live Forecast: SRH 170
+19.0,GT 51.82%,Over 19 • SRH 159/5,Live Forecast: SRH 171
+20.0,GT 61.65%,Over 20 • SRH 162/8,Live Forecast: SRH 162
+1.0,GT 62.61%,Over 1 • GT 7/0,GT needed 156 runs from 114 balls
+2.0,GT 67.9%,Over 2 • GT 18/0,GT needed 145 runs from 108 balls
+3.0,GT 68.44%,Over 3 • GT 25/0,GT needed 138 runs from 102 balls
+4.0,GT 76.85%,Over 4 • GT 36/0,GT needed 127 runs from 96 balls
+5.0,GT 73.17%,Over 5 • GT 45/1,GT needed 118 runs from 90 balls
+6.0,GT 77.73%,Over 6 • GT 52/1,GT needed 111 runs from 84 balls
+7.0,GT 79.46%,Over 7 • GT 58/1,GT needed 105 runs from 78 balls
+8.0,GT 74.96%,Over 8 • GT 63/1,GT needed 100 runs from 72 balls
+9.0,GT 84.25%,Over 9 • GT 74/1,GT needed 89 runs from 66 balls
+10.0,GT 76.33%,Over 10 • GT 78/2,GT needed 85 runs from 60 balls
+11.0,GT 74.95%,Over 11 • GT 83/2,GT needed 80 runs from 54 balls
+12.0,GT 71.94%,Over 12 • GT 90/2,GT needed 73 runs from 48 balls
+13.0,GT 77.23%,Over 13 • GT 98/2,GT needed 65 runs from 42 balls
+14.0,GT 87.99%,Over 14 • GT 108/2,GT needed 55 runs from 36 balls
+15.0,GT 83.97%,Over 15 • GT 114/2,GT needed 49 runs from 30 balls
+16.0,GT 99.1%,Over 16 • GT 138/2,GT needed 25 runs from 24 balls
+17.0,GT 99.12%,Over 17 • GT 147/3,GT needed 16 runs from 18 balls
+18.0,GT 99.55%,Over 18 • GT 156/3,GT needed 7 runs from 12 balls
+19.0,GT 99.6%,Over 19 • GT 162/3,GT needed 1 runs from 6 balls
+20.0,GT 100%,Over 20 • GT 168/3,GT won by 7 wickets (with 5 balls remaining)

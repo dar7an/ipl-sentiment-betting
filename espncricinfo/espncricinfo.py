@@ -118,7 +118,6 @@ class WinProbabilityScraper:
                     "win_probability": win_prob,
                     "over_info": over_info,
                     "forecast": forecast,
-                    "innings": "2" if current_over_num > 20 else "1",
                 },
             )
             print("Final state captured before stopping")
@@ -133,29 +132,24 @@ class WinProbabilityScraper:
 
             if all(data.values()):
                 slider_x_position = self.get_current_slider_position()
-                innings = self.get_current_innings(
-                    slider_x_position, self.separator_x_position
-                )
 
                 self.probabilities.insert(
-                    0, {"over": current_over_num, "innings": innings, **data}
+                    0, {"over": current_over_num, **data}
                 )
-                print(f"Detected over change: {data['over_info']} (Innings {innings})")
+                print(f"Detected over change: {data['over_info']}")
         except Exception as e:
             print(f"Error scraping data: {e}")
 
     def get_current_slider_position(self):
         return self.get_slider().rect["x"]
 
-    def calculate_target_position(self, container, over_number, innings):
+    def calculate_target_position(self, container, over_number):
         container_rect = container.rect
         total_width = container_rect["width"]
         start_x = container_rect["x"]
-        relative_position = (
-            (20 + over_number) / 40 if innings == 2 else over_number / 40
-        )
+        relative_position = over_number / 40
         target_x = start_x + (total_width * relative_position)
-        print(f"Innings {innings}, Over {over_number}: Moving to position {target_x}")
+        print(f"Over {over_number}: Moving to position {target_x}")
         return target_x
 
     def get_win_probability(self):
@@ -205,7 +199,6 @@ class WinProbabilityScraper:
                     "win_probability": win_prob,
                     "over_info": over_info,
                     "forecast": forecast,
-                    "innings": "2" if current_over > 20 else "1",
                 }
             )
             print(f"Initial state captured: {over_info}")
@@ -220,9 +213,7 @@ class WinProbabilityScraper:
     def scrape_innings(self, container, start_position, current_over):
         print(f"Starting scrape from over {current_over}")
         for target_over in range(int(current_over), 0, -1):
-            target_position = self.calculate_target_position(
-                container, target_over, 2 if current_over > 20 else 1
-            )
+            target_position = self.calculate_target_position(container, target_over)
             current_position = self.get_current_slider_position()
             if not self.move_slider_incrementally(
                 current_position, target_position, container
@@ -274,10 +265,7 @@ class WinProbabilityScraper:
             return None
 
     def get_current_innings(self, slider_x_position, separator_x_position):
-        if separator_x_position is not None:
-            return "1" if slider_x_position <= separator_x_position else "2"
-        else:
-            return "1"
+        return None
 
 
 def main():

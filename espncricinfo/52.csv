@@ -1,34 +1,34 @@
-over,win_probability,over_info,forecast,innings
-1.0,RCB 51.87%,Over 1 • GT 1/0,Live Forecast: GT 175,1
-2.0,RCB 58.35%,Over 2 • GT 3/1,Live Forecast: GT 169,2
-3.0,RCB 64.51%,Over 3 • GT 7/1,Live Forecast: GT 163,2
-4.0,RCB 61.48%,Over 4 • GT 14/2,Live Forecast: GT 166,2
-5.0,RCB 63.52%,Over 5 • GT 18/2,Live Forecast: GT 164,2
-6.0,RCB 68.35%,Over 6 • GT 23/3,Live Forecast: GT 159,2
-7.0,RCB 61.48%,Over 7 • GT 34/3,Live Forecast: GT 166,2
-8.0,RCB 57.29%,Over 8 • GT 41/3,Live Forecast: GT 170,2
-9.0,RCB 55.14%,Over 9 • GT 49/3,Live Forecast: GT 172,2
-10.0,GT 51.43%,Over 10 • GT 61/3,Live Forecast: GT 178,2
-11.0,GT 54.73%,Over 11 • GT 72/3,Live Forecast: GT 181,2
-12.0,GT 50.33%,Over 12 • GT 84/4,Live Forecast: GT 177,2
-13.0,RCB 65.49%,Over 13 • GT 88/5,Live Forecast: GT 162,2
-14.0,RCB 73.63%,Over 14 • GT 93/5,Live Forecast: GT 153,2
-15.0,RCB 76.04%,Over 15 • GT 102/5,Live Forecast: GT 150,2
-16.0,RCB 63.52%,Over 16 • GT 121/5,Live Forecast: GT 164,2
-17.0,RCB 63.52%,Over 17 • GT 130/5,Live Forecast: GT 164,2
-18.0,RCB 70.18%,Over 18 • GT 136/7,Live Forecast: GT 157,2
-19.0,RCB 68.35%,Over 19 • GT 147/7,Live Forecast: GT 159,2
-1.0,RCB 84.46%,Over 1 • RCB 14/0,RCB needed 134 runs from 114 balls,2
-2.0,RCB 92.61%,Over 2 • RCB 34/0,RCB needed 114 runs from 108 balls,2
-3.0,RCB 95.17%,Over 3 • RCB 46/0,RCB needed 102 runs from 102 balls,2
-4.0,RCB 97.62%,Over 4 • RCB 64/0,RCB needed 84 runs from 96 balls,2
-5.0,RCB 98.84%,Over 5 • RCB 78/0,RCB needed 70 runs from 90 balls,2
-6.0,RCB 99.04%,Over 6 • RCB 92/1,RCB needed 56 runs from 84 balls,2
-7.0,RCB 99.03%,Over 7 • RCB 100/2,RCB needed 48 runs from 78 balls,2
-8.0,RCB 97.9%,Over 8 • RCB 107/4,RCB needed 41 runs from 72 balls,2
-9.0,RCB 97.89%,Over 9 • RCB 108/4,RCB needed 40 runs from 66 balls,2
-10.0,RCB 96.35%,Over 10 • RCB 112/5,RCB needed 36 runs from 60 balls,2
-11.0,RCB 89.04%,Over 11 • RCB 117/6,RCB needed 31 runs from 54 balls,2
-12.0,RCB 97.92%,Over 12 • RCB 133/6,RCB needed 15 runs from 48 balls,2
-13.0,RCB 99.33%,Over 13 • RCB 143/6,RCB needed 5 runs from 42 balls,2
-14.0,RCB 100%,Over 14 • RCB 152/6,RCB won by 4 wickets (with 38 balls remaining),1
+over,win_probability,over_info,forecast
+1.0,RCB 51.87%,Over 1 • GT 1/0,Live Forecast: GT 175
+2.0,RCB 58.35%,Over 2 • GT 3/1,Live Forecast: GT 169
+3.0,RCB 64.51%,Over 3 • GT 7/1,Live Forecast: GT 163
+4.0,RCB 61.48%,Over 4 • GT 14/2,Live Forecast: GT 166
+5.0,RCB 63.52%,Over 5 • GT 18/2,Live Forecast: GT 164
+6.0,RCB 68.35%,Over 6 • GT 23/3,Live Forecast: GT 159
+7.0,RCB 61.48%,Over 7 • GT 34/3,Live Forecast: GT 166
+8.0,RCB 57.29%,Over 8 • GT 41/3,Live Forecast: GT 170
+9.0,RCB 55.14%,Over 9 • GT 49/3,Live Forecast: GT 172
+10.0,GT 51.43%,Over 10 • GT 61/3,Live Forecast: GT 178
+11.0,GT 54.73%,Over 11 • GT 72/3,Live Forecast: GT 181
+12.0,GT 50.33%,Over 12 • GT 84/4,Live Forecast: GT 177
+13.0,RCB 65.49%,Over 13 • GT 88/5,Live Forecast: GT 162
+14.0,RCB 73.63%,Over 14 • GT 93/5,Live Forecast: GT 153
+15.0,RCB 76.04%,Over 15 • GT 102/5,Live Forecast: GT 150
+16.0,RCB 63.52%,Over 16 • GT 121/5,Live Forecast: GT 164
+17.0,RCB 63.52%,Over 17 • GT 130/5,Live Forecast: GT 164
+18.0,RCB 70.18%,Over 18 • GT 136/7,Live Forecast: GT 157
+19.0,RCB 68.35%,Over 19 • GT 147/7,Live Forecast: GT 159
+1.0,RCB 84.46%,Over 1 • RCB 14/0,RCB needed 134 runs from 114 balls
+2.0,RCB 92.61%,Over 2 • RCB 34/0,RCB needed 114 runs from 108 balls
+3.0,RCB 95.17%,Over 3 • RCB 46/0,RCB needed 102 runs from 102 balls
+4.0,RCB 97.62%,Over 4 • RCB 64/0,RCB needed 84 runs from 96 balls
+5.0,RCB 98.84%,Over 5 • RCB 78/0,RCB needed 70 runs from 90 balls
+6.0,RCB 99.04%,Over 6 • RCB 92/1,RCB needed 56 runs from 84 balls
+7.0,RCB 99.03%,Over 7 • RCB 100/2,RCB needed 48 runs from 78 balls
+8.0,RCB 97.9%,Over 8 • RCB 107/4,RCB needed 41 runs from 72 balls
+9.0,RCB 97.89%,Over 9 • RCB 108/4,RCB needed 40 runs from 66 balls
+10.0,RCB 96.35%,Over 10 • RCB 112/5,RCB needed 36 runs from 60 balls
+11.0,RCB 89.04%,Over 11 • RCB 117/6,RCB needed 31 runs from 54 balls
+12.0,RCB 97.92%,Over 12 • RCB 133/6,RCB needed 15 runs from 48 balls
+13.0,RCB 99.33%,Over 13 • RCB 143/6,RCB needed 5 runs from 42 balls
+14.0,RCB 100%,Over 14 • RCB 152/6,RCB won by 4 wickets (with 38 balls remaining)

@@ -1,41 +1,41 @@
-over,win_probability,over_info,forecast,innings
-1.0,MI 52.78%,Over 1 • SRH 7/0,Live Forecast: SRH 170,1
-2.0,SRH 50.58%,Over 2 • SRH 18/0,Live Forecast: SRH 173,2
-3.0,SRH 69.69%,Over 3 • SRH 40/0,Live Forecast: SRH 191,2
-4.0,SRH 75.07%,Over 4 • SRH 45/0,Live Forecast: SRH 197,2
-5.0,SRH 79.75%,Over 5 • SRH 58/1,Live Forecast: SRH 203,2
-6.0,SRH 90.55%,Over 6 • SRH 81/1,Live Forecast: SRH 223,2
-7.0,SRH 97.49%,Over 7 • SRH 102/1,Live Forecast: SRH 255,2
-8.0,SRH 98.21%,Over 8 • SRH 117/2,Live Forecast: SRH 263,2
-9.0,SRH 97.26%,Over 9 • SRH 128/2,Live Forecast: SRH 253,2
-10.0,SRH 98.72%,Over 10 • SRH 148/2,Live Forecast: SRH 271,2
-11.0,SRH 98.05%,Over 11 • SRH 161/3,Live Forecast: SRH 261,2
-12.0,SRH 98.49%,Over 12 • SRH 173/3,Live Forecast: SRH 267,2
-13.0,SRH 97.02%,Over 13 • SRH 180/3,Live Forecast: SRH 251,2
-14.0,SRH 97.15%,Over 14 • SRH 191/3,Live Forecast: SRH 252,2
-15.0,SRH 97.59%,Over 15 • SRH 202/3,Live Forecast: SRH 256,2
-16.0,SRH 97.69%,Over 16 • SRH 214/3,Live Forecast: SRH 257,2
-17.0,SRH 98.42%,Over 17 • SRH 232/3,Live Forecast: SRH 266,2
-18.0,SRH 98.42%,Over 18 • SRH 243/3,Live Forecast: SRH 266,2
-19.0,SRH 98.55%,Over 19 • SRH 256/3,Live Forecast: SRH 268,2
-20.0,SRH 99.01%,Over 20 • SRH 277/3,Live Forecast: SRH 277,2
-1.0,SRH 99.01%,Over 1 • MI 9/0,MI needed 269 runs from 114 balls,2
-2.0,SRH 98.62%,Over 2 • MI 27/0,MI needed 251 runs from 108 balls,2
-3.0,SRH 97.12%,Over 3 • MI 50/0,MI needed 228 runs from 102 balls,2
-4.0,SRH 98.03%,Over 4 • MI 59/1,MI needed 219 runs from 96 balls,2
-5.0,SRH 98.89%,Over 5 • MI 67/2,MI needed 211 runs from 90 balls,2
-6.0,SRH 99.32%,Over 6 • MI 76/2,MI needed 202 runs from 84 balls,2
-7.0,SRH 99.17%,Over 7 • MI 91/2,MI needed 187 runs from 78 balls,2
-8.0,SRH 98.87%,Over 8 • MI 102/2,MI needed 176 runs from 72 balls,2
-9.0,SRH 95.97%,Over 9 • MI 119/2,MI needed 159 runs from 66 balls,2
-10.0,SRH 84.19%,Over 10 • MI 141/2,MI needed 137 runs from 60 balls,2
-11.0,SRH 93.14%,Over 11 • MI 151/3,MI needed 127 runs from 54 balls,2
-12.0,SRH 91.44%,Over 12 • MI 165/3,MI needed 113 runs from 48 balls,2
-13.0,SRH 97.93%,Over 13 • MI 170/3,MI needed 108 runs from 42 balls,2
-14.0,SRH 97.24%,Over 14 • MI 182/3,MI needed 96 runs from 36 balls,2
-15.0,SRH 99.38%,Over 15 • MI 185/4,MI needed 93 runs from 30 balls,2
-16.0,SRH 99.83%,Over 16 • MI 190/4,MI needed 88 runs from 24 balls,2
-17.0,SRH 99.65%,Over 17 • MI 210/4,MI needed 68 runs from 18 balls,2
-18.0,SRH 99.72%,Over 18 • MI 224/5,MI needed 54 runs from 12 balls,2
-19.0,SRH 99.95%,Over 19 • MI 231/5,MI needed 47 runs from 6 balls,2
-20.0,SRH 100%,Over 20 • MI 246/5,SRH won by 31 runs,1
+over,win_probability,over_info,forecast
+1.0,MI 52.78%,Over 1 • SRH 7/0,Live Forecast: SRH 170
+2.0,SRH 50.58%,Over 2 • SRH 18/0,Live Forecast: SRH 173
+3.0,SRH 69.69%,Over 3 • SRH 40/0,Live Forecast: SRH 191
+4.0,SRH 75.07%,Over 4 • SRH 45/0,Live Forecast: SRH 197
+5.0,SRH 79.75%,Over 5 • SRH 58/1,Live Forecast: SRH 203
+6.0,SRH 90.55%,Over 6 • SRH 81/1,Live Forecast: SRH 223
+7.0,SRH 97.49%,Over 7 • SRH 102/1,Live Forecast: SRH 255
+8.0,SRH 98.21%,Over 8 • SRH 117/2,Live Forecast: SRH 263
+9.0,SRH 97.26%,Over 9 • SRH 128/2,Live Forecast: SRH 253
+10.0,SRH 98.72%,Over 10 • SRH 148/2,Live Forecast: SRH 271
+11.0,SRH 98.05%,Over 11 • SRH 161/3,Live Forecast: SRH 261
+12.0,SRH 98.49%,Over 12 • SRH 173/3,Live Forecast: SRH 267
+13.0,SRH 97.02%,Over 13 • SRH 180/3,Live Forecast: SRH 251
+14.0,SRH 97.15%,Over 14 • SRH 191/3,Live Forecast: SRH 252
+15.0,SRH 97.59%,Over 15 • SRH 202/3,Live Forecast: SRH 256
+16.0,SRH 97.69%,Over 16 • SRH 214/3,Live Forecast: SRH 257
+17.0,SRH 98.42%,Over 17 • SRH 232/3,Live Forecast: SRH 266
+18.0,SRH 98.42%,Over 18 • SRH 243/3,Live Forecast: SRH 266
+19.0,SRH 98.55%,Over 19 • SRH 256/3,Live Forecast: SRH 268
+20.0,SRH 99.01%,Over 20 • SRH 277/3,Live Forecast: SRH 277
+1.0,SRH 99.01%,Over 1 • MI 9/0,MI needed 269 runs from 114 balls
+2.0,SRH 98.62%,Over 2 • MI 27/0,MI needed 251 runs from 108 balls
+3.0,SRH 97.12%,Over 3 • MI 50/0,MI needed 228 runs from 102 balls
+4.0,SRH 98.03%,Over 4 • MI 59/1,MI needed 219 runs from 96 balls
+5.0,SRH 98.89%,Over 5 • MI 67/2,MI needed 211 runs from 90 balls
+6.0,SRH 99.32%,Over 6 • MI 76/2,MI needed 202 runs from 84 balls
+7.0,SRH 99.17%,Over 7 • MI 91/2,MI needed 187 runs from 78 balls
+8.0,SRH 98.87%,Over 8 • MI 102/2,MI needed 176 runs from 72 balls
+9.0,SRH 95.97%,Over 9 • MI 119/2,MI needed 159 runs from 66 balls
+10.0,SRH 84.19%,Over 10 • MI 141/2,MI needed 137 runs from 60 balls
+11.0,SRH 93.14%,Over 11 • MI 151/3,MI needed 127 runs from 54 balls
+12.0,SRH 91.44%,Over 12 • MI 165/3,MI needed 113 runs from 48 balls
+13.0,SRH 97.93%,Over 13 • MI 170/3,MI needed 108 runs from 42 balls
+14.0,SRH 97.24%,Over 14 • MI 182/3,MI needed 96 runs from 36 balls
+15.0,SRH 99.38%,Over 15 • MI 185/4,MI needed 93 runs from 30 balls
+16.0,SRH 99.83%,Over 16 • MI 190/4,MI needed 88 runs from 24 balls
+17.0,SRH 99.65%,Over 17 • MI 210/4,MI needed 68 runs from 18 balls
+18.0,SRH 99.72%,Over 18 • MI 224/5,MI needed 54 runs from 12 balls
+19.0,SRH 99.95%,Over 19 • MI 231/5,MI needed 47 runs from 6 balls
+20.0,SRH 100%,Over 20 • MI 246/5,SRH won by 31 runs

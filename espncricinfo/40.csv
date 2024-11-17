@@ -1,41 +1,41 @@
-over,win_probability,over_info,forecast,innings
-1.0,DC 52.23%,Over 1 • DC 10/0,Live Forecast: DC 173,1
-2.0,DC 56.66%,Over 2 • DC 22/0,Live Forecast: DC 177,2
-3.0,DC 59.92%,Over 3 • DC 34/0,Live Forecast: DC 180,2
-4.0,GT 52.24%,Over 4 • DC 36/2,Live Forecast: DC 169,2
-5.0,GT 52.24%,Over 5 • DC 43/2,Live Forecast: DC 169,2
-6.0,GT 62.06%,Over 6 • DC 44/3,Live Forecast: DC 160,2
-7.0,GT 66.16%,Over 7 • DC 49/3,Live Forecast: DC 156,2
-8.0,GT 59.93%,Over 8 • DC 59/3,Live Forecast: DC 162,2
-9.0,DC 51.11%,Over 9 • DC 68/3,Live Forecast: DC 172,2
-10.0,DC 69.06%,Over 10 • DC 80/3,Live Forecast: DC 189,2
-11.0,DC 77.66%,Over 11 • DC 93/3,Live Forecast: DC 199,2
-12.0,DC 76.88%,Over 12 • DC 105/3,Live Forecast: DC 198,2
-13.0,DC 71.83%,Over 13 • DC 111/3,Live Forecast: DC 192,2
-14.0,DC 62.04%,Over 14 • DC 120/3,Live Forecast: DC 182,2
-15.0,DC 58.84%,Over 15 • DC 127/3,Live Forecast: DC 179,2
-16.0,DC 69.06%,Over 16 • DC 143/3,Live Forecast: DC 189,2
-17.0,DC 72.72%,Over 17 • DC 157/4,Live Forecast: DC 193,2
-18.0,DC 74.44%,Over 18 • DC 171/4,Live Forecast: DC 195,2
-19.0,DC 82.55%,Over 19 • DC 193/4,Live Forecast: DC 206,2
-20.0,DC 91.2%,Over 20 • DC 224/4,Live Forecast: DC 224,2
-1.0,DC 90.9%,Over 1 • GT 9/0,GT needed 216 runs from 114 balls,2
-2.0,DC 91.95%,Over 2 • GT 24/1,GT needed 201 runs from 108 balls,2
-3.0,DC 88.09%,Over 3 • GT 41/1,GT needed 184 runs from 102 balls,2
-4.0,DC 85.49%,Over 4 • GT 50/1,GT needed 175 runs from 96 balls,2
-5.0,DC 83.26%,Over 5 • GT 60/1,GT needed 165 runs from 90 balls,2
-6.0,DC 88.51%,Over 6 • GT 67/1,GT needed 158 runs from 84 balls,2
-7.0,DC 91.21%,Over 7 • GT 71/1,GT needed 154 runs from 78 balls,2
-8.0,DC 91.44%,Over 8 • GT 79/1,GT needed 146 runs from 72 balls,2
-9.0,DC 88.01%,Over 9 • GT 92/1,GT needed 133 runs from 66 balls,2
-10.0,DC 91.8%,Over 10 • GT 98/2,GT needed 127 runs from 60 balls,2
-11.0,DC 92.41%,Over 11 • GT 109/3,GT needed 116 runs from 54 balls,2
-12.0,DC 91.22%,Over 12 • GT 119/3,GT needed 106 runs from 48 balls,2
-13.0,DC 96.31%,Over 13 • GT 127/4,GT needed 98 runs from 42 balls,2
-14.0,DC 92.97%,Over 14 • GT 139/4,GT needed 86 runs from 36 balls,2
-15.0,DC 97.13%,Over 15 • GT 147/5,GT needed 78 runs from 30 balls,2
-16.0,DC 99.51%,Over 16 • GT 152/6,GT needed 73 runs from 24 balls,2
-17.0,DC 96.58%,Over 17 • GT 176/6,GT needed 49 runs from 18 balls,2
-18.0,DC 97.36%,Over 18 • GT 188/7,GT needed 37 runs from 12 balls,2
-19.0,DC 91.09%,Over 19 • GT 206/8,GT needed 19 runs from 6 balls,2
-20.0,DC 100%,Over 20 • GT 220/8,DC won by 4 runs,1
+over,win_probability,over_info,forecast
+1.0,DC 52.23%,Over 1 • DC 10/0,Live Forecast: DC 173
+2.0,DC 56.66%,Over 2 • DC 22/0,Live Forecast: DC 177
+3.0,DC 59.92%,Over 3 • DC 34/0,Live Forecast: DC 180
+4.0,GT 52.24%,Over 4 • DC 36/2,Live Forecast: DC 169
+5.0,GT 52.24%,Over 5 • DC 43/2,Live Forecast: DC 169
+6.0,GT 62.06%,Over 6 • DC 44/3,Live Forecast: DC 160
+7.0,GT 66.16%,Over 7 • DC 49/3,Live Forecast: DC 156
+8.0,GT 59.93%,Over 8 • DC 59/3,Live Forecast: DC 162
+9.0,DC 51.11%,Over 9 • DC 68/3,Live Forecast: DC 172
+10.0,DC 69.06%,Over 10 • DC 80/3,Live Forecast: DC 189
+11.0,DC 77.66%,Over 11 • DC 93/3,Live Forecast: DC 199
+12.0,DC 76.88%,Over 12 • DC 105/3,Live Forecast: DC 198
+13.0,DC 71.83%,Over 13 • DC 111/3,Live Forecast: DC 192
+14.0,DC 62.04%,Over 14 • DC 120/3,Live Forecast: DC 182
+15.0,DC 58.84%,Over 15 • DC 127/3,Live Forecast: DC 179
+16.0,DC 69.06%,Over 16 • DC 143/3,Live Forecast: DC 189
+17.0,DC 72.72%,Over 17 • DC 157/4,Live Forecast: DC 193
+18.0,DC 74.44%,Over 18 • DC 171/4,Live Forecast: DC 195
+19.0,DC 82.55%,Over 19 • DC 193/4,Live Forecast: DC 206
+20.0,DC 91.2%,Over 20 • DC 224/4,Live Forecast: DC 224
+1.0,DC 90.9%,Over 1 • GT 9/0,GT needed 216 runs from 114 balls
+2.0,DC 91.95%,Over 2 • GT 24/1,GT needed 201 runs from 108 balls
+3.0,DC 88.09%,Over 3 • GT 41/1,GT needed 184 runs from 102 balls
+4.0,DC 85.49%,Over 4 • GT 50/1,GT needed 175 runs from 96 balls
+5.0,DC 83.26%,Over 5 • GT 60/1,GT needed 165 runs from 90 balls
+6.0,DC 88.51%,Over 6 • GT 67/1,GT needed 158 runs from 84 balls
+7.0,DC 91.21%,Over 7 • GT 71/1,GT needed 154 runs from 78 balls
+8.0,DC 91.44%,Over 8 • GT 79/1,GT needed 146 runs from 72 balls
+9.0,DC 88.01%,Over 9 • GT 92/1,GT needed 133 runs from 66 balls
+10.0,DC 91.8%,Over 10 • GT 98/2,GT needed 127 runs from 60 balls
+11.0,DC 92.41%,Over 11 • GT 109/3,GT needed 116 runs from 54 balls
+12.0,DC 91.22%,Over 12 • GT 119/3,GT needed 106 runs from 48 balls
+13.0,DC 96.31%,Over 13 • GT 127/4,GT needed 98 runs from 42 balls
+14.0,DC 92.97%,Over 14 • GT 139/4,GT needed 86 runs from 36 balls
+15.0,DC 97.13%,Over 15 • GT 147/5,GT needed 78 runs from 30 balls
+16.0,DC 99.51%,Over 16 • GT 152/6,GT needed 73 runs from 24 balls
+17.0,DC 96.58%,Over 17 • GT 176/6,GT needed 49 runs from 18 balls
+18.0,DC 97.36%,Over 18 • GT 188/7,GT needed 37 runs from 12 balls
+19.0,DC 91.09%,Over 19 • GT 206/8,GT needed 19 runs from 6 balls
+20.0,DC 100%,Over 20 • GT 220/8,DC won by 4 runs

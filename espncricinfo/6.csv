@@ -1,41 +1,41 @@
-over,win_probability,over_info,forecast,innings
-1.0,PBKS 52.34%,Over 1 • PBKS 7/0,Live Forecast: PBKS 174,1
-2.0,RCB 57.69%,Over 2 • PBKS 9/0,Live Forecast: PBKS 165,2
-3.0,RCB 53.26%,Over 3 • PBKS 21/1,Live Forecast: PBKS 169,2
-4.0,RCB 61.99%,Over 4 • PBKS 24/1,Live Forecast: PBKS 161,2
-5.0,PBKS 50.1%,Over 5 • PBKS 34/1,Live Forecast: PBKS 172,2
-6.0,RCB 57.69%,Over 6 • PBKS 40/1,Live Forecast: PBKS 165,2
-7.0,PBKS 58.99%,Over 7 • PBKS 50/1,Live Forecast: PBKS 180,2
-8.0,PBKS 71.15%,Over 8 • PBKS 61/1,Live Forecast: PBKS 192,2
-9.0,PBKS 78.67%,Over 9 • PBKS 72/2,Live Forecast: PBKS 201,2
-10.0,PBKS 71.15%,Over 10 • PBKS 78/2,Live Forecast: PBKS 192,2
-11.0,PBKS 76.34%,Over 11 • PBKS 92/2,Live Forecast: PBKS 198,2
-12.0,PBKS 63.26%,Over 12 • PBKS 98/3,Live Forecast: PBKS 184,2
-13.0,PBKS 51.22%,Over 13 • PBKS 102/4,Live Forecast: PBKS 173,2
-14.0,PBKS 51.22%,Over 14 • PBKS 111/4,Live Forecast: PBKS 173,2
-15.0,PBKS 62.21%,Over 15 • PBKS 128/4,Live Forecast: PBKS 183,2
-16.0,PBKS 53.46%,Over 16 • PBKS 132/4,Live Forecast: PBKS 175,2
-17.0,RCB 51.02%,Over 17 • PBKS 139/4,Live Forecast: PBKS 171,2
-18.0,PBKS 51.22%,Over 18 • PBKS 152/5,Live Forecast: PBKS 173,2
-19.0,RCB 56.59%,Over 19 • PBKS 156/6,Live Forecast: PBKS 166,2
-20.0,PBKS 54.58%,Over 20 • PBKS 176/6,Live Forecast: PBKS 176,2
-1.0,RCB 56.19%,Over 1 • RCB 16/0,RCB needed 161 runs from 114 balls,2
-2.0,RCB 54.89%,Over 2 • RCB 21/0,RCB needed 156 runs from 108 balls,2
-3.0,PBKS 51.22%,Over 3 • RCB 28/1,RCB needed 149 runs from 102 balls,2
-4.0,RCB 56.25%,Over 4 • RCB 41/1,RCB needed 136 runs from 96 balls,2
-5.0,PBKS 52.43%,Over 5 • RCB 47/2,RCB needed 130 runs from 90 balls,2
-6.0,PBKS 57.7%,Over 6 • RCB 50/2,RCB needed 127 runs from 84 balls,2
-7.0,PBKS 61.23%,Over 7 • RCB 56/2,RCB needed 121 runs from 78 balls,2
-8.0,PBKS 66.14%,Over 8 • RCB 61/2,RCB needed 116 runs from 72 balls,2
-9.0,RCB 64.21%,Over 9 • RCB 77/2,RCB needed 100 runs from 66 balls,2
-10.0,RCB 70.35%,Over 10 • RCB 85/2,RCB needed 92 runs from 60 balls,2
-11.0,RCB 54.98%,Over 11 • RCB 88/3,RCB needed 89 runs from 54 balls,2
-12.0,RCB 65.5%,Over 12 • RCB 103/3,RCB needed 74 runs from 48 balls,2
-13.0,PBKS 51.59%,Over 13 • RCB 106/4,RCB needed 71 runs from 42 balls,2
-14.0,PBKS 53.78%,Over 14 • RCB 113/4,RCB needed 64 runs from 36 balls,2
-15.0,PBKS 71.26%,Over 15 • RCB 118/4,RCB needed 59 runs from 30 balls,2
-16.0,PBKS 74.2%,Over 16 • RCB 130/5,RCB needed 47 runs from 24 balls,2
-17.0,PBKS 77.1%,Over 17 • RCB 141/6,RCB needed 36 runs from 18 balls,2
-18.0,PBKS 54.1%,Over 18 • RCB 154/6,RCB needed 23 runs from 12 balls,2
-19.0,RCB 84.29%,Over 19 • RCB 167/6,RCB needed 10 runs from 6 balls,2
-20.0,RCB 100%,Over 20 • RCB 178/6,RCB won by 4 wickets (with 4 balls remaining),1
+over,win_probability,over_info,forecast
+1.0,PBKS 52.34%,Over 1 • PBKS 7/0,Live Forecast: PBKS 174
+2.0,RCB 57.69%,Over 2 • PBKS 9/0,Live Forecast: PBKS 165
+3.0,RCB 53.26%,Over 3 • PBKS 21/1,Live Forecast: PBKS 169
+4.0,RCB 61.99%,Over 4 • PBKS 24/1,Live Forecast: PBKS 161
+5.0,PBKS 50.1%,Over 5 • PBKS 34/1,Live Forecast: PBKS 172
+6.0,RCB 57.69%,Over 6 • PBKS 40/1,Live Forecast: PBKS 165
+7.0,PBKS 58.99%,Over 7 • PBKS 50/1,Live Forecast: PBKS 180
+8.0,PBKS 71.15%,Over 8 • PBKS 61/1,Live Forecast: PBKS 192
+9.0,PBKS 78.67%,Over 9 • PBKS 72/2,Live Forecast: PBKS 201
+10.0,PBKS 71.15%,Over 10 • PBKS 78/2,Live Forecast: PBKS 192
+11.0,PBKS 76.34%,Over 11 • PBKS 92/2,Live Forecast: PBKS 198
+12.0,PBKS 63.26%,Over 12 • PBKS 98/3,Live Forecast: PBKS 184
+13.0,PBKS 51.22%,Over 13 • PBKS 102/4,Live Forecast: PBKS 173
+14.0,PBKS 51.22%,Over 14 • PBKS 111/4,Live Forecast: PBKS 173
+15.0,PBKS 62.21%,Over 15 • PBKS 128/4,Live Forecast: PBKS 183
+16.0,PBKS 53.46%,Over 16 • PBKS 132/4,Live Forecast: PBKS 175
+17.0,RCB 51.02%,Over 17 • PBKS 139/4,Live Forecast: PBKS 171
+18.0,PBKS 51.22%,Over 18 • PBKS 152/5,Live Forecast: PBKS 173
+19.0,RCB 56.59%,Over 19 • PBKS 156/6,Live Forecast: PBKS 166
+20.0,PBKS 54.58%,Over 20 • PBKS 176/6,Live Forecast: PBKS 176
+1.0,RCB 56.19%,Over 1 • RCB 16/0,RCB needed 161 runs from 114 balls
+2.0,RCB 54.89%,Over 2 • RCB 21/0,RCB needed 156 runs from 108 balls
+3.0,PBKS 51.22%,Over 3 • RCB 28/1,RCB needed 149 runs from 102 balls
+4.0,RCB 56.25%,Over 4 • RCB 41/1,RCB needed 136 runs from 96 balls
+5.0,PBKS 52.43%,Over 5 • RCB 47/2,RCB needed 130 runs from 90 balls
+6.0,PBKS 57.7%,Over 6 • RCB 50/2,RCB needed 127 runs from 84 balls
+7.0,PBKS 61.23%,Over 7 • RCB 56/2,RCB needed 121 runs from 78 balls
+8.0,PBKS 66.14%,Over 8 • RCB 61/2,RCB needed 116 runs from 72 balls
+9.0,RCB 64.21%,Over 9 • RCB 77/2,RCB needed 100 runs from 66 balls
+10.0,RCB 70.35%,Over 10 • RCB 85/2,RCB needed 92 runs from 60 balls
+11.0,RCB 54.98%,Over 11 • RCB 88/3,RCB needed 89 runs from 54 balls
+12.0,RCB 65.5%,Over 12 • RCB 103/3,RCB needed 74 runs from 48 balls
+13.0,PBKS 51.59%,Over 13 • RCB 106/4,RCB needed 71 runs from 42 balls
+14.0,PBKS 53.78%,Over 14 • RCB 113/4,RCB needed 64 runs from 36 balls
+15.0,PBKS 71.26%,Over 15 • RCB 118/4,RCB needed 59 runs from 30 balls
+16.0,PBKS 74.2%,Over 16 • RCB 130/5,RCB needed 47 runs from 24 balls
+17.0,PBKS 77.1%,Over 17 • RCB 141/6,RCB needed 36 runs from 18 balls
+18.0,PBKS 54.1%,Over 18 • RCB 154/6,RCB needed 23 runs from 12 balls
+19.0,RCB 84.29%,Over 19 • RCB 167/6,RCB needed 10 runs from 6 balls
+20.0,RCB 100%,Over 20 • RCB 178/6,RCB won by 4 wickets (with 4 balls remaining)
