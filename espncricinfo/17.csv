@@ -1,41 +1,41 @@
 over,win_probability,over_info,forecast
-1.0,PBKS 60.44%,Over 1 • GT 7/0,Live Forecast: GT 162
-2.0,PBKS 56.07%,Over 2 • GT 18/0,Live Forecast: GT 166
-3.0,PBKS 50.47%,Over 3 • GT 29/1,Live Forecast: GT 171
-4.0,GT 51.78%,Over 4 • GT 35/1,Live Forecast: GT 173
-5.0,PBKS 51.6%,Over 5 • GT 41/1,Live Forecast: GT 170
-6.0,PBKS 50.47%,Over 6 • GT 52/1,Live Forecast: GT 171
-7.0,PBKS 50.47%,Over 7 • GT 57/1,Live Forecast: GT 171
-8.0,PBKS 50.47%,Over 8 • GT 65/1,Live Forecast: GT 171
-9.0,GT 52.91%,Over 9 • GT 75/2,Live Forecast: GT 174
-10.0,GT 62.76%,Over 10 • GT 83/2,Live Forecast: GT 183
-11.0,GT 62.76%,Over 11 • GT 91/2,Live Forecast: GT 183
-12.0,GT 76.78%,Over 12 • GT 105/2,Live Forecast: GT 198
-13.0,GT 83.16%,Over 13 • GT 119/2,Live Forecast: GT 207
-14.0,GT 70.72%,Over 14 • GT 123/3,Live Forecast: GT 191
-15.0,GT 69.78%,Over 15 • GT 134/3,Live Forecast: GT 190
-16.0,GT 64.84%,Over 16 • GT 141/3,Live Forecast: GT 185
-17.0,GT 65.86%,Over 17 • GT 153/3,Live Forecast: GT 186
-18.0,GT 69.78%,Over 18 • GT 166/4,Live Forecast: GT 190
-19.0,GT 76.78%,Over 19 • GT 186/4,Live Forecast: GT 198
-20.0,GT 77.56%,Over 20 • GT 199/4,Live Forecast: GT 199
-1.0,GT 73.84%,Over 1 • PBKS 13/0,PBKS needed 187 runs from 114 balls
-2.0,GT 81.12%,Over 2 • PBKS 19/1,PBKS needed 181 runs from 108 balls
-3.0,GT 80.69%,Over 3 • PBKS 27/1,PBKS needed 173 runs from 102 balls
-4.0,GT 77.34%,Over 4 • PBKS 39/1,PBKS needed 161 runs from 96 balls
-5.0,GT 73.34%,Over 5 • PBKS 48/1,PBKS needed 152 runs from 90 balls
-6.0,GT 83.74%,Over 6 • PBKS 54/2,PBKS needed 146 runs from 84 balls
-7.0,GT 85.86%,Over 7 • PBKS 61/2,PBKS needed 139 runs from 78 balls
-8.0,GT 90.29%,Over 8 • PBKS 68/3,PBKS needed 132 runs from 72 balls
-9.0,GT 94.98%,Over 9 • PBKS 73/4,PBKS needed 127 runs from 66 balls
-10.0,GT 94.16%,Over 10 • PBKS 83/4,PBKS needed 117 runs from 60 balls
-11.0,GT 84.13%,Over 11 • PBKS 100/4,PBKS needed 100 runs from 54 balls
-12.0,GT 73.46%,Over 12 • PBKS 110/4,PBKS needed 90 runs from 48 balls
-13.0,GT 84.16%,Over 13 • PBKS 119/5,PBKS needed 81 runs from 42 balls
-14.0,GT 81.44%,Over 14 • PBKS 131/5,PBKS needed 69 runs from 36 balls
-15.0,GT 87.47%,Over 15 • PBKS 138/5,PBKS needed 62 runs from 30 balls
-16.0,GT 83.21%,Over 16 • PBKS 153/6,PBKS needed 47 runs from 24 balls
-17.0,GT 90.77%,Over 17 • PBKS 159/6,PBKS needed 41 runs from 18 balls
-18.0,GT 71.57%,Over 18 • PBKS 175/6,PBKS needed 25 runs from 12 balls
-19.0,PBKS 94.56%,Over 19 • PBKS 193/6,PBKS needed 7 runs from 6 balls
-20.0,PBKS 100%,Over 20 • PBKS 200/7,PBKS won by 3 wickets (with 1 ball remaining)
+1.0,PBKS 60.44%,GT 7/0,Live Forecast: GT 162
+2.0,PBKS 56.07%,GT 18/0,Live Forecast: GT 166
+3.0,PBKS 50.47%,GT 29/1,Live Forecast: GT 171
+4.0,GT 51.78%,GT 35/1,Live Forecast: GT 173
+5.0,PBKS 51.6%,GT 41/1,Live Forecast: GT 170
+6.0,PBKS 50.47%,GT 52/1,Live Forecast: GT 171
+7.0,PBKS 50.47%,GT 57/1,Live Forecast: GT 171
+8.0,PBKS 50.47%,GT 65/1,Live Forecast: GT 171
+9.0,GT 52.91%,GT 75/2,Live Forecast: GT 174
+10.0,GT 62.76%,GT 83/2,Live Forecast: GT 183
+11.0,GT 62.76%,GT 91/2,Live Forecast: GT 183
+12.0,GT 76.78%,GT 105/2,Live Forecast: GT 198
+13.0,GT 83.16%,GT 119/2,Live Forecast: GT 207
+14.0,GT 70.72%,GT 123/3,Live Forecast: GT 191
+15.0,GT 69.78%,GT 134/3,Live Forecast: GT 190
+16.0,GT 64.84%,GT 141/3,Live Forecast: GT 185
+17.0,GT 65.86%,GT 153/3,Live Forecast: GT 186
+18.0,GT 69.78%,GT 166/4,Live Forecast: GT 190
+19.0,GT 76.78%,GT 186/4,Live Forecast: GT 198
+20.0,GT 77.56%,GT 199/4,Live Forecast: GT 199
+1.0,GT 73.84%,PBKS 13/0,PBKS needed 187 runs from 114 balls
+2.0,GT 81.12%,PBKS 19/1,PBKS needed 181 runs from 108 balls
+3.0,GT 80.69%,PBKS 27/1,PBKS needed 173 runs from 102 balls
+4.0,GT 77.34%,PBKS 39/1,PBKS needed 161 runs from 96 balls
+5.0,GT 73.34%,PBKS 48/1,PBKS needed 152 runs from 90 balls
+6.0,GT 83.74%,PBKS 54/2,PBKS needed 146 runs from 84 balls
+7.0,GT 85.86%,PBKS 61/2,PBKS needed 139 runs from 78 balls
+8.0,GT 90.29%,PBKS 68/3,PBKS needed 132 runs from 72 balls
+9.0,GT 94.98%,PBKS 73/4,PBKS needed 127 runs from 66 balls
+10.0,GT 94.16%,PBKS 83/4,PBKS needed 117 runs from 60 balls
+11.0,GT 84.13%,PBKS 100/4,PBKS needed 100 runs from 54 balls
+12.0,GT 73.46%,PBKS 110/4,PBKS needed 90 runs from 48 balls
+13.0,GT 84.16%,PBKS 119/5,PBKS needed 81 runs from 42 balls
+14.0,GT 81.44%,PBKS 131/5,PBKS needed 69 runs from 36 balls
+15.0,GT 87.47%,PBKS 138/5,PBKS needed 62 runs from 30 balls
+16.0,GT 83.21%,PBKS 153/6,PBKS needed 47 runs from 24 balls
+17.0,GT 90.77%,PBKS 159/6,PBKS needed 41 runs from 18 balls
+18.0,GT 71.57%,PBKS 175/6,PBKS needed 25 runs from 12 balls
+19.0,PBKS 94.56%,PBKS 193/6,PBKS needed 7 runs from 6 balls
+20.0,PBKS 100%,PBKS 200/7,PBKS won by 3 wickets (with 1 ball remaining)

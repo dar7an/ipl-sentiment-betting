@@ -1,33 +1,33 @@
 over,win_probability,over_info,forecast
-1.0,MI 53.69%,Over 1 • KKR 10/1,Live Forecast: KKR 147
-2.0,MI 59.12%,Over 2 • KKR 15/2,Live Forecast: KKR 143
-3.0,MI 53.69%,Over 3 • KKR 25/2,Live Forecast: KKR 147
-4.0,KKR 65.08%,Over 4 • KKR 40/2,Live Forecast: KKR 161
-5.0,KKR 79.06%,Over 5 • KKR 45/3,Live Forecast: KKR 174
-6.0,KKR 63.83%,Over 6 • KKR 52/3,Live Forecast: KKR 160
-7.0,KKR 59.95%,Over 7 • KKR 61/3,Live Forecast: KKR 157
-8.0,KKR 73.19%,Over 8 • KKR 77/3,Live Forecast: KKR 168
-9.0,KKR 72.11%,Over 9 • KKR 87/4,Live Forecast: KKR 167
-10.0,KKR 72.11%,Over 10 • KKR 97/4,Live Forecast: KKR 167
-11.0,KKR 65.08%,Over 11 • KKR 106/4,Live Forecast: KKR 161
-12.0,KKR 68.71%,Over 12 • KKR 116/5,Live Forecast: KKR 164
-13.0,KKR 63.83%,Over 13 • KKR 125/6,Live Forecast: KKR 160
-14.0,KKR 63.83%,Over 14 • KKR 136/6,Live Forecast: KKR 160
-15.0,KKR 62.55%,Over 15 • KKR 147/6,Live Forecast: KKR 159
-16.0,KKR 59.95%,Over 16 • KKR 157/7,Live Forecast: KKR 157
-1.0,KKR 62.85%,Over 1 • MI 6/0,MI needed 153 runs from 90 balls
-2.0,KKR 59.42%,Over 2 • MI 17/0,MI needed 142 runs from 84 balls
-3.0,MI 53.69%,Over 3 • MI 31/0,MI needed 126 runs from 78 balls
-4.0,MI 82.93%,Over 4 • MI 46/0,MI needed 112 runs from 72 balls
-5.0,MI 89.74%,Over 5 • MI 59/0,MI needed 99 runs from 66 balls
-6.0,MI 83.12%,Over 6 • MI 62/0,MI needed 96 runs from 60 balls
-7.0,MI 51.82%,Over 7 • MI 65/1,MI needed 93 runs from 54 balls
-8.0,KKR 59.81%,Over 8 • MI 71/2,MI needed 87 runs from 48 balls
-9.0,KKR 65.23%,Over 9 • MI 76/2,MI needed 82 runs from 42 balls
-10.0,KKR 75.87%,Over 10 • MI 81/2,MI needed 77 runs from 36 balls
-11.0,KKR 86.72%,Over 11 • MI 88/3,MI needed 70 runs from 30 balls
-12.0,KKR 96.05%,Over 12 • MI 92/4,MI needed 66 runs from 24 balls
-13.0,KKR 98.58%,Over 13 • MI 101/5,MI needed 57 runs from 18 balls
-14.0,KKR 98.3%,Over 14 • MI 117/6,MI needed 41 runs from 12 balls
-15.0,KKR 90.08%,Over 15 • MI 136/6,MI needed 22 runs from 6 balls
-16.0,KKR 100%,Over 16 • MI 139/8,KKR won by 18 runs
+1.0,MI 53.69%,KKR 10/1,Live Forecast: KKR 147
+2.0,MI 59.12%,KKR 15/2,Live Forecast: KKR 143
+3.0,MI 53.69%,KKR 25/2,Live Forecast: KKR 147
+4.0,KKR 65.08%,KKR 40/2,Live Forecast: KKR 161
+5.0,KKR 79.06%,KKR 45/3,Live Forecast: KKR 174
+6.0,KKR 63.83%,KKR 52/3,Live Forecast: KKR 160
+7.0,KKR 59.95%,KKR 61/3,Live Forecast: KKR 157
+8.0,KKR 73.19%,KKR 77/3,Live Forecast: KKR 168
+9.0,KKR 72.11%,KKR 87/4,Live Forecast: KKR 167
+10.0,KKR 72.11%,KKR 97/4,Live Forecast: KKR 167
+11.0,KKR 65.08%,KKR 106/4,Live Forecast: KKR 161
+12.0,KKR 68.71%,KKR 116/5,Live Forecast: KKR 164
+13.0,KKR 63.83%,KKR 125/6,Live Forecast: KKR 160
+14.0,KKR 63.83%,KKR 136/6,Live Forecast: KKR 160
+15.0,KKR 62.55%,KKR 147/6,Live Forecast: KKR 159
+16.0,KKR 59.95%,KKR 157/7,Live Forecast: KKR 157
+1.0,KKR 62.85%,MI 6/0,MI needed 153 runs from 90 balls
+2.0,KKR 59.42%,MI 17/0,MI needed 142 runs from 84 balls
+3.0,MI 53.69%,MI 31/0,MI needed 126 runs from 78 balls
+4.0,MI 82.93%,MI 46/0,MI needed 112 runs from 72 balls
+5.0,MI 89.74%,MI 59/0,MI needed 99 runs from 66 balls
+6.0,MI 83.12%,MI 62/0,MI needed 96 runs from 60 balls
+7.0,MI 51.82%,MI 65/1,MI needed 93 runs from 54 balls
+8.0,KKR 59.81%,MI 71/2,MI needed 87 runs from 48 balls
+9.0,KKR 65.23%,MI 76/2,MI needed 82 runs from 42 balls
+10.0,KKR 75.87%,MI 81/2,MI needed 77 runs from 36 balls
+11.0,KKR 86.72%,MI 88/3,MI needed 70 runs from 30 balls
+12.0,KKR 96.05%,MI 92/4,MI needed 66 runs from 24 balls
+13.0,KKR 98.58%,MI 101/5,MI needed 57 runs from 18 balls
+14.0,KKR 98.3%,MI 117/6,MI needed 41 runs from 12 balls
+15.0,KKR 90.08%,MI 136/6,MI needed 22 runs from 6 balls
+16.0,KKR 100%,MI 139/8,KKR won by 18 runs

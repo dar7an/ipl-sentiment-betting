@@ -1,41 +1,41 @@
 over,win_probability,over_info,forecast
-1.0,GT 59.86%,Over 1 • CSK 2/0,Live Forecast: CSK 158
-2.0,GT 56.59%,Over 2 • CSK 13/0,Live Forecast: CSK 161
-3.0,GT 51.02%,Over 3 • CSK 25/0,Live Forecast: CSK 166
-4.0,CSK 68.1%,Over 4 • CSK 41/0,Live Forecast: CSK 184
-5.0,CSK 81.11%,Over 5 • CSK 58/0,Live Forecast: CSK 200
-6.0,CSK 83.62%,Over 6 • CSK 69/1,Live Forecast: CSK 204
-7.0,CSK 76.79%,Over 7 • CSK 74/1,Live Forecast: CSK 194
-8.0,CSK 74.37%,Over 8 • CSK 84/1,Live Forecast: CSK 191
-9.0,CSK 74.37%,Over 9 • CSK 92/1,Live Forecast: CSK 191
-10.0,CSK 81.11%,Over 10 • CSK 104/1,Live Forecast: CSK 200
-11.0,CSK 90.31%,Over 11 • CSK 119/2,Live Forecast: CSK 218
-12.0,CSK 87.34%,Over 12 • CSK 126/2,Live Forecast: CSK 211
-13.0,CSK 78.3%,Over 13 • CSK 128/3,Live Forecast: CSK 196
-14.0,CSK 78.3%,Over 14 • CSK 141/3,Live Forecast: CSK 196
-15.0,CSK 84.77%,Over 15 • CSK 155/3,Live Forecast: CSK 206
-16.0,CSK 85.31%,Over 16 • CSK 165/3,Live Forecast: CSK 207
-17.0,CSK 83.02%,Over 17 • CSK 172/3,Live Forecast: CSK 203
-18.0,CSK 83.62%,Over 18 • CSK 183/3,Live Forecast: CSK 204
-19.0,CSK 85.85%,Over 19 • CSK 198/4,Live Forecast: CSK 208
-20.0,CSK 84.77%,Over 20 • CSK 206/6,Live Forecast: CSK 206
-1.0,CSK 84.09%,Over 1 • GT 7/0,GT needed 200 runs from 114 balls
-2.0,CSK 82.47%,Over 2 • GT 17/0,GT needed 190 runs from 108 balls
-3.0,CSK 85.65%,Over 3 • GT 28/1,GT needed 179 runs from 102 balls
-4.0,CSK 87.64%,Over 4 • GT 32/1,GT needed 175 runs from 96 balls
-5.0,CSK 94.41%,Over 5 • GT 35/2,GT needed 172 runs from 90 balls
-6.0,CSK 94.81%,Over 6 • GT 43/2,GT needed 164 runs from 84 balls
-7.0,CSK 94.78%,Over 7 • GT 52/2,GT needed 155 runs from 78 balls
-8.0,CSK 96.51%,Over 8 • GT 57/3,GT needed 150 runs from 72 balls
-9.0,CSK 96.29%,Over 9 • GT 67/3,GT needed 140 runs from 66 balls
-10.0,CSK 92.24%,Over 10 • GT 80/3,GT needed 127 runs from 60 balls
-11.0,CSK 79.09%,Over 11 • GT 93/3,GT needed 114 runs from 54 balls
-12.0,CSK 96.13%,Over 12 • GT 97/4,GT needed 110 runs from 48 balls
-13.0,CSK 98.53%,Over 13 • GT 103/4,GT needed 104 runs from 42 balls
-14.0,CSK 98.95%,Over 14 • GT 110/4,GT needed 97 runs from 36 balls
-15.0,CSK 99.68%,Over 15 • GT 114/5,GT needed 93 runs from 30 balls
-16.0,CSK 99.94%,Over 16 • GT 120/6,GT needed 87 runs from 24 balls
-17.0,CSK 99.99%,Over 17 • GT 121/7,GT needed 86 runs from 18 balls
-18.0,CSK 99.99%,Over 18 • GT 128/7,GT needed 79 runs from 12 balls
-19.0,CSK 99.99%,Over 19 • GT 135/8,GT needed 72 runs from 6 balls
-20.0,CSK 100%,Over 20 • GT 143/8,CSK won by 63 runs
+1.0,GT 59.86%,CSK 2/0,Live Forecast: CSK 158
+2.0,GT 56.59%,CSK 13/0,Live Forecast: CSK 161
+3.0,GT 51.02%,CSK 25/0,Live Forecast: CSK 166
+4.0,CSK 68.1%,CSK 41/0,Live Forecast: CSK 184
+5.0,CSK 81.11%,CSK 58/0,Live Forecast: CSK 200
+6.0,CSK 83.62%,CSK 69/1,Live Forecast: CSK 204
+7.0,CSK 76.79%,CSK 74/1,Live Forecast: CSK 194
+8.0,CSK 74.37%,CSK 84/1,Live Forecast: CSK 191
+9.0,CSK 74.37%,CSK 92/1,Live Forecast: CSK 191
+10.0,CSK 81.11%,CSK 104/1,Live Forecast: CSK 200
+11.0,CSK 90.31%,CSK 119/2,Live Forecast: CSK 218
+12.0,CSK 87.34%,CSK 126/2,Live Forecast: CSK 211
+13.0,CSK 78.3%,CSK 128/3,Live Forecast: CSK 196
+14.0,CSK 78.3%,CSK 141/3,Live Forecast: CSK 196
+15.0,CSK 84.77%,CSK 155/3,Live Forecast: CSK 206
+16.0,CSK 85.31%,CSK 165/3,Live Forecast: CSK 207
+17.0,CSK 83.02%,CSK 172/3,Live Forecast: CSK 203
+18.0,CSK 83.62%,CSK 183/3,Live Forecast: CSK 204
+19.0,CSK 85.85%,CSK 198/4,Live Forecast: CSK 208
+20.0,CSK 84.77%,CSK 206/6,Live Forecast: CSK 206
+1.0,CSK 84.09%,GT 7/0,GT needed 200 runs from 114 balls
+2.0,CSK 82.47%,GT 17/0,GT needed 190 runs from 108 balls
+3.0,CSK 85.65%,GT 28/1,GT needed 179 runs from 102 balls
+4.0,CSK 87.64%,GT 32/1,GT needed 175 runs from 96 balls
+5.0,CSK 94.41%,GT 35/2,GT needed 172 runs from 90 balls
+6.0,CSK 94.81%,GT 43/2,GT needed 164 runs from 84 balls
+7.0,CSK 94.78%,GT 52/2,GT needed 155 runs from 78 balls
+8.0,CSK 96.51%,GT 57/3,GT needed 150 runs from 72 balls
+9.0,CSK 96.29%,GT 67/3,GT needed 140 runs from 66 balls
+10.0,CSK 92.24%,GT 80/3,GT needed 127 runs from 60 balls
+11.0,CSK 79.09%,GT 93/3,GT needed 114 runs from 54 balls
+12.0,CSK 96.13%,GT 97/4,GT needed 110 runs from 48 balls
+13.0,CSK 98.53%,GT 103/4,GT needed 104 runs from 42 balls
+14.0,CSK 98.95%,GT 110/4,GT needed 97 runs from 36 balls
+15.0,CSK 99.68%,GT 114/5,GT needed 93 runs from 30 balls
+16.0,CSK 99.94%,GT 120/6,GT needed 87 runs from 24 balls
+17.0,CSK 99.99%,GT 121/7,GT needed 86 runs from 18 balls
+18.0,CSK 99.99%,GT 128/7,GT needed 79 runs from 12 balls
+19.0,CSK 99.99%,GT 135/8,GT needed 72 runs from 6 balls
+20.0,CSK 100%,GT 143/8,CSK won by 63 runs

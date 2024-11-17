@@ -1,41 +1,41 @@
 over,win_probability,over_info,forecast
-1.0,PBKS 55.66%,Over 1 • LSG 5/0,Live Forecast: LSG 163
-2.0,PBKS 58.96%,Over 2 • LSG 12/0,Live Forecast: LSG 160
-3.0,PBKS 53.43%,Over 3 • LSG 23/0,Live Forecast: LSG 165
-4.0,LSG 57.7%,Over 4 • LSG 35/1,Live Forecast: LSG 175
-5.0,LSG 66.08%,Over 5 • LSG 45/1,Live Forecast: LSG 183
-6.0,LSG 67.07%,Over 6 • LSG 54/2,Live Forecast: LSG 184
-7.0,LSG 59.86%,Over 7 • LSG 61/2,Live Forecast: LSG 177
-8.0,LSG 54.4%,Over 8 • LSG 65/2,Live Forecast: LSG 172
-9.0,LSG 72.64%,Over 9 • LSG 80/3,Live Forecast: LSG 190
-10.0,LSG 68.04%,Over 10 • LSG 88/3,Live Forecast: LSG 185
-11.0,LSG 72.64%,Over 11 • LSG 95/3,Live Forecast: LSG 190
-12.0,LSG 85.37%,Over 12 • LSG 115/3,Live Forecast: LSG 208
-13.0,LSG 85.37%,Over 13 • LSG 125/3,Live Forecast: LSG 208
-14.0,LSG 83.06%,Over 14 • LSG 136/4,Live Forecast: LSG 204
-15.0,LSG 80.46%,Over 15 • LSG 146/4,Live Forecast: LSG 200
-16.0,LSG 78.32%,Over 16 • LSG 157/5,Live Forecast: LSG 197
-17.0,LSG 74.36%,Over 17 • LSG 162/5,Live Forecast: LSG 192
-18.0,LSG 83.06%,Over 18 • LSG 182/5,Live Forecast: LSG 204
-19.0,LSG 81.8%,Over 19 • LSG 191/7,Live Forecast: LSG 202
-20.0,LSG 79.77%,Over 20 • LSG 199/8,Live Forecast: LSG 199
-1.0,LSG 80.55%,Over 1 • PBKS 5/0,PBKS needed 195 runs from 114 balls
-2.0,LSG 78.38%,Over 2 • PBKS 16/0,PBKS needed 184 runs from 108 balls
-3.0,LSG 69.12%,Over 3 • PBKS 32/0,PBKS needed 168 runs from 102 balls
-4.0,LSG 66.6%,Over 4 • PBKS 39/0,PBKS needed 161 runs from 96 balls
-5.0,LSG 69.61%,Over 5 • PBKS 45/0,PBKS needed 155 runs from 90 balls
-6.0,LSG 53.7%,Over 6 • PBKS 61/0,PBKS needed 139 runs from 84 balls
-7.0,LSG 68.43%,Over 7 • PBKS 65/0,PBKS needed 135 runs from 78 balls
-8.0,LSG 60.99%,Over 8 • PBKS 73/0,PBKS needed 127 runs from 72 balls
-9.0,PBKS 56.08%,Over 9 • PBKS 88/0,PBKS needed 112 runs from 66 balls
-10.0,PBKS 66.47%,Over 10 • PBKS 98/0,PBKS needed 102 runs from 60 balls
-11.0,PBKS 56.66%,Over 11 • PBKS 101/0,PBKS needed 99 runs from 54 balls
-12.0,LSG 70.98%,Over 12 • PBKS 107/1,PBKS needed 93 runs from 48 balls
-13.0,LSG 56.89%,Over 13 • PBKS 121/1,PBKS needed 79 runs from 42 balls
-14.0,LSG 62.18%,Over 14 • PBKS 129/2,PBKS needed 71 runs from 36 balls
-15.0,LSG 67.38%,Over 15 • PBKS 136/2,PBKS needed 64 runs from 30 balls
-16.0,LSG 88.2%,Over 16 • PBKS 140/3,PBKS needed 60 runs from 24 balls
-17.0,LSG 98.61%,Over 17 • PBKS 144/5,PBKS needed 56 runs from 18 balls
-18.0,LSG 99.14%,Over 18 • PBKS 152/5,PBKS needed 48 runs from 12 balls
-19.0,LSG 99.78%,Over 19 • PBKS 159/5,PBKS needed 41 runs from 6 balls
-20.0,LSG 100%,Over 20 • PBKS 178/5,LSG won by 21 runs
+1.0,PBKS 55.66%,LSG 5/0,Live Forecast: LSG 163
+2.0,PBKS 58.96%,LSG 12/0,Live Forecast: LSG 160
+3.0,PBKS 53.43%,LSG 23/0,Live Forecast: LSG 165
+4.0,LSG 57.7%,LSG 35/1,Live Forecast: LSG 175
+5.0,LSG 66.08%,LSG 45/1,Live Forecast: LSG 183
+6.0,LSG 67.07%,LSG 54/2,Live Forecast: LSG 184
+7.0,LSG 59.86%,LSG 61/2,Live Forecast: LSG 177
+8.0,LSG 54.4%,LSG 65/2,Live Forecast: LSG 172
+9.0,LSG 72.64%,LSG 80/3,Live Forecast: LSG 190
+10.0,LSG 68.04%,LSG 88/3,Live Forecast: LSG 185
+11.0,LSG 72.64%,LSG 95/3,Live Forecast: LSG 190
+12.0,LSG 85.37%,LSG 115/3,Live Forecast: LSG 208
+13.0,LSG 85.37%,LSG 125/3,Live Forecast: LSG 208
+14.0,LSG 83.06%,LSG 136/4,Live Forecast: LSG 204
+15.0,LSG 80.46%,LSG 146/4,Live Forecast: LSG 200
+16.0,LSG 78.32%,LSG 157/5,Live Forecast: LSG 197
+17.0,LSG 74.36%,LSG 162/5,Live Forecast: LSG 192
+18.0,LSG 83.06%,LSG 182/5,Live Forecast: LSG 204
+19.0,LSG 81.8%,LSG 191/7,Live Forecast: LSG 202
+20.0,LSG 79.77%,LSG 199/8,Live Forecast: LSG 199
+1.0,LSG 80.55%,PBKS 5/0,PBKS needed 195 runs from 114 balls
+2.0,LSG 78.38%,PBKS 16/0,PBKS needed 184 runs from 108 balls
+3.0,LSG 69.12%,PBKS 32/0,PBKS needed 168 runs from 102 balls
+4.0,LSG 66.6%,PBKS 39/0,PBKS needed 161 runs from 96 balls
+5.0,LSG 69.61%,PBKS 45/0,PBKS needed 155 runs from 90 balls
+6.0,LSG 53.7%,PBKS 61/0,PBKS needed 139 runs from 84 balls
+7.0,LSG 68.43%,PBKS 65/0,PBKS needed 135 runs from 78 balls
+8.0,LSG 60.99%,PBKS 73/0,PBKS needed 127 runs from 72 balls
+9.0,PBKS 56.08%,PBKS 88/0,PBKS needed 112 runs from 66 balls
+10.0,PBKS 66.47%,PBKS 98/0,PBKS needed 102 runs from 60 balls
+11.0,PBKS 56.66%,PBKS 101/0,PBKS needed 99 runs from 54 balls
+12.0,LSG 70.98%,PBKS 107/1,PBKS needed 93 runs from 48 balls
+13.0,LSG 56.89%,PBKS 121/1,PBKS needed 79 runs from 42 balls
+14.0,LSG 62.18%,PBKS 129/2,PBKS needed 71 runs from 36 balls
+15.0,LSG 67.38%,PBKS 136/2,PBKS needed 64 runs from 30 balls
+16.0,LSG 88.2%,PBKS 140/3,PBKS needed 60 runs from 24 balls
+17.0,LSG 98.61%,PBKS 144/5,PBKS needed 56 runs from 18 balls
+18.0,LSG 99.14%,PBKS 152/5,PBKS needed 48 runs from 12 balls
+19.0,LSG 99.78%,PBKS 159/5,PBKS needed 41 runs from 6 balls
+20.0,LSG 100%,PBKS 178/5,LSG won by 21 runs

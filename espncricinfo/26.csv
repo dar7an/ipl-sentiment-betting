@@ -1,40 +1,40 @@
 over,win_probability,over_info,forecast
-1.0,DC 52.65%,Over 1 • LSG 10/0,Live Forecast: LSG 173
-2.0,DC 53.75%,Over 2 • LSG 17/0,Live Forecast: LSG 172
-3.0,DC 50.43%,Over 3 • LSG 28/1,Live Forecast: LSG 175
-4.0,LSG 60.58%,Over 4 • LSG 40/1,Live Forecast: LSG 185
-5.0,LSG 59.51%,Over 5 • LSG 47/2,Live Forecast: LSG 184
-6.0,LSG 63.75%,Over 6 • LSG 57/2,Live Forecast: LSG 188
-7.0,LSG 58.42%,Over 7 • LSG 64/2,Live Forecast: LSG 183
-8.0,DC 54.86%,Over 8 • LSG 67/4,Live Forecast: LSG 171
-9.0,DC 52.65%,Over 9 • LSG 76/4,Live Forecast: LSG 173
-10.0,DC 62.34%,Over 10 • LSG 80/5,Live Forecast: LSG 164
-11.0,DC 64.38%,Over 11 • LSG 84/5,Live Forecast: LSG 162
-12.0,DC 76.88%,Over 12 • LSG 90/6,Live Forecast: LSG 148
-13.0,DC 88.25%,Over 13 • LSG 94/7,Live Forecast: LSG 129
-14.0,DC 85.85%,Over 14 • LSG 100/7,Live Forecast: LSG 134
-15.0,DC 76.88%,Over 15 • LSG 114/7,Live Forecast: LSG 148
-16.0,DC 71.05%,Over 16 • LSG 121/7,Live Forecast: LSG 155
-17.0,DC 69.23%,Over 17 • LSG 128/7,Live Forecast: LSG 157
-18.0,DC 63.37%,Over 18 • LSG 143/7,Live Forecast: LSG 163
-19.0,DC 59.19%,Over 19 • LSG 156/7,Live Forecast: LSG 167
-20.0,DC 59.19%,Over 20 • LSG 167/7,Live Forecast: LSG 167
-1.0,DC 59.49%,Over 1 • DC 7/0,DC needed 161 runs from 114 balls
-2.0,DC 63.8%,Over 2 • DC 16/0,DC needed 152 runs from 108 balls
-3.0,DC 62.36%,Over 3 • DC 22/0,DC needed 146 runs from 102 balls
-4.0,DC 60.22%,Over 4 • DC 30/1,DC needed 138 runs from 96 balls
-5.0,DC 68.31%,Over 5 • DC 45/1,DC needed 123 runs from 90 balls
-6.0,DC 86.05%,Over 6 • DC 62/1,DC needed 106 runs from 84 balls
-7.0,DC 77.77%,Over 7 • DC 63/2,DC needed 105 runs from 78 balls
-8.0,DC 74.41%,Over 8 • DC 69/2,DC needed 99 runs from 72 balls
-9.0,DC 63.61%,Over 9 • DC 73/2,DC needed 95 runs from 66 balls
-10.0,DC 53.64%,Over 10 • DC 75/2,DC needed 93 runs from 60 balls
-11.0,DC 74.59%,Over 11 • DC 90/2,DC needed 78 runs from 54 balls
-12.0,DC 84.61%,Over 12 • DC 100/2,DC needed 68 runs from 48 balls
-13.0,DC 97.72%,Over 13 • DC 121/2,DC needed 47 runs from 42 balls
-14.0,DC 99.19%,Over 14 • DC 136/2,DC needed 32 runs from 36 balls
-15.0,DC 99.04%,Over 15 • DC 145/3,DC needed 23 runs from 30 balls
-16.0,DC 98.97%,Over 16 • DC 150/4,DC needed 18 runs from 24 balls
-17.0,DC 99.45%,Over 17 • DC 158/4,DC needed 10 runs from 18 balls
-18.0,DC 99.57%,Over 18 • DC 164/4,DC needed 4 runs from 12 balls
-19.0,DC 100%,Over 19 • DC 170/4,DC won by 6 wickets (with 11 balls remaining)
+1.0,DC 52.65%,LSG 10/0,Live Forecast: LSG 173
+2.0,DC 53.75%,LSG 17/0,Live Forecast: LSG 172
+3.0,DC 50.43%,LSG 28/1,Live Forecast: LSG 175
+4.0,LSG 60.58%,LSG 40/1,Live Forecast: LSG 185
+5.0,LSG 59.51%,LSG 47/2,Live Forecast: LSG 184
+6.0,LSG 63.75%,LSG 57/2,Live Forecast: LSG 188
+7.0,LSG 58.42%,LSG 64/2,Live Forecast: LSG 183
+8.0,DC 54.86%,LSG 67/4,Live Forecast: LSG 171
+9.0,DC 52.65%,LSG 76/4,Live Forecast: LSG 173
+10.0,DC 62.34%,LSG 80/5,Live Forecast: LSG 164
+11.0,DC 64.38%,LSG 84/5,Live Forecast: LSG 162
+12.0,DC 76.88%,LSG 90/6,Live Forecast: LSG 148
+13.0,DC 88.25%,LSG 94/7,Live Forecast: LSG 129
+14.0,DC 85.85%,LSG 100/7,Live Forecast: LSG 134
+15.0,DC 76.88%,LSG 114/7,Live Forecast: LSG 148
+16.0,DC 71.05%,LSG 121/7,Live Forecast: LSG 155
+17.0,DC 69.23%,LSG 128/7,Live Forecast: LSG 157
+18.0,DC 63.37%,LSG 143/7,Live Forecast: LSG 163
+19.0,DC 59.19%,LSG 156/7,Live Forecast: LSG 167
+20.0,DC 59.19%,LSG 167/7,Live Forecast: LSG 167
+1.0,DC 59.49%,DC 7/0,DC needed 161 runs from 114 balls
+2.0,DC 63.8%,DC 16/0,DC needed 152 runs from 108 balls
+3.0,DC 62.36%,DC 22/0,DC needed 146 runs from 102 balls
+4.0,DC 60.22%,DC 30/1,DC needed 138 runs from 96 balls
+5.0,DC 68.31%,DC 45/1,DC needed 123 runs from 90 balls
+6.0,DC 86.05%,DC 62/1,DC needed 106 runs from 84 balls
+7.0,DC 77.77%,DC 63/2,DC needed 105 runs from 78 balls
+8.0,DC 74.41%,DC 69/2,DC needed 99 runs from 72 balls
+9.0,DC 63.61%,DC 73/2,DC needed 95 runs from 66 balls
+10.0,DC 53.64%,DC 75/2,DC needed 93 runs from 60 balls
+11.0,DC 74.59%,DC 90/2,DC needed 78 runs from 54 balls
+12.0,DC 84.61%,DC 100/2,DC needed 68 runs from 48 balls
+13.0,DC 97.72%,DC 121/2,DC needed 47 runs from 42 balls
+14.0,DC 99.19%,DC 136/2,DC needed 32 runs from 36 balls
+15.0,DC 99.04%,DC 145/3,DC needed 23 runs from 30 balls
+16.0,DC 98.97%,DC 150/4,DC needed 18 runs from 24 balls
+17.0,DC 99.45%,DC 158/4,DC needed 10 runs from 18 balls
+18.0,DC 99.57%,DC 164/4,DC needed 4 runs from 12 balls
+19.0,DC 100%,DC 170/4,DC won by 6 wickets (with 11 balls remaining)
