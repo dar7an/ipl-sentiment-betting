@@ -169,7 +169,8 @@ class WinProbabilityScraper:
                     (By.CSS_SELECTOR, self.SELECTORS["over_info"])
                 )
             )
-            return over_element.text
+            over_info = over_element.text
+            return over_info.split('•')[1].strip() if '•' in over_info else over_info
         except:
             return None
 
