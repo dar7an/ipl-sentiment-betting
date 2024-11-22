@@ -1,0 +1,5602 @@
+{
+    "summary": {
+        "id": 59240,
+        "round": "60th Match",
+        "localteam_id": 5,
+        "visitorteam_id": 6,
+        "starting_at": "2024-05-11T14:00:00.000000Z",
+        "note": "Kolkata Knight Riders won by 18 runs",
+        "venue_id": 64,
+        "toss_won_team_id": 6,
+        "winner_team_id": 5
+    },
+    "balls": [
+        {
+            "ball": 0.1,
+            "updated_at": "2024-05-11T15:47:28.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-05-11T15:48:11.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-05-11T15:48:37.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-05-11T15:49:36.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-05-11T15:50:42.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-05-11T15:52:06.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 53.69%",
+                "over_info": "KKR 10/1",
+                "forecast": "Live Forecast: KKR 147"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-05-11T15:53:35.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-05-11T15:54:57.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-05-11T15:55:17.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-05-11T15:55:59.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-05-11T15:56:40.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-05-11T15:57:38.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "MI 59.12%",
+                "over_info": "KKR 15/2",
+                "forecast": "Live Forecast: KKR 143"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-05-11T15:59:22.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-05-11T15:59:42.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-05-11T16:00:18.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-05-11T16:01:31.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-05-11T16:01:57.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-05-11T16:02:40.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-05-11T16:03:18.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 53.69%",
+                "over_info": "KKR 25/2",
+                "forecast": "Live Forecast: KKR 147"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-05-11T16:04:18.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-05-11T16:04:51.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-05-11T16:08:58.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-05-11T16:09:36.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-05-11T16:10:18.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-05-11T16:10:58.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 65.08%",
+                "over_info": "KKR 40/2",
+                "forecast": "Live Forecast: KKR 161"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-05-11T16:12:22.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-05-11T16:14:18.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-05-11T16:14:28.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-05-11T16:15:03.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-05-11T16:15:37.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-05-11T16:16:18.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 79.06%",
+                "over_info": "KKR 45/3",
+                "forecast": "Live Forecast: KKR 174"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-05-11T16:17:49.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-05-11T16:18:37.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-05-11T16:19:20.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-05-11T16:19:42.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-05-11T16:20:00.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-05-11T16:20:19.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 63.83%",
+                "over_info": "KKR 52/3",
+                "forecast": "Live Forecast: KKR 160"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-05-11T16:22:27.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-05-11T16:22:36.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-05-11T16:23:22.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-05-11T16:23:49.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-05-11T16:24:44.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-05-11T16:24:58.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 59.95%",
+                "over_info": "KKR 61/3",
+                "forecast": "Live Forecast: KKR 157"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-05-11T16:28:23.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-05-11T16:29:21.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-05-11T16:31:54.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-05-11T16:32:20.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-05-11T16:33:03.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-05-11T16:34:47.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 73.19%",
+                "over_info": "KKR 77/3",
+                "forecast": "Live Forecast: KKR 168"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-05-11T16:35:53.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-05-11T16:37:11.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-05-11T16:37:19.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-05-11T16:37:58.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-05-11T16:38:48.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-05-11T16:38:55.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 72.11%",
+                "over_info": "KKR 87/4",
+                "forecast": "Live Forecast: KKR 167"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-05-11T16:41:21.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-05-11T16:41:27.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-05-11T16:42:31.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-05-11T16:43:01.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-05-11T16:43:58.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-05-11T16:46:46.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-05-11T16:46:50.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 72.11%",
+                "over_info": "KKR 97/4",
+                "forecast": "Live Forecast: KKR 167"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-05-11T16:47:16.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-05-11T16:47:22.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-05-11T16:47:56.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-05-11T16:49:01.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-05-11T16:49:55.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-05-11T16:50:40.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 65.08%",
+                "over_info": "KKR 106/4",
+                "forecast": "Live Forecast: KKR 161"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-05-11T16:51:43.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-05-11T16:52:57.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-05-11T16:53:26.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-05-11T16:55:33.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-05-11T16:56:27.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-05-11T16:58:19.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Run Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 2858,
+                "fullname": "Nitish Rana",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 68.71%",
+                "over_info": "KKR 116/5",
+                "forecast": "Live Forecast: KKR 164"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-05-11T16:59:18.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-05-11T16:59:29.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-05-11T16:59:50.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-05-11T17:00:34.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-05-11T17:01:04.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-05-11T17:02:24.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "bowlingstyle": "legbreak"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 63.83%",
+                "over_info": "KKR 125/6",
+                "forecast": "Live Forecast: KKR 160"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-05-11T17:05:59.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-05-11T17:06:38.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-05-11T17:07:25.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-05-11T17:07:52.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-05-11T17:08:44.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-05-11T17:09:06.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 63.83%",
+                "over_info": "KKR 136/6",
+                "forecast": "Live Forecast: KKR 160"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-05-11T17:10:46.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-05-11T17:11:38.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-05-11T17:12:02.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-05-11T17:12:57.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-05-11T17:14:20.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-05-11T17:15:17.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-05-11T17:15:57.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21924,
+                "fullname": "Nuwan Thushara",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 62.55%",
+                "over_info": "KKR 147/6",
+                "forecast": "Live Forecast: KKR 159"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-05-11T17:18:35.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-05-11T17:19:53.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-05-11T17:21:01.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-05-11T17:21:24.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 15.5,
+            "updated_at": "2024-05-11T17:21:48.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-05-11T17:22:40.000000Z",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 24822,
+                "fullname": "Ramandeep Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 59.95%",
+                "over_info": "KKR 157/7",
+                "forecast": "Live Forecast: KKR 157"
+            }
+        },
+        {
+            "ball": 0.1,
+            "updated_at": "2024-05-11T17:35:26.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-05-11T17:36:58.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-05-11T17:37:02.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-05-11T17:37:47.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-05-11T17:38:13.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-05-11T17:39:15.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 62.85%",
+                "over_info": "MI 6/0",
+                "forecast": "MI needed 153 runs from 90 balls"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-05-11T17:39:55.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-05-11T17:40:49.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-05-11T17:41:55.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-05-11T17:42:07.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-05-11T17:43:30.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-05-11T17:43:43.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 59.42%",
+                "over_info": "MI 17/0",
+                "forecast": "MI needed 142 runs from 84 balls"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-05-11T17:45:31.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-05-11T17:47:57.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 No Ball + 4 Byes",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 4,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-05-11T17:48:08.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-05-11T17:48:31.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-05-11T17:50:08.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-05-11T17:50:29.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-05-11T17:51:27.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-05-11T17:52:20.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 53.69%",
+                "over_info": "MI 31/0",
+                "forecast": "MI needed 126 runs from 78 balls"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-05-11T17:53:38.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-05-11T17:53:51.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-05-11T17:54:40.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-05-11T17:55:35.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-05-11T17:55:59.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-05-11T17:56:50.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-05-11T17:57:37.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 82.93%",
+                "over_info": "MI 46/0",
+                "forecast": "MI needed 112 runs from 72 balls"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-05-11T17:59:17.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-05-11T17:59:26.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-05-11T17:59:49.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-05-11T18:00:16.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-05-11T18:00:57.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-05-11T18:01:33.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "MI 89.74%",
+                "over_info": "MI 59/0",
+                "forecast": "MI needed 99 runs from 66 balls"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-05-11T18:02:50.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-05-11T18:03:35.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-05-11T18:03:59.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-05-11T18:04:26.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-05-11T18:06:17.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-05-11T18:06:59.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "MI 83.12%",
+                "over_info": "MI 62/0",
+                "forecast": "MI needed 96 runs from 60 balls"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-05-11T18:10:50.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-05-11T18:11:15.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-05-11T18:11:29.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-05-11T18:11:57.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-05-11T18:13:31.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-05-11T18:14:33.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "MI 51.82%",
+                "over_info": "MI 65/1",
+                "forecast": "MI needed 93 runs from 54 balls"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-05-11T18:15:14.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-05-11T18:15:26.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-05-11T18:16:11.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-05-11T18:16:38.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-05-11T18:17:48.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-05-11T18:18:41.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 59.81%",
+                "over_info": "MI 71/2",
+                "forecast": "MI needed 87 runs from 48 balls"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-05-11T18:19:42.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-05-11T18:19:50.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-05-11T18:20:21.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-05-11T18:20:47.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-05-11T18:21:26.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-05-11T18:22:04.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 65.23%",
+                "over_info": "MI 76/2",
+                "forecast": "MI needed 82 runs from 42 balls"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-05-11T18:22:58.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-05-11T18:23:16.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-05-11T18:24:07.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-05-11T18:24:57.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-05-11T18:25:51.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-05-11T18:26:00.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 75.87%",
+                "over_info": "MI 81/2",
+                "forecast": "MI needed 77 runs from 36 balls"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-05-11T18:27:45.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-05-11T18:28:20.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-05-11T18:28:42.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-05-11T18:29:34.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-05-11T18:30:28.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-05-11T18:31:47.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 86.72%",
+                "over_info": "MI 88/3",
+                "forecast": "MI needed 70 runs from 30 balls"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-05-11T18:34:23.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-05-11T18:34:40.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-05-11T18:35:56.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-05-11T18:36:00.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-05-11T18:37:30.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-05-11T18:38:43.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 617,
+                "fullname": "Tim David",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-05-11T19:04:30.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 617,
+                "fullname": "Tim David",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 96.05%",
+                "over_info": "MI 92/4",
+                "forecast": "MI needed 66 runs from 24 balls"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-05-11T18:40:19.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 617,
+                "fullname": "Tim David",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-05-11T18:40:59.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 8373,
+                "fullname": "Nehal Wadhera",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-05-11T18:41:26.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8373,
+                "fullname": "Nehal Wadhera",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-05-11T18:42:19.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-05-11T18:42:59.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-05-11T18:43:36.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8373,
+                "fullname": "Nehal Wadhera",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-05-11T18:44:20.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 98.58%",
+                "over_info": "MI 101/5",
+                "forecast": "MI needed 57 runs from 18 balls"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-05-11T18:46:31.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-05-11T18:46:48.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-05-11T18:47:22.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-05-11T18:48:03.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-05-11T18:48:38.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-05-11T18:51:47.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "Run Out + 1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 8373,
+                "fullname": "Nehal Wadhera",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 98.3%",
+                "over_info": "MI 117/6",
+                "forecast": "MI needed 41 runs from 12 balls"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-05-11T18:51:59.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-05-11T18:52:07.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-05-11T18:52:49.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53075,
+                "fullname": "Naman Dhir",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-05-11T18:53:18.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53075,
+                "fullname": "Naman Dhir",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-05-11T18:54:00.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53075,
+                "fullname": "Naman Dhir",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-05-11T18:54:58.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53075,
+                "fullname": "Naman Dhir",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-05-11T18:55:40.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53075,
+                "fullname": "Naman Dhir",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 90.08%",
+                "over_info": "MI 136/6",
+                "forecast": "MI needed 22 runs from 6 balls"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-05-11T18:57:18.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 53075,
+                "fullname": "Naman Dhir",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-05-11T18:58:28.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-05-11T18:59:28.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-05-11T19:00:47.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.5,
+            "updated_at": "2024-05-11T19:01:46.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2279,
+                "fullname": "Piyush Chawla",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-05-11T19:02:18.000000Z",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53078,
+                "fullname": "Anshul Kamboj",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 100%",
+                "over_info": "MI 139/8",
+                "forecast": "KKR won by 18 runs"
+            }
+        }
+    ]
+}

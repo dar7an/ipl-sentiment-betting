@@ -1,0 +1,5688 @@
+{
+    "summary": {
+        "id": 59216,
+        "round": "52nd Match",
+        "localteam_id": 8,
+        "visitorteam_id": 1976,
+        "starting_at": "2024-05-04T14:00:00.000000Z",
+        "note": "Royal Challengers Bengaluru won by 4 wickets (with 38 balls remaining)",
+        "venue_id": 59,
+        "toss_won_team_id": 8,
+        "winner_team_id": 8
+    },
+    "balls": [
+        {
+            "ball": 0.1,
+            "updated_at": "2024-05-04T14:03:57.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2981,
+                "fullname": "Wriddhiman Saha",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-05-04T14:04:00.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2981,
+                "fullname": "Wriddhiman Saha",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-05-04T14:04:06.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2981,
+                "fullname": "Wriddhiman Saha",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-05-04T14:04:11.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2981,
+                "fullname": "Wriddhiman Saha",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-05-04T14:04:16.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3362,
+                "fullname": "Shubman Gill",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-05-04T14:04:21.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3362,
+                "fullname": "Shubman Gill",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 51.87%",
+                "over_info": "GT 1/0",
+                "forecast": "Live Forecast: GT 175"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-05-04T14:04:55.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2981,
+                "fullname": "Wriddhiman Saha",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-05-04T14:05:17.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2981,
+                "fullname": "Wriddhiman Saha",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-05-04T14:06:18.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 2981,
+                "fullname": "Wriddhiman Saha",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-05-04T14:07:55.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-05-04T14:08:24.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-05-04T14:09:07.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-05-04T14:09:54.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 58.35%",
+                "over_info": "GT 3/1",
+                "forecast": "Live Forecast: GT 169"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-05-04T14:11:03.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-05-04T14:11:41.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-05-04T14:12:20.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-05-04T14:13:07.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-05-04T14:14:06.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3362,
+                "fullname": "Shubman Gill",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-05-04T14:14:49.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3362,
+                "fullname": "Shubman Gill",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 64.51%",
+                "over_info": "GT 7/1",
+                "forecast": "Live Forecast: GT 163"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-05-04T14:15:52.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 3362,
+                "fullname": "Shubman Gill",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-05-04T14:16:31.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3362,
+                "fullname": "Shubman Gill",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-05-04T14:17:36.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-05-04T14:18:00.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-05-04T14:18:35.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3362,
+                "fullname": "Shubman Gill",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-05-04T14:19:31.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3362,
+                "fullname": "Shubman Gill",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-05-04T14:21:17.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 61.48%",
+                "over_info": "GT 14/2",
+                "forecast": "Live Forecast: GT 166"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-05-04T14:22:16.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-05-04T14:23:16.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-05-04T14:23:42.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-05-04T14:24:36.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-05-04T14:25:08.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-05-04T14:25:37.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 63.52%",
+                "over_info": "GT 18/2",
+                "forecast": "Live Forecast: GT 164"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-05-04T14:26:58.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-05-04T14:27:38.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-05-04T14:28:32.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 28955,
+                "fullname": "B Sai Sudharsan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-05-04T14:29:43.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-05-04T14:30:11.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-05-04T14:30:46.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 68.35%",
+                "over_info": "GT 23/3",
+                "forecast": "Live Forecast: GT 159"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-05-04T14:32:30.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-05-04T14:33:07.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-05-04T14:33:50.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-05-04T14:34:32.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 1,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-05-04T14:37:39.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-05-04T14:37:47.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-05-04T14:38:31.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 61.48%",
+                "over_info": "GT 34/3",
+                "forecast": "Live Forecast: GT 166"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-05-04T14:40:20.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-05-04T14:41:19.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-05-04T14:41:49.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-05-04T14:43:52.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-05-04T14:46:18.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-05-04T14:46:21.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 57.29%",
+                "over_info": "GT 41/3",
+                "forecast": "Live Forecast: GT 170"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-05-04T14:50:01.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-05-04T14:50:53.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-05-04T14:51:18.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-05-04T14:52:32.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-05-04T14:52:50.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-05-04T14:53:31.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 55.14%",
+                "over_info": "GT 49/3",
+                "forecast": "Live Forecast: GT 172"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-05-04T14:55:09.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-05-04T14:55:36.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-05-04T14:56:36.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-05-04T14:57:07.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-05-04T14:57:16.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-05-04T14:58:09.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "GT 51.43%",
+                "over_info": "GT 61/3",
+                "forecast": "Live Forecast: GT 178"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-05-04T14:58:54.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-05-04T14:59:36.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-05-04T15:00:19.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-05-04T15:00:59.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-05-04T15:01:45.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-05-04T15:02:05.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "GT 54.73%",
+                "over_info": "GT 72/3",
+                "forecast": "Live Forecast: GT 181"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-05-04T15:05:20.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 1,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-05-04T15:03:43.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-05-04T15:04:15.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-05-04T15:05:31.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 79,
+                "fullname": "David Miller",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-05-04T15:07:18.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-05-04T15:07:23.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "GT 50.33%",
+                "over_info": "GT 84/4",
+                "forecast": "Live Forecast: GT 177"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-05-04T15:08:42.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-05-04T15:09:25.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-05-04T15:10:20.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 7668,
+                "fullname": "Shahrukh Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-05-04T15:11:41.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "Run Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-05-04T15:12:40.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-05-04T15:13:13.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 65.49%",
+                "over_info": "GT 88/5",
+                "forecast": "Live Forecast: GT 162"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-05-04T15:14:34.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-05-04T15:15:04.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-05-04T15:17:03.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-05-04T15:17:11.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-05-04T15:17:29.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-05-04T15:18:07.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 73.63%",
+                "over_info": "GT 93/5",
+                "forecast": "Live Forecast: GT 153"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-05-04T15:19:16.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-05-04T15:19:54.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-05-04T15:20:36.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-05-04T15:21:26.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-05-04T15:22:09.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-05-04T15:23:30.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 76.04%",
+                "over_info": "GT 102/5",
+                "forecast": "Live Forecast: GT 150"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-05-04T15:27:59.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-05-04T15:28:09.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-05-04T15:28:15.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-05-04T15:28:24.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.5,
+            "updated_at": "2024-05-04T15:28:51.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-05-04T15:29:21.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2999,
+                "fullname": "Karn Sharma",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 63.52%",
+                "over_info": "GT 121/5",
+                "forecast": "Live Forecast: GT 164"
+            }
+        },
+        {
+            "ball": 16.1,
+            "updated_at": "2024-05-04T15:30:24.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.2,
+            "updated_at": "2024-05-04T15:31:17.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.3,
+            "updated_at": "2024-05-04T15:31:41.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.4,
+            "updated_at": "2024-05-04T15:32:23.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.5,
+            "updated_at": "2024-05-04T15:33:15.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.6,
+            "updated_at": "2024-05-04T15:33:54.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 63.52%",
+                "over_info": "GT 130/5",
+                "forecast": "Live Forecast: GT 164"
+            }
+        },
+        {
+            "ball": 17.1,
+            "updated_at": "2024-05-04T15:35:17.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.2,
+            "updated_at": "2024-05-04T15:36:09.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.3,
+            "updated_at": "2024-05-04T15:37:14.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.4,
+            "updated_at": "2024-05-04T15:39:17.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3107,
+                "fullname": "Vijay Shankar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.5,
+            "updated_at": "2024-05-04T15:39:36.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.6,
+            "updated_at": "2024-05-04T15:41:17.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 2927,
+                "fullname": "Rahul Tewatia",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36524,
+                "fullname": "Yash Dayal",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 70.18%",
+                "over_info": "GT 136/7",
+                "forecast": "Live Forecast: GT 157"
+            }
+        },
+        {
+            "ball": 18.1,
+            "updated_at": "2024-05-04T15:42:59.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 3107,
+                "fullname": "Vijay Shankar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.1,
+            "updated_at": "2024-05-04T15:43:12.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3107,
+                "fullname": "Vijay Shankar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.2,
+            "updated_at": "2024-05-04T15:44:43.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3107,
+                "fullname": "Vijay Shankar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.3,
+            "updated_at": "2024-05-04T15:44:52.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.4,
+            "updated_at": "2024-05-04T15:45:01.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3107,
+                "fullname": "Vijay Shankar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.5,
+            "updated_at": "2024-05-04T15:46:24.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3107,
+                "fullname": "Vijay Shankar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.6,
+            "updated_at": "2024-05-04T15:46:39.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3107,
+                "fullname": "Vijay Shankar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 68.35%",
+                "over_info": "GT 147/7",
+                "forecast": "Live Forecast: GT 159"
+            }
+        },
+        {
+            "ball": 19.1,
+            "updated_at": "2024-05-04T15:48:22.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.2,
+            "updated_at": "2024-05-04T15:50:03.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "Run Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.3,
+            "updated_at": "2024-05-04T15:50:43.000000Z",
+            "id": 1976,
+            "name": "Gujarat Titans",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3107,
+                "fullname": "Vijay Shankar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.1,
+            "updated_at": "2024-05-04T16:05:53.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-05-04T16:06:25.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-05-04T16:07:33.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-05-04T16:08:19.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-05-04T16:09:49.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-05-04T16:10:16.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 84.46%",
+                "over_info": "RCB 14/0",
+                "forecast": "RCB needed 134 runs from 114 balls"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-05-04T16:11:47.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-05-04T16:12:35.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-05-04T16:13:14.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-05-04T16:14:30.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-05-04T16:15:12.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-05-04T16:15:54.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 92.61%",
+                "over_info": "RCB 34/0",
+                "forecast": "RCB needed 114 runs from 108 balls"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-05-04T16:17:20.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-05-04T16:17:41.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-05-04T16:18:14.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-05-04T16:18:44.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-05-04T16:19:33.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-05-04T16:19:55.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 95.17%",
+                "over_info": "RCB 46/0",
+                "forecast": "RCB needed 102 runs from 102 balls"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-05-04T16:21:54.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-05-04T16:22:54.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-05-04T16:23:42.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-05-04T16:24:19.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-05-04T16:25:16.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-05-04T16:26:07.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2348,
+                "fullname": "Mohit Sharma",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 97.62%",
+                "over_info": "RCB 64/0",
+                "forecast": "RCB needed 84 runs from 96 balls"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-05-04T16:26:43.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-05-04T16:26:59.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-05-04T16:27:41.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-05-04T16:27:45.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-05-04T16:29:20.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-05-04T16:29:23.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9456,
+                "fullname": "Manav Suthar",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 98.84%",
+                "over_info": "RCB 78/0",
+                "forecast": "RCB needed 70 runs from 90 balls"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-05-04T16:30:27.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-05-04T16:30:43.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-05-04T16:31:52.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-05-04T16:31:57.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-05-04T16:33:12.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-05-04T16:34:49.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 99.04%",
+                "over_info": "RCB 92/1",
+                "forecast": "RCB needed 56 runs from 84 balls"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-05-04T16:38:14.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-05-04T16:38:52.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-05-04T16:39:20.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-05-04T16:40:03.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-05-04T16:40:13.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-05-04T16:41:53.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 99.03%",
+                "over_info": "RCB 100/2",
+                "forecast": "RCB needed 48 runs from 78 balls"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-05-04T16:43:01.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-05-04T16:43:20.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-05-04T16:44:01.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-05-04T16:45:10.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-05-04T16:47:55.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-05-04T16:48:05.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-05-04T16:48:14.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 97.9%",
+                "over_info": "RCB 107/4",
+                "forecast": "RCB needed 41 runs from 72 balls"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-05-04T16:49:44.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-05-04T16:50:21.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-05-04T16:50:24.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-05-04T16:50:40.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-05-04T16:51:04.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-05-04T16:51:40.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 97.89%",
+                "over_info": "RCB 108/4",
+                "forecast": "RCB needed 40 runs from 66 balls"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-05-04T16:52:24.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-05-04T16:53:22.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-05-04T16:53:39.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-05-04T16:54:34.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-05-04T16:55:10.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 630,
+                "fullname": "Cameron Green",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-05-04T16:56:43.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 1184,
+                "fullname": "Joshua Little",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 96.35%",
+                "over_info": "RCB 112/5",
+                "forecast": "RCB needed 36 runs from 60 balls"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-05-04T16:58:44.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-05-04T16:58:47.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-05-04T16:58:58.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-05-04T16:59:50.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-05-04T17:01:49.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-05-04T17:02:18.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 89.04%",
+                "over_info": "RCB 117/6",
+                "forecast": "RCB needed 31 runs from 54 balls"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-05-04T17:04:17.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-05-04T17:04:26.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-05-04T17:04:58.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-05-04T17:05:18.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-05-04T17:06:22.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-05-04T17:07:16.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 97.92%",
+                "over_info": "RCB 133/6",
+                "forecast": "RCB needed 15 runs from 48 balls"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-05-04T17:08:52.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-05-04T17:09:24.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-05-04T17:10:00.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-05-04T17:10:47.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-05-04T17:12:05.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-05-04T17:12:50.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 8490,
+                "fullname": "Noor Ahmad",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 99.33%",
+                "over_info": "RCB 143/6",
+                "forecast": "RCB needed 5 runs from 42 balls"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-05-04T17:15:15.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-05-04T17:15:19.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-05-04T17:16:01.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-05-04T17:16:19.000000Z",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3098,
+                "fullname": "Swapnil Singh",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 306,
+                "fullname": "Rashid Khan",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 100%",
+                "over_info": "RCB 152/6",
+                "forecast": "RCB won by 4 wickets (with 38 balls remaining)"
+            }
+        }
+    ]
+}

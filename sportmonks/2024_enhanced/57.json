@@ -1,0 +1,5106 @@
+{
+    "summary": {
+        "id": 59231,
+        "round": "57th Match",
+        "localteam_id": 9,
+        "visitorteam_id": 1979,
+        "starting_at": "2024-05-08T14:00:00.000000Z",
+        "note": "Sunrisers Hyderabad won by 10 wickets (with 62 balls remaining)",
+        "venue_id": 54,
+        "toss_won_team_id": 1979,
+        "winner_team_id": 9
+    },
+    "balls": [
+        {
+            "ball": 0.1,
+            "updated_at": "2024-05-08T14:02:05.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-05-08T14:02:09.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 77,
+                "fullname": "Quinton de Kock",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-05-08T14:02:27.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 77,
+                "fullname": "Quinton de Kock",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-05-08T14:03:15.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-05-08T14:03:39.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-05-08T14:04:43.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 77,
+                "fullname": "Quinton de Kock",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 59.41%",
+                "over_info": "LSG 3/0",
+                "forecast": "Live Forecast: LSG 168"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-05-08T14:05:48.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-05-08T14:06:20.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-05-08T14:07:27.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-05-08T14:08:03.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-05-08T14:08:42.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 77,
+                "fullname": "Quinton de Kock",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-05-08T14:09:32.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 57.29%",
+                "over_info": "LSG 13/0",
+                "forecast": "Live Forecast: LSG 170"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-05-08T14:10:56.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 77,
+                "fullname": "Quinton de Kock",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-05-08T14:13:11.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 199,
+                "fullname": "Marcus Stoinis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-05-08T14:13:57.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 199,
+                "fullname": "Marcus Stoinis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-05-08T14:14:48.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-05-08T14:16:01.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-05-08T14:16:09.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 66.48%",
+                "over_info": "LSG 15/1",
+                "forecast": "Live Forecast: LSG 161"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-05-08T14:17:19.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-05-08T14:17:47.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 199,
+                "fullname": "Marcus Stoinis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-05-08T14:18:44.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-05-08T14:18:55.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 199,
+                "fullname": "Marcus Stoinis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-05-08T14:20:20.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-05-08T14:21:07.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 66.48%",
+                "over_info": "LSG 20/1",
+                "forecast": "Live Forecast: LSG 161"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-05-08T14:22:19.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-05-08T14:24:33.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 199,
+                "fullname": "Marcus Stoinis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-05-08T14:25:58.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-05-08T14:26:50.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-05-08T14:27:07.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-05-08T14:27:44.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 76.84%",
+                "over_info": "LSG 23/2",
+                "forecast": "Live Forecast: LSG 149"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-05-08T14:28:57.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-05-08T14:29:19.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-05-08T14:29:52.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-05-08T14:30:38.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-05-08T14:31:10.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-05-08T14:31:31.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 9924,
+                "fullname": "Shahbaz Ahmed",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 79.72%",
+                "over_info": "LSG 27/2",
+                "forecast": "Live Forecast: LSG 145"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-05-08T14:32:56.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-05-08T14:33:17.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-05-08T14:33:56.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-05-08T14:34:16.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-05-08T14:34:38.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-05-08T14:34:56.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            },
+            "forecast_data": {
+                "win_probability": "SRH 82.32%",
+                "over_info": "LSG 30/2",
+                "forecast": "Live Forecast: LSG 141"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-05-08T14:36:17.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2795,
+                "fullname": "Jaydev Unadkat",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-05-08T14:36:52.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2795,
+                "fullname": "Jaydev Unadkat",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-05-08T14:37:28.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2795,
+                "fullname": "Jaydev Unadkat",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-05-08T14:38:12.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2795,
+                "fullname": "Jaydev Unadkat",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-05-08T14:39:12.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2795,
+                "fullname": "Jaydev Unadkat",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-05-08T14:40:02.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2795,
+                "fullname": "Jaydev Unadkat",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 67.44%",
+                "over_info": "LSG 45/2",
+                "forecast": "Live Forecast: LSG 160"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-05-08T14:44:03.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-05-08T14:44:33.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-05-08T14:45:09.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-05-08T14:45:27.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-05-08T14:45:50.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-05-08T14:46:56.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            },
+            "forecast_data": {
+                "win_probability": "SRH 54.05%",
+                "over_info": "LSG 49/2",
+                "forecast": "Live Forecast: LSG 173"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-05-08T14:48:23.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-05-08T14:48:57.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-05-08T14:49:28.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-05-08T14:50:23.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-05-08T14:50:57.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-05-08T14:51:50.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 47,
+                "fullname": "Lokesh Rahul",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 54.05%",
+                "over_info": "LSG 57/3",
+                "forecast": "Live Forecast: LSG 173"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-05-08T14:54:00.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-05-08T14:54:12.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-05-08T14:54:48.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-05-08T14:55:22.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-05-08T14:55:27.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-05-08T14:56:10.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            },
+            "forecast_data": {
+                "win_probability": "SRH 55.14%",
+                "over_info": "LSG 65/3",
+                "forecast": "Live Forecast: LSG 172"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-05-08T14:57:43.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-05-08T14:59:06.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "Run Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 2687,
+                "fullname": "Krunal Pandya",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-05-08T15:00:50.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-05-08T15:01:17.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-05-08T15:01:50.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-05-08T15:02:39.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 71.97%",
+                "over_info": "LSG 69/4",
+                "forecast": "Live Forecast: LSG 155"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-05-08T15:04:00.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2795,
+                "fullname": "Jaydev Unadkat",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-05-08T15:04:34.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2795,
+                "fullname": "Jaydev Unadkat",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-05-08T15:04:52.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2795,
+                "fullname": "Jaydev Unadkat",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-05-08T15:05:40.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2795,
+                "fullname": "Jaydev Unadkat",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-05-08T15:06:14.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2795,
+                "fullname": "Jaydev Unadkat",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-05-08T15:06:57.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2795,
+                "fullname": "Jaydev Unadkat",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 81.05%",
+                "over_info": "LSG 73/4",
+                "forecast": "Live Forecast: LSG 143"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-05-08T15:08:10.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-05-08T15:08:39.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-05-08T15:09:04.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-05-08T15:09:49.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-05-08T15:10:33.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-05-08T15:11:24.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-05-08T15:12:10.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-05-08T15:12:52.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 69.3%",
+                "over_info": "LSG 90/4",
+                "forecast": "Live Forecast: LSG 158"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-05-08T15:13:32.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-05-08T15:14:30.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-05-08T15:15:04.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-05-08T15:15:54.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-05-08T15:16:20.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-05-08T15:16:52.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 21954,
+                "fullname": "Vijayakanth Viyaskanth",
+                "bowlingstyle": null
+            },
+            "forecast_data": {
+                "win_probability": "SRH 67.44%",
+                "over_info": "LSG 102/4",
+                "forecast": "Live Forecast: LSG 160"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-05-08T15:20:27.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-05-08T15:21:05.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-05-08T15:21:40.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-05-08T15:22:01.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 15.5,
+            "updated_at": "2024-05-08T15:22:53.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-05-08T15:23:28.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 68.38%",
+                "over_info": "LSG 112/4",
+                "forecast": "Live Forecast: LSG 159"
+            }
+        },
+        {
+            "ball": 16.1,
+            "updated_at": "2024-05-08T15:24:31.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.2,
+            "updated_at": "2024-05-08T15:26:34.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.2,
+            "updated_at": "2024-05-08T15:26:43.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.3,
+            "updated_at": "2024-05-08T15:27:12.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.4,
+            "updated_at": "2024-05-08T15:27:52.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.5,
+            "updated_at": "2024-05-08T15:28:29.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.6,
+            "updated_at": "2024-05-08T15:29:24.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 65.51%",
+                "over_info": "LSG 126/4",
+                "forecast": "Live Forecast: LSG 162"
+            }
+        },
+        {
+            "ball": 17.1,
+            "updated_at": "2024-05-08T15:31:39.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.2,
+            "updated_at": "2024-05-08T15:32:20.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.3,
+            "updated_at": "2024-05-08T15:32:25.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.4,
+            "updated_at": "2024-05-08T15:32:56.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.5,
+            "updated_at": "2024-05-08T15:33:24.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.6,
+            "updated_at": "2024-05-08T15:33:50.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 280,
+                "fullname": "Bhuvneshwar Kumar",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 73.66%",
+                "over_info": "LSG 131/4",
+                "forecast": "Live Forecast: LSG 153"
+            }
+        },
+        {
+            "ball": 18.1,
+            "updated_at": "2024-05-08T15:35:34.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.2,
+            "updated_at": "2024-05-08T15:36:28.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.3,
+            "updated_at": "2024-05-08T15:36:35.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.4,
+            "updated_at": "2024-05-08T15:36:57.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.5,
+            "updated_at": "2024-05-08T15:37:42.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.6,
+            "updated_at": "2024-05-08T15:38:32.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3218,
+                "fullname": "Thangarasu Natarajan",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 69.3%",
+                "over_info": "LSG 146/4",
+                "forecast": "Live Forecast: LSG 158"
+            }
+        },
+        {
+            "ball": 19.1,
+            "updated_at": "2024-05-08T15:39:45.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.2,
+            "updated_at": "2024-05-08T15:39:50.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.3,
+            "updated_at": "2024-05-08T15:40:39.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.4,
+            "updated_at": "2024-05-08T15:41:07.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.5,
+            "updated_at": "2024-05-08T15:41:52.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.6,
+            "updated_at": "2024-05-08T15:44:39.000000Z",
+            "id": 1979,
+            "name": "Lucknow Super Giants",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 736,
+                "fullname": "Nicholas Pooran",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 190,
+                "fullname": "Pat Cummins",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 62.52%",
+                "over_info": "LSG 165/4",
+                "forecast": "Live Forecast: LSG 165"
+            }
+        },
+        {
+            "ball": 0.1,
+            "updated_at": "2024-05-08T16:00:40.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-05-08T16:00:49.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-05-08T16:01:03.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-05-08T16:02:01.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-05-08T16:02:21.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-05-08T16:02:36.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-05-08T16:03:00.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 66.35%",
+                "over_info": "SRH 8/0",
+                "forecast": "SRH needed 158 runs from 114 balls"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-05-08T16:04:36.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-05-08T16:05:18.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-05-08T16:05:58.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-05-08T16:07:07.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-05-08T16:07:48.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-05-08T16:08:20.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-05-08T16:09:17.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 77.7%",
+                "over_info": "SRH 25/0",
+                "forecast": "SRH needed 141 runs from 108 balls"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-05-08T16:09:58.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-05-08T16:10:16.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-05-08T16:10:56.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-05-08T16:11:35.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-05-08T16:12:16.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-05-08T16:13:04.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3200,
+                "fullname": "Krishnappa Gowtham",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 90.01%",
+                "over_info": "SRH 47/0",
+                "forecast": "SRH needed 119 runs from 102 balls"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-05-08T16:14:18.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9459,
+                "fullname": "Ravi Bishnoi",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-05-08T16:15:52.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9459,
+                "fullname": "Ravi Bishnoi",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-05-08T16:16:27.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9459,
+                "fullname": "Ravi Bishnoi",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-05-08T16:16:46.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9459,
+                "fullname": "Ravi Bishnoi",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-05-08T16:17:29.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9459,
+                "fullname": "Ravi Bishnoi",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-05-08T16:17:52.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9459,
+                "fullname": "Ravi Bishnoi",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 94.66%",
+                "over_info": "SRH 64/0",
+                "forecast": "SRH needed 102 runs from 96 balls"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-05-08T16:19:22.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 370,
+                "fullname": "Naveen ul Haq",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-05-08T16:20:03.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 370,
+                "fullname": "Naveen ul Haq",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-05-08T16:20:59.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 370,
+                "fullname": "Naveen ul Haq",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-05-08T16:21:23.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 370,
+                "fullname": "Naveen ul Haq",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-05-08T16:22:08.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 370,
+                "fullname": "Naveen ul Haq",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-05-08T16:23:04.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 370,
+                "fullname": "Naveen ul Haq",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 98.39%",
+                "over_info": "SRH 87/0",
+                "forecast": "SRH needed 79 runs from 90 balls"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-05-08T16:24:43.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-05-08T16:25:14.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-05-08T16:26:06.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-05-08T16:26:10.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-05-08T16:27:05.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-05-08T16:27:38.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 99.39%",
+                "over_info": "SRH 107/0",
+                "forecast": "SRH needed 59 runs from 84 balls"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-05-08T16:31:33.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-05-08T16:32:06.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-05-08T16:32:39.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-05-08T16:33:13.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-05-08T16:34:10.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-05-08T16:34:16.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36515,
+                "fullname": "Ayush Badoni",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 99.83%",
+                "over_info": "SRH 126/0",
+                "forecast": "SRH needed 40 runs from 78 balls"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-05-08T16:35:37.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9459,
+                "fullname": "Ravi Bishnoi",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-05-08T16:36:04.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9459,
+                "fullname": "Ravi Bishnoi",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-05-08T16:36:07.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9459,
+                "fullname": "Ravi Bishnoi",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-05-08T16:36:34.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9459,
+                "fullname": "Ravi Bishnoi",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-05-08T16:37:07.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9459,
+                "fullname": "Ravi Bishnoi",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-05-08T16:37:33.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 9459,
+                "fullname": "Ravi Bishnoi",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 99.94%",
+                "over_info": "SRH 143/0",
+                "forecast": "SRH needed 23 runs from 72 balls"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-05-08T16:39:14.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 370,
+                "fullname": "Naveen ul Haq",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-05-08T16:39:21.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 370,
+                "fullname": "Naveen ul Haq",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-05-08T16:40:12.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 370,
+                "fullname": "Naveen ul Haq",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-05-08T16:40:51.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 370,
+                "fullname": "Naveen ul Haq",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-05-08T16:41:33.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 370,
+                "fullname": "Naveen ul Haq",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-05-08T16:42:02.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 370,
+                "fullname": "Naveen ul Haq",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 99.98%",
+                "over_info": "SRH 157/0",
+                "forecast": "SRH needed 9 runs from 66 balls"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-05-08T16:43:21.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-05-08T16:44:01.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-05-08T16:44:28.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26,
+                "fullname": "Travis Head",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-05-08T16:45:19.000000Z",
+            "id": 9,
+            "name": "Sunrisers Hyderabad",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3338,
+                "fullname": "Abhishek Sharma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 34364,
+                "fullname": "Yash Thakur",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "SRH 100%",
+                "over_info": "SRH 167/0",
+                "forecast": "SRH won by 10 wickets (with 62 balls remaining)"
+            }
+        }
+    ]
+}
