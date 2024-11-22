@@ -180,8 +180,7 @@
                     "price": 1.72
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_2": {
         "start_time": "2024-04-27T13:58:29Z",
@@ -373,8 +372,7 @@
                     "price": 1.59
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_3": {
         "start_time": "2024-04-27T14:04:32Z",
@@ -714,8 +712,7 @@
                     "price": 1.62
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_4": {
         "start_time": "2024-04-27T14:10:27Z",
@@ -1381,8 +1378,7 @@
                     "price": 1.48
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_5": {
         "start_time": "2024-04-27T14:15:00Z",
@@ -1873,8 +1869,7 @@
                     "price": 1.51
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_6": {
         "start_time": "2024-04-27T14:19:27Z",
@@ -2573,8 +2568,7 @@
                     "price": 1.53
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_7": {
         "start_time": "2024-04-27T14:25:23Z",
@@ -3087,8 +3081,7 @@
                     "price": 1.59
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_8": {
         "start_time": "2024-04-27T14:29:49Z",
@@ -3583,8 +3576,7 @@
                     "price": 1.77
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_9": {
         "start_time": "2024-04-27T14:34:25Z",
@@ -4239,8 +4231,7 @@
                     "price": 2.05
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_10": {
         "start_time": "2024-04-27T14:40:27Z",
@@ -4410,8 +4401,7 @@
                     "price": 2.05
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_11": {
         "start_time": "2024-04-27T14:43:25Z",
@@ -4934,8 +4924,7 @@
                     "price": 2.3
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_12": {
         "start_time": "2024-04-27T14:49:31Z",
@@ -5451,8 +5440,7 @@
                     "price": 2.6
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_13": {
         "start_time": "2024-04-27T14:55:31Z",
@@ -6040,8 +6028,7 @@
                     "price": 2.85
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_14": {
         "start_time": "2024-04-27T15:00:04Z",
@@ -6594,8 +6581,7 @@
                     "price": 2.6
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_15": {
         "start_time": "2024-04-27T15:04:38Z",
@@ -6860,8 +6846,7 @@
                     "price": 3.0
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_16": {
         "start_time": "2024-04-27T15:07:37Z",
@@ -7529,8 +7514,7 @@
                     "price": 3.0
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_17": {
         "start_time": "2024-04-27T15:15:23Z",
@@ -7871,8 +7855,7 @@
                     "price": 3.0
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_18": {
         "start_time": "2024-04-27T15:20:14Z",
@@ -8301,8 +8284,7 @@
                     "price": 2.7
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_19": {
         "start_time": "2024-04-27T15:25:00Z",
@@ -8800,8 +8782,7 @@
                     "price": 3.1
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_20": {
         "start_time": "2024-04-27T15:29:48Z",
@@ -9366,8 +9347,7 @@
                     "price": 2.6
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_21": {
         "start_time": "2024-04-27T15:34:35Z",
@@ -9857,8 +9837,7 @@
                     "price": 2.4
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_22": {
         "start_time": "2024-04-27T15:39:17Z",
@@ -10429,8 +10408,7 @@
                     "price": 2.55
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_23": {
         "start_time": "2024-04-27T15:44:09Z",
@@ -11134,8 +11112,7 @@
                     "price": 2.4
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_24": {
         "start_time": "2024-04-27T15:50:30Z",
@@ -11285,8 +11262,7 @@
                     "price": 2.5
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_25": {
         "start_time": "2024-04-27T15:53:38Z",
@@ -11416,8 +11392,7 @@
                     "price": 2.6
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_26": {
         "start_time": "2024-04-27T16:00:02Z",
@@ -11532,8 +11507,7 @@
                     "price": 2.5
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_27": {
         "start_time": "2024-04-27T16:03:12Z",
@@ -12012,8 +11986,7 @@
                     "price": 2.0
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_28": {
         "start_time": "2024-04-27T16:09:31Z",
@@ -12388,8 +12361,7 @@
                     "price": 2.0
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_29": {
         "start_time": "2024-04-27T16:14:19Z",
@@ -12729,8 +12701,7 @@
                     "price": 1.83
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_30": {
         "start_time": "2024-04-27T16:19:03Z",
@@ -13170,8 +13141,7 @@
                     "price": 1.67
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_31": {
         "start_time": "2024-04-27T16:25:16Z",
@@ -13577,8 +13547,7 @@
                     "price": 1.83
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_32": {
         "start_time": "2024-04-27T16:29:50Z",
@@ -13928,8 +13897,7 @@
                     "price": 2.75
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_33": {
         "start_time": "2024-04-27T16:34:28Z",
@@ -14305,8 +14273,7 @@
                     "price": 2.75
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_34": {
         "start_time": "2024-04-27T16:39:10Z",
@@ -14946,8 +14913,7 @@
                     "price": 3.2
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_35": {
         "start_time": "2024-04-27T16:45:24Z",
@@ -15598,8 +15564,7 @@
                     "price": 3.7
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_36": {
         "start_time": "2024-04-27T16:49:53Z",
@@ -16242,8 +16207,7 @@
                     "price": 3.3
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_37": {
         "start_time": "2024-04-27T16:54:27Z",
@@ -16726,8 +16690,7 @@
                     "price": 2.4
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_38": {
         "start_time": "2024-04-27T17:00:28Z",
@@ -17239,8 +17202,7 @@
                     "price": 2.4
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_39": {
         "start_time": "2024-04-27T17:05:00Z",
@@ -17786,8 +17748,7 @@
                     "price": 1.54
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_40": {
         "start_time": "2024-04-27T17:09:37Z",
@@ -18580,8 +18541,7 @@
                     "price": 1.33
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_41": {
         "start_time": "2024-04-27T17:14:10Z",
@@ -19416,8 +19376,7 @@
                     "price": 1.24
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_42": {
         "start_time": "2024-04-27T17:20:12Z",
@@ -20060,8 +20019,7 @@
                     "price": 1.07
                 }
             ]
-        },
-        "forecast": null
+        }
     },
     "chunk_43": {
         "start_time": "2024-04-27T17:24:38Z",
@@ -20702,7 +20660,6 @@
                     "price": 1.09
                 }
             ]
-        },
-        "forecast": null
+        }
     }
 }
