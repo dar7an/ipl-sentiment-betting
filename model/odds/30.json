@@ -1,0 +1,574 @@
+[
+    {
+        "last_update": "2024-04-15 07:25:14 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.08
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.76
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 07:30:32 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 07:34:22 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 07:39:51 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.3
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.62
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 07:44:58 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.3
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.62
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 07:49:35 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.6
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 07:54:11 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 3.3
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.33
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 07:57:14 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 3.1
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.37
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 08:04:55 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 4.1
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.23
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 08:10:08 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 3.6
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.29
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 08:14:40 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 4.6
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 08:20:03 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 5.3
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.17
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 08:24:58 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 6.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.11
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 08:29:50 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 7.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.08
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 08:35:31 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 6.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.11
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 08:37:10 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 8.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.07
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 08:44:57 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 8.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.06
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 08:50:14 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 11.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.05
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 08:55:33 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 11.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.05
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 08:59:48 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 8.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.06
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 09:04:46 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 8.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.06
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 09:09:22 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 12.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.03
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 09:14:47 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 14.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.02
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 09:19:57 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 14.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.02
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 09:24:54 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 13.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.03
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 09:30:20 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 13.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.03
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 09:34:43 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 13.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.03
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 09:40:19 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 8.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.06
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 09:44:37 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 8.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.09
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 09:49:15 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 7.5
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.09
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 09:54:53 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 12.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.04
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:00:20 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 10.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.05
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:04:55 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 11.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.02
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:09:13 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 11.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.04
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:14:18 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 31.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.01
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:20:25 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 31.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.01
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:30:08 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 14.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.02
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:34:31 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 14.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.02
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:38:56 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 30.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.02
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:44:46 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 31.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:50:29 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 29.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.02
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:53:44 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 31.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:58:17 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 31.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-15 10:58:17 PM IST",
+        "odds": [
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 31.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.0
+            }
+        ]
+    }
+]

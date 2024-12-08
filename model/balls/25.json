@@ -1,0 +1,6243 @@
+{
+    "summary": {
+        "id": 59135,
+        "round": "25th Match",
+        "localteam_id": 6,
+        "visitorteam_id": 8,
+        "starting_at": "2024-04-11 07:30:00 PM IST",
+        "note": "Mumbai Indians won by 7 wickets (with 27 balls remaining)",
+        "venue_id": 46,
+        "toss_won_team_id": 6,
+        "winner_team_id": 6
+    },
+    "balls": [
+        {
+            "ball": 0.1,
+            "updated_at": "2024-04-11 07:30:48 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 303,
+                "fullname": "Mohammad Nabi",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-04-11 07:30:52 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 303,
+                "fullname": "Mohammad Nabi",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-04-11 07:31:38 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 303,
+                "fullname": "Mohammad Nabi",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-04-11 07:31:42 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 303,
+                "fullname": "Mohammad Nabi",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-04-11 07:32:05 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 303,
+                "fullname": "Mohammad Nabi",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-04-11 07:32:23 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 303,
+                "fullname": "Mohammad Nabi",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "MI 52.73%",
+                "over_info": "RCB 7/0",
+                "forecast": "Live Forecast: RCB 174"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-04-11 07:33:39 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-04-11 07:34:23 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-04-11 07:35:07 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-04-11 07:35:42 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-04-11 07:36:54 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-04-11 07:37:27 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "MI 54.93%",
+                "over_info": "RCB 14/0",
+                "forecast": "Live Forecast: RCB 172"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-04-11 07:38:45 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-04-11 07:39:27 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-04-11 07:40:26 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 46,
+                "fullname": "Virat Kohli",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-04-11 07:42:16 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-04-11 07:42:21 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-04-11 07:42:58 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "MI 53.83%",
+                "over_info": "RCB 18/1",
+                "forecast": "Live Forecast: RCB 173"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-04-11 07:44:35 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-04-11 07:45:15 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-04-11 07:45:45 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-04-11 07:48:39 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-04-11 07:48:48 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-04-11 07:48:52 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 50.59%",
+                "over_info": "RCB 28/2",
+                "forecast": "Live Forecast: RCB 177"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-04-11 07:50:08 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-04-11 07:59:07 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-04-11 07:59:14 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-04-11 07:59:18 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-04-11 07:59:24 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-04-11 07:59:32 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "MI 50.51%",
+                "over_info": "RCB 35/2",
+                "forecast": "Live Forecast: RCB 176"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-04-11 08:00:24 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-04-11 08:00:27 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-04-11 08:00:31 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-04-11 08:00:34 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-04-11 08:00:36 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-04-11 08:00:42 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 58.32%",
+                "over_info": "RCB 44/2",
+                "forecast": "Live Forecast: RCB 184"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-04-11 08:01:13 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-04-11 08:01:39 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "3 Runs",
+                "runs": 3,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-04-11 08:02:13 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-04-11 08:02:59 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-04-11 08:03:40 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-04-11 08:04:08 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 61.55%",
+                "over_info": "RCB 54/2",
+                "forecast": "Live Forecast: RCB 187"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-04-11 08:05:51 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5222,
+                "fullname": "Romario Shepherd",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-04-11 08:06:16 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5222,
+                "fullname": "Romario Shepherd",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-04-11 08:06:52 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5222,
+                "fullname": "Romario Shepherd",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-04-11 08:07:24 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5222,
+                "fullname": "Romario Shepherd",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-04-11 08:08:06 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5222,
+                "fullname": "Romario Shepherd",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-04-11 08:08:51 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5222,
+                "fullname": "Romario Shepherd",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 72.42%",
+                "over_info": "RCB 67/2",
+                "forecast": "Live Forecast: RCB 198"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-04-11 08:10:34 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-04-11 08:10:55 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-04-11 08:11:17 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-04-11 08:11:47 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-04-11 08:12:24 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-04-11 08:12:48 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 74.18%",
+                "over_info": "RCB 76/2",
+                "forecast": "Live Forecast: RCB 200"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-04-11 08:16:21 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-04-11 08:16:44 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-04-11 08:17:35 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-04-11 08:18:17 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-04-11 08:18:54 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-04-11 08:19:32 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-04-11 08:19:59 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-04-11 08:20:39 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 75.87%",
+                "over_info": "RCB 89/2",
+                "forecast": "Live Forecast: RCB 202"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-04-11 08:22:21 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-04-11 08:23:19 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-04-11 08:23:38 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-04-11 08:24:15 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-04-11 08:24:58 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-04-11 08:25:57 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 63.65%",
+                "over_info": "RCB 93/2",
+                "forecast": "Live Forecast: RCB 189"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-04-11 08:27:53 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-04-11 08:28:14 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-04-11 08:29:53 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 26027,
+                "fullname": "Rajat Patidar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-04-11 08:31:17 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-04-11 08:31:49 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-04-11 08:32:26 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-04-11 08:32:51 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-04-11 08:33:20 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 67.7%",
+                "over_info": "RCB 107/3",
+                "forecast": "Live Forecast: RCB 193"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-04-11 08:34:19 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-04-11 08:35:47 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "LBW OUT",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-04-11 08:38:05 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-04-11 08:38:34 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-04-11 08:39:12 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-04-11 08:40:04 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 50.59%",
+                "over_info": "RCB 111/4",
+                "forecast": "Live Forecast: RCB 177"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-04-11 08:43:43 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5222,
+                "fullname": "Romario Shepherd",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-04-11 08:44:03 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5222,
+                "fullname": "Romario Shepherd",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-04-11 08:44:45 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5222,
+                "fullname": "Romario Shepherd",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-04-11 08:45:30 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5222,
+                "fullname": "Romario Shepherd",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-04-11 08:46:10 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5222,
+                "fullname": "Romario Shepherd",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-04-11 08:47:31 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 5222,
+                "fullname": "Romario Shepherd",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 55.03%",
+                "over_info": "RCB 121/4",
+                "forecast": "Live Forecast: RCB 181"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-04-11 08:48:13 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-04-11 08:49:06 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-04-11 08:49:11 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-04-11 08:49:58 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-04-11 08:50:16 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-04-11 08:50:56 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2846,
+                "fullname": "Shreyas Gopal",
+                "bowlingstyle": "legbreak"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 51.71%",
+                "over_info": "RCB 130/4",
+                "forecast": "Live Forecast: RCB 178"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-04-11 08:52:54 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-04-11 08:53:49 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-04-11 08:54:48 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-04-11 08:56:45 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-04-11 08:56:49 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.5,
+            "updated_at": "2024-04-11 08:57:16 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-04-11 08:59:18 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-04-11 08:59:31 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 65.7%",
+                "over_info": "RCB 149/4",
+                "forecast": "Live Forecast: RCB 191"
+            }
+        },
+        {
+            "ball": 16.1,
+            "updated_at": "2024-04-11 09:01:30 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 16.2,
+            "updated_at": "2024-04-11 09:03:09 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 1,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 16.3,
+            "updated_at": "2024-04-11 09:04:06 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 16.4,
+            "updated_at": "2024-04-11 09:04:49 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 75,
+                "fullname": "Faf du Plessis",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 16.5,
+            "updated_at": "2024-04-11 09:08:04 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "LBW OUT",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3074,
+                "fullname": "Mahipal Lomror",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 16.6,
+            "updated_at": "2024-04-11 09:10:13 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53096,
+                "fullname": "Saurav Chauhan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 55.03%",
+                "over_info": "RCB 154/6",
+                "forecast": "Live Forecast: RCB 181"
+            }
+        },
+        {
+            "ball": 17.1,
+            "updated_at": "2024-04-11 09:12:07 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53096,
+                "fullname": "Saurav Chauhan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 17.2,
+            "updated_at": "2024-04-11 09:12:31 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53096,
+                "fullname": "Saurav Chauhan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 17.3,
+            "updated_at": "2024-04-11 09:13:32 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 53096,
+                "fullname": "Saurav Chauhan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 17.3,
+            "updated_at": "2024-04-11 09:13:52 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53096,
+                "fullname": "Saurav Chauhan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 17.4,
+            "updated_at": "2024-04-11 09:15:02 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 17.5,
+            "updated_at": "2024-04-11 09:15:25 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53096,
+                "fullname": "Saurav Chauhan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 17.6,
+            "updated_at": "2024-04-11 09:16:16 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 6463,
+                "fullname": "Gerald Coetzee",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 61.55%",
+                "over_info": "RCB 168/6",
+                "forecast": "Live Forecast: RCB 187"
+            }
+        },
+        {
+            "ball": 18.1,
+            "updated_at": "2024-04-11 09:17:58 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53096,
+                "fullname": "Saurav Chauhan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 18.2,
+            "updated_at": "2024-04-11 09:18:08 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53096,
+                "fullname": "Saurav Chauhan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 18.3,
+            "updated_at": "2024-04-11 09:19:28 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 53096,
+                "fullname": "Saurav Chauhan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 18.4,
+            "updated_at": "2024-04-11 09:20:44 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 18.5,
+            "updated_at": "2024-04-11 09:21:43 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 18.6,
+            "updated_at": "2024-04-11 09:23:33 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 284,
+                "fullname": "Jasprit Bumrah",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 62.6%",
+                "over_info": "RCB 177/8",
+                "forecast": "Live Forecast: RCB 188"
+            }
+        },
+        {
+            "ball": 19.1,
+            "updated_at": "2024-04-11 09:24:36 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.2,
+            "updated_at": "2024-04-11 09:27:19 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.3,
+            "updated_at": "2024-04-11 09:27:57 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.3,
+            "updated_at": "2024-04-11 09:28:28 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.4,
+            "updated_at": "2024-04-11 09:29:17 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.5,
+            "updated_at": "2024-04-11 09:30:30 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 19.6,
+            "updated_at": "2024-04-11 09:31:26 PM IST",
+            "id": 8,
+            "name": "Royal Challengers Bengaluru",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 275,
+                "fullname": "Dinesh Karthik",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 45977,
+                "fullname": "Akash Madhwal",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 70.58%",
+                "over_info": "RCB 196/8",
+                "forecast": "Live Forecast: RCB 196"
+            }
+        },
+        {
+            "ball": 0.1,
+            "updated_at": "2024-04-11 09:48:02 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-04-11 09:48:05 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-04-11 09:49:30 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-04-11 09:49:33 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-04-11 09:50:24 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-04-11 09:50:55 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-04-11 09:51:31 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 75.71%",
+                "over_info": "MI 2/0",
+                "forecast": "MI needed 195 runs from 114 balls"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-04-11 09:52:52 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-04-11 09:54:29 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-04-11 09:54:31 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-04-11 09:55:05 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-04-11 09:55:38 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-04-11 09:56:37 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 76.42%",
+                "over_info": "MI 9/0",
+                "forecast": "MI needed 188 runs from 108 balls"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-04-11 09:58:02 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-04-11 09:59:11 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-04-11 09:59:57 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-04-11 10:00:31 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-04-11 10:01:13 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-04-11 10:01:51 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 68.32%",
+                "over_info": "MI 23/0",
+                "forecast": "MI needed 174 runs from 102 balls"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-04-11 10:03:11 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-04-11 10:03:44 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-04-11 10:04:27 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-04-11 10:04:58 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-04-11 10:05:52 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-04-11 10:06:42 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-04-11 10:07:30 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "RCB 65.31%",
+                "over_info": "MI 32/0",
+                "forecast": "MI needed 165 runs from 96 balls"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-04-11 10:08:49 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-04-11 10:10:17 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-04-11 10:10:58 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-04-11 10:11:43 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-04-11 10:12:44 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-04-11 10:13:38 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 66.44%",
+                "over_info": "MI 55/0",
+                "forecast": "MI needed 142 runs from 90 balls"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-04-11 10:15:38 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-04-11 10:15:49 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-04-11 10:16:18 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-04-11 10:16:45 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-04-11 10:17:20 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-04-11 10:18:19 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 40,
+                "fullname": "Glenn Maxwell",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "MI 80.13%",
+                "over_info": "MI 72/0",
+                "forecast": "MI needed 125 runs from 84 balls"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-04-11 10:22:42 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-04-11 10:22:45 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-04-11 10:23:11 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-04-11 10:23:30 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-04-11 10:24:09 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-04-11 10:24:52 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 87.17%",
+                "over_info": "MI 84/0",
+                "forecast": "MI needed 113 runs from 78 balls"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-04-11 10:25:59 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-04-11 10:27:16 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-04-11 10:27:23 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-04-11 10:27:30 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-04-11 10:28:09 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-04-11 10:28:28 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "MI 88%",
+                "over_info": "MI 92/0",
+                "forecast": "MI needed 105 runs from 72 balls"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-04-11 10:29:38 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-04-11 10:30:16 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-04-11 10:30:49 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-04-11 10:31:33 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-04-11 10:32:09 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-04-11 10:33:16 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3122,
+                "fullname": "Ishan Kishan",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-04-11 10:35:12 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 84.78%",
+                "over_info": "MI 103/1",
+                "forecast": "MI needed 94 runs from 66 balls"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-04-11 10:36:07 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-04-11 10:36:39 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-04-11 10:37:31 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-04-11 10:39:15 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-04-11 10:39:57 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-04-11 10:40:41 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 85.45%",
+                "over_info": "MI 111/1",
+                "forecast": "MI needed 86 runs from 60 balls"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-04-11 10:41:41 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-04-11 10:42:46 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-04-11 10:43:24 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-04-11 10:44:10 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-04-11 10:44:45 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-04-11 10:45:51 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 97.31%",
+                "over_info": "MI 135/1",
+                "forecast": "MI needed 62 runs from 54 balls"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-04-11 10:47:35 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-04-11 10:49:00 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 278,
+                "fullname": "Rohit Sharma",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-04-11 10:50:06 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-04-11 10:50:43 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-04-11 10:51:09 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-04-11 10:51:50 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 3806,
+                "fullname": "Will Jacks",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "MI 98.37%",
+                "over_info": "MI 151/2",
+                "forecast": "MI needed 46 runs from 48 balls"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-04-11 10:53:22 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-04-11 10:54:11 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-04-11 10:55:14 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-04-11 10:55:51 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-04-11 10:56:55 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-04-11 10:57:26 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 2408,
+                "fullname": "Reece Topley",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 99.64%",
+                "over_info": "MI 169/2",
+                "forecast": "MI needed 28 runs from 42 balls"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-04-11 10:58:43 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-04-11 10:59:18 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-04-11 11:02:27 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 2879,
+                "fullname": "Suryakumar Yadav",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-04-11 11:04:11 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-04-11 11:04:16 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-04-11 11:04:19 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 46736,
+                "fullname": "Vijaykumar Vyshak",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 99.71%",
+                "over_info": "MI 181/3",
+                "forecast": "MI needed 16 runs from 36 balls"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-04-11 11:05:26 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-04-11 11:07:04 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-04-11 11:07:09 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-04-11 11:08:12 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-04-11 11:08:59 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-04-11 11:09:56 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 59,
+                "fullname": "Mohammed Siraj",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 99.8%",
+                "over_info": "MI 188/3",
+                "forecast": "MI needed 9 runs from 30 balls"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-04-11 11:11:35 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-04-11 11:12:17 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 8370,
+                "fullname": "Tilak Varma",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-04-11 11:13:06 PM IST",
+            "id": 6,
+            "name": "Mumbai Indians",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 281,
+                "fullname": "Hardik Pandya",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 23685,
+                "fullname": "Akash Deep",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "MI 100%",
+                "over_info": "MI 199/3",
+                "forecast": "MI won by 7 wickets (with 27 balls remaining)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,561 @@
+[
+    {
+        "last_update": "2024-04-11 07:25:07 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.59
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.38
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 07:30:01 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.67
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 07:35:12 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.59
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 07:38:00 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.67
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 07:44:52 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.48
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 07:50:05 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.32
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 3.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 07:55:18 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.36
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 3.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:00:27 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.36
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 3.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:05:30 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.4
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 3.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:10:33 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.45
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.75
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:14:59 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.48
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:19:25 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.51
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.55
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:24:36 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.62
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:30:20 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.54
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:34:36 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.59
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:39:41 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.37
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 3.1
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:45:33 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.45
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.75
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:49:54 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.48
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:55:05 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.45
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.75
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 08:59:26 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.54
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 09:05:09 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.43
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.75
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 09:10:24 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.4
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 3.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 09:14:50 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.42
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.85
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 09:19:20 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.37
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 3.1
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 09:25:10 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.45
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.75
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 09:30:33 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.62
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 09:35:05 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.57
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 09:40:32 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.57
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 09:45:16 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.57
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 09:48:19 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.57
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 09:53:30 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.67
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.15
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 10:00:02 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.4
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 3.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 10:05:21 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.51
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 2.6
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 10:09:49 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.32
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 3.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 10:15:19 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.17
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 5.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 10:19:47 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.11
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 7.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 10:25:01 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.07
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 8.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 10:28:42 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.06
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 10.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 10:35:25 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.07
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 8.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 10:40:34 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.06
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 8.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 10:45:04 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.02
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 14.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 10:46:39 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.01
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 31.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-04-11 10:46:39 PM IST",
+        "odds": [
+            {
+                "name": "Mumbai Indians",
+                "price": 1.01
+            },
+            {
+                "name": "Royal Challengers Bangalore",
+                "price": 31.0
+            }
+        ]
+    }
+]

@@ -1,0 +1,6329 @@
+{
+    "summary": {
+        "id": 59201,
+        "round": "47th Match",
+        "localteam_id": 5,
+        "visitorteam_id": 3,
+        "starting_at": "2024-04-29 07:30:00 PM IST",
+        "note": "Kolkata Knight Riders won by 7 wickets (with 21 balls remaining)",
+        "venue_id": 64,
+        "toss_won_team_id": 3,
+        "winner_team_id": 5
+    },
+    "balls": [
+        {
+            "ball": 0.1,
+            "updated_at": "2024-04-29 07:30:49 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 48,
+                "fullname": "Prithvi Shaw",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-04-29 07:31:21 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 48,
+                "fullname": "Prithvi Shaw",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-04-29 07:31:57 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 48,
+                "fullname": "Prithvi Shaw",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-04-29 07:32:39 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 48,
+                "fullname": "Prithvi Shaw",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-04-29 07:33:35 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 48,
+                "fullname": "Prithvi Shaw",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-04-29 07:34:15 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 48,
+                "fullname": "Prithvi Shaw",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-04-29 07:35:27 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4949,
+                "fullname": "Jake Fraser-McGurk",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "DC 66.1%",
+                "over_info": "DC 15/0",
+                "forecast": "Live Forecast: DC 193"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-04-29 07:37:08 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 No Ball",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4949,
+                "fullname": "Jake Fraser-McGurk",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-04-29 07:37:25 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4949,
+                "fullname": "Jake Fraser-McGurk",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-04-29 07:38:08 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 48,
+                "fullname": "Prithvi Shaw",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-04-29 07:40:06 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 48,
+                "fullname": "Prithvi Shaw",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-04-29 07:44:10 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-04-29 07:42:01 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-04-29 07:42:40 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "DC 56.69%",
+                "over_info": "DC 18/1",
+                "forecast": "Live Forecast: DC 184"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-04-29 07:44:03 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-04-29 07:44:50 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4949,
+                "fullname": "Jake Fraser-McGurk",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-04-29 07:45:19 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-04-29 07:45:47 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4949,
+                "fullname": "Jake Fraser-McGurk",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-04-29 07:47:11 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4949,
+                "fullname": "Jake Fraser-McGurk",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-04-29 07:47:49 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 4949,
+                "fullname": "Jake Fraser-McGurk",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-04-29 07:49:29 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 109,
+                "fullname": "Shai Hope",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "DC 54.52%",
+                "over_info": "DC 30/2",
+                "forecast": "Live Forecast: DC 182"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-04-29 07:50:26 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-04-29 07:51:35 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 109,
+                "fullname": "Shai Hope",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-04-29 07:52:38 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 109,
+                "fullname": "Shai Hope",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-04-29 07:54:27 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-04-29 07:54:56 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-04-29 07:55:34 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-04-29 07:56:22 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "DC 54.52%",
+                "over_info": "DC 42/3",
+                "forecast": "Live Forecast: DC 182"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-04-29 07:57:55 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-04-29 07:58:22 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-04-29 07:59:19 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-04-29 08:00:11 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-04-29 08:01:03 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-04-29 08:01:53 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "DC 74.43%",
+                "over_info": "DC 58/3",
+                "forecast": "Live Forecast: DC 202"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-04-29 08:03:23 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-04-29 08:03:26 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-04-29 08:04:09 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-04-29 08:05:04 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-04-29 08:05:07 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-04-29 08:06:17 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "DC 77.68%",
+                "over_info": "DC 67/3",
+                "forecast": "Live Forecast: DC 206"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-04-29 08:09:45 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-04-29 08:10:16 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-04-29 08:10:47 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-04-29 08:11:48 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 23910,
+                "fullname": "Abhishek Porel",
+                "battingstyle": null
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-04-29 08:13:43 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-04-29 08:14:18 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "DC 60.97%",
+                "over_info": "DC 68/4",
+                "forecast": "Live Forecast: DC 188"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-04-29 08:15:17 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-04-29 08:16:04 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-04-29 08:16:33 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-04-29 08:17:00 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-04-29 08:17:33 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-04-29 08:18:37 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "DC 54.52%",
+                "over_info": "DC 73/4",
+                "forecast": "Live Forecast: DC 182"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-04-29 08:19:49 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-04-29 08:20:08 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-04-29 08:20:50 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-04-29 08:21:27 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-04-29 08:21:58 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-04-29 08:22:28 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "DC 54.52%",
+                "over_info": "DC 80/4",
+                "forecast": "Live Forecast: DC 182"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-04-29 08:23:49 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-04-29 08:24:46 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-04-29 08:25:34 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-04-29 08:26:13 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-04-29 08:27:02 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-04-29 08:27:45 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "DC 63.05%",
+                "over_info": "DC 93/4",
+                "forecast": "Live Forecast: DC 190"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-04-29 08:30:41 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 53,
+                "fullname": "Rishabh Pant",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-04-29 08:31:13 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 25797,
+                "fullname": "Tristan Stubbs",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-04-29 08:31:20 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 25797,
+                "fullname": "Tristan Stubbs",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-04-29 08:31:53 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-04-29 08:32:11 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-04-29 08:32:41 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "DC 50.15%",
+                "over_info": "DC 94/5",
+                "forecast": "Live Forecast: DC 178"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-04-29 08:34:16 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 25797,
+                "fullname": "Tristan Stubbs",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-04-29 08:34:20 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-04-29 08:35:05 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 25797,
+                "fullname": "Tristan Stubbs",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-04-29 08:35:39 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-04-29 08:35:42 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 25797,
+                "fullname": "Tristan Stubbs",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-04-29 08:36:21 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 25797,
+                "fullname": "Tristan Stubbs",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 54.2%",
+                "over_info": "DC 99/5",
+                "forecast": "Live Forecast: DC 174"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-04-29 08:38:17 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 25797,
+                "fullname": "Tristan Stubbs",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-04-29 08:39:38 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9450,
+                "fullname": "Kumar Kushagra",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-04-29 08:39:53 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-04-29 08:40:14 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-04-29 08:40:39 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-04-29 08:41:06 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 9450,
+                "fullname": "Kumar Kushagra",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 74.39%",
+                "over_info": "DC 101/6",
+                "forecast": "Live Forecast: DC 153"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-04-29 08:42:08 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-04-29 08:42:41 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-04-29 08:43:04 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-04-29 08:44:44 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-04-29 08:44:57 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-04-29 08:45:44 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "bowlingstyle": "right-arm-offbreak"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 80.24%",
+                "over_info": "DC 106/7",
+                "forecast": "Live Forecast: DC 145"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-04-29 08:46:54 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-04-29 08:47:10 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-04-29 08:48:05 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 9450,
+                "fullname": "Kumar Kushagra",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-04-29 08:51:19 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-04-29 08:51:24 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-04-29 08:51:51 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4877,
+                "fullname": "Varun Chakaravarthy",
+                "bowlingstyle": "legbreak-googly"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 83.9%",
+                "over_info": "DC 112/8",
+                "forecast": "Live Forecast: DC 139"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-04-29 08:53:40 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-04-29 08:54:29 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-04-29 08:54:43 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-04-29 08:55:31 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 15.5,
+            "updated_at": "2024-04-29 08:56:09 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-04-29 08:57:04 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "5 Wides",
+                "runs": 5,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-04-29 08:57:24 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 36,
+                "fullname": "Mitchell Starc",
+                "bowlingstyle": "left-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 72.75%",
+                "over_info": "DC 128/8",
+                "forecast": "Live Forecast: DC 155"
+            }
+        },
+        {
+            "ball": 16.1,
+            "updated_at": "2024-04-29 09:02:08 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.2,
+            "updated_at": "2024-04-29 09:24:35 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.3,
+            "updated_at": "2024-04-29 09:02:48 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.4,
+            "updated_at": "2024-04-29 09:03:31 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.5,
+            "updated_at": "2024-04-29 09:04:01 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.6,
+            "updated_at": "2024-04-29 09:04:45 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 64.55%",
+                "over_info": "DC 136/8",
+                "forecast": "Live Forecast: DC 164"
+            }
+        },
+        {
+            "ball": 17.1,
+            "updated_at": "2024-04-29 09:11:01 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.2,
+            "updated_at": "2024-04-29 09:11:16 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.3,
+            "updated_at": "2024-04-29 09:11:20 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.4,
+            "updated_at": "2024-04-29 09:11:24 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.5,
+            "updated_at": "2024-04-29 09:11:27 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 17.6,
+            "updated_at": "2024-04-29 09:11:33 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 24882,
+                "fullname": "Vaibhav Arora",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 69.27%",
+                "over_info": "DC 139/8",
+                "forecast": "Live Forecast: DC 159"
+            }
+        },
+        {
+            "ball": 18.1,
+            "updated_at": "2024-04-29 09:11:57 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.2,
+            "updated_at": "2024-04-29 09:12:14 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.3,
+            "updated_at": "2024-04-29 09:13:18 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.4,
+            "updated_at": "2024-04-29 09:13:25 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.5,
+            "updated_at": "2024-04-29 09:14:31 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.6,
+            "updated_at": "2024-04-29 09:15:06 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 18.6,
+            "updated_at": "2024-04-29 09:15:40 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 49634,
+                "fullname": "Harshit Rana",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 74.39%",
+                "over_info": "DC 143/9",
+                "forecast": "Live Forecast: DC 153"
+            }
+        },
+        {
+            "ball": 19.1,
+            "updated_at": "2024-04-29 09:16:57 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.2,
+            "updated_at": "2024-04-29 09:17:45 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.3,
+            "updated_at": "2024-04-29 09:17:47 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.4,
+            "updated_at": "2024-04-29 09:18:28 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.5,
+            "updated_at": "2024-04-29 09:20:39 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            }
+        },
+        {
+            "ball": 19.6,
+            "updated_at": "2024-04-29 09:20:54 PM IST",
+            "id": 3,
+            "name": "Delhi Capitals",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 127,
+                "fullname": "Andre Russell",
+                "bowlingstyle": "right-arm-fast"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 74.39%",
+                "over_info": "DC 153/9",
+                "forecast": "Live Forecast: DC 153"
+            }
+        },
+        {
+            "ball": 0.1,
+            "updated_at": "2024-04-29 09:36:17 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.2,
+            "updated_at": "2024-04-29 09:36:56 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-04-29 09:39:41 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 No Ball + 1 Leg Bye",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-04-29 09:40:06 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Wide",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": false,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.3,
+            "updated_at": "2024-04-29 09:40:11 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.4,
+            "updated_at": "2024-04-29 09:40:44 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.5,
+            "updated_at": "2024-04-29 09:41:04 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Leg Bye",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 1,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 0.6,
+            "updated_at": "2024-04-29 09:41:46 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 86.56%",
+                "over_info": "KKR 23/0",
+                "forecast": "KKR needed 131 runs from 114 balls"
+            }
+        },
+        {
+            "ball": 1.1,
+            "updated_at": "2024-04-29 09:43:28 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.2,
+            "updated_at": "2024-04-29 09:44:11 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.3,
+            "updated_at": "2024-04-29 09:46:28 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.4,
+            "updated_at": "2024-04-29 09:47:00 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.5,
+            "updated_at": "2024-04-29 09:47:19 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 1.6,
+            "updated_at": "2024-04-29 09:48:21 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 86.62%",
+                "over_info": "KKR 27/0",
+                "forecast": "KKR needed 127 runs from 108 balls"
+            }
+        },
+        {
+            "ball": 2.1,
+            "updated_at": "2024-04-29 09:49:25 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.2,
+            "updated_at": "2024-04-29 09:50:00 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.3,
+            "updated_at": "2024-04-29 09:50:44 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.4,
+            "updated_at": "2024-04-29 09:51:23 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.5,
+            "updated_at": "2024-04-29 09:52:05 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 2.6,
+            "updated_at": "2024-04-29 09:53:02 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 90.8%",
+                "over_info": "KKR 40/0",
+                "forecast": "KKR needed 114 runs from 102 balls"
+            }
+        },
+        {
+            "ball": 3.1,
+            "updated_at": "2024-04-29 09:54:33 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.2,
+            "updated_at": "2024-04-29 09:56:07 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.3,
+            "updated_at": "2024-04-29 09:56:13 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.4,
+            "updated_at": "2024-04-29 09:56:19 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.5,
+            "updated_at": "2024-04-29 09:57:25 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 3.6,
+            "updated_at": "2024-04-29 09:58:15 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 90.64%",
+                "over_info": "KKR 46/0",
+                "forecast": "KKR needed 108 runs from 96 balls"
+            }
+        },
+        {
+            "ball": 4.1,
+            "updated_at": "2024-04-29 09:59:27 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.2,
+            "updated_at": "2024-04-29 10:00:01 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.3,
+            "updated_at": "2024-04-29 10:00:56 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.4,
+            "updated_at": "2024-04-29 10:02:00 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.5,
+            "updated_at": "2024-04-29 10:02:03 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 4.6,
+            "updated_at": "2024-04-29 10:03:01 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 95.07%",
+                "over_info": "KKR 61/0",
+                "forecast": "KKR needed 93 runs from 90 balls"
+            }
+        },
+        {
+            "ball": 5.1,
+            "updated_at": "2024-04-29 10:04:27 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.2,
+            "updated_at": "2024-04-29 10:05:04 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.3,
+            "updated_at": "2024-04-29 10:05:25 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.4,
+            "updated_at": "2024-04-29 10:06:08 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.5,
+            "updated_at": "2024-04-29 10:08:49 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 5.6,
+            "updated_at": "2024-04-29 10:09:33 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 322,
+                "fullname": "Khaleel Ahmed",
+                "bowlingstyle": "left-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 98.14%",
+                "over_info": "KKR 79/0",
+                "forecast": "KKR needed 75 runs from 84 balls"
+            }
+        },
+        {
+            "ball": 6.1,
+            "updated_at": "2024-04-29 10:15:41 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 758,
+                "fullname": "Sunil Narine",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.2,
+            "updated_at": "2024-04-29 10:16:13 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "3 Runs",
+                "runs": 3,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.3,
+            "updated_at": "2024-04-29 10:16:16 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.4,
+            "updated_at": "2024-04-29 10:16:18 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.5,
+            "updated_at": "2024-04-29 10:16:54 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 6.6,
+            "updated_at": "2024-04-29 10:17:15 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 97.86%",
+                "over_info": "KKR 84/1",
+                "forecast": "KKR needed 70 runs from 78 balls"
+            }
+        },
+        {
+            "ball": 7.1,
+            "updated_at": "2024-04-29 10:18:43 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 7.2,
+            "updated_at": "2024-04-29 10:18:46 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 7.3,
+            "updated_at": "2024-04-29 10:19:00 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 7.4,
+            "updated_at": "2024-04-29 10:19:19 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 7.5,
+            "updated_at": "2024-04-29 10:20:00 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 7.6,
+            "updated_at": "2024-04-29 10:21:13 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 98.71%",
+                "over_info": "KKR 96/1",
+                "forecast": "KKR needed 58 runs from 72 balls"
+            }
+        },
+        {
+            "ball": 8.1,
+            "updated_at": "2024-04-29 10:22:07 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Clean Bowled",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3431,
+                "fullname": "Philip Salt",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.2,
+            "updated_at": "2024-04-29 10:24:23 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.3,
+            "updated_at": "2024-04-29 10:24:27 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.4,
+            "updated_at": "2024-04-29 10:24:33 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.5,
+            "updated_at": "2024-04-29 10:24:37 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 8.6,
+            "updated_at": "2024-04-29 10:24:39 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 97.92%",
+                "over_info": "KKR 100/2",
+                "forecast": "KKR needed 54 runs from 66 balls"
+            }
+        },
+        {
+            "ball": 9.1,
+            "updated_at": "2024-04-29 10:27:10 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.2,
+            "updated_at": "2024-04-29 10:27:22 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "Catch Out",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": true,
+                "ball": true,
+                "out": true
+            },
+            "batsman": {
+                "id": 3215,
+                "fullname": "Rinku Singh",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.3,
+            "updated_at": "2024-04-29 10:28:46 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.4,
+            "updated_at": "2024-04-29 10:29:42 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.5,
+            "updated_at": "2024-04-29 10:31:22 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 9.6,
+            "updated_at": "2024-04-29 10:31:25 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 676,
+                "fullname": "Lizaad Williams",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 96.58%",
+                "over_info": "KKR 104/3",
+                "forecast": "KKR needed 50 runs from 60 balls"
+            }
+        },
+        {
+            "ball": 10.1,
+            "updated_at": "2024-04-29 10:32:40 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.2,
+            "updated_at": "2024-04-29 10:32:43 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.3,
+            "updated_at": "2024-04-29 10:33:22 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.4,
+            "updated_at": "2024-04-29 10:33:50 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.5,
+            "updated_at": "2024-04-29 10:34:51 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 10.6,
+            "updated_at": "2024-04-29 10:35:00 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 98.04%",
+                "over_info": "KKR 113/3",
+                "forecast": "KKR needed 41 runs from 54 balls"
+            }
+        },
+        {
+            "ball": 11.1,
+            "updated_at": "2024-04-29 10:36:39 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 11.2,
+            "updated_at": "2024-04-29 10:36:42 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 11.3,
+            "updated_at": "2024-04-29 10:36:45 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 11.4,
+            "updated_at": "2024-04-29 10:37:24 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 11.5,
+            "updated_at": "2024-04-29 10:37:29 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 11.6,
+            "updated_at": "2024-04-29 10:38:02 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 98.85%",
+                "over_info": "KKR 121/3",
+                "forecast": "KKR needed 33 runs from 48 balls"
+            }
+        },
+        {
+            "ball": 12.1,
+            "updated_at": "2024-04-29 10:39:43 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.2,
+            "updated_at": "2024-04-29 10:40:28 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.3,
+            "updated_at": "2024-04-29 10:41:23 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.4,
+            "updated_at": "2024-04-29 10:42:13 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.5,
+            "updated_at": "2024-04-29 10:43:04 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 12.6,
+            "updated_at": "2024-04-29 10:43:39 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 99.48%",
+                "over_info": "KKR 130/3",
+                "forecast": "KKR needed 24 runs from 42 balls"
+            }
+        },
+        {
+            "ball": 13.1,
+            "updated_at": "2024-04-29 10:46:55 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 13.2,
+            "updated_at": "2024-04-29 10:47:20 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "2 Runs",
+                "runs": 2,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 13.3,
+            "updated_at": "2024-04-29 10:47:56 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 13.4,
+            "updated_at": "2024-04-29 10:48:02 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 13.5,
+            "updated_at": "2024-04-29 10:49:33 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 13.6,
+            "updated_at": "2024-04-29 10:49:36 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 99.49%",
+                "over_info": "KKR 134/3",
+                "forecast": "KKR needed 20 runs from 36 balls"
+            }
+        },
+        {
+            "ball": 14.1,
+            "updated_at": "2024-04-29 10:50:17 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "FOUR",
+                "runs": 4,
+                "four": true,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 14.2,
+            "updated_at": "2024-04-29 10:51:47 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 14.3,
+            "updated_at": "2024-04-29 10:51:50 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 14.4,
+            "updated_at": "2024-04-29 10:51:52 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 14.5,
+            "updated_at": "2024-04-29 10:51:56 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            }
+        },
+        {
+            "ball": 14.6,
+            "updated_at": "2024-04-29 10:51:58 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 815,
+                "fullname": "Axar Patel",
+                "bowlingstyle": "slow-left-arm-orthodox"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 99.67%",
+                "over_info": "KKR 141/3",
+                "forecast": "KKR needed 13 runs from 30 balls"
+            }
+        },
+        {
+            "ball": 15.1,
+            "updated_at": "2024-04-29 10:53:27 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 15.2,
+            "updated_at": "2024-04-29 10:59:17 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 15.3,
+            "updated_at": "2024-04-29 10:54:04 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 15.4,
+            "updated_at": "2024-04-29 10:55:10 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 15.5,
+            "updated_at": "2024-04-29 10:55:49 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "1 Run",
+                "runs": 1,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            }
+        },
+        {
+            "ball": 15.6,
+            "updated_at": "2024-04-29 11:00:07 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 2813,
+                "fullname": "Shreyas Iyer",
+                "battingstyle": "right-hand-bat"
+            },
+            "bowler": {
+                "id": 56,
+                "fullname": "Kuldeep Yadav",
+                "bowlingstyle": "left-arm-chinaman"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 99.92%",
+                "over_info": "KKR 151/3",
+                "forecast": "KKR needed 3 runs from 24 balls"
+            }
+        },
+        {
+            "ball": 16.1,
+            "updated_at": "2024-04-29 10:57:57 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.2,
+            "updated_at": "2024-04-29 10:58:20 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "No Run",
+                "runs": 0,
+                "four": false,
+                "six": false,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            }
+        },
+        {
+            "ball": 16.3,
+            "updated_at": "2024-04-29 10:59:00 PM IST",
+            "id": 5,
+            "name": "Kolkata Knight Riders",
+            "score": {
+                "name": "SIX",
+                "runs": 6,
+                "four": false,
+                "six": true,
+                "bye": 0,
+                "leg_bye": 0,
+                "is_wicket": false,
+                "ball": true,
+                "out": false
+            },
+            "batsman": {
+                "id": 26042,
+                "fullname": "Venkatesh Iyer",
+                "battingstyle": "left-hand-bat"
+            },
+            "bowler": {
+                "id": 4898,
+                "fullname": "Rasikh Salam Dar",
+                "bowlingstyle": "right-arm-fast-medium"
+            },
+            "forecast_data": {
+                "win_probability": "KKR 100%",
+                "over_info": "KKR 157/3",
+                "forecast": "KKR won by 7 wickets (with 21 balls remaining)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,613 @@
+[
+    {
+        "last_update": "2024-03-23 07:24:10 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.85
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.98
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 07:30:03 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 2.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 07:34:37 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.87
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.95
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 07:39:51 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.57
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 07:45:19 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.8
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 07:49:45 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.87
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.95
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 07:55:17 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 2.2
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.67
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 07:58:39 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 2.15
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.71
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 08:05:20 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 2.2
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.67
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 08:09:35 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 2.2
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.67
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 08:14:52 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 2.65
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.48
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 08:19:21 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 2.4
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.57
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 08:25:19 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 2.0
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.83
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 08:30:01 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.83
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 08:32:22 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.71
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.15
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 08:39:33 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.8
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 08:45:22 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 2.15
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.71
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 08:49:44 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.95
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 1.87
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 08:55:08 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.69
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 08:59:30 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.59
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 09:03:02 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.4
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 3.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 09:09:12 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.36
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 3.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 09:13:46 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.2
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 4.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 09:19:37 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.27
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 3.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 09:24:23 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.27
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 3.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 09:30:35 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.27
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 3.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 09:35:13 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.31
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 3.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 09:39:54 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.42
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.85
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 09:44:40 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.4
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 3.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 09:50:33 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.43
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 09:55:21 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.57
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 10:00:06 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.67
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.15
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 10:04:57 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.59
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 10:09:51 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.57
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.4
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 10:14:53 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.43
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.75
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 10:19:43 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.48
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.7
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 10:24:32 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.67
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 10:29:20 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.67
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 2.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 10:35:26 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.36
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 3.2
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 10:40:15 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.17
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 5.3
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 10:45:02 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.14
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 5.8
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 10:49:48 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.06
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 8.5
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 10:54:34 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.02
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 14.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 11:00:24 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.02
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 11.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 11:04:58 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.01
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 31.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 11:09:36 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.07
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 8.0
+            }
+        ]
+    },
+    {
+        "last_update": "2024-03-23 11:15:24 PM IST",
+        "odds": [
+            {
+                "name": "Kolkata Knight Riders",
+                "price": 1.33
+            },
+            {
+                "name": "Sunrisers Hyderabad",
+                "price": 3.3
+            }
+        ]
+    }
+]
