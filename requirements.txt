@@ -1,0 +1,9 @@
+transformers
+torch
+pandas
+openpyxl
+accelerate
+tqdm
+psutil
+matplotlib
+bitsandbytes  # For 4-bit quantization support
