@@ -1,3 +1,24 @@
-.DS_Store
+# Environment variables
 .env
-.venv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Dependencies
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Output files
+*.xlsx
+*.csv
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store

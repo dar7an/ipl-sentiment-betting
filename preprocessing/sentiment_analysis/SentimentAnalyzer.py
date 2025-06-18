@@ -1,19 +1,20 @@
-import csv
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
-import os
-import pickle
-import import_ipynb
-import sys
 
-#separate into its own file later maybe?
-# 
-class SentimentAnalyzer():
-    #static
-    sid = SentimentIntensityAnalyzer()
+sid = SentimentIntensityAnalyzer()
 
-    def sentimentScore(comment):
-        if (type(comment) != str):
-            return 0
-        
-        sentiment_score = SentimentAnalyzer.sid.polarity_scores(comment)['compound']
-        return sentiment_score
+
+def get_sentiment_score(comment: str) -> float:
+    """
+    Calculates the compound sentiment score for a given comment using VADER.
+
+    Args:
+        comment: The text comment to analyze.
+
+    Returns:
+        The compound sentiment score, a float between -1 and 1.
+        Returns 0.0 if the input is not a string.
+    """
+    if not isinstance(comment, str):
+        return 0.0
+
+    return sid.polarity_scores(comment)["compound"]

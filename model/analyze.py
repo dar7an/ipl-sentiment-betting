@@ -1,497 +1,268 @@
 # -*- coding: utf-8 -*-
 """
-12th Man Insights - IPL Betting Analysis Script (v3)
+12th Man Insights - IPL Match Analysis Tool (v9 - Full API)
 
-This script analyzes IPL match data chunks (comments, odds, ball-by-ball)
-to generate sentiment analysis and betting opportunity insights using a
-causal language model (Google Gemma).
+This script provides high-quality, data-driven analysis of IPL matches for sports traders.
+It synthesizes on-field events, odds movements, and fan sentiment into objective summaries
+by leveraging the power of Google's Gemini models via the AI Studio API.
 
-Processes ALL comments per chunk for sentiment.
-Uses the correct 'balls' key for ball-by-ball data.
+This version moves all analysis to the API to resolve dependency issues:
+- Full API Stack: Removes the local sentiment model. All analysis, including sentiment,
+  is now performed by the powerful `gemini-2.5-flash-preview-05-20` model.
+- Simplified Dependencies: Eliminates torch, transformers, and other complex local AI
+  libraries, fixing all environment-specific build errors.
+- Secure API Key Handling: Loads the Google AI API key from a `.env` file.
+- Professional Persona Prompting: The model is strictly instructed to act as a
+  professional sports data analyst, filter out noise, and focus on trader-centric signals.
 
 Dependencies:
-pip install torch transformers pandas openpyxl accelerate
-# Add 'bitsandbytes' if using quantization
+pip install pandas openpyxl tqdm praw python-dotenv requests nbformat nltk accelerate psutil google-generativeai
 """
 
 import os
 import gc
-import torch
 import pandas as pd
-from transformers import AutoModelForCausalLM, AutoTokenizer
+import argparse
+import json
+from dotenv import load_dotenv
+import google.generativeai as genai
+import time
 
 # --- Configuration ---
-
-# Set MPS high watermark ratio (adjust if needed, 0.0 means no limit)
 os.environ["PYTORCH_MPS_HIGH_WATERMARK_RATIO"] = "0.0"
+load_dotenv()
 
-MODEL_NAME = "google/gemma-3-4b-it"
-DATA_FILE_PATH = "/Users/darshan/Documents/GitHub/ipl-sentiment-betting/model/chunks/2.json"  # Make sure this path is correct
-
-# Token Limits (Adjust based on model and hardware capacity)
-MAX_INPUT_TOKENS = 128000
-MAX_NEW_TOKENS = 512
-
-# Processing Controls
-DEVICE_MAP = (
-    "auto"  # Use "auto" for Transformers to handle device placement (CPU/GPU/MPS)
-)
-
-# --- Model and Tokenizer Loading ---
-
-print(f"Loading model: {MODEL_NAME}...")
-try:
-    model = AutoModelForCausalLM.from_pretrained(
-        MODEL_NAME,
-        torch_dtype="auto",  # Use bfloat16 if available and supported
-        device_map=DEVICE_MAP,
-        # Add quantization config here if needed, e.g.:
-        # load_in_8bit=True # Requires bitsandbytes
-    )
-    tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-    print("Model and tokenizer loaded successfully.")
-except Exception as e:
-    print(f"Error loading model: {e}")
-    print("Please ensure the model name is correct and dependencies are installed.")
-    exit()
-
-# --- Helper Functions ---
-
-
-def clear_memory():
-    """Clears GPU cache and runs garbage collection."""
-    gc.collect()
-    if torch.cuda.is_available():
-        torch.cuda.empty_cache()
-    elif torch.backends.mps.is_available():
-        torch.mps.empty_cache()
-
-
-def generate_model_response(system_prompt, user_prompt):
+class MatchAnalyzer:
     """
-    Generates a response from the loaded causal LM.
-
-    Args:
-        system_prompt (str): The system prompt for the model.
-        user_prompt (str): The user prompt for the model.
-
-    Returns:
-        str: The generated response text, lowercased and stripped.
+    A class to encapsulate the entire IPL match analysis process, using the
+    Google AI API for all generative tasks.
     """
-    messages = [
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": user_prompt},
-    ]
 
-    # Prepare input text
-    try:
-        text = tokenizer.apply_chat_template(
-            messages, tokenize=False, add_generation_prompt=True
+    def __init__(self):
+        """
+        Initializes the analyzer, configuring the Google AI API client.
+        """
+        # --- Google AI API Setup ---
+        api_key = os.getenv("GOOGLE_API_KEY")
+        if not api_key:
+            raise ValueError("GOOGLE_API_KEY environment variable not found. Please create a .env file with your key.")
+        genai.configure(api_key=api_key)
+
+        system_prompt = (
+            "You are a professional sports-data analyst for a high-frequency trading firm. Your audience is expert cricket traders who need to cut through noise to find actionable signals. Your task is to provide objective, data-driven summaries of IPL match intervals.\n\n"
+            "**CRITICAL RULES:**\n"
+            "1. **ANALYZE ALL DATA:** You will be given on-field action, odds, and raw comments. Your summary MUST synthesize all three. Perform sentiment analysis on the comments as part of your task.\n"
+            "2. **ADHERE TO DATA:** Your analysis must be strictly based on the data provided. Do NOT invent information. If a data source is unavailable, you MUST state that.\n"
+            "3. **THINK LIKE A TRADER:** Focus on what matters: momentum shifts, significant player actions, odds movements, and the *substantive* meaning behind fan sentiment.\n"
+            "4. **FILTER SENTIMENT NOISE:** Acknowledge low-signal comments (memes, trolls), but base your sentiment analysis on the genuine reactions.\n"
+            "5. **MAINTAIN T20 CONTEXT:** Always interpret the data within the broader context of a T20 match (powerplay, middle overs, death overs).\n"
+            "6. **BE OBJECTIVE & CONCISE:** Use neutral, analytical language. Avoid hype. Use markdown for clarity."
         )
-    except Exception as e:
-        print(f"Error applying chat template: {e}")
-        return "Error: Could not format prompt."
-
-    # Tokenize and check length BEFORE sending to model
-    model_inputs = tokenizer(
-        [text],
-        return_tensors="pt",
-        max_length=MAX_INPUT_TOKENS,  # Truncate if exceeds limit
-        truncation=True,
-    )
-    input_token_count = model_inputs.input_ids.shape[1]
-
-    if input_token_count >= MAX_INPUT_TOKENS:
-        print(
-            f"Warning: Input length ({input_token_count}) was truncated to MAX_INPUT_TOKENS ({MAX_INPUT_TOKENS})."
+        
+        print("Initializing Google AI Generative Model...")
+        self.generative_model = genai.GenerativeModel(
+            model_name='gemini-2.5-flash-preview-05-20',
+            system_instruction=system_prompt
         )
-
-    model_inputs = model_inputs.to(model.device)
-
-    # Generate response
-    try:
-        with torch.no_grad():
-            generated_ids = model.generate(
-                **model_inputs,
-                max_new_tokens=MAX_NEW_TOKENS,
-                pad_token_id=tokenizer.eos_token_id,
-                # Use greedy decoding (do_sample=False) for deterministic output
-                do_sample=False,
-            )
-
-        # Decode only the newly generated tokens
-        generated_ids_only = generated_ids[:, model_inputs.input_ids.shape[1] :]
-        response = tokenizer.batch_decode(generated_ids_only, skip_special_tokens=True)
-        final_response = response[0].strip().lower()
-
-    except Exception as e:
-        print(f"Error during model generation: {e}")
-        final_response = "Error: Model generation failed."
-    finally:
-        # Clean up tensors and memory
-        del model_inputs, generated_ids, generated_ids_only
-        clear_memory()
-
-    return final_response
+        print("Google AI Model initialized successfully.")
 
 
-def analyze_sentiment(comment_text):
-    """
-    Analyzes the sentiment of a single comment.
-
-    Args:
-        comment_text (str): The text of the comment.
-
-    Returns:
-        str: 'positive', 'negative', or 'neutral'. Defaults to 'neutral' on error/unexpected output.
-    """
-    if not comment_text or not isinstance(comment_text, str):
-        return "neutral"  # Handle empty or invalid input
-
-    system_prompt = (
-        "You are a sentiment analysis expert focused on T20 cricket, specifically the IPL."
-        "Analyze the sentiment of the following comment from a live match thread."
-        "Classify the comment's sentiment towards one of the teams involved or the general state of the match."
-        "Answer ONLY with one word: 'positive', 'negative', or 'neutral'."
-    )
-    user_prompt = f'Comment: "{comment_text}"\nSentiment:'
-
-    sentiment = generate_model_response(system_prompt, user_prompt)
-
-    # Validate output
-    valid_sentiments = ["positive", "negative", "neutral"]
-    # Handle cases where the model might add punctuation or extra words
-    cleaned_sentiment = sentiment.split()[0].strip(".,!?") if sentiment else ""
-
-    if cleaned_sentiment not in valid_sentiments:
-        print(
-            f"Warning: Unexpected sentiment '{sentiment}' for comment: {comment_text[:50]}... Defaulting to neutral."
-        )
-        return "neutral"
-    return cleaned_sentiment
-
-
-# --- Data Summarization Functions ---
-
-
-def summarize_comments(comments):
-    """
-    Placeholder: Summarizes a list of comments.
-    Replace with actual summarization logic (e.g., sentiment counts, key topics).
-    """
-    if not comments:
-        return "No comments in this interval."
-    num_comments = len(comments)
-    # Example: Just show the first few comments (inefficient for LLM)
-    preview = " | ".join([c.get("comment", "")[:50] + "..." for c in comments[:3]])
-    return f"~{num_comments} comments. Start: {preview}"
-
-
-def format_odds(odds_data):
-    """
-    Formats odds data from the chunk structure.
-    """
-    if not odds_data or not isinstance(odds_data, list) or not odds_data[0].get("odds"):
-        return "No odds data available."
-    # Example: Extract latest odds prices
-    try:
-        latest_odds_entry = odds_data[0][
-            "odds"
-        ]  # Assuming the first entry is the latest
-        odds_str = ", ".join([f"{o['name']}: {o['price']}" for o in latest_odds_entry])
-        update_time = odds_data[0].get("last_update", "unknown time")
-        return f"Odds ({update_time}): {odds_str}"
-    except (KeyError, IndexError, TypeError) as e:
-        print(f"Warning: Could not parse odds data: {e} - Data: {odds_data}")
-        return "Could not parse odds data."
-
-
-def summarize_ball_by_ball(balls_data):
-    """
-    Summarizes key events from the ball-by-ball data list ('balls' key) for the interval.
-    """
-    if not balls_data or not isinstance(balls_data, list):
-        return "No balls recorded in this interval."
-
-    total_runs = 0
-    wickets = 0
-    fours = 0
-    sixes = 0
-    wides = 0
-    no_balls = 0  # Assuming 'noball' might be a score name or flag if present
-    dots = 0
-    valid_balls_count = 0
-    batting_team = "Unknown"
-    bowler = "Unknown"
-    batsmen = set()
-
-    for ball_info in balls_data:
+    def generate_api_response(self, user_prompt):
+        """Generates a response from the Google AI API."""
         try:
-            score_info = ball_info.get("score", {})
-            runs = score_info.get("runs", 0)
-            is_wicket = score_info.get("is_wicket", False)
-            is_four = score_info.get("four", False)
-            is_six = score_info.get("six", False)
-            is_valid_ball = score_info.get(
-                "ball", False
-            )  # Counts towards over completion
-            score_name = score_info.get("name", "").lower()
-
-            total_runs += runs
-            if is_wicket:
-                wickets += 1
-            if is_four:
-                fours += 1
-            if is_six:
-                sixes += 1
-            if "wide" in score_name:
-                wides += 1
-            # Add check for no balls if data includes it
-            # if 'noball' in score_name: no_balls += 1
-            if is_valid_ball and runs == 0 and not is_wicket:
-                dots += 1  # Approx dot balls
-
-            if is_valid_ball:
-                valid_balls_count += 1
-
-            # Capture team, bowler, batsmen involved
-            if ball_info.get("name"):
-                batting_team = ball_info["name"]
-            if ball_info.get("bowler", {}).get("fullname"):
-                bowler = ball_info["bowler"]["fullname"]
-            if ball_info.get("batsman", {}).get("fullname"):
-                batsmen.add(ball_info["batsman"]["fullname"])
-
+            response = self.generative_model.generate_content(user_prompt)
+            return response.text.strip()
         except Exception as e:
-            print(f"Warning: Error processing ball data: {e} - Data: {ball_info}")
-            continue  # Skip malformed ball data
+            print(f"Error calling Google AI API: {e}")
+            return "Error: Could not generate a summary from the AI model."
 
-    batsmen_str = ", ".join(list(batsmen)) if batsmen else "Unknown"
-    summary = (
-        f"{valid_balls_count} balls bowled by {bowler} to {batsmen_str} ({batting_team} batting). "
-        f"Runs: {total_runs}, Wickets: {wickets}, Fours: {fours}, Sixes: {sixes}, "
-        f"Wides: {wides}, Dots: {dots}."
-    )
+    def format_odds(self, odds_data):
+        """Formats odds data from the chunk structure."""
+        if not odds_data or not isinstance(odds_data, list) or not odds_data[0].get("odds"):
+            return "No odds data available for this interval."
+        try:
+            latest_odds_entry = odds_data[0]["odds"]
+            odds_str = ", ".join([f"{o['name']}: {o['price']}" for o in latest_odds_entry])
+            update_time = odds_data[0].get("last_update", "unknown time")
+            return f"Latest odds ({update_time}): {odds_str}"
+        except (KeyError, IndexError, TypeError) as e:
+            print(f"Warning: Could not parse odds data: {e} - Data: {odds_data}")
+            return "Could not parse odds data."
 
-    # Add forecast if available in the last ball data
-    if balls_data and balls_data[-1].get("forecast_data"):
-        forecast = balls_data[-1]["forecast_data"]
-        win_prob = forecast.get("win_probability", "")
-        over_info = forecast.get("over_info", "")
-        forecast_score = forecast.get("forecast", "")
-        summary += (
-            f" End Interval Forecast: {win_prob} | {over_info} | {forecast_score}"
+    def summarize_ball_by_ball(self, balls_data, team1_info, team2_info):
+        """
+        Summarizes key events from the ball-by-ball data list ('balls' key),
+        including player-team associations.
+        """
+        if not balls_data or not isinstance(balls_data, list):
+            return "No balls recorded in this interval."
+        
+        player_to_team = {}
+        for player in team1_info.get("xi", []): player_to_team[player] = team1_info["name"]
+        for player in team2_info.get("xi", []): player_to_team[player] = team2_info["name"]
+
+        event_summary = []
+        total_runs, wickets, fours, sixes, wides, dots, valid_balls_count = (0, 0, 0, 0, 0, 0, 0)
+        batting_team_name = "Unknown"
+
+        for ball_info in balls_data:
+            try:
+                score_info = ball_info.get("score", {})
+                ball_num = ball_info.get("ball", "?")
+                runs = score_info.get("runs", 0)
+                is_wicket = score_info.get("is_wicket", False)
+                is_four = score_info.get("four", False)
+                is_six = score_info.get("six", False)
+                is_valid_ball = score_info.get("ball", False)
+                score_name = score_info.get("name", "").lower()
+                
+                batsman_name = ball_info.get("batsman", {}).get("fullname", "Unknown Batsman")
+                bowler_name = ball_info.get("bowler", {}).get("fullname", "Unknown Bowler")
+                batting_team_name = ball_info.get("name", batting_team_name)
+
+                batsman_team = player_to_team.get(batsman_name, "")
+                bowler_team = player_to_team.get(bowler_name, "")
+
+                batsman_str = f"{batsman_name} ({batsman_team})" if batsman_team else batsman_name
+                bowler_str = f"{bowler_name} ({bowler_team})" if bowler_team else bowler_name
+
+                total_runs += runs
+                if is_valid_ball: valid_balls_count += 1
+                if "wide" in score_name: wides += 1
+                
+                event_desc = None
+                if is_wicket:
+                    wickets += 1
+                    event_desc = f"WICKET at {ball_num}! {batsman_str} out b {bowler_str}."
+                elif is_six:
+                    sixes += 1
+                    event_desc = f"SIX at {ball_num}! by {batsman_str} off {bowler_str}."
+                elif is_four:
+                    fours += 1
+                    event_desc = f"FOUR at {ball_num}! by {batsman_str} off {bowler_str}."
+                elif is_valid_ball and runs == 0:
+                    dots += 1
+                
+                if event_desc: event_summary.append(event_desc)
+            except Exception as e:
+                print(f"Warning: Error processing ball data: {e} - Data: {ball_info}")
+                continue
+        
+        run_rate = (total_runs / (valid_balls_count / 6)) if valid_balls_count > 0 else 0
+        overall_summary = (
+            f"Summary for {batting_team_name}: {total_runs} runs from {valid_balls_count} balls "
+            f"(RR: {run_rate:.2f}). Wickets: {wickets}, Fours: {fours}, Sixes: {sixes}, Wides: {wides}, Dots: {dots}."
         )
+        
+        full_summary = overall_summary
+        if event_summary:
+            full_summary += " Key events: " + " | ".join(event_summary)
+        
+        return full_summary
 
-    return summary
+    def generate_match_update(self, ball_summary, odds_summary, comments, team1_name, team2_name):
+        """Generates a professional, data-driven summary of a match interval using the Google AI API."""
+        
+        data_points = []
+        if "No balls recorded" not in ball_summary:
+            data_points.append(f"### On-Field Action\n{ball_summary}")
+        
+        if "No odds data available" not in odds_summary:
+            data_points.append(f"### Odds Analysis\n{odds_summary}")
 
+        if comments:
+            comment_texts = json.dumps([c.get("comment", "") for c in comments if c.get("comment") and c.get("comment") != "[deleted]"], indent=2)
+            data_points.append(f"### Raw Fan Comments (for sentiment analysis)\n{comment_texts}")
+        
+        if not data_points:
+            return "No new data available in this interval to generate an update."
 
-# --- Betting Analysis Function ---
+        user_prompt_content = "\n\n".join(data_points)
+        user_prompt = f"""
+        **Match Interval Report**
+        **Teams:** {team1_name} vs {team2_name}
 
+        {user_prompt_content}
 
-def analyze_betting_opportunity(chunk, team1_info, team2_info):
-    """
-    Analyzes a data chunk to identify potential betting opportunities.
+        **Your Task:**
+        Distill the provided data into a concise summary for a professional cricket trader. Analyze the on-field action in the context of the T20 game state, connect it to any odds movements, and perform sentiment analysis on the raw comments to summarize the *substantive* fan sentiment, filtering out the noise. Adhere strictly to your role and rules.
+        """
+        
+        response = self.generate_api_response(user_prompt)
+        
+        return response.strip()
 
-    Args:
-        chunk (dict): The data chunk containing comments, odds, balls.
-        team1_info (dict): Dictionary with team 1 name and playing XI list.
-        team2_info (dict): Dictionary with team 2 name and playing XI list.
+    def process_match_data(self, match_data, team1_info, team2_info):
+        """Processes all data chunks for a match."""
+        all_match_updates = []
 
-    Returns:
-        str: The model's analysis of the betting opportunity.
-    """
-    team1_name = team1_info.get("name", "Team 1")
-    team1_xi_str = ", ".join(team1_info.get("xi", ["Not Available"]))
-    team2_name = team2_info.get("name", "Team 2")
-    team2_xi_str = ", ".join(team2_info.get("xi", ["Not Available"]))
+        chunks = match_data.get('chunks', {})
+        for i, chunk in enumerate(chunks):
+            chunk_id = chunk.get("name", f"chunk_{i+1}")
+            print(f"\n--- Processing Chunk {i+1}/{len(chunks)} ({chunk_id}) ---")
 
-    system_prompt = (
-        f"You are a professional T20 cricket bettor analyzing an ongoing IPL match between {team1_name} and {team2_name}.\n"
-        f"{team1_name} Playing XI: {team1_xi_str}\n"
-        f"{team2_name} Playing XI: {team2_xi_str}\n"
-        "Your goal is to identify profitable betting opportunities based on real-time data feeds within a short interval."
-        "Analyze the provided sentiment summary, odds, and key match events summary from the ball-by-ball data."
-        "Think step-by-step: 1. Assess fan sentiment summary. 2. Evaluate key match events summary. 3. Consider the current odds. 4. Conclude if there's a value bet."
-        f"If you recommend a bet, clearly state the team ({team1_name} or {team2_name}) and provide concise reasoning based ONLY on the data provided."
-        "If no clear opportunity exists, state 'No bet recommended' and briefly explain why (e.g., odds too low, situation unclear)."
-        "Keep your final reasoning and conclusion under 100 words."
-    )
+            # Prepare data for the API
+            comments_in_chunk = chunk.get("comments", [])
+            odds_summary = self.format_odds(chunk.get("odds"))
+            ball_summary = self.summarize_ball_by_ball(chunk.get("balls"), team1_info, team2_info)
+            
+            # Match Update Generation
+            update_text = self.generate_match_update(
+                ball_summary, odds_summary, comments_in_chunk, team1_info['name'], team2_info['name']
+            )
+            print(f"  - Model Update: {update_text.replace(chr(10), ' ')[0:100]}...")
 
-    # Prepare summaries
-    comments_summary = summarize_comments(chunk.get("comments", []))
-    odds_summary = format_odds(chunk.get("odds", []))
-    # *** Use the correct key 'balls' here ***
-    bbb_summary = summarize_ball_by_ball(chunk.get("balls", []))
+            all_match_updates.append({
+                "chunk_id": chunk_id,
+                "ball_by_ball_summary": ball_summary,
+                "odds_summary": odds_summary,
+                "analysis_update": update_text,
+            })
+            
+            # Add a delay to respect API rate limits
+            time.sleep(1)
 
-    user_prompt = f"""Data for this interval:
-    Sentiment Summary: {comments_summary}
-    Current Odds: {odds_summary}
-    Recent Match Events (Ball-by-ball summary): {bbb_summary}
+        updates_df = pd.DataFrame(all_match_updates)
+        return updates_df
 
-    Analysis and Betting Recommendation:"""
-
-    print("Analyzing betting opportunity...")
-    betting_opportunity = generate_model_response(system_prompt, user_prompt)
-    print(f"Betting analysis result: {betting_opportunity}")
-    return betting_opportunity
-
-
-# --- Main Processing Function ---
-
-
-def process_match_data(chunks, team1_info, team2_info):
-    """
-    Processes all data chunks for a match. Analyzes sentiment for ALL comments.
-
-    Args:
-        chunks (list): A list of data chunk dictionaries.
-        team1_info (dict): Information for team 1.
-        team2_info (dict): Information for team 2.
-
-    Returns:
-        tuple: (pandas.DataFrame, pandas.DataFrame) containing sentiments and betting opportunities.
-    """
-    all_sentiments = []
-    all_betting_opportunities = []
-    total_chunks = len(chunks)
-
-    for i, chunk in enumerate(chunks):
-        print(f"\n--- Processing Chunk {i+1}/{total_chunks} ---")
-
-        # 1. Analyze Sentiment for ALL comments in the chunk
-        comments_in_chunk = chunk.get("comments", [])
-        print(f"Analyzing sentiment for {len(comments_in_chunk)} comments...")
-        # Iterate through ALL comments, no slicing
-        for comment_data in comments_in_chunk:
-            comment_text = comment_data.get("comment", "")
-            if comment_text and comment_text != "[deleted]":  # Skip deleted comments
-                sentiment = analyze_sentiment(comment_text)
-                all_sentiments.append(
-                    {
-                        "chunk_id": i,
-                        "comment": comment_text,
-                        "sentiment": sentiment,
-                        "upvotes": comment_data.get("upvotes", 0),  # Store upvotes too
-                    }
-                )
-
-        # 2. Analyze Betting Opportunity for the chunk
-        # Ensure team1_info and team2_info are passed correctly
-        betting_opportunity = analyze_betting_opportunity(chunk, team1_info, team2_info)
-        all_betting_opportunities.append(
-            {
-                "chunk_id": i,
-                "start_time": chunk.get("start_time", "N/A"),
-                "end_time": chunk.get("end_time", "N/A"),
-                "betting_opportunity_analysis": betting_opportunity,
-            }
-        )
-
-        # Optional: Clear memory more aggressively if running into issues
-        # print("Clearing memory after chunk...")
-        # clear_memory()
-
-    sentiments_df = pd.DataFrame(all_sentiments)
-    betting_opportunities_df = pd.DataFrame(all_betting_opportunities)
-
-    return sentiments_df, betting_opportunities_df
-
-
-# --- Main Execution Block ---
-
-if __name__ == "__main__":
-    print("Starting 12th Man Insights Analysis...")
-
-    # --- Load Data ---
+def main(input_path, output_path):
+    """Main function to run the enhanced analysis."""
     try:
-        df_raw = pd.read_json(DATA_FILE_PATH)
-        if "chunks" not in df_raw.columns:
-            raise ValueError("JSON file must contain a 'chunks' column/key.")
-        match_chunks = df_raw["chunks"].tolist()
-        print(f"Loaded {len(match_chunks)} data chunks from {DATA_FILE_PATH}")
-    except FileNotFoundError:
-        print(f"Error: Data file not found at {DATA_FILE_PATH}")
-        exit()
+        analyzer = MatchAnalyzer()
+    except Exception as e:
+        print(f"Failed to initialize analyzer: {e}")
+        return
+
+    print(f"Processing {input_path}...")
+    try:
+        with open(input_path, 'r') as f:
+            match_data = json.load(f)
     except Exception as e:
         print(f"Error reading or parsing JSON file: {e}")
-        exit()
+        return
 
-    # --- Define Team Info (Replace/Enhance with dynamic loading) ---
-    # !! IMPORTANT: This is hardcoded for the PBKS vs DC match example. !!
-    pbks_info = {
-        "name": "Punjab Kings",
-        "xi": [
-            "S Dhawan",
-            "JM Bairstow",
-            "LS Livingstone",
-            "JM Sharma",
-            "SM Curran",
-            "HV Patel",
-            "Harpreet Brar",
-            "Shashank Singh",
-            "K Rabada",
-            "RD Chahar",
-            "Arshdeep Singh",
-        ],
-    }
-    dc_info = {
-        "name": "Delhi Capitals",
-        "xi": [
-            "MR Marsh",
-            "DA Warner",
-            "SD Hope",
-            "RR Pant",
-            "T Stubbs",
-            "AR Patel",
-            "Sumit Kumar",
-            "Kuldeep Yadav",
-            "RK Bhui",
-            "KK Ahmed",
-            "I Sharma",
-        ],
-    }
-
-    # --- Assign Teams (Hardcoded for this example) ---
-    # Assuming for 2.json, PBKS is Team 1 and DC is Team 2.
-    # TODO: Add logic here to determine team1/team2 based on file metadata or content if needed.
-    team1_info = pbks_info
-    team2_info = dc_info
-    print(f"Assigned Team 1: {team1_info['name']}, Team 2: {team2_info['name']}")
-
-    # --- Process Data ---
-    print("\nStarting chunk processing...")
-    # Pass the assigned team info dictionaries
-    sentiments_df, betting_opportunities_df = process_match_data(
-        match_chunks, team1_info, team2_info
+    # Attempt to dynamically load team info from the JSON structure
+    team1_info = match_data.get("team1_info", {"name": "Team 1", "xi": []})
+    team2_info = match_data.get("team2_info", {"name": "Team 2", "xi": []})
+    print(f"Loaded team info: {team1_info['name']} vs {team2_info['name']}")
+    
+    updates_df = analyzer.process_match_data(
+        match_data, team1_info, team2_info
     )
-    print("\nFinished processing all chunks.")
 
-    # --- Display Results ---
-    if not sentiments_df.empty:
-        print("\n--- Sentiment Analysis Results ---")
-        print("Overall Sentiment Distribution:")
-        print(sentiments_df["sentiment"].value_counts())
-        print("\nOverall Sentiment Distribution (%):")
-        print((sentiments_df["sentiment"].value_counts(normalize=True) * 100).round(2))
-        # Optional: Save sentiments
-        # sentiments_df.to_csv("sentiment_results.csv", index=False)
-        # print("\nSentiment results saved to sentiment_results.csv")
-    else:
-        print("\nNo sentiment results generated.")
-
-    if not betting_opportunities_df.empty:
-        print("\n--- Betting Opportunity Analysis Results ---")
-        # Display the analysis for each chunk
-        for index, row in betting_opportunities_df.iterrows():
-            print(
-                f"\nChunk {row['chunk_id']} ({row['start_time']} - {row['end_time']}):"
-            )
-            print(f"  Analysis: {row['betting_opportunity_analysis']}")
-        # Optional: Save betting opportunities
-        # betting_opportunities_df.to_csv("betting_results.csv", index=False)
-        # print("\nBetting results saved to betting_results.csv")
-    else:
-        print("\nNo betting opportunity results generated.")
+    print("\n--- Saving Results ---")
+    try:
+        with pd.ExcelWriter(output_path) as writer:
+            updates_df.to_excel(writer, sheet_name="Match_Updates", index=False)
+        print(f"Results saved to {output_path}")
+    except Exception as e:
+        print(f"Error saving results to Excel file: {e}")
 
     print("\nAnalysis complete.")
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Run IPL Match Analysis (v9 - Full API).")
+    parser.add_argument("input_path", type=str, help="Path to the input JSON chunk file.")
+    parser.add_argument("output_path", type=str, help="Path to save the output analysis Excel file.")
+    args = parser.parse_args()
+    main(args.input_path, args.output_path)
