@@ -16,11 +16,10 @@ This version moves all analysis to the API to resolve dependency issues:
   professional sports data analyst, filter out noise, and focus on trader-centric signals.
 
 Dependencies:
-pip install pandas openpyxl tqdm praw python-dotenv requests nbformat nltk accelerate psutil google-generativeai
+pip install pandas tqdm praw python-dotenv requests nbformat nltk accelerate psutil google-generativeai
 """
 
 import os
-import gc
 import pandas as pd
 import argparse
 import json
@@ -225,6 +224,30 @@ class MatchAnalyzer:
         updates_df = pd.DataFrame(all_match_updates)
         return updates_df
 
+def save_results_as_markdown(updates_df, output_path, team1_name, team2_name):
+    """Saves the analysis results to a Markdown file."""
+    print("\n--- Saving Results ---")
+    try:
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(f"# Match Analysis: {team1_name} vs {team2_name}\n\n")
+            
+            for _, row in updates_df.iterrows():
+                f.write(f"## Interval: {row['chunk_id']}\n\n")
+
+                f.write("### Ball-by-Ball Summary\n")
+                f.write(f"{row['ball_by_ball_summary']}\n\n")
+
+                f.write("### Odds Summary\n")
+                f.write(f"{row['odds_summary']}\n\n")
+
+                f.write("### AI-Generated Analysis\n")
+                f.write(f"{row['analysis_update']}\n\n")
+
+                f.write("---\n\n")
+        print(f"Results saved to {output_path}")
+    except Exception as e:
+        print(f"Error saving results to Markdown file: {e}")
+
 def main(input_path, output_path):
     """Main function to run the enhanced analysis."""
     try:
@@ -242,27 +265,22 @@ def main(input_path, output_path):
         return
 
     # Attempt to dynamically load team info from the JSON structure
-    team1_info = match_data.get("team1_info", {"name": "Team 1", "xi": []})
-    team2_info = match_data.get("team2_info", {"name": "Team 2", "xi": []})
+    match_info = match_data.get("match_info", {})
+    team1_info = match_info.get("team1", {"name": "Team 1", "xi": []})
+    team2_info = match_info.get("team2", {"name": "Team 2", "xi": []})
     print(f"Loaded team info: {team1_info['name']} vs {team2_info['name']}")
     
     updates_df = analyzer.process_match_data(
         match_data, team1_info, team2_info
     )
 
-    print("\n--- Saving Results ---")
-    try:
-        with pd.ExcelWriter(output_path) as writer:
-            updates_df.to_excel(writer, sheet_name="Match_Updates", index=False)
-        print(f"Results saved to {output_path}")
-    except Exception as e:
-        print(f"Error saving results to Excel file: {e}")
+    save_results_as_markdown(updates_df, output_path, team1_info['name'], team2_info['name'])
 
     print("\nAnalysis complete.")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run IPL Match Analysis (v9 - Full API).")
     parser.add_argument("input_path", type=str, help="Path to the input JSON chunk file.")
-    parser.add_argument("output_path", type=str, help="Path to save the output analysis Excel file.")
+    parser.add_argument("output_path", type=str, help="Path to save the output analysis Markdown file.")
     args = parser.parse_args()
     main(args.input_path, args.output_path)

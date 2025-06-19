@@ -1,4 +1,14 @@
 {
+  "match_info": {
+    "team1": {
+      "name": "Sunrisers Hyderabad",
+      "xi": []
+    },
+    "team2": {
+      "name": "Rajasthan Royals",
+      "xi": []
+    }
+  },
   "chunks": [
     {
       "name": "chunk_1",

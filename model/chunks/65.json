@@ -1,4 +1,14 @@
 {
+  "match_info": {
+    "team1": {
+      "name": "Rajasthan Royals",
+      "xi": []
+    },
+    "team2": {
+      "name": "Punjab Kings",
+      "xi": []
+    }
+  },
   "chunks": [
     {
       "name": "chunk_1",

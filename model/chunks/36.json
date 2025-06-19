@@ -1,4 +1,14 @@
 {
+  "match_info": {
+    "team1": {
+      "name": "Kolkata Knight Riders",
+      "xi": []
+    },
+    "team2": {
+      "name": "Royal Challengers Bengaluru",
+      "xi": []
+    }
+  },
   "chunks": [
     {
       "name": "chunk_1",

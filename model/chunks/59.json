@@ -1,4 +1,14 @@
 {
+  "match_info": {
+    "team1": {
+      "name": "Gujarat Titans",
+      "xi": []
+    },
+    "team2": {
+      "name": "Chennai Super Kings",
+      "xi": []
+    }
+  },
   "chunks": [
     {
       "name": "chunk_1",
