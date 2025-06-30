@@ -1,4 +1,4 @@
-# Sentiment Analysis on IPL Betting Odds
+# IPL Sentiment Trading Analysis
 
 ## Introduction
 
@@ -31,6 +31,6 @@ I would like to thank [The Odds API](https://the-odds-api.com/) for providing hi
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/dar7an/ipl-sentiment-betting.git
-cd ipl-sentiment-betting
+git clone https://github.com/dar7an/ipl-sentiment-trader.git
+cd ipl-sentiment-trader
 pip install -r requirements.txt

@@ -37,8 +37,8 @@ def extract_odds(directory, output_directory):
                     json.dump(all_entries, output_file, indent=4)
 
 if __name__ == "__main__":
-    directory = "/Users/darshan/Documents/GitHub/ipl-sentiment-betting/the_odds_api/2024"
-    output_directory = "/Users/darshan/Documents/GitHub/ipl-sentiment-betting/the_odds_api/2024_trimmed"
+    directory = "/Users/darshan/Documents/GitHub/ipl-sentiment-trader/the_odds_api/2024"
+output_directory = "/Users/darshan/Documents/GitHub/ipl-sentiment-trader/the_odds_api/2024_trimmed"
     extract_odds(directory, output_directory)
     
 # Warning: No bookmakers data found for timestamp 2024-03-29T16:00:00Z in file 10.json

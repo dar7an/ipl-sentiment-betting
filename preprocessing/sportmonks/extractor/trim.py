@@ -66,10 +66,10 @@ def process_match_data(input_path: str, output_path: str) -> None:
 def main():
     """Main function to process all JSON files."""
     input_folder = (
-        "/Users/darshan/Documents/GitHub/ipl-sentiment-betting/sportmonks/2024/"
+        "/Users/darshan/Documents/GitHub/ipl-sentiment-trader/sportmonks/2024/"
     )
     output_folder = (
-        "/Users/darshan/Documents/GitHub/ipl-sentiment-betting/sportmonks/trimmed/"
+        "/Users/darshan/Documents/GitHub/ipl-sentiment-trader/sportmonks/trimmed/"
     )
 
     # Create output directory if it doesn't exist
